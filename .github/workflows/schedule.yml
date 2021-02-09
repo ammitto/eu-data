@@ -34,7 +34,7 @@ jobs:
         shell: bash
         run: |
           DIR_ARR=(${GITHUB_WORKSPACE//\// })
-          unset ${DIR_ARR[-1]}
+          unset 'DIR_ARR[-1]'
           DIR_BASE=$(printf "/%s" "${DIR_ARR[@]}")
           mv adapters $DIR_BASE
           cd $DIR_BASE/adapters && ruby adapter.rb
