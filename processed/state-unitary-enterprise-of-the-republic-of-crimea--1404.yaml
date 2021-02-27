@@ -1,10 +1,10 @@
 ---
 names:
 - State Unitary Enterprise of the ‘Republic of Crimea’ ‘Universal-Avia’
-- State enterprise 'Universal-Avia'
-- Государственное предприятие ‘Универсал-Авиа’
-- Gosudarstvenoye predpriyatiye ‘Universal-Avia’
 - Государственное унитарное предприятие Республики Крым ‘Универсал-Авиа’
+- State enterprise 'Universal-Avia'
+- Gosudarstvenoye predpriyatiye ‘Universal-Avia’
+- Государственное предприятие ‘Универсал-Авиа’
 source: eu-data
 entity_type: organization
 country: ''
@@ -12,10 +12,10 @@ birthdate: ''
 ref_number: EU.4038.15
 ref_type: EU Reference Number
 remark: 
-contact: 'PHONE:  24-80-89, 8 (978)  719-55-30, EMAIL: unavia_omts@mail.ru'
+contact: ''
 address:
-- street: Aeroflotskaya street 5
-  city: Simferopol
+- street: ул. Аэрофлотская, дом 5
+  city: г. Симферополь
   state: ''
   country: UNKNOWN
   zip: '295021'
