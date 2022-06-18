@@ -1,8 +1,8 @@
 ---
 names:
-- АО «ВАД»
 - AKTSIONERNOE OBSHCHESTVO VAD
 - CJSC VAD
+- АО «ВАД»
 source: eu-data
 entity_type: organization
 country: ''
@@ -10,10 +10,10 @@ birthdate: ''
 ref_number: EU.4668.92
 ref_type: EU Reference Number
 remark: 
-contact: 'WEB: www.zaovad.com, EMAIL: office@zaovad.com'
+contact: ''
 address:
-- street: 133 Chernyshevskogo street
-  city: Vologda
-  state: Vologodskaya Oblast
+- street: 122, Grazhdanskiy Prospect
+  city: St. Petersburg
+  state: ''
   country: RUSSIAN FEDERATION
-  zip: PO Box 160019
+  zip: PO Box 195267

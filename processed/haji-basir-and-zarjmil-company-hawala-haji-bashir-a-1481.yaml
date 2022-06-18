@@ -5,9 +5,9 @@ names:
 - Haji Abdul Basir and Zar Jameel Hawala
 - Haji Basir Hawala
 - Haji Baseer Hawala
-- Haji Abdul Basir Exchange Shop
-- Haji Basir and Zarjamil Currency Exchange
 - Haji Zar Jamil, Haji Abdul Baseer Money Changer
+- Haji Basir and Zarjamil Currency Exchange
+- Haji Abdul Basir Exchange Shop
 source: eu-data
 entity_type: organization
 country: ''
@@ -17,9 +17,8 @@ ref_type: EU Reference Number
 remark: 
 contact: ''
 address:
-- street: Branch Office 1 Sanatan (variant Sanatin) Bazaar, Sanatan Bazaar Street,
-    near Trench (variant Tranch) Road
-  city: Chaman
-  state: Baluchistan Province
-  country: PAKISTAN
+- street: ''
+  city: ''
+  state: Helmand Province
+  country: AFGHANISTAN
   zip: ''
