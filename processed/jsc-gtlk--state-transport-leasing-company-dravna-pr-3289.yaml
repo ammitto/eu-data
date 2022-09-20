@@ -2,9 +2,9 @@
 names:
 - JSC GTLK  State Transport Leasing Company
 - državna prevozna lizinška  družba
+- JSC GTLK Valsts transporta nomas  uzņēmums
 - Štátna dopravná nájomná  spoločnosť
 - Państwowa  Transportowa Spółka  Leasingowa
-- JSC GTLK Valsts transporta nomas  uzņēmums
 source: eu-data
 entity_type: organization
 country: ''
@@ -12,10 +12,10 @@ birthdate: ''
 ref_number: EU.8050.29
 ref_type: EU Reference Number
 remark: 
-contact: 'PHONE: (495) 221-00-12 8-800-200-12-99, EMAIL: gtlk@gtlk.ru'
+contact: 'PHONE: (495) 221-00-12 8-800-200-12-99, EMAIL: gtlk@gtlk.ru '
 address:
-- street: '31a Leningradsky Avenue, bldg. #1'
-  city: Moscow
+- street: 73 Respublika St., Suite 100
+  city: Salekhard, Yamalo-Nenets Autonomous Area
   state: ''
   country: RUSSIAN FEDERATION
-  zip: '125284'
+  zip: 62900B
