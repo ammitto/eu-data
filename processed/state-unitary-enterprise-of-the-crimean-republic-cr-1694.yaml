@@ -1,10 +1,10 @@
 ---
 names:
 - "‘State Unitary Enterprise of the Crimean Republic “Crimean Sea Ports”’"
-- "‘Государственное унитарное предприятие Республики Крым “Крымские морские порты”’"
 - Feodosia Commercial Port
-- Kerch Commercial Port
+- "‘Государственное унитарное предприятие Республики Крым “Крымские морские порты”’"
 - Kerch Ferry
+- Kerch Commercial Port
 source: eu-data
 entity_type: organization
 country: ''
@@ -12,10 +12,10 @@ birthdate: ''
 ref_number: EU.4171.35
 ref_type: EU Reference Number
 remark: 
-contact: ''
+contact: 'WEB: https://crimeaports.ru, EMAIL: info@crimeaport.ru'
 address:
-- street: гор. Керчь, ул. Кирова, дом 28
-  city: ''
-  state: Крым
+- street: 28 Kirova Street
+  city: Kerch
+  state: Crimea
   country: UNKNOWN
   zip: '298312'
