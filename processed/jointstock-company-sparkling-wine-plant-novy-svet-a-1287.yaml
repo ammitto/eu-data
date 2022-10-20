@@ -2,6 +2,8 @@
 names:
 - Joint-stock company 'Sparkling wine plant "Novy Svet"'
 - Aкционерное общество ‘Завод шампанских вин “Новый Свет”’
+- "“Krimas Republikas” valsts unitārs uzņēmums “Sparkling wine plant “Novy Svet””"
+- Societatea pe acțiuni «Fabrica de vin spumos „Novy Svet”»
 - Gosudarstvennoye unitarnoye predpriyatiye Respubliki Krym ‘Zavod shampanskykh vin
   “Novy Svet”’ and as State enterprise sparkling wine plant ‘Novy Svet’
 - State unitary enterprise of the 'Republic of Crimea' 'Sparkling wine plant "Novy
@@ -34,6 +36,10 @@ names:
 - Intrapriża statali unitarja tar-“Repubblika tal-Krimea” l-“Impjant tal-inbid effervexxenti
   ‘Novy Svet’”
 - Kumpannija b’ishma konġunti “Impjant tal-inbid effervexxenti ‘Novy Svet’”
+- "„Novij Szvet” Pezsgőgyár, a „Krími Köztársaság” állami egységes vállalata"
+- "„Novij Szvet” Pezsgőgyár részvénytársaság"
+- "„Krymo Respublikos“ valstybės unitarinė įmonė „Putojančio vyno gamykla „Novy Svet““"
+- Akcinė bendrovė „Putojančio vyno gamykla „Novy Svet““
 - empresa unitária estatal da «República da Crimeia», Caves de vinhos espumantes «Novy
   Svet»
 - Sociedade por ações Caves de vinhos espumantes «Novy Svet»
@@ -52,12 +58,6 @@ names:
 - Akciová spoločnosť – „Závod šumivého vína ‚Novy Svet‘“
 - întreprindere unitară de stat a „Republicii Crimeea» purtând denumirea «Fabrica
   de vin spumos „Novy Svet”»
-- Societatea pe acțiuni «Fabrica de vin spumos „Novy Svet”»
-- "„Novij Szvet” Pezsgőgyár, a „Krími Köztársaság” állami egységes vállalata"
-- "„Novij Szvet” Pezsgőgyár részvénytársaság"
-- "„Krymo Respublikos“ valstybės unitarinė įmonė „Putojančio vyno gamykla „Novy Svet““"
-- Akcinė bendrovė „Putojančio vyno gamykla „Novy Svet““
-- "“Krimas Republikas” valsts unitārs uzņēmums “Sparkling wine plant “Novy Svet””"
 source: eu-data
 entity_type: organization
 country: ''
@@ -65,10 +65,11 @@ birthdate: ''
 ref_number: EU.4051.68
 ref_type: EU Reference Number
 remark: 
-contact: ''
+contact: 'WEB: https://nsvet-crimea.ru/, PHONE: +7-(365) 663-35-00; +7-(365) 663-35-22;
+  +7-978-914- 00-10'
 address:
-- street: ул. Шаляпина, д. 1
-  city: г. Судак, пгт. Новый Свет
-  state: ''
+- street: str. Shalapina 1
+  city: Sudak, Novy Svet
+  state: Crimea
   country: UNKNOWN
   zip: '298032'
