@@ -9,7 +9,6 @@ names:
 - forces spéciales provinciales
 - forces spéciales des gardiens du Guide suprême
 - Forces spéciales antiterroristes  de l’Iran
-- Forces spéciales de la police iranienne
 - Special Counter-Terrorism Force
 - Provincial Special Forces
 - Supreme Leader's Guardian Special Forces
@@ -32,6 +31,10 @@ names:
 - Irānas īpašie policijas spēki
 - iranske  posebne policijske sile
 - Forța specială antiteroristă
+- ειδική δύναμη για την καταπολέμηση της τρομοκρατίας
+- επαρχιακές ειδικές  δυνάμεις
+- ειδικές  δυνάμεις φρούρησης του ανώτατου ηγέτη
+- ειδικές  αντιτρομοκρατικές δυνάμεις του Ιράν
 - Specjalny Oddział  Antyterrorystyczny
 - Specjalne  Siły w prowincjach
 - iranska  polisens specialstyrkor
@@ -43,9 +46,9 @@ names:
 - Fuerzas Especiales  de Guardia del Líder Supremo
 - Fuerzas  Especiales Antiterroristas de Irán
 - Fuerzas Especiales de la Policía iraní
-- ειδικές  αστυνομικές δυνάμεις του Ιράν
-- ειδική δύναμη για την καταπολέμηση της τρομοκρατίας
-- επαρχιακές ειδικές  δυνάμεις
+- antiterrorspecialstyrken
+- provinsspecialstyrkerne
+- den øverste leders specialstyrker
 - Irans antiterrorspecialstyrker
 - De iranske specialpolitistyrker
 - terrorismivastased erijõud
@@ -53,9 +56,6 @@ names:
 - Iraani kõrgeima juhi erivalvejõud
 - Iraani terrorismivastased erijõud
 - Iraani politsei erijõud
-- antiterrorspecialstyrken
-- provinsspecialstyrkerne
-- den øverste leders specialstyrker
 - Iránske špeciálne policajné sily
 - Špeciálne  protiteroristické sily
 - Provinčné špeciálne sily
@@ -66,6 +66,7 @@ names:
 - Specijalne snage  za zaštitu vrhovnog vođe
 - Specijalne  protuterorističke snage Irana
 - Specijalne  policijske snage Irana
+- Forces spéciales de la police iranienne
 - Különleges Terrorizmusellenes Erők
 - Vidéki Különleges Erők
 - Legfelsőbb Vezetői  Különleges Védelmi erők
@@ -78,8 +79,7 @@ names:
 - Forze speciali di polizia iraniane
 - Fórsaí Speisialta  Frithsceimhlitheoireachta na hIaráine;
 - Iraanse speciale politie-eenheden
-- ειδικές  δυνάμεις φρούρησης του ανώτατου ηγέτη
-- ειδικές  αντιτρομοκρατικές δυνάμεις του Ιράν
+- ειδικές  αστυνομικές δυνάμεις του Ιράν
 source: eu-data
 entity_type: organization
 country: ''
