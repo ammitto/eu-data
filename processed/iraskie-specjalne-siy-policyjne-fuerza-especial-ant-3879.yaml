@@ -38,11 +38,12 @@ names:
 - Specjalne  Siły w prowincjach
 - Specjalne Oddziały  Straży Najwyższego Przywódcy
 - Irańskie Specjalne Siły  Antyterrorystyczne
-- Aukščiausiojo  vadovo apsaugos specialiosios pajėgos
 - Irano kovos su  terorizmu specialiosios pajėgos
 - Irano specialiosios policijos pajėgos
 - Irānas īpašie policijas spēki
 - Specialiosios kovos su  terorizmu pajėgos
+- Provincinės  specialiosios pajėgos
+- Aukščiausiojo  vadovo apsaugos specialiosios pajėgos
 - Sondereinsatzkräfte der Garde des Obersten Führers
 - Sondereinsatzkräfte Irans zur  Terrorismus–bekämpfung
 - Sondereinsatzkräfte der iranischen Polizei
@@ -52,10 +53,10 @@ names:
 - Provincial Special Forces
 - Supreme Leader's Guardian Special Forces
 - Niroo-ye Vizhe Pasdar-e Velayat
-- NOPO
-- نیروی ویژه پاد وحشت
-- Iranian Special Police Forces
 - Iran’s Counter-Terror Special Forces
+- NOPO
+- Iranian Special Police Forces
+- نیروی ویژه پاد وحشت
 - forces spéciales antiterroristes
 - forces spéciales provinciales
 - forces spéciales des gardiens du Guide suprême
@@ -79,7 +80,6 @@ names:
 - Forțele speciale de gardă ale liderului suprem
 - Forțele speciale antiteroriste ale Iranului
 - Forțele speciale de poliție iraniene
-- Provincinės  specialiosios pajėgos
 source: eu-data
 entity_type: organization
 country: ''
