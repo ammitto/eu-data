@@ -4,14 +4,14 @@ names:
 - Централна банка на Сирия
 - Zentralbank Syriens
 - Sirijos Centrinis Bankas
-- Szíriai Központi Bank
-- Centralny Bank Syrii
-- Središnja banka Sirije
-- Banca Centrală a Siriei
 - Banco Central da Síria
+- Centralny Bank Syrii
+- Szíriai Központi Bank
+- Središnja banka Sirije
 - Sýrska centrálna  banka
-- Syyrian keskuspankki
 - Syriens centralbank
+- Syyrian keskuspankki
+- Banca Centrală a Siriei
 source: eu-data
 entity_type: organization
 country: ''
@@ -19,10 +19,10 @@ birthdate: ''
 ref_number: EU.2672.17
 ref_type: EU Reference Number
 remark: 
-contact: 'WEB: https://www.cb.gov.sy, PHONE: +961 011 985, EMAIL: info@cb.gov.sy'
+contact: ''
 address:
-- street: Altjreda al Maghrebeh Square
+- street: Sabah Bahrat Square
   city: Damascus
   state: ''
   country: SYRIAN ARAB REPUBLIC
-  zip: PO Box P.O. Box 2254
+  zip: ''
