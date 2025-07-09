@@ -1,6 +1,5 @@
 ---
 names:
-- Η Βάση
 - Ал Кайда
 - базата
 - Фондация за спасение на исляма
@@ -13,6 +12,7 @@ names:
 - síť Usámy Bin Ládina
 - organizace Usámy Bin Ládina
 - Sieć Osamy Bin Lagena
+- Organizacja Osamy Bin Ladena
 - Al Qa’ida
 - Al Qa’ida/ Ислямска армия
 - Al Qa’ida / Islamska vojska
@@ -22,7 +22,6 @@ names:
 - Al Qaida/Exército islâmico
 - Αλ Κάιντα/Ισλαμικός στρατός
 - armée islamique
-- Organizacja Osamy Bin Ladena
 - Al Kaida
 - baza
 - Islamska rešilna fundacija
@@ -45,12 +44,7 @@ names:
 - Usamah bin Laden Organisation
 - Όµιλος για τη Διαφύλαξη των Αγίων Τόπων
 - la base
-- Fondation du salut islamique
-- Groupe pour la préservation des lieux saints
-- Armée islamique pour la libération des lieux saints
-- Front islamique mondial pour le Jihad contre les Juifs et les croisés
-- Réseau d'Oussama ben Laden
-- Organisation d'Oussama ben Laden
+- Η Βάση
 - Παγκόσµιο Ισλαµικό Μέτωπο για τον Ιερό Πόλεµο (Τζιχάντ) κατά των Εβραίων και Σταυροφόρων
 - Islamic Salvation Foundation
 - The Group for the Preservation of the Holy Sites
@@ -71,6 +65,12 @@ names:
 - Ισλαµικό Ίδρυµα Σωτηρίας
 - Ισλαµικός Στρατός για την Απελευθέρωση των Αγίων Τόπων
 - "∆ίκτυο του Οσάµα Μπιν Λάντεν"
+- Fondation du salut islamique
+- Groupe pour la préservation des lieux saints
+- Armée islamique pour la libération des lieux saints
+- Front islamique mondial pour le Jihad contre les Juifs et les croisés
+- Réseau d'Oussama ben Laden
+- Organisation d'Oussama ben Laden
 source: eu-data
 entity_type: organization
 country: ''

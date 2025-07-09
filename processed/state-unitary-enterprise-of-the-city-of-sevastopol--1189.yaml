@@ -2,12 +2,6 @@
 names:
 - State Unitary Enterprise of the City of Sevastopol, ‘Sevastopol seaport’
 - Gosudarstvenoye predpriyatiye Sevastopolski morskoy torgovy port
-- Întreprinderea unitară de stat a orașului Sevastopol, «Portul maritim Sevastopol»
-- Byen Sevastopols statsejede virksomhed "Sevastopol seaport"
-- Entreprise publique “Port maritime commercial de Sébastopol"
-- Entreprise unitaire d’État de la Ville de Sébastopol, “Port maritime de Sébastopol”
-- staatliches Unternehmen „Seehandelshafen Sewastopol“
-- Staatliches Einheitsunternehmen der Stadt Sewastopol „Seehafen Sewastopol“
 - državno poduzeće ‚Sevastopol commercial seaport’
 - državno podjetje ‚Sevastopolsko trgovsko morsko pristanišče‘
 - Državno unitarno podjetje mesta Sevastopol ‚Sevastopolsko morsko pristanišče‘
@@ -18,14 +12,6 @@ names:
 - "„Szevasztopoli Tengeri Kikötő”, Szevasztopol város szövetségi állami vállalata"
 - Държавно единно предприятие на град Севастопол, „Севастополско морско пристанище“
 - Državno unitarno poduzeće Grada Sevastopolja ‚Sevastopol seaport’
-- Štátny unitárny podnik mesta Sevastopol „Námorný prístav Sevastopol“
-- štátny podnik „Komerčný námorný prístav Sevastopol“
-- Statliga företaget ’Sevastopols kommersiella kusthamn’
-- Staden Sevastopols statliga enhetsföretag ’Sevastopols kusthamn’
-- State enterprise ‘Sevastopol commercial seaport’
-- Государственное предприятие ‘Севастопольский морской торговый порт’
-- întreprinderea de stat «Portul maritim comercial Sevastopol»
-- ГУП ГС ‘Севастопольский морской порт’
 - impresa statale "porto marittimo commerciale di Sebastopoli"
 - Impresa unitaria statale della città di Sebastopoli "porto marittimo di Sebastopoli"
 - przedsiębiorstwo państwowe »Morski port handlowy w Sewastopolu«
@@ -38,10 +24,24 @@ names:
 - Sevastopolin kaupungin omistama valtion unitaarinen yritys ”Sevastopolin merisatama”
 - valstybės įmonė "Sevastopol commercial seaport“
 - Sevastopolio miesto valstybės unitarinė įmonė „Sevastopol seaport“
+- Entreprise publique “Port maritime commercial de Sébastopol"
+- Entreprise unitaire d’État de la Ville de Sébastopol, “Port maritime de Sébastopol”
+- staatliches Unternehmen „Seehandelshafen Sewastopol“
+- Staatliches Einheitsunternehmen der Stadt Sewastopol „Seehafen Sewastopol“
 - fiontar Stáit ‘Sevastopol commercial seaport’
 - Empresa Unitária Estatal da cidade de Sebastopol, "Porto marítimo de Sebastopol"
 - Porto marítimo comercial de Sebastopol
 - statsejede virksomhed "Sevastopol commercial seaport"
+- Byen Sevastopols statsejede virksomhed "Sevastopol seaport"
+- Întreprinderea unitară de stat a orașului Sevastopol, «Portul maritim Sevastopol»
+- întreprinderea de stat «Portul maritim comercial Sevastopol»
+- Štátny unitárny podnik mesta Sevastopol „Námorný prístav Sevastopol“
+- štátny podnik „Komerčný námorný prístav Sevastopol“
+- Statliga företaget ’Sevastopols kommersiella kusthamn’
+- Staden Sevastopols statliga enhetsföretag ’Sevastopols kusthamn’
+- State enterprise ‘Sevastopol commercial seaport’
+- Государственное предприятие ‘Севастопольский морской торговый порт’
+- ГУП ГС ‘Севастопольский морской порт’
 source: eu-data
 entity_type: organization
 country: ''
@@ -51,8 +51,8 @@ ref_type: EU Reference Number
 remark:
 contact: 'WEB: https://www.sevmp.ru/, EMAIL: gupsmp@mail.ru'
 address:
-- street: пл. Нахимова, 5
-  city: г. Севастополь
+- street: Nakhimov Square 5
+  city: Sevastopol
   state: ''
   country: UKRAINE
   zip: '299011'
