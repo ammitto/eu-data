@@ -5,7 +5,6 @@ names:
 - Bureau 39
 - Central Committee Bureau 39
 - Division 39
-- Byrå 39
 - Biuro 39
 - kancelář  39
 - Kancelária  39
@@ -25,6 +24,7 @@ names:
 - Gabinete  39
 - Third Floor
 - Office No. 39
+- Byrå 39
 source: eu-data
 entity_type: organization
 country: ''
@@ -34,7 +34,7 @@ ref_type: EU Reference Number
 remark:
 contact: ''
 address:
-- street: Changwang Street
+- street: Chung-Guyok (Central District), Sosong Street, Kyongrim-Dong
   city: Pyongyang
   state: ''
   country: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
