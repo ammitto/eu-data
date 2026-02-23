@@ -109,6 +109,60 @@ Person:: Individual persons subject to sanctions
 Organization:: Legal entities, companies, and organizations
 Vessel:: Ships and maritime vessels subject to sanctions
 
+== Harmonized Ontology Mapping
+
+The EU source data is transformed to the Ammitto harmonized ontology.
+See `lib/ammitto/ontology/` in the ammitto gem for the full model.
+
+=== Raw Source Model to Harmonized Ontology
+
+[cols="1,2,1"]
+|===
+| Raw Field | Harmonized Field | Class
+
+| eu_reference_number | id (URI) | Entity
+| subject_type.code | entity_type | Entity
+| name_aliases | names | NameVariant[]
+| addresses | addresses | Address[]
+| birthdates | birth_info | BirthInfo[]
+| citizenships | nationalities | String[]
+| identifications | identifications | Identification[]
+| regulations | legal_bases | LegalInstrument[]
+| programme | regime.code | SanctionRegime
+| remark | remarks | String
+|===
+
+=== Entity Type Mapping
+
+[cols="1,1"]
+|===
+| EU Subject Type | Harmonized Entity Type
+
+| person | PersonEntity
+| enterprise | OrganizationEntity
+| entity | OrganizationEntity
+|===
+
+=== Example Harmonized Output
+
+[source,json]
+----
+{
+  "id": "https://www.ammitto.org/entity/eu/EU.123.45",
+  "entity_type": "person",
+  "names": [
+    {"full_name": "Ivan Ivanov", "first_name": "Ivan", "last_name": "Ivanov", "is_primary": true}
+  ],
+  "birth_info": [
+    {"date": "1970-01-15", "city": "Moscow", "country": "Russia"}
+  ],
+  "nationalities": ["RU"],
+  "identifications": [
+    {"type": "passport", "number": "12345678", "issuing_country": "RU"}
+  ]
+}
+----
+
 == Related Repositories
 
 * https://github.com/ammitto/ammitto[ammitto] - Main Ruby gem
