@@ -1,0 +1,124 @@
+= Ammitto EU Sanctions Data Repository
+
+== Purpose
+
+This repository stores downloaded and processed sanctions data from the
+European Union (EU) Consolidated List of Sanctions.
+
+The data is maintained by the Ammitto project and used by the `ammitto` Ruby
+gem for querying international sanctions information.
+
+== Legal Basis
+
+The EU sanctions are implemented through Common Foreign and Security Policy
+(CFSP) regulations. Key legal instruments include:
+
+* Council Regulations based on Article 215 of the Treaty on the Functioning
+  of the European Union (TFEU)
+* Council Decisions adopted under Article 29 of the Treaty on European Union
+* Council Common Positions adopted under Title V of the Treaty on European
+  Union
+
+The consolidated list is maintained by the European Commission's Service for
+Foreign Policy Instruments (FPI).
+
+== Data Source
+
+* **Authority**: European Commission - Service for Foreign Policy Instruments
+* **API Endpoint**: https://webgate.ec.europa.eu/fsd/fsf/public/files/xmlFullSanctionsList/content
+* **Format**: XML
+* **Update Frequency**: As changes occur in EU sanctions regimes
+* **Official Source**: https://finance.ec.europa.eu/sanctions-dossier_en
+
+== Directory Structure
+
+```
+.
+├── downloaded/           # Raw data downloaded from EU API
+│   └── eu_sanctions_list.xml
+├── processed/            # Individual YAML files per sanction entity
+│   └── {name}-{index}.yaml
+├── reference-docs/       # Reference documentation
+├── README.adoc           # This file
+├── CLAUDE.md             # Guidance for Claude Code
+└── update.log            # Timestamps of data updates
+```
+
+== Directory Descriptions
+
+downloaded/:: Contains raw XML data files as downloaded from the EU API.
+The primary file is `eu_sanctions_list.xml` which contains the complete
+consolidated list.
+
+processed/:: Contains individual YAML files, one per sanction entity.
+Files are named using the pattern `{primary-name}-{index}.yaml` where
+index ensures uniqueness for entities with similar names.
+
+reference-docs/:: Contains reference documentation about the EU sanctions
+schema and data formats.
+
+update.log:: Log file tracking when data was last updated with timestamps.
+
+== Updating Data
+
+Data can be updated using the ammitto gem:
+
+[source,shell]
+----
+# From the ammitto gem directory
+bundle exec ruby exe/ammitto fetch eu --format yaml --output-dir ./processed
+----
+
+Or via the adapters repository:
+
+[source,shell]
+----
+# From the adapters/ directory
+ruby adapter.rb
+----
+
+== YAML Schema
+
+Each processed YAML file follows the schema defined in
+`ammitto/lib/ammitto/sources/eu/` using Lutaml::Model.
+
+.Example YAML structure
+[source,yaml]
+----
+names:
+  - "PRIMARY NAME"
+  - "ALIAS 1"
+entity_type: person  # or "organization", "vessel"
+source: eu
+country: Country Name
+birthdate: "YYYY-MM-DD"
+identifications:
+  - type: "Passport"
+    number: "XXX123456"
+addresses:
+  - street: "Street Address"
+    city: "City"
+    country: "Country"
+----
+
+== Entity Types
+
+The EU sanctions list contains the following entity types:
+
+Person:: Individual persons subject to sanctions
+Organization:: Legal entities, companies, and organizations
+Vessel:: Ships and maritime vessels subject to sanctions
+
+== Related Repositories
+
+* https://github.com/ammitto/ammitto[ammitto] - Main Ruby gem
+* https://github.com/ammitto/adapters[adapters] - Data fetching adapters
+* https://github.com/ammitto/data-un[data-un] - UN sanctions data
+* https://github.com/ammitto/data-us[data-us] - US OFAC sanctions data
+* https://github.com/ammitto/data-wb[data-wb] - World Bank sanctions data
+
+== License
+
+Data in this repository is sourced from official EU publications and is
+subject to EU copyright and licensing terms. The data processing code is
+part of the Ammitto project.
