@@ -1,0 +1,20 @@
+@prefix ammitto: <https://www.ammitto.org/ontology/> .
+@prefix entity: <https://www.ammitto.org/entity/> .
+@prefix entry: <https://www.ammitto.org/entry/> .
+@prefix instrument: <https://www.ammitto.org/instrument/> .
+@prefix regime: <https://www.ammitto.org/regime/> .
+@prefix authority: <https://www.ammitto.org/authority/> .
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<https://www.ammitto.org/authority/eu>
+  a ammitto:Authority ;\n  schema:name "European Union" ;\n  ammitto:countryCode "EU" .
+<https://www.ammitto.org/regime/unknown>
+  a ammitto:SanctionRegime ;\n  schema:name "Unknown" ;\n  ammitto:code "UNKNOWN" .
+<https://www.ammitto.org/entity/eu/unknown>
+  ammitto:entity_type "organization" .
+<https://www.ammitto.org/entry/eu/consolidated-list/unknown>
+  ammitto:entity_id <https://www.ammitto.org/entity/eu/unknown> ;\n  ammitto:hasAuthority <https://www.ammitto.org/authority/eu> ;\n  ammitto:hasRegime <https://www.ammitto.org/regime/unknown> ;\n  ammitto:hasEffect """{"effect_type":"asset_freeze","scope":"full"}""" ;\n  ammitto:hasPeriod """{"is_indefinite":true}""" ;\n  ammitto:status "active" ;\n  ammitto:raw_source_data """{"source_format":"xml","source_specific_fields":{"eu:subjectTypeCode":"enterprise"}}""" .

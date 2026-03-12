@@ -77,6 +77,182 @@ Or via the adapters repository:
 ruby adapter.rb
 ----
 
+== Source Data Format
+
+The processed YAML files in `processed/` follow this structure:
+
+=== Person Entity
+[source,yaml]
+----
+eu_reference_number: EU.1001.60
+entity_type: person
+subject_type:
+  code: person
+  classification_code: P
+name_aliases:
+- first_name: Yassin
+  last_name: Syawal
+  whole_name: Yassin Syawal
+  gender: M
+  strong: true
+- whole_name: Salim Yasin
+  strong: true
+birthdates:
+- birthdate: "1985-01-01"
+  city: City
+  country: Country
+citizenships:
+- country: Afghanistan
+identifications:
+- type: Passport
+  number: "123456"
+  country: Afghanistan
+regulations:
+- regulation_type: amendment
+  organisation_type: commission
+  publication_date: '2019-04-08'
+  number_title: 2019/555 (OJ L97)
+  programme: TAQA
+----
+
+=== Organization Entity
+[source,yaml]
+----
+eu_reference_number: EU.1002.30
+entity_type: organization
+subject_type:
+  code: enterprise
+  classification_code: E
+name_aliases:
+- whole_name: EXAMPLE COMPANY LTD
+  strong: true
+addresses:
+- city: City
+  country: Country
+regulations:
+- regulation_type: amendment
+  number_title: 2022/123 (OJ L45)
+  programme: RUS
+----
+
+=== Field Definitions
+
+[cols="1,4"]
+|===
+| Field | Description
+
+| `eu_reference_number`
+| Unique EU identifier (e.g., EU.1001.60)
+
+| `entity_type`
+| Entity type: person, organization, or vessel
+
+| `subject_type.code`
+| EU subject type classification
+
+| `name_aliases`
+| Array of name variants with whole_name, first_name, last_name
+
+| `birthdates`
+| Array of birth information for persons
+
+| `citizenships`
+| Array of citizenship countries
+
+| `identifications`
+| Array of identification documents
+
+| `addresses`
+| Array of address information
+
+| `regulations`
+| Array of legal instruments/regulations
+
+| `programme`
+| Sanctions programme/regime code
+
+|===
+
+== Harmonized Data Format
+
+After harmonization, entities are transformed into JSON-LD format:
+
+=== Entity (JSON-LD)
+[source,json]
+----
+{
+  "@context": "https://www.ammitto.org/schema/v1/context.jsonld",
+  "@id": "https://www.ammitto.org/entity/eu/EU.1001.60",
+  "@type": "PersonEntity",
+  "names": [
+    {
+      "@type": "NameVariant",
+      "fullName": "Yassin Syawal",
+      "script": "Latn",
+      "isPrimary": true
+    }
+  ],
+  "birthInfo": [
+    {
+      "@type": "BirthInfo",
+      "date": "1985-01-01"
+    }
+  ],
+  "nationalities": ["Afghanistan"],
+  "sanctionEntries": [
+    {
+      "@id": "https://www.ammitto.org/entry/eu/EU.1001.60",
+      "@type": "SanctionEntry",
+      "authority": {
+        "@id": "https://www.ammitto.org/authority/eu",
+        "name": "European Union"
+      },
+      "regime": {
+        "@type": "SanctionRegime",
+        "code": "TAQA",
+        "name": "Al-Qaida and Taliban"
+      },
+      "status": "active",
+      "legalInstruments": [
+        {
+          "@type": "LegalInstrument",
+          "name": "Regulation 2019/555"
+        }
+      ]
+    }
+  ]
+}
+----
+
+=== EU Programme Codes
+
+[cols="1,3"]
+|===
+| Code | Description
+
+| `TAQA`
+| Al-Qaida and Taliban
+
+| `RUS`
+| Russia
+
+| `DPRK`
+| North Korea
+
+| `IRN`
+| Iran
+
+| `SYR`
+| Syria
+
+| `LBY`
+| Libya
+
+| `SOM`
+| Somalia
+
+|===
+
 == YAML Schema
 
 Each processed YAML file follows the schema defined in
