@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Дзмітрый Валер'евіч ПАЎЛІЧЭНКА
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '9739'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 - whole_name: Dzmitryj Valerjevitj PAULITJENKA
   gender: M
   name_language: SV
@@ -25,12 +36,11 @@ name_aliases:
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Дзмітрый Валер'евіч ПАЎЛІЧЭНКА
+- whole_name: Dmitri Valerievich PAVLICHENKO
   gender: M
-  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '9739'
+  logical_id: '4773'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'
@@ -58,26 +68,6 @@ name_aliases:
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Dmitriy Valeriyevich PAVLICHENKO
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '102656'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Dmitri Valerievich PAVLICHENKO
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '4773'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 - whole_name: Dzmitry Valerievich PAULICHENKA
   function: Former Commander of the Special Rapid Response Unit (SOBR);  Commander
     of an OMON unit
@@ -90,6 +80,16 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Dmitriy Valeriyevich PAVLICHENKO
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '102656'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 birthdates:
 - circa: false
   calendar_type: GREGORIAN

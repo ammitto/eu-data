@@ -14,11 +14,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО  “ЦЫБУЛЬКА-БЕЛ”
-  name_language: RU
+- whole_name: Tsybulka Bel
+  function: Tsybulka-Bel LLC is a Belarussian Agro-company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174355'
+  logical_id: '174358'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Zybulka Bel
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174357'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -34,11 +45,11 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Zybulka Bel
-  name_language: EN
+- whole_name: ООО  “ЦЫБУЛЬКА-БЕЛ”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174357'
+  logical_id: '174355'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -64,12 +75,11 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Tsybulka Bel
-  function: Tsybulka-Bel LLC is a Belarussian Agro-company
-  name_language: EN
+- whole_name: La sociedad limitada Tsybulka-Bel
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '174358'
+  logical_id: '174352'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -80,16 +90,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174351'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: La sociedad limitada Tsybulka-Bel
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '174352'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

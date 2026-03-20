@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Евгений
-  middle_name: Владимирович
-  last_name: БОРИСОВ
-  whole_name: Евгений Владимирович БОРИСОВ
+- first_name: Jevgenij
+  middle_name: Vladimirovič
+  last_name: Borisov
+  whole_name: Jevgenij Vladimirovič Borisov
   gender: M
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '165750'
+  logical_id: '165933'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -42,15 +42,15 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Jevgenij
-  middle_name: Vladimirovič
-  last_name: Borisov
-  whole_name: Jevgenij Vladimirovič Borisov
+- first_name: Евгений
+  middle_name: Владимирович
+  last_name: БОРИСОВ
+  whole_name: Евгений Владимирович БОРИСОВ
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '165933'
+  logical_id: '165750'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

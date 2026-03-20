@@ -15,16 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Danial Adam
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105900'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-08-01'
-    number_title: 2015/1330 (OJ L206)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
 - first_name: Mohammed
   last_name: Al Ghabra
   whole_name: Mohammed Al Ghabra
@@ -45,6 +35,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '105901'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-08-01'
+    number_title: 2015/1330 (OJ L206)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:206:FULL&from=EN
+- whole_name: Danial Adam
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105900'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-01'

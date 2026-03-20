@@ -16,15 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mohammad Yahya Aziz
-  strong: true
-  regulation_language: en
-  logical_id: '7219'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-07-10'
-    number_title: 601/2009 (OJ L179)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:179:0054:0055:EN:PDF
 - first_name: Mohammed
   middle_name: Yahya
   last_name: Mujahid
@@ -32,6 +23,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7207'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-07-10'
+    number_title: 601/2009 (OJ L179)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:179:0054:0055:EN:PDF
+- whole_name: Mohammad Yahya Aziz
+  strong: true
+  regulation_language: en
+  logical_id: '7219'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-07-10'

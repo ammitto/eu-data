@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Aljaksej Bašan
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '173970'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Aliaksei  Uladzimiravich  BASHAN
   function: Deputy Chairman of the Central Election Commission
   gender: M
@@ -37,34 +48,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Аляксей Уладзіміравіч  БАШАН
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '173972'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Aljaksei Bašan
   gender: M
   name_language: FI
   strong: true
   regulation_language: en
   logical_id: '173993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Aljaksej Bašan
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '173970'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -86,6 +75,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173971'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Аляксей Уладзіміравіч  БАШАН
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '173972'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

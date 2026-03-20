@@ -30,20 +30,6 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Ivan
-  middle_name: Vasiljevitj
-  last_name: SPIRIDONOV
-  whole_name: Ivan Vasiljevitj SPIRIDONOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '145979'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Ivan
   middle_name: Vladimirovitj
   last_name: OSIPOV
   whole_name: Ivan Vladimirovitj OSIPOV
@@ -58,13 +44,14 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Ivan
-  middle_name: Vasilyevich
+  middle_name: Vasiljevitj
   last_name: SPIRIDONOV
-  whole_name: Ivan Vasilyevich SPIRIDONOV
+  whole_name: Ivan Vasiljevitj SPIRIDONOV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '145378'
+  logical_id: '145979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -79,6 +66,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145379'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Ivan
+  middle_name: Vasilyevich
+  last_name: SPIRIDONOV
+  whole_name: Ivan Vasilyevich SPIRIDONOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145378'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

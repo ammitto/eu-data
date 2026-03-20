@@ -5,12 +5,12 @@ designation_details: UN designation 24/03/2007 (no longer valid)
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2023-10-17'
-  entry_into_force_date: '2023-10-18'
-  number_title: 2023/2196 (OJ L17102023)
+  publication_date: '2025-09-29'
+  entry_into_force_date: '2025-09-29'
+  number_title: 2025/1982 (OJ L202501982)
   programme: IRN
-  logical_id: '184760'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+  logical_id: '217748'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 subject_type:
   code: person
   classification_code: P
@@ -18,9 +18,8 @@ name_aliases:
 - first_name: Ali Akbar
   last_name: AHMADIAN
   whole_name: Ali Akbar AHMADIAN
-  function: "Secretary of the Supreme National Security Council (SNSC);\nformer chief
-    of Iranian Revolutionary Guard Corps (IRGC) Joint Staff; \nformer head of the
-    IRGC’s Strategic Planning Division"
+  function: 'Position changed Vice Admiral. Function: Chief of Iranian Revolutionary
+    Guard Corps (IRGC) Joint Staff'
   gender: M
   title: Vice Admiral
   name_language: EN
@@ -29,9 +28,9 @@ name_aliases:
   logical_id: '5153'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: علی اکبر احمدیان
   gender: M
   name_language: FA
@@ -43,6 +42,17 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Ali Akbar Ahmedian
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181780'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

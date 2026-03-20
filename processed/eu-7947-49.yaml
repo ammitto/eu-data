@@ -15,6 +15,20 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Kirill
+  middle_name: Borisovitj
+  last_name: MAKAROV
+  whole_name: Kirill Borisovitj MAKAROV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139437'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Kirill
   middle_name: Borisovich
   last_name: MAKAROV
   whole_name: Kirill Borisovich MAKAROV
@@ -40,20 +54,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138482'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Kirill
-  middle_name: Borisovitj
-  last_name: MAKAROV
-  whole_name: Kirill Borisovitj MAKAROV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139437'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

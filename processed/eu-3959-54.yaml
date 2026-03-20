@@ -14,54 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Prizrak brigade
-  strong: true
-  regulation_language: en
-  logical_id: '18565'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Бригада “Призрак”
-  strong: true
-  regulation_language: en
-  logical_id: '18566'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Ταξιαρχία “Prizrak”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '128622'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Prizraki brigaad
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '128623'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Prizrak-Brigade
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '128624'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: Prizrakbrigaden
   name_language: DA
   strong: true
@@ -72,11 +24,11 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Brigáda „Prizrak“
-  name_language: CS
+- whole_name: Prizrak-Brigade
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '128626'
+  logical_id: '128624'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
@@ -227,6 +179,54 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128641'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Brigáda „Prizrak“
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '128626'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Prizrak brigade
+  strong: true
+  regulation_language: en
+  logical_id: '18565'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Бригада “Призрак”
+  strong: true
+  regulation_language: en
+  logical_id: '18566'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Ταξιαρχία “Prizrak”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '128622'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Prizraki brigaad
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '128623'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'

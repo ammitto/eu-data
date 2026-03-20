@@ -16,20 +16,6 @@ subject_type:
 name_aliases:
 - first_name: Alexis
   middle_name: José
-  last_name: RODRÍGUEZ CABELLÓT
-  whole_name: Alexis José RODRÍGUEZ CABELLÓT
-  gender: M
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '172438'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-10'
-    number_title: 2025/44 (OJ L10012025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
-- first_name: Alexis
-  middle_name: José
   last_name: RODRÍGUEZ  CABELLO
   whole_name: Alexis José RODRÍGUEZ  CABELLO
   function: Director, Bolivarian National Intelligence Service (SEBIN)
@@ -38,6 +24,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172439'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-10'
+    number_title: 2025/44 (OJ L10012025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
+- first_name: Alexis
+  middle_name: José
+  last_name: RODRÍGUEZ CABELLÓT
+  whole_name: Alexis José RODRÍGUEZ CABELLÓT
+  gender: M
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '172438'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-10'

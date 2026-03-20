@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Прайм Шиппинг
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171762'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: ООО “Прайм Шиппинг”
   name_language: RU
   strong: true
@@ -34,21 +24,11 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Praim Shipping
-  name_language: EN
+- whole_name: Прайм Шиппинг
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '171764'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Prime Shipping
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171765'
+  logical_id: '171762'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -59,6 +39,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171766'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Societatea cu răspundere limitată Prime Shipping
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '171967'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Praim Shipping
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171764'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -76,21 +76,21 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Prajm Sipping Korlátolt Felelősségű Társaság
-  name_language: HU
+- whole_name: Prime Shipping
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '171959'
+  logical_id: '171765'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Societatea cu răspundere limitată Prime Shipping
-  name_language: RO
+- whole_name: Prajm Sipping Korlátolt Felelősségű Társaság
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '171967'
+  logical_id: '171959'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

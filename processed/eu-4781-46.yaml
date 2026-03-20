@@ -14,36 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: طه إبراهيم عبد الله بكر ال خويت
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '141007'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/873 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
-- first_name: Taha
-  last_name: al-Khuwayt
-  whole_name: Taha al-Khuwayt
-  strong: true
-  regulation_language: en
-  logical_id: '118548'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/873 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
-- whole_name: Hajji Abd al-Nasr
-  strong: true
-  regulation_language: en
-  logical_id: '118549'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/873 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
 - first_name: Hajji
   last_name: Abdelnasser
   whole_name: Hajji Abdelnasser
@@ -55,10 +25,38 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/873 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
+- whole_name: Mullah Khuwayt
+  strong: true
+  regulation_language: en
+  logical_id: '141004'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/873 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
 - whole_name: Mullah Taha
   strong: true
   regulation_language: en
   logical_id: '141005'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/873 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
+- whole_name: Hajji ‘Abd Al-Nasir
+  strong: true
+  regulation_language: en
+  logical_id: '141006'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/873 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
+- whole_name: طه إبراهيم عبد الله بكر ال خويت
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '141007'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -75,19 +73,21 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/873 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
-- whole_name: Hajji ‘Abd Al-Nasir
+- whole_name: Hajji Abd al-Nasr
   strong: true
   regulation_language: en
-  logical_id: '141006'
+  logical_id: '118549'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
     number_title: 2022/873 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
-- whole_name: Mullah Khuwayt
+- first_name: Taha
+  last_name: al-Khuwayt
+  whole_name: Taha al-Khuwayt
   strong: true
   regulation_language: en
-  logical_id: '141004'
+  logical_id: '118548'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

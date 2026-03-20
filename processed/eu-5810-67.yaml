@@ -14,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Андрэй Анатольевіч ГУРЖЫ
+- whole_name: Andrei Anatolievich GURZHY
+  function: Member   of   the   Central   Electoral Commission (CEC)
   gender: M
-  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '125529'
+  logical_id: '125530'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-02'
@@ -36,12 +36,11 @@ name_aliases:
     publication_date: '2020-10-02'
     number_title: 2020/1387 (OJ L319I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
-- whole_name: Andrei Anatolievich GURZHY
-  function: Member   of   the   Central   Electoral Commission (CEC)
+- whole_name: Andrey Anatolievich GURZHIY
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '125530'
+  logical_id: '125531'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-02'
@@ -69,11 +68,12 @@ name_aliases:
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Andrey Anatolievich GURZHIY
+- whole_name: Андрэй Анатольевіч ГУРЖЫ
   gender: M
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '125531'
+  logical_id: '125529'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-02'

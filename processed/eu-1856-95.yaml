@@ -15,32 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- first_name: صنایع شهید ستاری
-  whole_name: صنایع شهید ستاری
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '158929'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Mohemat Sazie Shahid Satary
+- whole_name: SSIG
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158930'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Sanaye Shahid Satari
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158931'
+  logical_id: '158932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -56,21 +35,42 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Shahid Sattari Industries Group
-  name_language: EN
+- first_name: صنایع شهید ستاری
+  whole_name: صنایع شهید ستاری
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '8020'
+  logical_id: '158929'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: SSIG
+- whole_name: Sanaye Shahid Satari
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158932'
+  logical_id: '158931'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Mohemat Sazie Shahid Satary
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158930'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Shahid Sattari Industries Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '8020'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

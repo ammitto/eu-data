@@ -14,6 +14,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Звезда
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179853'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Судостроительный  Комплекс - Звезда
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179854'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: ССК Звезда
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179852'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Shipbuilding Complex Zvezda  Korlátolt Felelősségű Társaság
   name_language: HU
   strong: true
@@ -34,23 +64,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Судостроительный  Комплекс - Звезда
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179854'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Limited Liability Company  Shipbuilding Complex - Zvezda
-  function: A leading Russian company in shipbuilding and ship repairs. It is described
-    as a company of strategic importance for Russia’s domestic shipbuilding industry
+- whole_name: Shipbuilding Complex  - Zvezda
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179861'
+  logical_id: '179859'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -61,16 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179860'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Shipbuilding Complex  - Zvezda
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179859'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -116,21 +124,13 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Звезда
-  name_language: RU
+- whole_name: Limited Liability Company  Shipbuilding Complex - Zvezda
+  function: A leading Russian company in shipbuilding and ship repairs. It is described
+    as a company of strategic importance for Russia’s domestic shipbuilding industry
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179853'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: ССК Звезда
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179852'
+  logical_id: '179861'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -149,21 +149,21 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: other
-  number: '1152503000539'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '179849'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: taxid
   number: '2503032517'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '179848'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: other
+  number: '1152503000539'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '179849'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

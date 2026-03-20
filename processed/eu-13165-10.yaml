@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Татьяна Александровна МОЛИТВИНА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175862'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/958 (OJ L202500958)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
 - whole_name: Tatiana Alexandrovna MOLITVINA
   function: Tatiana Molitvina is a judge of the Moscow City Court. Before her appointment
     to her present position, she was a judge of the Tverskoy District Court in the
@@ -27,17 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175863'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/958 (OJ L202500958)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
-- whole_name: Татьяна Александровна МОЛИТВИНА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175862'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

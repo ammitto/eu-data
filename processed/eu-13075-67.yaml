@@ -14,21 +14,25 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Общество с Ограниченной Ответственностью “Беспилотные Системы”
-  name_language: RU
+- whole_name: Limited Liability Company Unmanned Systems
+  function: LLC Unmanned Systems is a Russian company. As part of the “Unmanned Systems”
+    group of companies, it has been involved in supplying the Russian Armed Forces
+    with unmanned aerial vehicles used on the battlefield in Ukraine.
+  title: Limited Liability Company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175113'
+  logical_id: '175114'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Pilóta Nélküli Rendszerek Korlátolt  Felelősségű Társaság
-  name_language: HU
+- whole_name: Общество с Ограниченной Ответственностью “Беспилотные Системы”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175281'
+  logical_id: '175113'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -44,15 +48,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Limited Liability Company Unmanned Systems
-  function: LLC Unmanned Systems is a Russian company. As part of the “Unmanned Systems”
-    group of companies, it has been involved in supplying the Russian Armed Forces
-    with unmanned aerial vehicles used on the battlefield in Ukraine.
-  title: Limited Liability Company
-  name_language: EN
+- whole_name: Pilóta Nélküli Rendszerek Korlátolt  Felelősségű Társaság
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175114'
+  logical_id: '175281'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -92,21 +92,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: regnumber
-  number: '1121831007759'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175110'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '1831156383'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '175109'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: regnumber
+  number: '1121831007759'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175110'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -55,12 +55,23 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Base operativa Karbala del Corpo delle  guardie rivoluzionarie islamiche
+- whole_name: Baza operațională «Karbala» a Corpului  Gardienilor Revoluției Iraniene
     (IRGC)
-  name_language: IT
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '148614'
+  logical_id: '148738'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Оперативна база Karbala на Корпуса на  гвардейците на ислямската революция
+    (IRGC)
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '148751'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -138,17 +149,6 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Baza operațională «Karbala» a Corpului  Gardienilor Revoluției Iraniene
-    (IRGC)
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '148738'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Operationele basis “Karbala” van de  Islamitische Revolutionaire Garde
     (IRG)
   name_language: NL
@@ -182,21 +182,21 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: islami revolutsioonilise kaardiväe (IRGC) operatsioonide baas Karbala
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '149003'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Islāma revolucionāro gvardu korpusa (IRGC) operacionālā bāze Karbala
   name_language: LV
   strong: true
   regulation_language: en
   logical_id: '148986'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: islami revolutsioonilise kaardiväe (IRGC) operatsioonide baas Karbala
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '149003'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -222,22 +222,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Оперативна база Karbala на Корпуса на  гвардейците на ислямската революция
+- whole_name: Base operativa Karbala del Corpo delle  guardie rivoluzionarie islamiche
     (IRGC)
-  name_language: BG
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '148751'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Bunáit Oibriúcháin Karbala an Islamic  Revolutionary Guard Corps (IRGC
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '148917'
+  logical_id: '148614'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -248,6 +238,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148904'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Bunáit Oibriúcháin Karbala an Islamic  Revolutionary Guard Corps (IRGC
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '148917'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

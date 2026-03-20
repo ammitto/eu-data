@@ -52,12 +52,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1959
+  year: 1960
   city: Qom
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '146399'
+  logical_id: '146398'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -65,12 +65,12 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
 - circa: false
   calendar_type: GREGORIAN
-  year: 1960
+  year: 1959
   city: Qom
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '146398'
+  logical_id: '146399'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'

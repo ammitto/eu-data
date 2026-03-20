@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ольга Сергеевна  НЕБОРСКАЯ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '129853'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Вольга Сяргееўна  НЯБОРСКАЯ
   gender: F
   name_language: BE
@@ -35,17 +46,6 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Volha Siarheeuna  NIABORSKAIA
-  function: "Judge of the \nOktyabrsky District Court of Minsk"
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '129856'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Volha Siarhejeuna NJABORSKAJA
   gender: F
   name_language: SV
@@ -57,23 +57,23 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Volha Siarheeuna  NIABORSKAIA
+  function: "Judge of the \nOktyabrsky District Court of Minsk"
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '129856'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Olga Sergejevna NEBORSKAJA
   gender: F
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '130676'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Ольга Сергеевна  НЕБОРСКАЯ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '129853'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

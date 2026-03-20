@@ -14,6 +14,34 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ярослав
+  middle_name: Геннадiйович
+  last_name: АНIКА
+  whole_name: Ярослав Геннадiйович АНIКА
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '138431'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Ярослав
+  middle_name: Геннадьевич
+  last_name: АНИКА
+  whole_name: Ярослав Геннадьевич АНИКА
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '138432'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Yaroslav
   middle_name: Gennadievich
   last_name: ANIKA
@@ -47,34 +75,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139417'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Ярослав
-  middle_name: Геннадьевич
-  last_name: АНИКА
-  whole_name: Ярослав Геннадьевич АНИКА
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138432'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Ярослав
-  middle_name: Геннадiйович
-  last_name: АНIКА
-  whole_name: Ярослав Геннадiйович АНIКА
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '138431'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

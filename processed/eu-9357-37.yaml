@@ -14,31 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ενωμένη Ρωσία
-  name_language: EL
+- whole_name: Enade Ryssland
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '147931'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Vereintes Russland
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '147652'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: United Russia
-  function: Russian political party chaired by former Russian president Dmitry Medvedev
-  strong: true
-  regulation_language: en
-  logical_id: '147079'
+  logical_id: '147989'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -54,11 +34,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Jedna Rosja
-  name_language: PL
+- whole_name: Russia Unita
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '147728'
+  logical_id: '147674'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -124,11 +104,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Russia Unita
-  name_language: IT
+- whole_name: Ενωμένη Ρωσία
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '147674'
+  logical_id: '147931'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -144,11 +124,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Enade Ryssland
-  name_language: SV
+- whole_name: Jedna Rosja
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '147989'
+  logical_id: '147728'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -199,6 +179,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147078'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: United Russia
+  function: Russian political party chaired by former Russian president Dmitry Medvedev
+  strong: true
+  regulation_language: en
+  logical_id: '147079'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Vereintes Russland
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '147652'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

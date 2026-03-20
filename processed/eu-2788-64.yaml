@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abdullah
-  last_name: BERRI
-  whole_name: Abdullah BERRI
-  function: Head of Berri family militia.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '14774'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: عبدالله بري
   gender: M
   name_language: AR
@@ -49,3 +36,16 @@ name_aliases:
     publication_date: '2013-04-23'
     number_title: 363/2013 (OJ L111)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:111:0001:0024:EN:PDF
+- first_name: Abdullah
+  last_name: BERRI
+  whole_name: Abdullah BERRI
+  function: Head of Berri family militia.
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '14774'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN

@@ -14,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Asociația Jurnaliștilor BRICS
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '177815'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Associação de jornalistas dos BRICS
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '177816'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: BRICS Újságírószövetség
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177817'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Udruženje novinara BRICS-a
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '177818'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
 - whole_name: Асоциация на журналистите от БРИКС
   name_language: BG
   strong: true
@@ -79,6 +39,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177819'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Udruženje novinara BRICS-a
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '177818'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: BRICS Újságírószövetség
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177817'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Associação de jornalistas dos BRICS
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177816'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Asociația Jurnaliștilor BRICS
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177815'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

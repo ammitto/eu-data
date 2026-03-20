@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО “Ридотто”
-  name_language: RU
+- whole_name: Ridotto Kft
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '174326'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: "„Ридотто“ ООД"
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '174325'
+  logical_id: '174323'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -44,11 +34,21 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Ridotto Kft
-  name_language: HU
+- whole_name: "„Ридотто“ ООД"
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '174323'
+  logical_id: '174325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: ООО “Ридотто”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174326'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

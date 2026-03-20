@@ -14,56 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Întreprinderea unitară de stat a «Republicii Crimeea»«Universal-Avia»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '128428'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: entinen valtionyhtiö "Universal-Avia"
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '128429'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: '"Krimin tasavallan" omistama valtion unitaarinen yritys "Universal-Avia"'
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '128430'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: prej imenovano državno podjetje „Universal-Avia“
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '128431'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Državno unitarno podjetje „Republike Krim“„Universal-Avia“
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '128432'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: ranije poznato kao državno poduzeće „Universal-Avia”
   name_language: HR
   strong: true
@@ -79,6 +29,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Государственное предприятие “Универсал-Авиа”
+  strong: true
+  regulation_language: en
+  logical_id: '114390'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
@@ -159,6 +118,166 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128416'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: voorheen bekend als State enterprise “Universal-Avia”
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '128417'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: State Unitary Enterprise van de “Republiek Krim”“Universal-Avia”
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '128418'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: qabel kienet magħrufa bħala l-intrapriża tal-Istat “Universal -Avia”
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '128419'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Intrapriża Unitarja Statali tar-“Repubblika tal-Krimea”“Universal-Avia”
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '128420'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: anteriormente conhecida como empresa estatal “Universal-Avia”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '128421'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Empresa Unitária Estatal da “República da Crimeia”“Universal-Avia”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '128422'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: dawniej znane jako przedsiębiorstwo państwowe Uniwersal-Awia
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '128423'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: jednolite przedsiębiorstwo państwowe Republiki Krymu „Uniwersal-Awia”
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '128424'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: predtým známy ako štátny podnik „Universal-Avia“
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '128425'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Štátny unitárny podnik „Krymskej republiky“„Universal-Avia“
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '128426'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: cunoscută anterior drept întreprinderea de stat «Universal-Avia»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '128427'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Întreprinderea unitară de stat a «Republicii Crimeea»«Universal-Avia»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '128428'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: entinen valtionyhtiö "Universal-Avia"
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '128429'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: '"Krimin tasavallan" omistama valtion unitaarinen yritys "Universal-Avia"'
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '128430'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: prej imenovano državno podjetje „Universal-Avia“
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '128431'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Državno unitarno podjetje „Republike Krim“„Universal-Avia“
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '128432'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
@@ -334,116 +453,6 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: voorheen bekend als State enterprise “Universal-Avia”
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '128417'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: State Unitary Enterprise van de “Republiek Krim”“Universal-Avia”
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '128418'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: qabel kienet magħrufa bħala l-intrapriża tal-Istat “Universal -Avia”
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '128419'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Intrapriża Unitarja Statali tar-“Repubblika tal-Krimea”“Universal-Avia”
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '128420'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: anteriormente conhecida como empresa estatal “Universal-Avia”
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '128421'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Empresa Unitária Estatal da “República da Crimeia”“Universal-Avia”
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '128422'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: dawniej znane jako przedsiębiorstwo państwowe Uniwersal-Awia
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '128423'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: jednolite przedsiębiorstwo państwowe Republiki Krymu „Uniwersal-Awia”
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '128424'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: predtým známy ako štátny podnik „Universal-Avia“
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '128425'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Štátny unitárny podnik „Krymskej republiky“„Universal-Avia“
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '128426'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: cunoscută anterior drept întreprinderea de stat «Universal-Avia»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '128427'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: State enterprise “Universal-Avia”
   strong: true
   regulation_language: en
@@ -476,15 +485,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '108164'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Государственное предприятие “Универсал-Авиа”
-  strong: true
-  regulation_language: en
-  logical_id: '114390'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'

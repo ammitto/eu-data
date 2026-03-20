@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC NPO “Orion”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173482'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Dioničko društvo NPO ‚Orion
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '173483'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Joint Stock Company NPO “Orion”
   function: JSC NPO Orion is a Russian research and manufacturing company, which is
     developing and producing high-tech electronical components, including for the
@@ -42,16 +22,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173216'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Orion Scientific Production Association
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173214'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -67,10 +37,40 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Orion Scientific Production Association
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173214'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: АО НПО Орион
   strong: true
   regulation_language: en
   logical_id: '173213'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Dioničko društvo NPO ‚Orion
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '173483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: JSC NPO “Orion”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173482'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

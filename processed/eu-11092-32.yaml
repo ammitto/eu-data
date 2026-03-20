@@ -14,21 +14,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Military Industry Corporation
-  name_language: EN
+- whole_name: Systém pro obranný průmysl
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '161640'
+  logical_id: '161736'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-22'
     number_title: 2024/384 (OJ L22012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
-- whole_name: Defense Industries Corporation
+- whole_name: Defense Industries System
+  function: a large Sudanese Armed Forces (SAF)-owned conglomerate
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161639'
+  logical_id: '161642'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-22'
@@ -44,16 +45,6 @@ name_aliases:
     publication_date: '2024-01-22'
     number_title: 2024/384 (OJ L22012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
-- whole_name: Systém pro obranný průmysl
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '161736'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-22'
-    number_title: 2024/384 (OJ L22012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
 - whole_name: Military Industrial Corporation
   name_language: EN
   strong: true
@@ -64,12 +55,21 @@ name_aliases:
     publication_date: '2024-01-22'
     number_title: 2024/384 (OJ L22012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
-- whole_name: Defense Industries System
-  function: a large Sudanese Armed Forces (SAF)-owned conglomerate
+- whole_name: Military Industry Corporation
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161642'
+  logical_id: '161640'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-22'
+    number_title: 2024/384 (OJ L22012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
+- whole_name: Defense Industries Corporation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161639'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-22'

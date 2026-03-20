@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Sergey Vladimirovich DOLGUSHIN
+  function: Serviceman from the 22nd Guards Heavy Bomber Aviation Division based at
+    Engels-2 airbase
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171878'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - first_name: Сергей
   middle_name: Владимирович
   last_name: ДОЛГУШИН
@@ -41,19 +54,6 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Sergey Vladimirovich DOLGUSHIN
-  function: Serviceman from the 22nd Guards Heavy Bomber Aviation Division based at
-    Engels-2 airbase
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171878'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 birthdates:
 - birthdate: '1973-06-01'
   circa: false
@@ -71,21 +71,21 @@ birthdates:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 identifications:
-- identification_type_code: passport
-  number: '6303409599'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '171875'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: fiscalcode
   number: '644912914032'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '171876'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- identification_type_code: passport
+  number: '6303409599'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '171875'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

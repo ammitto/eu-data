@@ -14,116 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Batallón Vostok
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '131470'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: "„Бригада Изток“"
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '131404'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Prapor „Vostok“
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '131472'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Brigáda „Vostok“
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '131473'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Bataljon Vostok
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '131474'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: "»Brigade Vostok«"
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '131475'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Bataillon Wostok
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '131476'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: "„Brigade Wostok“"
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '131477'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Vostoki pataljon
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '131478'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: "„Vostoki brigaad“"
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '131479'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Vostok Battalion
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '131480'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
 - whole_name: "“Bataillon Vostok”"
   name_language: FR
   strong: true
@@ -134,11 +24,11 @@ name_aliases:
     publication_date: '2021-09-13'
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: battaglione Vostok
-  name_language: IT
+- whole_name: "„Бригада Изток“"
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '131482'
+  logical_id: '131404'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-09-13'
@@ -314,6 +204,116 @@ name_aliases:
     publication_date: '2021-09-13'
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Batallón Vostok
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '131470'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: "“Brigada Vostok”"
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '131471'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Prapor „Vostok“
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '131472'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Brigáda „Vostok“
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '131473'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Bataljon Vostok
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '131474'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: "»Brigade Vostok«"
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '131475'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Bataillon Wostok
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '131476'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: "„Brigade Wostok“"
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '131477'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Vostoki pataljon
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '131478'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: "„Vostoki brigaad“"
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '131479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Vostok Battalion
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '131480'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
 - whole_name: Vostok Batallion
   strong: true
   regulation_language: en
@@ -332,11 +332,11 @@ name_aliases:
     publication_date: '2021-09-13'
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: "“Brigada Vostok”"
-  name_language: ES
+- whole_name: battaglione Vostok
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '131471'
+  logical_id: '131482'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-09-13'

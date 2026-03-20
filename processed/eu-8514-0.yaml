@@ -14,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Michail Vladimirovitj STRUK
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '142357'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Mikhail Vladimirovich STRUK
   function: Mr. Struk is a member in the Legislative Assembly of the Volgograd Oblast
     (region) since 2017. Mr. Struk is a member of the Kremlin-aligned ruling party
@@ -23,16 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141924'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Michail Vladimirovitj STRUK
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '142357'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

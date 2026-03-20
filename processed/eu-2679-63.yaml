@@ -15,18 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ali
-  last_name: Karimjan
-  whole_name: Ali Karimjan
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '169622'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- first_name: Ali
   last_name: KARIMIAN
   whole_name: Ali KARIMIAN
   function: Iranian national supplying goods, mostly carbon fibre to EU-designated
@@ -35,6 +23,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- first_name: Ali
+  last_name: Karimjan
+  whole_name: Ali Karimjan
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '169622'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

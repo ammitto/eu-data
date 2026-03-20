@@ -138,21 +138,21 @@ addresses:
     number_title: 1058/2014 (OJ L293)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN
 identifications:
-- identification_type_code: birthcert
-  number: '012546'
-  country_iso2_code: ML
-  regulation_language: en
-  logical_id: '158896'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-24'
-    number_title: 2023/2670 (OJ L24112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302670
 - identification_type_code: passport
   number: A1037434
   country_iso2_code: ML
   regulation_language: en
   logical_id: '889'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-24'
+    number_title: 2023/2670 (OJ L24112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302670
+- identification_type_code: birthcert
+  number: '012546'
+  country_iso2_code: ML
+  regulation_language: en
+  logical_id: '158896'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-24'

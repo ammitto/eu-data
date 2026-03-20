@@ -14,34 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aleksandr Michajlovitj RIDETSKIJ
+- whole_name: Aleksandr  Mikhailovich  RIDETSKIY
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130774'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aljaksandr Michajlavitj RYDZETSKI
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130775'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Александр  Михайлович РИДЕЦКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '130228'
+  logical_id: '130230'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -53,6 +30,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130229'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Александр  Михайлович РИДЕЦКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '130228'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -71,11 +59,23 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aleksandr  Mikhailovich  RIDETSKIY
+- whole_name: Aljaksandr Michajlavitj RYDZETSKI
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130230'
+  logical_id: '130775'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Aleksandr Michajlovitj RIDETSKIJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130774'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

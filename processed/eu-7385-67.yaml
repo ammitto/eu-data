@@ -14,6 +14,37 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Игорь
+  middle_name: Иванович
+  last_name: ШУВАЛОВ
+  whole_name: Игорь Иванович ШУВАЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '135294'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Igor
+  middle_name: Ivanovich
+  last_name: SHUVALOV
+  whole_name: Igor Ivanovich SHUVALOV
+  function: |-
+    Chairman of State Development Corporation VEB.RF;
+    previously a First Deputy Prime Minister of Russia and a member of the Council of the Eurasian Economic Commission
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '135295'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Igor
   middle_name: Ivanovič
   last_name: ŠUVALOV
@@ -56,37 +87,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Igor
-  middle_name: Ivanovich
-  last_name: SHUVALOV
-  whole_name: Igor Ivanovich SHUVALOV
-  function: |-
-    Chairman of State Development Corporation VEB.RF;
-    previously a First Deputy Prime Minister of Russia and a member of the Council of the Eurasian Economic Commission
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '135295'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Игорь
-  middle_name: Иванович
-  last_name: ШУВАЛОВ
-  whole_name: Игорь Иванович ШУВАЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '135294'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 birthdates:
 - birthdate: '1967-01-04'
   circa: false

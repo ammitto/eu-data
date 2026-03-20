@@ -14,23 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Александр  Владимирович ЮЖИК
+- whole_name: Aljaksandr Južik
   gender: M
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '174048'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Аляксандр  Уладзіміравіч ЮЖЫК
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '174049'
+  logical_id: '174053'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -47,12 +36,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Aljaksandr Južik
+- whole_name: Александр  Владимирович ЮЖИК
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174053'
+  logical_id: '174048'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -69,13 +58,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Aliaksandr  Uladzimiravich  YUZHIK
-  function: Member of the Central Election Commission
+- whole_name: Аляксандр  Уладзіміравіч ЮЖЫК
   gender: M
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '174051'
+  logical_id: '174049'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -87,6 +75,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174050'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Aliaksandr  Uladzimiravich  YUZHIK
+  function: Member of the Central Election Commission
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174051'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

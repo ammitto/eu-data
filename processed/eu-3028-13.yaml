@@ -14,22 +14,33 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Hala Mohamed AL NASSER
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '17276'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-05-28'
+    number_title: 2021/848 (OJ L188)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
+- whole_name: هالة محمد الناصر
+  gender: F
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124695'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-05-28'
+    number_title: 2021/848 (OJ L188)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
 - whole_name: Hala Mohammad AL NASSER
   function: Former Minister of Tourism
   gender: F
   strong: true
   regulation_language: en
   logical_id: '16520'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-05-28'
-    number_title: 2021/848 (OJ L188)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
-- whole_name: Hala Mohamed AL NASSER
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '17276'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-05-28'
@@ -50,17 +61,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17279'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-05-28'
-    number_title: 2021/848 (OJ L188)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
-- whole_name: هالة محمد الناصر
-  gender: F
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '124695'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-05-28'

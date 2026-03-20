@@ -14,6 +14,44 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Piotr
+  last_name: Fradkov
+  whole_name: Piotr Fradkov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '152203'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Pjotr
+  last_name: Fradkov
+  whole_name: Pjotr Fradkov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152171'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Petr
+  last_name: Fradkov
+  whole_name: Petr Fradkov
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '152232'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Petr
   middle_name: Mikhaylovich
   last_name: FRADKOV
@@ -23,20 +61,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152043'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Петр
-  middle_name: Михайлович
-  last_name: ФРАДКОВ
-  whole_name: Петр Михайлович ФРАДКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -57,19 +81,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Piotr
-  last_name: Fradkov
-  whole_name: Piotr Fradkov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '152203'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Pjotr
   middle_name: Michajlovitj
   last_name: FRADKOV
@@ -84,26 +95,15 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Petr
-  last_name: Fradkov
-  whole_name: Petr Fradkov
+- first_name: Петр
+  middle_name: Михайлович
+  last_name: ФРАДКОВ
+  whole_name: Петр Михайлович ФРАДКОВ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '152232'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Pjotr
-  last_name: Fradkov
-  whole_name: Pjotr Fradkov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152171'
+  logical_id: '136168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

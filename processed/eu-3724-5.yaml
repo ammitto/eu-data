@@ -23,20 +23,19 @@ name_aliases:
     publication_date: '2019-04-08'
     number_title: 2019/555 (OJ L97)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:097:FULL&from=EN
-- whole_name: Mohammed Salahaldin Abd El Halim Zidane
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110823'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-04-08'
-    number_title: 2019/555 (OJ L97)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:097:FULL&from=EN
 - whole_name: Saif Al-'Adil
   strong: true
   regulation_language: en
   logical_id: '1578'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-08-06'
+    number_title: 754/2013 (OJ L210)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
+- whole_name: Seif al Adel
+  strong: true
+  regulation_language: en
+  logical_id: '17554'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-08-06'
@@ -60,15 +59,16 @@ name_aliases:
     publication_date: '2013-08-06'
     number_title: 754/2013 (OJ L210)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
-- whole_name: Seif al Adel
+- whole_name: Mohammed Salahaldin Abd El Halim Zidane
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '17554'
+  logical_id: '110823'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2013-08-06'
-    number_title: 754/2013 (OJ L210)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
+    publication_date: '2019-04-08'
+    number_title: 2019/555 (OJ L97)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:097:FULL&from=EN
 citizenships:
 - country_iso2_code: EG
   country_description: EGYPT
@@ -80,22 +80,22 @@ citizenships:
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 birthdates:
-- birthdate: '1960-04-11'
+- birthdate: '1963-04-11'
   circa: false
   calendar_type: GREGORIAN
   day_of_month: 11
   month_of_year: 4
-  year: 1960
-  place: Monufia Governorate
+  year: 1963
+  region: Monufia Governate
   country_iso2_code: EG
   country_description: EGYPT
   regulation_language: en
-  logical_id: '119884'
+  logical_id: '2024'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2019-04-08'
-    number_title: 2019/555 (OJ L97)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:097:FULL&from=EN
+    publication_date: '2017-02-21'
+    number_title: 2017/296 (OJ L43)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0296&from=EN
 - birthdate: '1960-04-11'
   circa: false
   calendar_type: GREGORIAN
@@ -117,22 +117,6 @@ birthdates:
   day_of_month: 11
   month_of_year: 4
   year: 1963
-  region: Monufia Governate
-  country_iso2_code: EG
-  country_description: EGYPT
-  regulation_language: en
-  logical_id: '2024'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-21'
-    number_title: 2017/296 (OJ L43)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0296&from=EN
-- birthdate: '1963-04-11'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 11
-  month_of_year: 4
-  year: 1963
   place: Monufia Governorate
   country_iso2_code: EG
   country_description: EGYPT
@@ -143,3 +127,19 @@ birthdates:
     publication_date: '2017-02-21'
     number_title: 2017/296 (OJ L43)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0296&from=EN
+- birthdate: '1960-04-11'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 11
+  month_of_year: 4
+  year: 1960
+  place: Monufia Governorate
+  country_iso2_code: EG
+  country_description: EGYPT
+  regulation_language: en
+  logical_id: '119884'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-04-08'
+    number_title: 2019/555 (OJ L97)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:097:FULL&from=EN

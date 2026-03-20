@@ -15,6 +15,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Larisa
+  last_name: МИОНЧИНСКАЯ
+  whole_name: Larisa МИОНЧИНСКАЯ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171508'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- first_name: Larisa
   last_name: КУДЕЛЬМАН
   whole_name: Larisa КУДЕЛЬМАН
   gender: F
@@ -22,46 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171510'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- first_name: Larisa Aleksandrovna
-  last_name: DOLINA
-  whole_name: Larisa Aleksandrovna DOLINA
-  function: Singer and actress
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171513'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- first_name: Лариса Александровна
-  last_name: ДОЛИНА
-  whole_name: Лариса Александровна ДОЛИНА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171512'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- first_name: Larisa
-  last_name: KUDELMAN
-  whole_name: Larisa KUDELMAN
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171511'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -81,13 +54,40 @@ name_aliases:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - first_name: Larisa
-  last_name: МИОНЧИНСКАЯ
-  whole_name: Larisa МИОНЧИНСКАЯ
+  last_name: KUDELMAN
+  whole_name: Larisa KUDELMAN
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171511'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- first_name: Лариса Александровна
+  last_name: ДОЛИНА
+  whole_name: Лариса Александровна ДОЛИНА
   gender: F
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '171508'
+  logical_id: '171512'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- first_name: Larisa Aleksandrovna
+  last_name: DOLINA
+  whole_name: Larisa Aleksandrovna DOLINA
+  function: Singer and actress
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171513'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

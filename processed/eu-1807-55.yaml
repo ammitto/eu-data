@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Gaisa un Kosmosa telpas nozares uzņēmumu organizācija
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '5533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
 - whole_name: Aerospace Industries Organisation
   function: Aerospace Industries Organisation (AIO) is a subsidiary of the EU-listed
     Iran’s Ministry of Defense for Armed Forces Logistics (MODAFL) in charge of overseeing
@@ -39,16 +49,6 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Gaisa un Kosmosa telpas nozares uzņēmumu organizācija
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '5533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
 - whole_name: Организация за авиационна промишленост
   name_language: BG
   strong: true
@@ -150,17 +150,6 @@ name_aliases:
     number_title: 2007/242/EC (OJ L106)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
 addresses:
-- street: 28 Shian 5, Lavizan
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '1020'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
 - street: Langare Street, Nobonyad Square
   city: Tehran
   country_iso2_code: IR
@@ -172,3 +161,14 @@ addresses:
     publication_date: '2010-10-27'
     number_title: 961/2010 (OJ L281)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:281:0001:0077:EN:PDF
+- street: 28 Shian 5, Lavizan
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '1020'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF

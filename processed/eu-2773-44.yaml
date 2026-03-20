@@ -14,10 +14,79 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Qods Force
+- whole_name: Jednostka IRGC Qods
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '14285'
+  logical_id: '14450'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Il-Forza Qods tal- IRGC
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '14449'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Enota IRGC Qods
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '14452'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: IRGC:n Qods-erityisjoukot
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '14453'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Qods-styrkan inom Islamiska revolutionsgardet i Iran
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '14454'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Jednotka Qods iránskych islamských revolučných gárd
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '14451'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: IRGC Qods Force
+  strong: true
+  regulation_language: en
+  logical_id: '14282'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: IRGC Quds Force
+  strong: true
+  regulation_language: en
+  logical_id: '14283'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'
@@ -27,6 +96,25 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14284'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Qods Force
+  strong: true
+  regulation_language: en
+  logical_id: '14285'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Forces Qods du Corps des gardiens de la révolution
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '14436'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'
@@ -148,94 +236,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14448'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Il-Forza Qods tal- IRGC
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '14449'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Jednostka IRGC Qods
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '14450'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Jednotka Qods iránskych islamských revolučných gárd
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '14451'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Enota IRGC Qods
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '14452'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: IRGC:n Qods-erityisjoukot
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '14453'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Qods-styrkan inom Islamiska revolutionsgardet i Iran
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '14454'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Forces Qods du Corps des gardiens de la révolution
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '14436'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: IRGC Qods Force
-  strong: true
-  regulation_language: en
-  logical_id: '14282'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: IRGC Quds Force
-  strong: true
-  regulation_language: en
-  logical_id: '14283'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'

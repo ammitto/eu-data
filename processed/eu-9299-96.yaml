@@ -14,33 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Elvira
-  last_name: Obuchovová
-  whole_name: Elvira Obuchovová
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152326'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Elvira
-  middle_name: Junusovna
-  last_name: OBUCHOVA
-  whole_name: Elvira Junusovna OBUCHOVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '152028'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Эльвира
   middle_name: Юнусовна
   last_name: ОБУХОВА
@@ -72,6 +45,33 @@ name_aliases:
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Elvira
+  middle_name: Junusovna
+  last_name: OBUCHOVA
+  whole_name: Elvira Junusovna OBUCHOVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '152028'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Elvira
+  last_name: Obuchovová
+  whole_name: Elvira Obuchovová
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152326'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Елвира
   last_name: Обухова
   whole_name: Елвира Обухова

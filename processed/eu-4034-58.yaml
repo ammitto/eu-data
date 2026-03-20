@@ -24,11 +24,11 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "‘Luhansk People’s Republic’, mar a  ghairtear de"
-  name_language: GA
+- whole_name: "„Luhanski Rahvavabariik“"
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '152626'
+  logical_id: '152609'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -39,26 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152437'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Αποκαλούμενη “Λαϊκή Δημοκρατία του Λουγκάνσκ”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '152420'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Zogenaamde “Volksrepubliek Loehansk”
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '152421'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -163,11 +143,21 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Tzw. „Ługańska Republika Ludowa”
-  name_language: PL
+- whole_name: Αποκαλούμενη “Λαϊκή Δημοκρατία του Λουγκάνσκ”
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '152436'
+  logical_id: '152420'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Zogenaamde “Volksrepubliek Loehansk”
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '152421'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -213,6 +203,16 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Tzw. „Ługańska Republika Ludowa”
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152436'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: s.k. Folkrepubliken Luhansk
   name_language: SV
   strong: true
@@ -243,31 +243,31 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: vadinamoji Luhansko liaudies respublika
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '152608'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "„Luhanski Rahvavabariik“"
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '152609'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: L-hekk imsejħa “Luhansk People’s Republic”
   name_language: MT
   strong: true
   regulation_language: en
   logical_id: '152625'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: "‘Luhansk People’s Republic’, mar a  ghairtear de"
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '152626'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: vadinamoji Luhansko liaudies respublika
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '152608'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

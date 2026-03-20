@@ -38,36 +38,6 @@ name_aliases:
     publication_date: '2017-03-22'
     number_title: 2017/489 (OJ L76)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
-- whole_name: Autoritatea Libiană pentru Investiții
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '9166'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-03-11'
-    number_title: 233/2011 (OJ L64)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:064:0013:0014:EN:PDF
-- whole_name: Compania Libiană pentru Investiții Străine
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '9167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-01-19'
-    number_title: 2016/44 (OJ L12)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0044&rid=1
-- whole_name: Líbyjská investičná agentúra
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '9168'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-22'
-    number_title: 2017/489 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
 - whole_name: Libyan Investment Authority
   strong: true
   regulation_language: en
@@ -136,6 +106,36 @@ name_aliases:
     publication_date: '2011-03-11'
     number_title: 233/2011 (OJ L64)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:064:0013:0014:EN:PDF
+- whole_name: Autoritatea Libiană pentru Investiții
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '9166'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-03-11'
+    number_title: 233/2011 (OJ L64)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:064:0013:0014:EN:PDF
+- whole_name: Compania Libiană pentru Investiții Străine
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '9167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-01-19'
+    number_title: 2016/44 (OJ L12)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0044&rid=1
+- whole_name: Líbyjská investičná agentúra
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '9168'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-22'
+    number_title: 2017/489 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
 - whole_name: Organismo de Inversiones de Libia
   name_language: ES
   strong: true

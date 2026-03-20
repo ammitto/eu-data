@@ -24,16 +24,6 @@ name_aliases:
     publication_date: '2025-12-15'
     number_title: 2025/2568 (OJ L202502568)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
-- whole_name: Международное движение русофилов
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180267'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-12-15'
-    number_title: 2025/2568 (OJ L202502568)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
 - whole_name: International Russophile Movement
   function: The International Russophile Movement is a movement responsible for amplifying
     destabilising narratives globally, on behalf of the Government of the Russian
@@ -48,6 +38,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2568 (OJ L202502568)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
+- whole_name: Международное движение русофилов
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180267'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'

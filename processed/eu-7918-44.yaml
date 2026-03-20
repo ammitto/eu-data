@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Анна
-  middle_name: Юрьевна
-  last_name: ТОДОРОВА
-  whole_name: Анна Юрьевна ТОДОРОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138353'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Ганна
   middle_name: Юрiївна
   last_name: ТОДОРОВА
@@ -42,12 +28,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Anna Jurjevna TODOROVA
+- first_name: Анна
+  middle_name: Юрьевна
+  last_name: ТОДОРОВА
+  whole_name: Анна Юрьевна ТОДОРОВА
   gender: F
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '139393'
+  logical_id: '138353'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -76,6 +65,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139392'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: Anna Jurjevna TODOROVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139393'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

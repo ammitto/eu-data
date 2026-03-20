@@ -14,13 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Said
-  last_name: Ara Jani
-  whole_name: Said Ara Jani
+- whole_name: سعید آقاجانی
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '145154'
+  logical_id: '145202'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-20'
@@ -50,11 +48,13 @@ name_aliases:
     publication_date: '2022-10-20'
     number_title: 2022/1985 (OJ L272 I)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
-- whole_name: سعید آقاجانی
+- first_name: Said
+  last_name: Ara Jani
+  whole_name: Said Ara Jani
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '145202'
+  logical_id: '145154'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-20'

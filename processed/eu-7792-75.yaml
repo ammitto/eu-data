@@ -15,59 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Roman
-  last_name: Abramovič
-  whole_name: Roman Abramovič
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '158503'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Roman
-  last_name: Abramovič
-  whole_name: Roman Abramovič
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '157541'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Roman
-  last_name: Abramovici
-  whole_name: Roman Abramovici
-  gender: M
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '157526'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Роман
-  middle_name: Аркадьевич
-  last_name: АБРАМОВИЧ
-  whole_name: Роман Аркадьевич АБРАМОВИЧ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '137835'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Roman
   middle_name: Arkadyevich
   last_name: ABRAMOVICH
   whole_name: Roman Arkadyevich ABRAMOVICH
@@ -84,6 +31,59 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- first_name: Роман
+  middle_name: Аркадьевич
+  last_name: АБРАМОВИЧ
+  whole_name: Роман Аркадьевич АБРАМОВИЧ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '137835'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Roman
+  last_name: Abramovici
+  whole_name: Roman Abramovici
+  gender: M
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '157526'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Roman
+  last_name: Abramovič
+  whole_name: Roman Abramovič
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '157541'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Roman
+  last_name: Abramovič
+  whole_name: Roman Abramovič
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158503'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

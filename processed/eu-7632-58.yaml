@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Баир
+  middle_name: Баясхаланович
+  last_name: ЖАМСУЕВ
+  whole_name: Баир Баясхаланович ЖАМСУЕВ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '136611'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Bair
   middle_name: Bayaskhalanovich
   last_name: ZHAMSUYEV
@@ -23,19 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136612'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Баир
-  middle_name: Баясхаланович
-  last_name: ЖАМСУЕВ
-  whole_name: Баир Баясхаланович ЖАМСУЕВ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '136611'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

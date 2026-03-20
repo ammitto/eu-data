@@ -1,55 +1,25 @@
 ---
 eu_reference_number: EU.1773.43
 logical_id: '4290'
-designation_details: UN designation 03/03/2008 (no longer valid)
+designation_details: UN designation 03/03/2008
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2024-07-29'
-  entry_into_force_date: '2024-07-30'
-  number_title: 2024/2074 (OJ L29072024)
+  publication_date: '2025-09-29'
+  entry_into_force_date: '2025-09-29'
+  number_title: 2025/1982 (OJ L202501982)
   programme: IRN
-  logical_id: '200116'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+  logical_id: '217748'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Safety Equipment Procurement Inc.
+- whole_name: Safety Equipment Procurement Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159425'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Biztonsági Felszerelések Beszerzési  Vállalata
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '169728'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Safety Equipment Procurement
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6254'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: SEP Co.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159426'
+  logical_id: '159428'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -65,21 +35,41 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Safety Equipment Procurement Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159428'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: SAFEty Equipment Procurement Company
   name_language: LT
   strong: true
   regulation_language: en
   logical_id: '162187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Biztonsági Felszerelések Beszerzési  Vállalata
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '169728'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: SEP Co.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159426'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Safety Equipment Procurement Inc.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159425'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -95,6 +85,16 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Safety Equipment Procurement
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6254'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 addresses:
 - city: Tehran
   country_iso2_code: IR

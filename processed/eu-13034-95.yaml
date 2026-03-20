@@ -14,15 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Viktor
-  middle_name: Anatolyevich
+- first_name: Victor
+  middle_name: Anatolievich
   last_name: POLYAKOV
-  whole_name: Viktor Anatolyevich POLYAKOV
+  whole_name: Victor Anatolievich POLYAKOV
+  function: Managing Director of PJSC “UEC-Saturn”
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174854'
+  logical_id: '174856'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -39,16 +40,15 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- first_name: Victor
-  middle_name: Anatolievich
+- first_name: Viktor
+  middle_name: Anatolyevich
   last_name: POLYAKOV
-  whole_name: Victor Anatolievich POLYAKOV
-  function: Managing Director of PJSC “UEC-Saturn”
+  whole_name: Viktor Anatolyevich POLYAKOV
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174856'
+  logical_id: '174854'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

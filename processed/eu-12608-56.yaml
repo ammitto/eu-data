@@ -16,15 +16,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC Research and Production Association Izhevsk Unmanned Systems
-  strong: true
-  regulation_language: en
-  logical_id: '171684'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: Izhevsk Unmanned Systems Research and Production Associated Limited
     Liability Company
   strong: true
@@ -39,37 +30,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172127'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: "»Izsevszki Pilóta Nélküli Rendszerek« Tudományos Termelő Szervezet
-    Korlátolt Felelősségű Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '172126'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Izsevszki Pilóta Nélküli Rendszerek
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '172125'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Izhmash Pilóta Nélküli Rendszerek
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '172124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -163,6 +123,26 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: LLC Research and Production Association Izhevsk Unmanned Systems
+  strong: true
+  regulation_language: en
+  logical_id: '171684'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: "»Izsevszki Pilóta Nélküli Rendszerek« Tudományos Termelő Szervezet
+    Korlátolt Felelősségű Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '172126'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: Asociația științifică de producție «Izhevsk Unmanned Systems», societate
     cu răspundere limitată
   name_language: RO
@@ -190,6 +170,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172123'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Izhmash Pilóta Nélküli Rendszerek
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '172124'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Izsevszki Pilóta Nélküli Rendszerek
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '172125'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -231,21 +231,21 @@ identifications:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- identification_type_code: regnumber
-  number: '1061831040688'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '171683'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: other
   number: '772501001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172129'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- identification_type_code: regnumber
+  number: '1061831040688'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '171683'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

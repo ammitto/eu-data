@@ -14,11 +14,51 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Al 841-lea Centru Separat de Război Electronic al Flotei Baltice
-  name_language: RO
+- whole_name: 841. Separates Zentrum für elektronische Kampfführung der Ostseeflotte
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '177802'
+  logical_id: '177809'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: 841ο Ανεξάρτητο Κέντρο Ηλεκτρονικού Πολέμου του Στόλου της Βαλτικής
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '177808'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: 841e centre de guerre électronique distinct de la flotte baltique
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '177807'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: 841. samostalni centar za elektroničko ratovanje baltičke flote
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '177806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: a Balti-tengeri Flotta 841. sz. Különálló Elektronikai Hadviselési Központja
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177805'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -44,6 +84,16 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Al 841-lea Centru Separat de Război Electronic al Flotei Baltice
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
 - whole_name: 841st Separate Electronic Warfare Center of the Baltic Fleet
   function: The 841st Separate Electronic Warfare Center is at the core of one of
     the strongest electronic warfare groups in Russia. The centre is responsible for
@@ -61,51 +111,10 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: a Balti-tengeri Flotta 841. sz. Különálló Elektronikai Hadviselési Központja
-  name_language: HU
+- whole_name: 841-й центр радиоэлектронной борьбы
   strong: true
   regulation_language: en
-  logical_id: '177805'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: 841. samostalni centar za elektroničko ratovanje baltičke flote
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '177806'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: 841e centre de guerre électronique distinct de la flotte baltique
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '177807'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: 841ο Ανεξάρτητο Κέντρο Ηλεκτρονικού Πολέμου του Στόλου της Βαλτικής
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '177808'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: 841. Separates Zentrum für elektronische Kampfführung der Ostseeflotte
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '177809'
+  logical_id: '177811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -116,15 +125,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177810'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: 841-й центр радиоэлектронной борьбы
-  strong: true
-  regulation_language: en
-  logical_id: '177811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

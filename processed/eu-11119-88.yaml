@@ -4,16 +4,38 @@ logical_id: '161952'
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2024-02-02'
-  entry_into_force_date: '2024-02-02'
-  number_title: 2024/455 (OJ L02022024)
+  publication_date: '2026-01-09'
+  entry_into_force_date: '2026-01-10'
+  number_title: 2026/87 (OJ L202600087)
   programme: GTM
-  logical_id: '190756'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400455
+  logical_id: '220334'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600087
 subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: María Consuelo
+  last_name: Porrasová Arguetaová De Porres
+  whole_name: María Consuelo Porrasová Arguetaová De Porres
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '162051'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-02'
+    number_title: 2024/455 (OJ L02022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400455
+- whole_name: Porras
+  strong: true
+  regulation_language: en
+  logical_id: '181807'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2026-01-09'
+    number_title: 2026/87 (OJ L202600087)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600087
 - first_name: María
   middle_name: Consuelo
   last_name: PORRAS ARGUETA DE PORRAS
@@ -23,19 +45,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162060'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-02'
-    number_title: 2024/455 (OJ L02022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400455
-- first_name: María Consuelo
-  last_name: Porrasová Arguetaová De Porres
-  whole_name: María Consuelo Porrasová Arguetaová De Porres
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '162051'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-02'
@@ -53,9 +62,9 @@ name_aliases:
   logical_id: '161955'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-02-02'
-    number_title: 2024/455 (OJ L02022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400455
+    publication_date: '2026-01-09'
+    number_title: 2026/87 (OJ L202600087)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202600087
 citizenships:
 - country_iso2_code: GT
   country_description: GUATEMALA

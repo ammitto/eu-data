@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: IAP RAS
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166812'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Federal State Budgetary Scientific Institution “‘Federal Research Center
     Institute of Applied Physics’ A.V. Gaponov-Grekhova of the Russian Academy of
     Sciences”
@@ -34,17 +24,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166813'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: A.V. Gaponov-Grekhov Institut für angewandte Physik der Russischen Akademie
-    der Wissenschaften
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '167240'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -119,6 +98,17 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: A.V. Gaponov-Grekhov Institut für angewandte Physik der Russischen Akademie
+    der Wissenschaften
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '167240'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: ФИЦ ИПФ РАН
   name_language: RU
   strong: true
@@ -158,6 +148,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166811'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: IAP RAS
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166812'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

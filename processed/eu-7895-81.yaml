@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Iгор
-  middle_name: Юрiйович
-  last_name: АНТИПОВ
-  whole_name: Iгор Юрiйович АНТИПОВ
+- first_name: Igor
+  middle_name: Jurjevitj
+  last_name: ANTIPOV
+  whole_name: Igor Jurjevitj ANTIPOV
   gender: M
-  name_language: UK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '138238'
+  logical_id: '139349'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -42,17 +42,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Igor
-  middle_name: Yurievich
-  last_name: ANTIPOV
-  whole_name: Igor Yurievich ANTIPOV
-  function: Former so-called ‘Minister of Information’ of the so-called ‘Donetsk People's
-    Republic’
+- first_name: Iгор
+  middle_name: Юрiйович
+  last_name: АНТИПОВ
+  whole_name: Iгор Юрiйович АНТИПОВ
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '138240'
+  logical_id: '138238'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -73,14 +71,16 @@ name_aliases:
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Igor
-  middle_name: Jurjevitj
+  middle_name: Yurievich
   last_name: ANTIPOV
-  whole_name: Igor Jurjevitj ANTIPOV
+  whole_name: Igor Yurievich ANTIPOV
+  function: Former so-called ‘Minister of Information’ of the so-called ‘Donetsk People's
+    Republic’
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '139349'
+  logical_id: '138240'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

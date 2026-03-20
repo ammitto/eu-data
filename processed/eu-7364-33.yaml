@@ -14,12 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Irina Konstantinovna RODNINA
+- first_name: Irina
+  middle_name: Konstantinovna
+  last_name: RODNINA
+  whole_name: Irina Konstantinovna RODNINA
+  function: Member of the State Duma
   gender: F
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144031'
+  logical_id: '135195'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -39,15 +42,12 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Irina
-  middle_name: Konstantinovna
-  last_name: RODNINA
-  whole_name: Irina Konstantinovna RODNINA
-  function: Member of the State Duma
+- whole_name: Irina Konstantinovna RODNINA
   gender: F
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '135195'
+  logical_id: '144031'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

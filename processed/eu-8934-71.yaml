@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Iraani moraalipolitsei
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '145093'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: Irans moralpoliti
   name_language: DA
   strong: true
@@ -171,11 +161,21 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Póilíní  Moráltachta na hIaráine
-  name_language: GA
+- whole_name: Iránska mravnostná polícia
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '144981'
+  logical_id: '145067'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: policija za ćudoređe
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '145071'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'
@@ -291,6 +291,16 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Póilíní  Moráltachta na hIaráine
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '144981'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: Iraanse zedenpolitie
   name_language: NL
   strong: true
@@ -331,6 +341,16 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Iraani moraalipolitsei
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '145093'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: islamijuhiste  patrull
   name_language: ET
   strong: true
@@ -361,26 +381,6 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Islāmiskās vadības  patruļa
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '145086'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Iranska policija za moralo
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '145077'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: Irano moralės  policija
   name_language: LT
   strong: true
@@ -401,21 +401,11 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Iránska mravnostná polícia
-  name_language: SK
+- whole_name: Islāmiskās vadības  patruļa
+  name_language: LV
   strong: true
   regulation_language: en
-  logical_id: '145067'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: policija za ćudoređe
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '145071'
+  logical_id: '145086'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'
@@ -436,6 +426,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145073'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Iranska policija za moralo
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '145077'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

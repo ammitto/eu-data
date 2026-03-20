@@ -14,16 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Nikolaj Nikolajevitj VLADIMIROV
-  name_language: SV
+- first_name: Николай
+  middle_name: Николаевич
+  last_name: ВЛАДИМИРОВ
+  whole_name: Николай Николаевич ВЛАДИМИРОВ
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '137311'
+  logical_id: '136780'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-03-09'
-    number_title: 2022/396 (OJ L80)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Nikolay
   middle_name: Nikolayevich
   last_name: VLADIMIROV
@@ -38,19 +41,16 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Николай
-  middle_name: Николаевич
-  last_name: ВЛАДИМИРОВ
-  whole_name: Николай Николаевич ВЛАДИМИРОВ
-  gender: M
+- whole_name: Nikolaj Nikolajevitj VLADIMIROV
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '136780'
+  logical_id: '137311'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+    publication_date: '2022-03-09'
+    number_title: 2022/396 (OJ L80)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
 birthdates:
 - birthdate: '1979-11-18'
   circa: false

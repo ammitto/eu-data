@@ -24,15 +24,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Joint Stock Company "Research and Production Enterprise "RADAR MMS"
-  function: Joint Stock Company Research and Production Enterprise “Radar MMS” (JSC
-    NPP “Radar MMS”) is a Russian defense industry enterprise that designs and produces
-    homing systems for high-precision weapons, military and civil avionics, monitoring,
-    and navigation systems.
-  name_language: EN
+- whole_name: АО "НПП "Радар ММС"
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163414'
+  logical_id: '163410'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -79,6 +75,20 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Joint Stock Company "Research and Production Enterprise "RADAR MMS"
+  function: Joint Stock Company Research and Production Enterprise “Radar MMS” (JSC
+    NPP “Radar MMS”) is a Russian defense industry enterprise that designs and produces
+    homing systems for high-precision weapons, military and civil avionics, monitoring,
+    and navigation systems.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163414'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: JSC “NPP “Radar MMS”
   name_language: EN
   strong: true
@@ -100,16 +110,6 @@ name_aliases:
     publication_date: '2024-04-12'
     number_title: 2024/753-corr 2024/90233 (OJ L12042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202490233
-- whole_name: АО "НПП "Радар ММС"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163410'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Радар ММС
   name_language: RU
   strong: true

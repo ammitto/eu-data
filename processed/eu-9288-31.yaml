@@ -14,18 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Nikolay
-  middle_name: Vladimirovich
+- first_name: Nikolaj
+  middle_name: Vladimirovitj
   last_name: TARASOV
-  whole_name: Nikolay Vladimirovich TARASOV
-  function: member of the Missile Pre-Planning unit at the Main Computing Centre of
-    the General Staff (GVC) of Russia’s Armed Forces
+  whole_name: Nikolaj Vladimirovitj TARASOV
   gender: M
-  title: Senior Lieutenant
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '146814'
+  logical_id: '157488'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
@@ -45,6 +42,23 @@ name_aliases:
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Nikolay
+  middle_name: Vladimirovich
+  last_name: TARASOV
+  whole_name: Nikolay Vladimirovich TARASOV
+  function: member of the Missile Pre-Planning unit at the Main Computing Centre of
+    the General Staff (GVC) of Russia’s Armed Forces
+  gender: M
+  title: Senior Lieutenant
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '146814'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Nikolaj
   last_name: Tarasov
   whole_name: Nikolaj Tarasov
@@ -53,20 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157545'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Nikolaj
-  middle_name: Vladimirovitj
-  last_name: TARASOV
-  whole_name: Nikolaj Vladimirovitj TARASOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157488'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

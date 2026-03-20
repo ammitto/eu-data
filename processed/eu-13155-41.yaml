@@ -14,31 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: RED  AFA Медиа
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175799'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: AFA Medya Anonim Şirketi
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175800'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - whole_name: RED
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '175801'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: RED  AFA Медиа
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175799'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -50,6 +40,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: AFA Medya Anonim Şirketi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175800'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -68,21 +68,21 @@ addresses:
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 identifications:
-- identification_type_code: euvat
-  number: '0081804196'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '175797'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - identification_type_code: regnumber
   number: 423277-5
   country_iso2_code: TR
   regulation_language: en
   logical_id: '175798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- identification_type_code: euvat
+  number: '0081804196'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '175797'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

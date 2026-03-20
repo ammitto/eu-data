@@ -14,15 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Владiслав
-  middle_name: Леонiдович
-  last_name: БЕРДIЧЕВСЬКИЙ
-  whole_name: Владiслав Леонiдович БЕРДIЧЕВСЬКИЙ
+- whole_name: Vladislav Leonidovitj BERDITJEVSKIJ
   gender: M
-  name_language: UK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '138451'
+  logical_id: '139425'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Vladislav Leonidovytj BERDITJEVSKYJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139424'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'
@@ -44,6 +52,20 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Владiслав
+  middle_name: Леонiдович
+  last_name: БЕРДIЧЕВСЬКИЙ
+  whole_name: Владiслав Леонiдович БЕРДIЧЕВСЬКИЙ
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '138451'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Владислав
   middle_name: Леонидович
   last_name: БЕРДИЧЕВСКИЙ
@@ -53,28 +75,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138452'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Vladislav Leonidovitj BERDITJEVSKIJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139425'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Vladislav Leonidovytj BERDITJEVSKYJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139424'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

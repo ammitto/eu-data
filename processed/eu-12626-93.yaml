@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Николай
-  middle_name: Николаевич
-  last_name: ВАРПАХОВИЧ
-  whole_name: Николай Николаевич ВАРПАХОВИЧ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171838'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - first_name: Nikolay
   middle_name: Nikolaevich
   last_name: VARPAKHOVICH
@@ -39,6 +25,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171839'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- first_name: Николай
+  middle_name: Николаевич
+  last_name: ВАРПАХОВИЧ
+  whole_name: Николай Николаевич ВАРПАХОВИЧ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171838'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -84,21 +84,21 @@ birthdates:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 identifications:
-- identification_type_code: fiscalcode
-  number: '282401037054'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '171837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: passport
   number: '6114904712'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '171836'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- identification_type_code: fiscalcode
+  number: '282401037054'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '171837'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

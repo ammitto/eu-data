@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Kurdistanin työväenpuolue
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '576'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-12-22'
-    number_title: 2003/902/EC (OJ L340)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
-- whole_name: Det Kurdiske Arbejderparti
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '590'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-12-22'
-    number_title: 2003/902/EC (OJ L340)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
 - whole_name: Kurdische Arbeiterpartei
   name_language: DE
   strong: true
@@ -287,6 +267,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '548'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-12-22'
+    number_title: 2003/902/EC (OJ L340)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
+- whole_name: Kurdistanin työväenpuolue
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '576'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-12-22'
+    number_title: 2003/902/EC (OJ L340)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
+- whole_name: Det Kurdiske Arbejderparti
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '590'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-12-22'

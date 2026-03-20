@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Людми́ла
-  middle_name: Миха́йловна
-  last_name: ЖАРКО́ВА
-  whole_name: Людми́ла Миха́йловна ЖАРКО́ВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146751'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Lyudmila
   middle_name: Mikhailovna
   last_name: ZHARKOVA
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146752'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Людми́ла
+  middle_name: Миха́йловна
+  last_name: ЖАРКО́ВА
+  whole_name: Людми́ла Миха́йловна ЖАРКО́ВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146751'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

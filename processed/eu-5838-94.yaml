@@ -24,11 +24,11 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Prvá krymská poisťovacia spoločnosť
-  name_language: SK
+- whole_name: Prvo krimsko osiguravajuće društvo
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '152550'
+  logical_id: '152548'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -63,16 +63,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Prvo krimsko osiguravajuće društvo
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '152548'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Крымская первая страховая компания
   strong: true
   regulation_language: en
@@ -87,6 +77,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152549'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Prvá krymská poisťovacia spoločnosť
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '152550'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

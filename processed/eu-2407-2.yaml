@@ -18,10 +18,20 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Mehr Interest-Free Bank
+- whole_name: Banca Mehr
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '12515'
+  logical_id: '141549'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-28'
+    number_title: 2022/1010 (OJ L170)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1010
+- whole_name: Mehr Bank
+  strong: true
+  regulation_language: en
+  logical_id: '12339'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-05-24'
@@ -36,25 +46,15 @@ name_aliases:
     publication_date: '2011-05-24'
     number_title: 503/2011 (OJ L136)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
-- whole_name: Mehr Bank
+- whole_name: Mehr Interest-Free Bank
   strong: true
   regulation_language: en
-  logical_id: '12339'
+  logical_id: '12515'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-05-24'
     number_title: 503/2011 (OJ L136)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
-- whole_name: Banca Mehr
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '141549'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-28'
-    number_title: 2022/1010 (OJ L170)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1010
 addresses:
 - street: No. 182, Shahid Tohidi St, 4th Golsetan, Pasdaran Ave.
   city: Tehran,1666943

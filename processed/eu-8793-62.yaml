@@ -14,15 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Nikolaj
-  middle_name: Vjatjeslavovitj
-  last_name: RASTORGUJEV
-  whole_name: Nikolaj Vjatjeslavovitj RASTORGUJEV
+- first_name: Nikolay
+  middle_name: Viacheslavovich
+  last_name: RASTORGUEV
+  whole_name: Nikolay Viacheslavovich RASTORGUEV
+  function: Russian singer and member of the Public Council of the Ministry of Defense
+    of the Russian Federation
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144656'
+  logical_id: '144479'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -42,16 +43,15 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Nikolay
-  middle_name: Viacheslavovich
-  last_name: RASTORGUEV
-  whole_name: Nikolay Viacheslavovich RASTORGUEV
-  function: Russian singer and member of the Public Council of the Ministry of Defense
-    of the Russian Federation
+- first_name: Nikolaj
+  middle_name: Vjatjeslavovitj
+  last_name: RASTORGUJEV
+  whole_name: Nikolaj Vjatjeslavovitj RASTORGUJEV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144479'
+  logical_id: '144656'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

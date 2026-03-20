@@ -14,10 +14,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Maitreya Haoxiang Technology Co., Ltd
+- whole_name: Mile Hao Xiang Technology Co., Ltd
+  function: Mile Hao Xiang Technology Co., Ltd is a Chinese entity that provides Russian
+    military and defence industries with military drone components, including for
+    use in Ukraine.
+  title: Limited Liability Company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175103'
+  logical_id: '175105'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -33,15 +38,10 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Mile Hao Xiang Technology Co., Ltd
-  function: Mile Hao Xiang Technology Co., Ltd is a Chinese entity that provides Russian
-    military and defence industries with military drone components, including for
-    use in Ukraine.
-  title: Limited Liability Company
-  name_language: EN
+- whole_name: Maitreya Haoxiang Technology Co., Ltd
   strong: true
   regulation_language: en
-  logical_id: '175105'
+  logical_id: '175103'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -14,11 +14,13 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Акционерное Общество “КОМПАНИЯ ФАРАДЕЙ”
-  name_language: RU
+- whole_name: Joint Stock Company Faraday
+  function: JSC Faraday is a shoe manufacturer for the Russian Army, as well as for
+    the Russian Ministry of the Interior and for Rosgvardiya
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172894'
+  logical_id: '172895'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -34,13 +36,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Joint Stock Company Faraday
-  function: JSC Faraday is a shoe manufacturer for the Russian Army, as well as for
-    the Russian Ministry of the Interior and for Rosgvardiya
-  name_language: EN
+- whole_name: Акционерное Общество “КОМПАНИЯ ФАРАДЕЙ”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '172895'
+  logical_id: '172894'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

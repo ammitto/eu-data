@@ -14,6 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Anatolij  Aleksandrovitj VASSERMAN
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143692'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Anatolij Oleksandrovytj  VASSERMAN
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143691'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Anatoly
   middle_name: Aleksandrovich
   last_name: WASSERMAN
@@ -23,16 +43,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '134207'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Anatolij  Aleksandrovitj VASSERMAN
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143692'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -61,16 +71,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '134206'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Anatolij Oleksandrovytj  VASSERMAN
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143691'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

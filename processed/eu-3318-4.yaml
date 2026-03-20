@@ -14,6 +14,55 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Γραφείο 39
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '143591'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: Γραφείο  αριθ. 39
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '143592'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: Division 39
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '108256'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-05'
+    number_title: 2016/315 (OJ L60)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0315&from=EN
+- whole_name: Third Floor
+  strong: true
+  regulation_language: en
+  logical_id: '15109'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: Τμήμα 39
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '143593'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 - whole_name: Τρίτος  όροφος
   name_language: EL
   strong: true
@@ -24,11 +73,11 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Byrå 39
-  name_language: SV
+- whole_name: Γραφείο 39 της  Κεντρικής Επιτροπής
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '143604'
+  logical_id: '143595'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
@@ -64,6 +113,16 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: Biuro 39
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '143607'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 - whole_name: kancelář  39
   name_language: CS
   strong: true
@@ -94,51 +153,31 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Γραφείο 39
-  name_language: EL
+- whole_name: 39. büroo
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '143591'
+  logical_id: '143612'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Γραφείο  αριθ. 39
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '143592'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Τμήμα 39
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '143593'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Γραφείο 39 της  Κεντρικής Επιτροπής
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '143595'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Centrinio  komiteto 39 biuras
+- whole_name: 39 biuras
   name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '143617'
+  logical_id: '143614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: 39  padalinys
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '143615'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
@@ -154,11 +193,21 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Biuro 39
-  name_language: PL
+- whole_name: Centrinio  komiteto 39 biuras
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '143607'
+  logical_id: '143617'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: Byrå 39
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143604'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
@@ -210,68 +259,7 @@ name_aliases:
     publication_date: '2016-03-05'
     number_title: 2016/315 (OJ L60)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0315&from=EN
-- whole_name: Third Floor
-  strong: true
-  regulation_language: en
-  logical_id: '15109'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Division 39
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '108256'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-05'
-    number_title: 2016/315 (OJ L60)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0315&from=EN
-- whole_name: 39. büroo
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '143612'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: 39 biuras
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '143614'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: 39  padalinys
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '143615'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 addresses:
-- street: Second KWP Government Building (Korean – Ch’o’ngsa, Urban Town (Korean-Dong),
-    Chung Ward
-  city: Pyongyang
-  country_iso2_code: KP
-  country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
-  regulation_language: en
-  logical_id: '108257'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 - street: Chung-Guyok (Central District), Sosong Street, Kyongrim-Dong
   city: Pyongyang
   country_iso2_code: KP
@@ -289,6 +277,18 @@ addresses:
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '143176'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- street: Second KWP Government Building (Korean – Ch’o’ngsa, Urban Town (Korean-Dong),
+    Chung Ward
+  city: Pyongyang
+  country_iso2_code: KP
+  country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
+  regulation_language: en
+  logical_id: '108257'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'

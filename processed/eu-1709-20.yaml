@@ -1,16 +1,16 @@
 ---
 eu_reference_number: EU.1709.20
 logical_id: '4283'
-designation_details: UN designation 03/03/2008 (no longer valid)
+designation_details: UN designation 03/03/2008
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2023-10-17'
-  entry_into_force_date: '2023-10-18'
-  number_title: 2023/2196 (OJ L17102023)
+  publication_date: '2025-09-29'
+  entry_into_force_date: '2025-09-29'
+  number_title: 2025/1982 (OJ L202501982)
   programme: IRN
-  logical_id: '184760'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+  logical_id: '217748'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 subject_type:
   code: enterprise
   classification_code: E
@@ -22,10 +22,21 @@ name_aliases:
   logical_id: '6246'
   regulation_summaries:
   - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+addresses:
+- street: Langare Street, Nobonyad Square
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '159097'
+  regulation_summaries:
+  - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-addresses:
 - city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
@@ -42,17 +53,6 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '159095'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- street: Langare Street, Nobonyad Square
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '159097'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

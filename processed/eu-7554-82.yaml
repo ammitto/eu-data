@@ -14,36 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Igor Vladimirovich  MOZHILOVSKY
-  function: "Major General, \nAssistant to the Minister of \nDefence for Military
-    Economy \nand Finance and a Head of the \nMain Financial and Economic \nDepartment
-    of the Ministry of \nDefence"
+- whole_name: Ihar Uladzimiravitj  Mazjylouski
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '136281'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-02'
-    number_title: 2022/353 (OJ L66)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
-- whole_name: Игорь  Владимирович  МОЖИЛОВСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136280'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-02'
-    number_title: 2022/353 (OJ L66)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
-- whole_name: Ігар  Уладзіміравіч  МАЖЫЛОЎСКІ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '136279'
+  logical_id: '136405'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-02'
@@ -60,12 +36,36 @@ name_aliases:
     publication_date: '2022-03-02'
     number_title: 2022/353 (OJ L66)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
-- whole_name: Ihar Uladzimiravitj  Mazjylouski
+- whole_name: Ігар  Уладзіміравіч  МАЖЫЛОЎСКІ
   gender: M
-  name_language: SV
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '136405'
+  logical_id: '136279'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-02'
+    number_title: 2022/353 (OJ L66)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
+- whole_name: Игорь  Владимирович  МОЖИЛОВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136280'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-02'
+    number_title: 2022/353 (OJ L66)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
+- whole_name: Igor Vladimirovich  MOZHILOVSKY
+  function: "Major General, \nAssistant to the Minister of \nDefence for Military
+    Economy \nand Finance and a Head of the \nMain Financial and Economic \nDepartment
+    of the Ministry of \nDefence"
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '136281'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-02'

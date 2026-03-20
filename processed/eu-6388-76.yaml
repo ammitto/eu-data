@@ -14,13 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ivan Branislavavich MYSLITSKI
-  function: First Deputy Head of the Penal Correction Department of the Ministry of
-    Internal Affairs
+- whole_name: Iван Браніслававіч МЫСЛІЦКІ
   gender: M
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '130163'
+  logical_id: '130161'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -48,6 +47,17 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Иван Брониславович МЫСЛИЦКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '130160'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Ivan Bronislavovich  MYSLITSKIY
   gender: M
   strong: true
@@ -58,23 +68,13 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Iван Браніслававіч МЫСЛІЦКІ
+- whole_name: Ivan Branislavavich MYSLITSKI
+  function: First Deputy Head of the Penal Correction Department of the Ministry of
+    Internal Affairs
   gender: M
-  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '130161'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Иван Брониславович МЫСЛИЦКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '130160'
+  logical_id: '130163'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

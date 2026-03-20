@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: SUE DPR “KOMTEL”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172900'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: ГПУ ДНР “КОМТЕЛ”
+- whole_name: ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ДОНЕЦКОЙ НАРОДНОЙ РЕСПУБЛІКІ “КОМТЕЛ”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '172899'
+  logical_id: '172901'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -42,6 +32,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172902'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: SUE DPR “KOMTEL”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172900'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -78,11 +78,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ ДОНЕЦКОЙ НАРОДНОЙ РЕСПУБЛІКІ “КОМТЕЛ”
+- whole_name: ГПУ ДНР “КОМТЕЛ”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '172901'
+  logical_id: '172899'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

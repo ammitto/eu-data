@@ -15,6 +15,30 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abu Al-Khayr
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174648'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: ABD ALLAH MOHAMED RAGAB ABDEL RAHMAN
+  function: Member of Egyptian Islamic Jihad. Reportedly killed in Syria in February
+    2017
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174650'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 - whole_name: Abu Jihad
   gender: M
   name_language: EN
@@ -37,36 +61,12 @@ name_aliases:
     publication_date: '2025-03-21'
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Abu Al-Khayr
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174648'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 - whole_name: عبد الله محمد رجب عبد الرحمن
   gender: M
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '174649'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: ABD ALLAH MOHAMED RAGAB ABDEL RAHMAN
-  function: Member of Egyptian Islamic Jihad. Reportedly killed in Syria in February
-    2017
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174650'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'

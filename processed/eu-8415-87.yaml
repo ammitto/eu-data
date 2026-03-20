@@ -14,15 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ansar al-Islam
-  strong: true
-  regulation_language: en
-  logical_id: '141439'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
 - whole_name: Ansarul Islam
   strong: true
   regulation_language: en
@@ -59,6 +50,15 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Ansar al-Islam
+  strong: true
+  regulation_language: en
+  logical_id: '141439'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
 - whole_name: Ansar-ul-islam lil-ichad wal jihad
   strong: true
   regulation_language: en
@@ -72,6 +72,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141434'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Ansar ul Islam of Malam Boureima Dicko
+  strong: true
+  regulation_language: en
+  logical_id: '141433'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'
@@ -92,15 +101,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141503'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Ansar ul Islam of Malam Boureima Dicko
-  strong: true
-  regulation_language: en
-  logical_id: '141433'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'

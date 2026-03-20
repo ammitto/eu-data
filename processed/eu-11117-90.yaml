@@ -14,6 +14,32 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ljudmila
+  last_name: Smolkinová
+  whole_name: Ljudmila Smolkinová
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '161908'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-29'
+    number_title: 2024/417 (OJ L29012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
+- first_name: Ľudmila
+  last_name: Smolkinová
+  whole_name: Ľudmila Smolkinová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '161912'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-29'
+    number_title: 2024/417 (OJ L29012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
 - first_name: Ljudmyla
   middle_name: Mychajlivna
   last_name: SMOLKINA
@@ -23,34 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161922'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-29'
-    number_title: 2024/417 (OJ L29012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Ljudmila
-  middle_name: Michajlovna
-  last_name: SMOLKINA
-  whole_name: Ljudmila Michajlovna SMOLKINA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161923'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-29'
-    number_title: 2024/417 (OJ L29012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Людмила
-  middle_name: Михайлiвна
-  last_name: СМОЛКIНА
-  whole_name: Людмила Михайлiвна СМОЛКIНА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '161893'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'
@@ -70,27 +68,15 @@ name_aliases:
     publication_date: '2024-01-29'
     number_title: 2024/417 (OJ L29012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Ľudmila
-  last_name: Smolkinová
-  whole_name: Ľudmila Smolkinová
+- first_name: Людмила
+  middle_name: Михайлiвна
+  last_name: СМОЛКIНА
+  whole_name: Людмила Михайлiвна СМОЛКIНА
   gender: F
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '161912'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-29'
-    number_title: 2024/417 (OJ L29012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Ljudmila
-  last_name: Smolkinová
-  whole_name: Ljudmila Smolkinová
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '161908'
+  logical_id: '161893'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'
@@ -106,6 +92,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161895'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-29'
+    number_title: 2024/417 (OJ L29012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
+- first_name: Ljudmila
+  middle_name: Michajlovna
+  last_name: SMOLKINA
+  whole_name: Ljudmila Michajlovna SMOLKINA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161923'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'

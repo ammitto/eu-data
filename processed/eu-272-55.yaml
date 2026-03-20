@@ -15,6 +15,34 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Viktor
+  middle_name: Petrovitj
+  last_name: VODOLATSKIJ
+  whole_name: Viktor Petrovitj VODOLATSKIJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '144196'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Виктор
+  middle_name: Петрович
+  last_name: ВОДОЛАЦКИЙ
+  whole_name: Виктор Петрович ВОДОЛАЦКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '18167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Viktor
   middle_name: Petrovich
   last_name: VODOLATSKY
   whole_name: Viktor Petrovich VODOLATSKY
@@ -31,34 +59,6 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Виктор
-  middle_name: Петрович
-  last_name: ВОДОЛАЦКИЙ
-  whole_name: Виктор Петрович ВОДОЛАЦКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '18167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Viktor
-  middle_name: Petrovitj
-  last_name: VODOLATSKIJ
-  whole_name: Viktor Petrovitj VODOLATSKIJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '144196'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 birthdates:
 - birthdate: '1957-08-19'
   circa: false

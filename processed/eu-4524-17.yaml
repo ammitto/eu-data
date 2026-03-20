@@ -14,26 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Miroslav Aleksandrovitj POGORELOV
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143811'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Myroslav Oleksandrovytj POHORJELOV
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143810'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Miroslav
   middle_name: Aleksandrovich
   last_name: POGORELOV
@@ -51,14 +31,14 @@ name_aliases:
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Мирослав
-  middle_name: Олександрович
-  last_name: ПОГОРЄЛОВ
-  whole_name: Мирослав Олександрович ПОГОРЄЛОВ
+  middle_name: Александрович
+  last_name: ПОГОРЕЛОВ
+  whole_name: Мирослав Александрович ПОГОРЕЛОВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '116732'
+  logical_id: '116734'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -80,14 +60,34 @@ name_aliases:
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Мирослав
-  middle_name: Александрович
-  last_name: ПОГОРЕЛОВ
-  whole_name: Мирослав Александрович ПОГОРЕЛОВ
+  middle_name: Олександрович
+  last_name: ПОГОРЄЛОВ
+  whole_name: Мирослав Олександрович ПОГОРЄЛОВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '116734'
+  logical_id: '116732'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Myroslav Oleksandrovytj POHORJELOV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143810'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Miroslav Aleksandrovitj POGORELOV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

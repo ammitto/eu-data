@@ -40,19 +40,6 @@ name_aliases:
     publication_date: '2024-11-25'
     number_title: 2024/2934 (OJ L25112024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402934
-- first_name: Mohamed
-  last_name: al-MUFLEH
-  whole_name: Mohamed al-MUFLEH
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17200'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-11-25'
-    number_title: 2024/2934 (OJ L25112024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402934
 - first_name: Mohammad
   last_name: al-MUFLEH
   whole_name: Mohammad al-MUFLEH
@@ -80,17 +67,19 @@ name_aliases:
     publication_date: '2024-11-25'
     number_title: 2024/2934 (OJ L25112024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402934
-- whole_name: محمد مفلح
+- first_name: Mohamed
+  last_name: al-MUFLEH
+  whole_name: Mohamed al-MUFLEH
   gender: M
-  name_language: AR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '124396'
+  logical_id: '17200'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+    publication_date: '2024-11-25'
+    number_title: 2024/2934 (OJ L25112024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402934
 - first_name: Mohammed
   last_name: al-MUFLEH
   whole_name: Mohammed al-MUFLEH
@@ -154,6 +143,17 @@ name_aliases:
     publication_date: '2024-11-25'
     number_title: 2024/2934 (OJ L25112024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402934
+- whole_name: محمد مفلح
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124396'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 birthdates:
 - circa: true
   calendar_type: GREGORIAN

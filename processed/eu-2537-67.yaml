@@ -14,6 +14,33 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Raad Iran
+  strong: true
+  regulation_language: en
+  logical_id: '12402'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-07-30'
+    number_title: 2021/1242 (OJ L272)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
+- whole_name: Raad Automation Company
+  strong: true
+  regulation_language: en
+  logical_id: '12403'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-05-24'
+    number_title: 503/2011 (OJ L136)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
+- whole_name: Automation Raad  Khavar Mianeh Nabbet Co
+  strong: true
+  regulation_language: en
+  logical_id: '131107'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-07-30'
+    number_title: 2021/1242 (OJ L272)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
 - whole_name: Automasion RAAD  Khavar Mianeh
   strong: true
   regulation_language: en
@@ -50,24 +77,6 @@ name_aliases:
     publication_date: '2021-07-30'
     number_title: 2021/1242 (OJ L272)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
-- whole_name: Automation Raad  Khavar Mianeh Nabbet Co
-  strong: true
-  regulation_language: en
-  logical_id: '131107'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-07-30'
-    number_title: 2021/1242 (OJ L272)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
-- whole_name: Middle  East Raad  Automation
-  strong: true
-  regulation_language: en
-  logical_id: '131113'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-07-30'
-    number_title: 2021/1242 (OJ L272)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
 - whole_name: RAAD  Automation Co.
   strong: true
   regulation_language: en
@@ -77,19 +86,10 @@ name_aliases:
     publication_date: '2021-07-30'
     number_title: 2021/1242 (OJ L272)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
-- whole_name: Raad Automation Company
+- whole_name: Middle  East Raad  Automation
   strong: true
   regulation_language: en
-  logical_id: '12403'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-05-24'
-    number_title: 503/2011 (OJ L136)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
-- whole_name: Raad Iran
-  strong: true
-  regulation_language: en
-  logical_id: '12402'
+  logical_id: '131113'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-07-30'

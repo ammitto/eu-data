@@ -15,10 +15,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mundhir Jamil AL-ASSAD
+- whole_name: منذر جميل الأسد
+  gender: M
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '112186'
+  logical_id: '124385'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -34,21 +36,19 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: منذر جميل الأسد
-  gender: M
-  name_language: AR
+- whole_name: Monzer Jamil AL-ASSAD
   strong: true
   regulation_language: en
-  logical_id: '124385'
+  logical_id: '112185'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Monzer Jamil AL-ASSAD
+- whole_name: Mundhir Jamil AL-ASSAD
   strong: true
   regulation_language: en
-  logical_id: '112185'
+  logical_id: '112186'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

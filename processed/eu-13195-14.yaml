@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Sultan Murad Hadosztály
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '176064'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
 - whole_name: Rannán Sultan Murad
   name_language: GA
   strong: true
@@ -34,11 +24,21 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Μεραρχία Sultan Murad
-  name_language: EL
+- whole_name: Sultan Murad Hadosztály
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '176066'
+  logical_id: '176064'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Dywizja im. Sułtana Murada
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '176063'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'
@@ -88,11 +88,11 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Dywizja im. Sułtana Murada
-  name_language: PL
+- whole_name: Μεραρχία Sultan Murad
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '176063'
+  logical_id: '176066'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'

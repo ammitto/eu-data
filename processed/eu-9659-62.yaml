@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Зелимхан
+  middle_name: Аликоевич
+  last_name: МУЦОЕВ
+  whole_name: Зелимхан Аликоевич МУЦОЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149605'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Zelimkhan
   middle_name: Alikoevich
   last_name: MUTSOEV
@@ -35,20 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151007'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Зелимхан
-  middle_name: Аликоевич
-  last_name: МУЦОЕВ
-  whole_name: Зелимхан Аликоевич МУЦОЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149605'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

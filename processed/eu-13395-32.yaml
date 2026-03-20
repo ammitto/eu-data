@@ -14,31 +14,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Milavous Group-yhtiö
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '177278'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Milavous Group Kft
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177279'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Milavus Group
+- whole_name: Milavous Group Ltd
+  function: Milavous Group Ltd is a Dubai-based shipping and commodity trading company.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177280'
+  logical_id: '177282'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -54,12 +35,31 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Milavous Group Ltd
-  function: Milavous Group Ltd is a Dubai-based shipping and commodity trading company.
+- whole_name: Milavus Group
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177282'
+  logical_id: '177280'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Milavous Group-yhtiö
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '177278'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Milavous Group Kft
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177279'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

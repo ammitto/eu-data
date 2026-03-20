@@ -16,6 +16,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: CRL
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158106'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-10'
+    number_title: 2023/2121 (OJ L10102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302121
+- whole_name: Composites Research Laboratory
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158107'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-10'
+    number_title: 2023/2121 (OJ L10102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302121
 - whole_name: Iranisches Verbundwerkstoffinstitut
   name_language: DE
   strong: true
@@ -46,16 +66,16 @@ name_aliases:
     publication_date: '2023-10-10'
     number_title: 2023/2121 (OJ L10102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302121
-- whole_name: ICI
-  name_language: EN
+- whole_name: Institutul iranian de compoziți
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '16942'
+  logical_id: '16992'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+    publication_date: '2012-12-22'
+    number_title: 1264/2012 (OJ L356)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:356:0055:0060:en:PDF
 - whole_name: Iran Composites Institute
   name_language: EN
   strong: true
@@ -66,16 +86,16 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Composites Research Laboratory
+- whole_name: ICI
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158107'
+  logical_id: '16942'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-10-10'
-    number_title: 2023/2121 (OJ L10102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302121
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: Composite Institute of Iran
   name_language: EN
   strong: true
@@ -96,16 +116,6 @@ name_aliases:
     publication_date: '2012-12-22'
     number_title: 1264/2012 (OJ L356)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:356:0055:0060:en:PDF
-- whole_name: Institutul iranian de compoziți
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '16992'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-22'
-    number_title: 1264/2012 (OJ L356)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:356:0055:0060:en:PDF
 - whole_name: Iránsky ústav pre kompozitné materiály
   name_language: SK
   strong: true
@@ -116,16 +126,6 @@ name_aliases:
     publication_date: '2012-12-22'
     number_title: 1264/2012 (OJ L356)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:356:0055:0060:en:PDF
-- whole_name: CRL
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158106'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-10'
-    number_title: 2023/2121 (OJ L10102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302121
 addresses:
 - street: Iran Composites Institute, Iranian University of Science and Technology
   city: Tehran

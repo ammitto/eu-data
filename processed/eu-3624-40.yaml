@@ -15,18 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Straton
-  last_name: Musoni
-  whole_name: Straton Musoni
-  function: Former FDLR Vice President
-  strong: true
-  regulation_language: en
-  logical_id: '5123'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 - first_name: I.O.
   last_name: Musoni
   whole_name: I.O. Musoni
@@ -34,6 +22,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '5124'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
+- first_name: Straton
+  last_name: Musoni
+  whole_name: Straton Musoni
+  function: Former FDLR Vice President
+  strong: true
+  regulation_language: en
+  logical_id: '5123'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-07'

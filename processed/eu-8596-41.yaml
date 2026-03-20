@@ -39,6 +39,17 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: det føderale agentur for anliggender vedrørende Fællesskabet af Uafhængige
+    Stater, landsmænd, der er bosat i udlandet, og internationalt humanitært samarbejde
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '152397'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Agência Federal para a Comunidade dos Assuntos dos Estados Independentes,
     os  Compatriotas a Viver no Estrangeiro e a Cooperação Humanitária Internacional
   name_language: PT
@@ -61,33 +72,22 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Rosotrudniczestwo
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '152453'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: det føderale agentur for anliggender vedrørende Fællesskabet af Uafhængige
-    Stater, landsmænd, der er bosat i udlandet, og internationalt humanitært samarbejde
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '152397'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Agenzia federale per gli affari della Comunità di Stati indipendenti,
     i compatrioti che vivono all'estero e la cooperazione umanitaria internazionale
   name_language: IT
   strong: true
   regulation_language: en
   logical_id: '152419'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Rosotrudniczestwo
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152453'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

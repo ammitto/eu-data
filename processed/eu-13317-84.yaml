@@ -14,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: OKB TSP Scientific Production Gesellschaft mit beschränkter Haftung
-  name_language: DE
+- whole_name: Εταιρεία περιορισμένης ευθύνης επιστημονικής παραγωγής OKB TSP
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '177176'
+  logical_id: '177175'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Научно-производствено дружество с ограничена отговорност „ОКБ ТСП“
-  name_language: BG
+- whole_name: OKB TSP, société de recherche et de production à responsabilité limitée
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '177177'
+  logical_id: '177174'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -59,11 +59,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: OKB TSP, société de recherche et de production à responsabilité limitée
-  name_language: FR
+- whole_name: Научно-производствено дружество с ограничена отговорност „ОКБ ТСП“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '177174'
+  logical_id: '177177'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -100,11 +100,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Εταιρεία περιορισμένης ευθύνης επιστημονικής παραγωγής OKB TSP
-  name_language: EL
+- whole_name: OKB TSP Scientific Production Gesellschaft mit beschränkter Haftung
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '177175'
+  logical_id: '177176'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

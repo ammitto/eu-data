@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: l-Isqra għall-Ħelsien tal-Kurdistan
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '123387'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: l-Falkuni għall-Ħelsien tal-Kurdistan
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '123388'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
 - whole_name: Kurdistanski jastrebovi slobode
   name_language: HR
   strong: true
@@ -264,6 +244,46 @@ name_aliases:
     publication_date: '2006-12-28'
     number_title: 2006/1008/EC (OJ L379)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:379:0123:0124:EN:PDF
+- whole_name: Jestřábi za osvobození Kurdistánu
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '5097'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-12-28'
+    number_title: 2006/1008/EC (OJ L379)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:379:0123:0124:EN:PDF
+- whole_name: Sokoły Wolności Kurdystanu
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '5098'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-12-28'
+    number_title: 2006/1008/EC (OJ L379)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:379:0123:0124:EN:PDF
+- whole_name: l-Falkuni għall-Ħelsien tal-Kurdistan
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '123388'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: l-Isqra għall-Ħelsien tal-Kurdistan
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '123387'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
 - whole_name: Ястреби за свободата на Кюрдистан
   name_language: BG
   strong: true
@@ -374,16 +394,6 @@ name_aliases:
     publication_date: '2023-07-21'
     number_title: 2023/1505 (OJ L184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Sokoly za slobodu Kurdistanu
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '5100'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-12-28'
-    number_title: 2006/1008/EC (OJ L379)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:379:0123:0124:EN:PDF
 - whole_name: Jastrzębie Wolności Kurdystanu
   name_language: PL
   strong: true
@@ -394,21 +404,11 @@ name_aliases:
     publication_date: '2006-12-28'
     number_title: 2006/1008/EC (OJ L379)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:379:0123:0124:EN:PDF
-- whole_name: Jestřábi za osvobození Kurdistánu
-  name_language: CS
+- whole_name: Sokoly za slobodu Kurdistanu
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '5097'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-12-28'
-    number_title: 2006/1008/EC (OJ L379)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:379:0123:0124:EN:PDF
-- whole_name: Sokoły Wolności Kurdystanu
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '5098'
+  logical_id: '5100'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-12-28'

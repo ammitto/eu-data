@@ -1,40 +1,41 @@
 ---
 eu_reference_number: EU.3875.37
 logical_id: '3789'
-designation_details: UN designation 23/12/2006 (no longer valid)
+designation_details: UN designation 23/12/2006
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2023-10-17'
-  entry_into_force_date: '2023-10-18'
-  number_title: 2023/2196 (OJ L17102023)
+  publication_date: '2025-09-29'
+  entry_into_force_date: '2025-09-29'
+  number_title: 2025/1982 (OJ L202501982)
   programme: IRN
-  logical_id: '184760'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+  logical_id: '217748'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Reza-Gholi
+  last_name: ESMAELI
+  whole_name: Reza-Gholi ESMAELI
+  function: Head of Trade & International Affairs Dept, Aerospace Industries Organisation
+    (AIO)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5158'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: رضاقلی اسماعیلی
   gender: M
   name_language: FA
   strong: true
   regulation_language: en
   logical_id: '158954'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Reza-Gholi
-  last_name: ESMAELI
-  whole_name: Reza-Gholi ESMAELI
-  function: Head of Department in Aerospace Industries Organization (AIO)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5158'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -53,6 +54,17 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Reza-Gholi Ismaili
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181787'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

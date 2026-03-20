@@ -14,54 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Henin Ashraf Refaat Nabith
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '292'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-19'
-    number_title: 2022/1230 (OJ L190)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.190.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A190%3ATOC
-- whole_name: Wadood Khalid Adbul
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '161420'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- whole_name: Bin Khalid Fahd Bin Abdallah
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '291'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/329 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
-- whole_name: Ali Salem
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '290'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-19'
-    number_title: 2022/1230 (OJ L190)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.190.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A190%3ATOC
 - whole_name: Bin Khalid Fahd Bin Adballah
   gender: M
   name_language: FR
   strong: true
   regulation_language: en
   logical_id: '161419'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- whole_name: Wadood Khalid Adbul
+  gender: M
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '161420'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-31'
@@ -77,6 +46,16 @@ name_aliases:
     publication_date: '2022-07-19'
     number_title: 2022/1230 (OJ L190)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.190.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A190%3ATOC
+- whole_name: Henin Ashraf Refaat Nabith
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '292'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-19'
+    number_title: 2022/1230 (OJ L190)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.190.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A190%3ATOC
 - first_name: Khalid Sheikh
   last_name: MOHAMMED
   whole_name: Khalid Sheikh MOHAMMED
@@ -85,6 +64,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '289'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/329 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
+- whole_name: Ali Salem
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '290'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-19'
+    number_title: 2022/1230 (OJ L190)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.190.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A190%3ATOC
+- whole_name: Bin Khalid Fahd Bin Abdallah
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '291'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-16'

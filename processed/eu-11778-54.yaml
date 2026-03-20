@@ -34,21 +34,11 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Institut pro rozvoj internetu
-  name_language: CS
+- whole_name: El Instituto para el Desarrollo de Internet
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '167602'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: L'Institut pour le développement de l'internet
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '167600'
+  logical_id: '167603'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -64,21 +54,21 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Interneto plėtros institutas
-  name_language: LT
+- whole_name: Institut pro rozvoj internetu
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '167599'
+  logical_id: '167602'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: El Instituto para el Desarrollo de Internet
-  name_language: ES
+- whole_name: L'Institut pour le développement de l'internet
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '167603'
+  logical_id: '167600'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -119,6 +109,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167598'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Interneto plėtros institutas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '167599'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

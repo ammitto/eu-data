@@ -14,40 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC “Holding Company ‘LENINETS’”
-  name_language: EN
+- whole_name: "»’LENINETZ’  Holdingvállalat« Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173250'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC “Holding Company ‘LENINETZ’”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173251'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: AO “’ЛЕНИНЕЦ’ - ХОЛДИНГ
-  strong: true
-  regulation_language: en
-  logical_id: '173252'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Dioničko društvo ‚Holding Company ‚LENINETZ’’
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '173479'
+  logical_id: '173438'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -63,11 +34,30 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»’LENINETZ’  Holdingvállalat« Rt."
-  name_language: HU
+- whole_name: Dioničko društvo ‚Holding Company ‚LENINETZ’’
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '173438'
+  logical_id: '173479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: AO “’ЛЕНИНЕЦ’ - ХОЛДИНГ
+  strong: true
+  regulation_language: en
+  logical_id: '173252'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: JSC “Holding Company ‘LENINETZ’”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173251'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -85,6 +75,16 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»’LENINETZ’ Holdingvállalat« Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173439'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Акционерное Общество “Холдинговая Компания ‘ЛЕНИНЕЦ’”
   name_language: RU
   strong: true
@@ -95,11 +95,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»’LENINETZ’ Holdingvállalat« Részvénytársaság"
-  name_language: HU
+- whole_name: JSC “Holding Company ‘LENINETS’”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173439'
+  logical_id: '173250'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -118,21 +118,21 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: fiscalcode
-  number: '7810221748'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '173248'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: regnumber
   number: '1027804850369'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '173249'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: fiscalcode
+  number: '7810221748'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '173248'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

@@ -14,30 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Оксана
-  middle_name: Васильевна
-  last_name: ДЕМЯШЕВА
-  whole_name: Оксана Васильевна ДЕМЯШЕВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '165793'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - first_name: Oksana
-  middle_name: Vasilyevna
-  last_name: DEMYASHEVA
-  whole_name: Oksana Vasilyevna DEMYASHEVA
-  function: Judge in the Vasileostrovsky District Court of Saint Petersburg
+  middle_name: Vasiljevna
+  last_name: Demjaševa
+  whole_name: Oksana Vasiljevna Demjaševa
   gender: F
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '165794'
+  logical_id: '165917'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -58,6 +43,21 @@ name_aliases:
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - first_name: Oksana
+  middle_name: Vasilyevna
+  last_name: DEMYASHEVA
+  whole_name: Oksana Vasilyevna DEMYASHEVA
+  function: Judge in the Vasileostrovsky District Court of Saint Petersburg
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165794'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Oksana
   middle_name: Vasiljevna
   last_name: DEMJAŠEVA
   whole_name: Oksana Vasiljevna DEMJAŠEVA
@@ -72,20 +72,6 @@ name_aliases:
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - first_name: Oksana
-  middle_name: Vasiljevna
-  last_name: Demjaševa
-  whole_name: Oksana Vasiljevna Demjaševa
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '165917'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Oksana
   middle_name: Vasilievna
   last_name: Demjaševová
   whole_name: Oksana Vasilievna Demjaševová
@@ -94,6 +80,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165937'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Оксана
+  middle_name: Васильевна
+  last_name: ДЕМЯШЕВА
+  whole_name: Оксана Васильевна ДЕМЯШЕВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '165793'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

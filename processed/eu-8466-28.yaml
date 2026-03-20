@@ -15,14 +15,16 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Vladimir
-  middle_name: Valerjevitj
+  middle_name: Valeryevich
   last_name: ROGOV
-  whole_name: Vladimir Valerjevitj ROGOV
+  whole_name: Vladimir Valeryevich ROGOV
+  function: So-called representative of the main council of Zaporozhzhia region’s
+    military-civil administration.
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '142342'
+  logical_id: '141761'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -37,22 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142341'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Vladimir
-  middle_name: Valeryevich
-  last_name: ROGOV
-  whole_name: Vladimir Valeryevich ROGOV
-  function: So-called representative of the main council of Zaporozhzhia region’s
-    military-civil administration.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '141761'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -81,6 +67,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141759'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Vladimir
+  middle_name: Valerjevitj
+  last_name: ROGOV
+  whole_name: Vladimir Valerjevitj ROGOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '142342'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

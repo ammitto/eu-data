@@ -14,33 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jekaterina
-  middle_name: Michajlovna
-  last_name: MIZULINA
-  whole_name: Jekaterina Michajlovna MIZULINA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161917'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-29'
-    number_title: 2024/417 (OJ L29012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Jekaterina
-  last_name: Mizulinová
-  whole_name: Jekaterina Mizulinová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '161910'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-29'
-    number_title: 2024/417 (OJ L29012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
 - first_name: Ekaterina
   middle_name: Mikhailovna
   last_name: MIZULINA
@@ -80,6 +53,33 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161906'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-29'
+    number_title: 2024/417 (OJ L29012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
+- first_name: Jekaterina
+  middle_name: Michajlovna
+  last_name: MIZULINA
+  whole_name: Jekaterina Michajlovna MIZULINA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161917'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-29'
+    number_title: 2024/417 (OJ L29012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
+- first_name: Jekaterina
+  last_name: Mizulinová
+  whole_name: Jekaterina Mizulinová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '161910'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'

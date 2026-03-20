@@ -1,16 +1,16 @@
 ---
 eu_reference_number: EU.3862.44
 logical_id: '3780'
-designation_details: UN designation 24/03/2007 (no longer valid)
+designation_details: 'Date of UN designation: 24.3.2007'
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2025-07-28'
-  entry_into_force_date: '2025-07-29'
-  number_title: 2025/1559 (OJ L202501559)
+  publication_date: '2025-09-29'
+  entry_into_force_date: '2025-09-29'
+  number_title: 2025/1982 (OJ L202501982)
   programme: IRN
-  logical_id: '216042'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501559
+  logical_id: '217748'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 subject_type:
   code: person
   classification_code: P
@@ -23,30 +23,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158974'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Fereydoun
-  last_name: ABASSI-DAVANI
-  whole_name: Fereydoun ABASSI-DAVANI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158975'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: فریدون عباسی دوانی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '158976'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -65,19 +41,44 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Fereidun
-  last_name: ABASSI-DAVANI
-  whole_name: Fereidun ABASSI-DAVANI
+- whole_name: فریدون عباسی دوانی
   gender: M
-  name_language: EN
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '158973'
+  logical_id: '158976'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Fereydoun
+  last_name: ABASSI-DAVANI
+  whole_name: Fereydoun ABASSI-DAVANI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158975'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Fereidoun
+  last_name: ABBASI-DAVANI
+  whole_name: Fereidoun ABBASI-DAVANI
+  function: Senior Ministry of Defence and Armed Forces Logistics (MODAFL) Scientist.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5151'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - first_name: Fereidoun
   last_name: ABASSI-DAVANI
   whole_name: Fereidoun ABASSI-DAVANI
@@ -95,18 +96,14 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Fereidoun
-  last_name: ABBASI-DAVANI
-  whole_name: Fereidoun ABBASI-DAVANI
-  function: |-
-    member of parliament in Iran;
-    former senior Ministry of Defence and Armed Forces Logistics (MODAFL) scientist;
-    former Head of the Atomic Energy Organization of Iran
+- first_name: Fereidun
+  last_name: ABASSI-DAVANI
+  whole_name: Fereidun ABASSI-DAVANI
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '5151'
+  logical_id: '158973'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -140,3 +137,29 @@ birthdates:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1958
+  city: Abadan
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '181761'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1959
+  city: Abadan
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '181760'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982

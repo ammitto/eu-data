@@ -24,29 +24,6 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Общество с ограниченной
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179875'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Limited Liability Company - Yadran-Group
-  function: "A Russian conglomerate established in Tatarstan and mainly active in
-    the oil sector, including in the extraction, processing and sale of oil and oil
-    \nproducts"
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179878'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Yadran-Group - Korlátolt  Felelősségű Társaság
   name_language: HU
   strong: true
@@ -67,6 +44,16 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Общество с ограниченной
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179875'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Yadran Group
   name_language: EN
   strong: true
@@ -82,6 +69,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179877'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Limited Liability Company - Yadran-Group
+  function: "A Russian conglomerate established in Tatarstan and mainly active in
+    the oil sector, including in the extraction, processing and sale of oil and oil
+    \nproducts"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179878'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

@@ -14,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Виктор Владимирович РОГОВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175924'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/958 (OJ L202500958)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
 - whole_name: Viktor Vladimirovich ROGOV
   function: Viktor Rogov is a judge at the First Court of Appeal of General Jurisdiction.
     He upheld the sentences against politician Alexei Navalny and Daniel Kholodny,
@@ -26,16 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175925'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/958 (OJ L202500958)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
-- whole_name: Виктор Владимирович РОГОВ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175924'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

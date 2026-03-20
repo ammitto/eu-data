@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ipari Technológiák Részvénytársaság
-  name_language: HU
+- whole_name: Industrial Technologies Joint Stock Company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173405'
+  logical_id: '172748'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -54,11 +54,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: АО “Промтех”
+- whole_name: Акционерное общество “Промтех”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '172746'
+  logical_id: '172750'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -74,11 +74,21 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Industrial Technologies Joint Stock Company
+- whole_name: Prometch JSC
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172748'
+  logical_id: '172749'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Ipari Technológiák Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173405'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -96,21 +106,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Акционерное общество “Промтех”
+- whole_name: АО “Промтех”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '172750'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Prometch JSC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172749'
+  logical_id: '172746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -131,21 +131,21 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: fiscalcode
-  number: '5024101198'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '172744'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: regnumber
   number: '1085024625510'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172745'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: fiscalcode
+  number: '5024101198'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '172744'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

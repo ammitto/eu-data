@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohamed
-  last_name: Mire
-  whole_name: Mohamed Mire
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167495'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-17'
-    number_title: 2024/1724 (OJ L20240617)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
 - first_name: Mohamed Mohamud
   last_name: Mire
   whole_name: Mohamed Mohamud Mire
@@ -37,6 +24,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167496'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-17'
+    number_title: 2024/1724 (OJ L20240617)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
+- first_name: Mohamed
+  last_name: Mire
+  whole_name: Mohamed Mire
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167495'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'
@@ -55,12 +55,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1955
+  year: 1962
   city: Kismayo
   country_iso2_code: SO
   country_description: SOMALIA
   regulation_language: en
-  logical_id: '167491'
+  logical_id: '167493'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'
@@ -81,12 +81,12 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
 - circa: false
   calendar_type: GREGORIAN
-  year: 1962
+  year: 1955
   city: Kismayo
   country_iso2_code: SO
   country_description: SOMALIA
   regulation_language: en
-  logical_id: '167493'
+  logical_id: '167491'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'

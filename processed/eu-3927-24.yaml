@@ -1,33 +1,79 @@
 ---
 eu_reference_number: EU.3927.24
 logical_id: '3808'
-designation_details: UN designation 24/03/2007 (no longer valid)
+designation_details: UN designation 24/03/2007
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2024-07-29'
-  entry_into_force_date: '2024-07-30'
-  number_title: 2024/2074 (OJ L29072024)
+  publication_date: '2025-09-29'
+  entry_into_force_date: '2025-09-29'
+  number_title: 2025/1982 (OJ L202501982)
   programme: IRN
-  logical_id: '200116'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+  logical_id: '217748'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohammad Bagher
-  last_name: ZOLGHADR
-  whole_name: Mohammad Bagher ZOLGHADR
+- whole_name: Mohammad Baqer Zolqader
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158963'
+  logical_id: '181792'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Mohammad Baqer Zolqadir
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181793'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Mohammad Bakr Zolkadr
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181794'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Mohammad Bakr Zolqadr
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181795'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- first_name: Mohammad Baqer
+  last_name: ZOLQADR
+  whole_name: Mohammad Baqer ZOLQADR
+  function: General, IRGC officer, Deputy Interior Minister for Security Affairs.
+  gender: M
+  title: General
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5177'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - first_name: Mohammad Baqer
   last_name: ZULQADER
   whole_name: Mohammad Baqer ZULQADER
@@ -52,16 +98,14 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Mohammad Baqer
-  last_name: ZOLQADR
-  whole_name: Mohammad Baqer ZOLQADR
-  function: Secretary of the Expediency Discernment Council
+- first_name: Mohammad Bagher
+  last_name: ZOLGHADR
+  whole_name: Mohammad Bagher ZOLGHADR
   gender: M
-  title: General
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '5177'
+  logical_id: '158963'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

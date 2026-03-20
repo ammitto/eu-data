@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Naji Ibrahim SHARIFI-ZINDASHTI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177457'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1396 (OJ L202501396)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
 - whole_name: KENANI Emirhan
   gender: M
   name_language: EN
@@ -25,12 +36,12 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1396 (OJ L202501396)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
-- whole_name: Naji Ibrahim SHARIFI-ZINDASHTI
+- whole_name: Naci SERIFI ZINDASTI
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177457'
+  logical_id: '177455'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -49,17 +60,6 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1396 (OJ L202501396)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
-- whole_name: Naci SERIFI ZINDASTI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177455'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1396 (OJ L202501396)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
 - first_name: Naji
   last_name: SHARIFI ZINDASHTI
   whole_name: Naji SHARIFI ZINDASHTI
@@ -73,6 +73,17 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1396 (OJ L202501396)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
+- whole_name: ناجی ابراهیم شریفی زیندشتی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '177451'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1396 (OJ L202501396)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
 - first_name: Naji
   last_name: SHARIFI-ZINDASHTI
   whole_name: Naji SHARIFI-ZINDASHTI
@@ -81,17 +92,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177452'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1396 (OJ L202501396)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
-- whole_name: ناجی ابراهیم شریفی زیندشتی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '177451'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

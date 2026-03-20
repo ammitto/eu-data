@@ -14,26 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: 정승일
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141947'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: JONG Sung-Il
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '139178'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-21'
-    number_title: 2022/659 (OJ L120)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.120.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A120%3ATOC
 - whole_name: JONG Sung Il
   function: "“Senior Party Official” and “leading official in the field of national
     defence science” and identified by a UN Member State as a former Vice-Director
@@ -48,6 +28,26 @@ name_aliases:
     publication_date: '2022-04-21'
     number_title: 2022/659 (OJ L120)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.120.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A120%3ATOC
+- whole_name: JONG Sung-Il
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '139178'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-21'
+    number_title: 2022/659 (OJ L120)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.120.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A120%3ATOC
+- whole_name: 정승일
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141947'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 citizenships:
 - country_iso2_code: KP
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF

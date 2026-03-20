@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: código postal de campanha 74455
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '165484'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
 - whole_name: Centro Principal de Tecnologias Especiais (GTsST) da Direção-Geral de
     Informações do Estado- -Maior-General das Forças Armadas da Federação da Rússia
     (GU/GRU)
@@ -42,16 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165531'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: código postal de campanha 74455
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '165484'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'

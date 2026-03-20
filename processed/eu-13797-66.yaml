@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Дмитрий Анатольевич ГАРЦЕВ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179577'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Dmitry Anatolievich GARTSEV
   gender: M
   title: Minister of Health of the so-called “Donetsk People’s Republic”
@@ -31,6 +21,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179578'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Дмитрий Анатольевич ГАРЦЕВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179577'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

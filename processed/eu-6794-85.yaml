@@ -14,33 +14,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Siarhei Siarheevich GIRGEL
+  function: Senior Prosecutor of the Department of Public Prosecution of the General
+    Prosecutor’s Office
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '132626'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: Sergej Sergejevitj GIRGEL
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '132621'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Sergei Sergeevich GIRGEL
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '132625'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Сяргей Сяргеевіч ГІРГЕЛЬ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '132624'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -57,24 +48,33 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Siarhei Siarheevich GIRGEL
-  function: Senior Prosecutor of the Department of Public Prosecution of the General
-    Prosecutor’s Office
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '132626'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: Siarhej Siarhejevitj HIRHEL
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '132622'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Сяргей Сяргеевіч ГІРГЕЛЬ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '132624'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Sergei Sergeevich GIRGEL
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '132625'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

@@ -24,41 +24,21 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: LLC TRIMIX
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172916'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ “ТРИМИКС”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '172917'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»TRIMIX« Korlátolt Felelősségű  Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173364'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: TRIMIX Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173363'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: 3MX Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173362'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -76,11 +56,31 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: LLC TRIMIX
-  name_language: EN
+- whole_name: "»TRIMIX« Korlátolt Felelősségű  Társaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172916'
+  logical_id: '173364'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: 3MX Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173362'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: TRIMIX Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173363'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -100,11 +100,11 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: other
-  number: '780201001'
-  country_iso2_code: '00'
+- identification_type_code: regnumber
+  number: '1237800084235'
+  country_iso2_code: RU
   regulation_language: en
-  logical_id: '172912'
+  logical_id: '172914'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -120,11 +120,11 @@ identifications:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- identification_type_code: regnumber
-  number: '1237800084235'
-  country_iso2_code: RU
+- identification_type_code: other
+  number: '780201001'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '172914'
+  logical_id: '172912'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

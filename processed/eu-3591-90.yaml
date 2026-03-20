@@ -16,6 +16,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: زهير حمد
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124431'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: Zuhair HAMAD
   function: Deputy Head of General Intelligence Directorate (a.k.a. General Security
     Directorate) since July 2012
@@ -38,12 +49,10 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: زهير حمد
-  gender: M
-  name_language: AR
+- whole_name: Zuheir HAMAD
   strong: true
   regulation_language: en
-  logical_id: '124431'
+  logical_id: '17256'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -53,15 +62,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17257'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Zuheir HAMAD
-  strong: true
-  regulation_language: en
-  logical_id: '17256'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

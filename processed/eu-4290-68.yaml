@@ -60,21 +60,21 @@ birthdates:
     number_title: 2024/3152 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403152
 identifications:
-- identification_type_code: passport
-  number: '290220142'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '115170'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-01-22'
-    number_title: 2018/87 (OJ L16 I)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0087&from=EN
 - identification_type_code: other
   number: '836220035'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '115169'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-01-22'
+    number_title: 2018/87 (OJ L16 I)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0087&from=EN
+- identification_type_code: passport
+  number: '290220142'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '115170'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-01-22'

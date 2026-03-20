@@ -24,23 +24,12 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: German Oskarovich GREF
-  function: Chief Executive Officer and Chairman of the Executive Board of Sberbank
-    of Russia, confirmed by the Board of Directors on 16 October 2007
+- whole_name: Герман Оскарович ГРЕФ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '138211'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: German Oskarovič GREF
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '139337'
+  logical_id: '138209'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
@@ -56,12 +45,23 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Герман Оскарович ГРЕФ
-  gender: M
-  name_language: RU
+- whole_name: German Oskarovič GREF
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '138209'
+  logical_id: '139337'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: German Oskarovich GREF
+  function: Chief Executive Officer and Chairman of the Executive Board of Sberbank
+    of Russia, confirmed by the Board of Directors on 16 October 2007
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '138211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

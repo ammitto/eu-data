@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Uzina de construcții de mașini din Votkinsk
-  name_language: RO
+- whole_name: Воткинский завод
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '147879'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Usine de construction  mécanique de Votkinsk
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147712'
+  logical_id: '147215'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -53,21 +43,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Votkinsko mašinų gamykla
-  name_language: LT
+- whole_name: Usine de construction  mécanique de Votkinsk
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '147976'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Votkinsk machinefabriek
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '147909'
+  logical_id: '147712'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -83,11 +63,31 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Воткинский завод
-  name_language: RU
+- whole_name: Votkinsk machinefabriek
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '147215'
+  logical_id: '147909'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Votkinsko mašinų gamykla
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147976'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Uzina de construcții de mașini din Votkinsk
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '147879'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

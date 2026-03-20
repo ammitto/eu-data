@@ -75,20 +75,6 @@ name_aliases:
     publication_date: '2022-07-27'
     number_title: 2022/1308 (OJ L198)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1308
-- first_name: Quren
-  middle_name: Salih Quren
-  last_name: AL GADAFI
-  whole_name: Quren Salih Quren AL GADAFI
-  gender: M
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '142872'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-27'
-    number_title: 2022/1308 (OJ L198)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1308
 - first_name: Kuren
   middle_name: Sálih Kuren
   last_name: AL KADDÁFÍ
@@ -98,6 +84,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142873'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-27'
+    number_title: 2022/1308 (OJ L198)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1308
+- first_name: Quren
+  middle_name: Salih Quren
+  last_name: AL GADAFI
+  whole_name: Quren Salih Quren AL GADAFI
+  gender: M
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '142872'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-27'

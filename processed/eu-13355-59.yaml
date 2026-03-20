@@ -40,6 +40,17 @@ name_aliases:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 addresses:
+- street: Zibo Comprehensive Bonded Zone North District Cotton 4-8#
+  city: ZIBO
+  country_iso2_code: CN
+  country_description: CHINA
+  regulation_language: en
+  logical_id: '177048'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - street: Warehouse No. 4, 5, 6, 7, 8, Zibo Bonded Logistics Park, Zibo High-tech
     Industrial Development Zone
   city: Zibo
@@ -53,33 +64,22 @@ addresses:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- street: Zibo Comprehensive Bonded Zone North District Cotton 4-8#
-  city: ZIBO
-  country_iso2_code: CN
-  country_description: CHINA
-  regulation_language: en
-  logical_id: '177048'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: other
-  number: 3700MA3ERW0G0
-  country_iso2_code: CN
-  regulation_language: en
-  logical_id: '177049'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: unssn
   number: 91370303MA3ERW0G0M
   country_iso2_code: CN
   regulation_language: en
   logical_id: '177050'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: other
+  number: 3700MA3ERW0G0
+  country_iso2_code: CN
+  regulation_language: en
+  logical_id: '177049'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

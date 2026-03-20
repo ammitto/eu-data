@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Закрытое акционерное общество “ГОЛОГРАФИЧЕСКАЯ ИНДУСТРИЯ”
+- whole_name: ZAO Golograficheskaya Industriya
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179697'
+  logical_id: '179699'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -34,21 +34,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2039 (OJ L202502039)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
-- whole_name: JSC Holography Industry
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179701'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2039 (OJ L202502039)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
-- whole_name: ZAO Golograficheskaya Industriya
+- whole_name: Закрытое акционерное общество “ГОЛОГРАФИЧЕСКАЯ ИНДУСТРИЯ”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179699'
+  logical_id: '179697'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -59,6 +49,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179700'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2039 (OJ L202502039)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
+- whole_name: JSC Holography Industry
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179701'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

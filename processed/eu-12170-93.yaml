@@ -14,6 +14,30 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Andrej
+  last_name: Mlečka
+  whole_name: Andrej Mlečka
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '169537'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Андрей Викторович МЛЕЧКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '169258'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Андрэй Віктаравіч МЛЕЧКА
   gender: M
   name_language: BE
@@ -48,17 +72,6 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Андрей Викторович МЛЕЧКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '169258'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - first_name: Andrej
   last_name: Mlečko
   whole_name: Andrej Mlečko
@@ -67,19 +80,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169536'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- first_name: Andrej
-  last_name: Mlečka
-  whole_name: Andrej Mlečka
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '169537'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

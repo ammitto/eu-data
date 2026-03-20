@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vladimir
-  last_name: Kuprijaňuk
-  whole_name: Vladimir Kuprijaňuk
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '169960'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Владимир
   middle_name: Николаевич
   last_name: КУПРИЯНЮК
@@ -72,6 +59,19 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Vladimir
+  last_name: Kuprijaňuk
+  whole_name: Vladimir Kuprijaňuk
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169960'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Vladimir
   last_name: Kuprijanjuk
   whole_name: Vladimir Kuprijanjuk

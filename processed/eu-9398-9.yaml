@@ -84,6 +84,16 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Główne Centrum  Obliczeniowe Sztabu  Generalnego
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '147742'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Generalinio štabo pagrindinis skaičiavimo centras
   name_language: LT
   strong: true
@@ -104,21 +114,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Główne Centrum  Obliczeniowe Sztabu  Generalnego
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '147742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Hauptrechenzentrum (GWZ) des Generalstabs
   name_language: DE
   strong: true
   regulation_language: en
   logical_id: '147669'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Centro Principal de Informática del Estado Mayor
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '147782'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -144,11 +154,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Centro Principal de Informática del Estado Mayor
-  name_language: ES
+- whole_name: centre de calcul principal de  l’état-major général
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '147782'
+  logical_id: '147721'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -159,16 +169,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147945'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: centre de calcul principal de  l’état-major général
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147721'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

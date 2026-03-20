@@ -24,11 +24,11 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: MID
-  name_language: EN
+- whole_name: masinatööstuse osakond
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '161760'
+  logical_id: '161838'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'
@@ -204,36 +204,6 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: Departamento da Indústria de Munições
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '161767'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: Departamento da Indústria de Máquinas
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '161768'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: Departamento da Indústria de Aprovisionamento Militar
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '161769'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - whole_name: Odbor pre muničný  priemysel
   name_language: SK
   strong: true
@@ -259,6 +229,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Departamento da Indústria de Munições
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '161767'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Departamento da Indústria de Máquinas
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '161768'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Departamento da Indústria de Aprovisionamento Militar
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '161769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'
@@ -330,6 +330,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '15087'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: MID
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161760'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Υπουργείο Βιομηχανίας Πυρομαχικών
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '161824'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Υπουργείο Βιομηχανίας Στρατιωτικών Προμηθειών
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '161825'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Υπουργείο Βιομηχανίας Μηχανών
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '161826'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'
@@ -420,46 +460,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: masinatööstuse osakond
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '161838'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: Υπουργείο Βιομηχανίας Πυρομαχικών
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '161824'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: Υπουργείο Βιομηχανίας Στρατιωτικών Προμηθειών
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '161825'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: Υπουργείο Βιομηχανίας Μηχανών
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '161826'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

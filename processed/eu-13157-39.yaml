@@ -39,11 +39,11 @@ addresses:
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 identifications:
-- identification_type_code: regnumber
-  number: '1201000007889'
-  country_iso2_code: RU
+- identification_type_code: other
+  number: '519001001'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '175812'
+  logical_id: '175810'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -59,11 +59,11 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- identification_type_code: other
-  number: '519001001'
-  country_iso2_code: '00'
+- identification_type_code: regnumber
+  number: '1201000007889'
+  country_iso2_code: RU
   regulation_language: en
-  logical_id: '175810'
+  logical_id: '175812'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

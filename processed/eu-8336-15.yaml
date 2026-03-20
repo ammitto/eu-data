@@ -14,37 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Andrej Jauhenavitj PARSJYN
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '141067'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Andrej PARŠIN
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '141068'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Андрей Евгеньевич ПАРШИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140668'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
 - whole_name: Андрэй Яўгенавіч ПАРШЫН
   gender: M
   name_language: BE
@@ -83,6 +52,37 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141066'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Andrej Jauhenavitj PARSJYN
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '141067'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Andrej PARŠIN
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '141068'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Андрей Евгеньевич ПАРШИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140668'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

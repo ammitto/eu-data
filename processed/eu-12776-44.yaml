@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Альберт
+  middle_name: Аликович
+  last_name: АВДОЛЯН
+  whole_name: Альберт Аликович АВДОЛЯН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173129'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - first_name: Albert
   middle_name: Alikovich
   last_name: AVDOLYAN
@@ -24,20 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173130'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- first_name: Альберт
-  middle_name: Аликович
-  last_name: АВДОЛЯН
-  whole_name: Альберт Аликович АВДОЛЯН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '173129'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

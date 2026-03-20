@@ -15,15 +15,28 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Sergey
-  middle_name: Borissovich
+  middle_name: Borisovich
   last_name: RYZHKOV
-  whole_name: Sergey Borissovich RYZHKOV
-  function: Major General of the Russian armed forces and Commander of the 41st Combined
-    Arms Army
+  whole_name: Sergey Borisovich RYZHKOV
   gender: M
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '144459'
+  logical_id: '144742'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Sergey
+  middle_name: Borisovich
+  last_name: RYZHKOV
+  whole_name: Sergey Borisovich RYZHKOV
+  gender: M
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '144667'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -58,28 +71,15 @@ name_aliases:
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Sergey
-  middle_name: Borisovich
+  middle_name: Borissovich
   last_name: RYZHKOV
-  whole_name: Sergey Borisovich RYZHKOV
+  whole_name: Sergey Borissovich RYZHKOV
+  function: Major General of the Russian armed forces and Commander of the 41st Combined
+    Arms Army
   gender: M
-  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '144667'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Sergey
-  middle_name: Borisovich
-  last_name: RYZHKOV
-  whole_name: Sergey Borisovich RYZHKOV
-  gender: M
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '144742'
+  logical_id: '144459'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

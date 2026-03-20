@@ -14,14 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ahmed
-  last_name: Taheri
-  whole_name: Ahmed Taheri
+- first_name: Ahmad
+  last_name: TAHERI
+  whole_name: Ahmad TAHERI
+  function: Advisor to the Head of the Iranian Law Enforcement Forces (LEF); former
+    head of Iran’s Law Enforcement Forces (LEF) in Sistan and Baluchestan province
   gender: M
+  title: Brigadier General
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '164884'
+  logical_id: '145736'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-05'
@@ -38,17 +41,14 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2231 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
-- first_name: Ahmad
-  last_name: TAHERI
-  whole_name: Ahmad TAHERI
-  function: Advisor to the Head of the Iranian Law Enforcement Forces (LEF); former
-    head of Iran’s Law Enforcement Forces (LEF) in Sistan and Baluchestan province
+- first_name: Ahmed
+  last_name: Taheri
+  whole_name: Ahmed Taheri
   gender: M
-  title: Brigadier General
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '145736'
+  logical_id: '164884'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-05'

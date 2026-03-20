@@ -14,23 +14,25 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: حاج احمد میرزایی
+- first_name: Haj Ahmad
+  last_name: MIRZAEI
+  whole_name: Haj Ahmad MIRZAEI
+  function: Head of Iran’s Morality Police in Tehran
   gender: M
+  title: Colonel
   strong: true
   regulation_language: en
-  logical_id: '144867'
+  logical_id: '144868'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- first_name: Hajahmad
-  last_name: MIRZAEI
-  whole_name: Hajahmad MIRZAEI
+- whole_name: حاج احمد میرزایی
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '144866'
+  logical_id: '144867'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'
@@ -48,15 +50,13 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- first_name: Haj Ahmad
+- first_name: Hajahmad
   last_name: MIRZAEI
-  whole_name: Haj Ahmad MIRZAEI
-  function: Head of Iran’s Morality Police in Tehran
+  whole_name: Hajahmad MIRZAEI
   gender: M
-  title: Colonel
   strong: true
   regulation_language: en
-  logical_id: '144868'
+  logical_id: '144866'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

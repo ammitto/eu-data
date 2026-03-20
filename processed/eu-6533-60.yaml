@@ -14,6 +14,40 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Svjatlana Anatoljeuna LJUBETSKAJA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130977'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Sviatlana Anatoleuna LYUBETSKAYA
+  function: Judge in the Constitutional Court of Belarus, former member of the House
+    of Representatives of the National Assembly of the Republic of Belarus, former
+    Chairperson of the Standing Commission on Law
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '130982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-25'
+    number_title: 2025/386 (OJ L25022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
+- whole_name: Svetlana Anatolevna LYUBETSKAYA
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '130981'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Svetlana Anatoljevna LJUBETSKAJA
   gender: F
   name_language: SV
@@ -42,40 +76,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130980'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Svetlana Anatolevna LYUBETSKAYA
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '130981'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Sviatlana Anatoleuna LYUBETSKAYA
-  function: Judge in the Constitutional Court of Belarus, former member of the House
-    of Representatives of the National Assembly of the Republic of Belarus, former
-    Chairperson of the Standing Commission on Law
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '130982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-25'
-    number_title: 2025/386 (OJ L25022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
-- whole_name: Svjatlana Anatoljeuna LJUBETSKAJA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

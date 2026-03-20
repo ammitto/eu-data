@@ -14,11 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: MKB »Fakel« im. P.D. Grushina
-  name_language: PL
+- whole_name: MKB «Fakel» denumită după P.D. Grushin
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '144684'
+  logical_id: '144740'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: MKB “Fakel”, denominada así en honor a P. D. Grushin
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '144721'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -69,16 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144743'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: MKB «Fakel» denumită după P.D. Grushin
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '144740'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -174,11 +174,11 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: MKB “Fakel”, denominada así en honor a P. D. Grushin
-  name_language: ES
+- whole_name: MKB ‘Fakel’ a báisteadh as P.D.Grushin
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '144721'
+  logical_id: '144726'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -194,11 +194,11 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: MKB ‘Fakel’ a báisteadh as P.D.Grushin
-  name_language: GA
+- whole_name: MKB »Fakel« im. P.D. Grushina
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '144726'
+  logical_id: '144684'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

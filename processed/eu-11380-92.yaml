@@ -14,29 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ОАО «Казанское ОКБ «Союз»
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163453'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: JSC Kazan Experimental Design Bureau Soyuz
-  function: JSC Kazan Experimental Design Bureau Soyuz is a Russian military-industrial
-    state enterprise that develops solid propellant rocket engines for missile systems
-    deployed by the Russian armed forces.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163458'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: sociedad anónima Kazan Experimental Design Bureau Soyuz
   name_language: ES
   strong: true
@@ -86,6 +63,16 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: ОАО «Казанское ОКБ «Союз»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '163453'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Открытое Акционерное Общество «Казанское Опытное Конструкторское Бюро
     «Союз»
   name_language: RU
@@ -122,6 +109,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163457'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: JSC Kazan Experimental Design Bureau Soyuz
+  function: JSC Kazan Experimental Design Bureau Soyuz is a Russian military-industrial
+    state enterprise that develops solid propellant rocket engines for missile systems
+    deployed by the Russian armed forces.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163458'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

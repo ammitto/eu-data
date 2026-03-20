@@ -14,15 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Artěm
-  middle_name: Pavlovič
-  last_name: MARČEVSKIJ
-  whole_name: Artěm Pavlovič MARČEVSKIJ
+- whole_name: Артем Павлович МАРЧЕВСКИЙ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175695'
+  logical_id: '175693'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -39,12 +36,15 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Артем Павлович МАРЧЕВСКИЙ
+- first_name: Artěm
+  middle_name: Pavlovič
+  last_name: MARČEVSKIJ
+  whole_name: Artěm Pavlovič MARČEVSKIJ
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175693'
+  logical_id: '175695'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -66,6 +66,20 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - first_name: Artem
   middle_name: Pavlovich
+  last_name: MARCHEVSKIJ
+  whole_name: Artem Pavlovich MARCHEVSKIJ
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175697'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- first_name: Artem
+  middle_name: Pavlovich
   last_name: MARCHEVSKYI
   whole_name: Artem Pavlovich MARCHEVSKYI
   function: Politician, media producer, propagandist
@@ -74,20 +88,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175698'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- first_name: Artem
-  middle_name: Pavlovich
-  last_name: MARCHEVSKIJ
-  whole_name: Artem Pavlovich MARCHEVSKIJ
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175697'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

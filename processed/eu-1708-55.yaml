@@ -15,61 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Electro Sanam Vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '169703'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Electro Sanam Industries
+- whole_name: Electro Sanam Co.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159067'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: E.S. Co.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6244'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Electro Sanam
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159069'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Sanam Industrial Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159068'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Electro Sanam Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6243'
+  logical_id: '159065'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -85,16 +35,56 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Electro Sanam Co.
+- whole_name: Electro Sanam Industries
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159065'
+  logical_id: '159067'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Sanam Industrial Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159068'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Electro Sanam Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '169703'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Electro Sanam Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6243'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: E.S. Co.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: E.X. Co.
   name_language: EN
   strong: true
@@ -105,6 +95,16 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Electro Sanam
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159069'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
 - street: Araj Forkway, Pasdaran Ave.
   city: Tehran
@@ -130,16 +130,6 @@ addresses:
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 identifications:
-- identification_type_code: id
-  number: '10103864724'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '169766'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - identification_type_code: regnumber
   number: '339747'
   country_iso2_code: IR
@@ -150,3 +140,13 @@ identifications:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- identification_type_code: id
+  number: '10103864724'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '169766'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074

@@ -59,23 +59,6 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 birthdates:
-- birthdate: '1956-10-06'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 6
-  month_of_year: 10
-  year: 1956
-  city: Dzerzhinsk
-  region: Donetsk region
-  country_iso2_code: UA
-  country_description: UKRAINE
-  regulation_language: en
-  logical_id: '122861'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - birthdate: '1956-06-20'
   circa: false
   calendar_type: GREGORIAN
@@ -88,6 +71,23 @@ birthdates:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '2158'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- birthdate: '1956-10-06'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 6
+  month_of_year: 10
+  year: 1956
+  city: Dzerzhinsk
+  region: Donetsk region
+  country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '122861'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

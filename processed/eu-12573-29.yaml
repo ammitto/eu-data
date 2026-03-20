@@ -26,14 +26,11 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Juhang Aviation Technology Shenzhen Co. Limited
-  function: Juhang Aviation Technology Shenzhen Co. Limited (Juhang Aviation) is a
-    Chinese company involved in a procurement and manufacturing network for the Russian
-    military-industrial complex.
-  name_language: EN
+- whole_name: 巨航航空科技（深圳）有限公司
+  name_language: ZH
   strong: true
   regulation_language: en
-  logical_id: '171459'
+  logical_id: '171458'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -49,11 +46,14 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: 巨航航空科技（深圳）有限公司
-  name_language: ZH
+- whole_name: Juhang Aviation Technology Shenzhen Co. Limited
+  function: Juhang Aviation Technology Shenzhen Co. Limited (Juhang Aviation) is a
+    Chinese company involved in a procurement and manufacturing network for the Russian
+    military-industrial complex.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '171458'
+  logical_id: '171459'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

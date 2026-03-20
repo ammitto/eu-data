@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Sergej Vitaljevitj BEZRUKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '142427'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Sergej
   last_name: Bezrukov
   whole_name: Sergej Bezrukov
@@ -22,22 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164826'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Sergey
-  middle_name: Vitalyevich
-  last_name: BEZRUKOV
-  whole_name: Sergey Vitalyevich BEZRUKOV
-  function: A Russian actor and politician. A member of the Supreme Council of the
-    “United Russia” Party and chairman of its “Culture of the little homeland project”.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '141995'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -57,12 +52,17 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Sergej Vitaljevitj BEZRUKOV
+- first_name: Sergey
+  middle_name: Vitalyevich
+  last_name: BEZRUKOV
+  whole_name: Sergey Vitalyevich BEZRUKOV
+  function: A Russian actor and politician. A member of the Supreme Council of the
+    “United Russia” Party and chairman of its “Culture of the little homeland project”.
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '142427'
+  logical_id: '141995'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

@@ -14,106 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Polizia Criminalità informatica
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '127111'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-04-09'
-    number_title: 2019/560 (OJ L98)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
-- whole_name: Kiberdrošības policija
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '127110'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-04-09'
-    number_title: 2019/560 (OJ L98)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
-- whole_name: Αστυνομία Κυβερνοχώρου
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '127113'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-04-09'
-    number_title: 2019/560 (OJ L98)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
-- whole_name: Cyber Police (küberpolitsei)
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '127114'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-04-09'
-    number_title: 2019/560 (OJ L98)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
-- whole_name: Cyber-Polizei
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '127115'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-04-09'
-    number_title: 2019/560 (OJ L98)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
-- whole_name: IT-politi
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '127116'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-04-09'
-    number_title: 2019/560 (OJ L98)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
-- whole_name: Policejní útvar pro počítačovou trestnou činnost
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '127117'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-04-09'
-    number_title: 2019/560 (OJ L98)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
-- whole_name: Policía Cibernética
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '127118'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-04-09'
-    number_title: 2019/560 (OJ L98)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
-- whole_name: Киберполиция
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '127119'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-04-09'
-    number_title: 2019/560 (OJ L98)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
-- whole_name: Kiberpolicija
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '127112'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-04-09'
-    number_title: 2019/560 (OJ L98)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
 - whole_name: Cyber Police
   strong: true
   regulation_language: en
@@ -228,6 +128,106 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127109'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-04-09'
+    number_title: 2019/560 (OJ L98)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
+- whole_name: Kiberdrošības policija
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '127110'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-04-09'
+    number_title: 2019/560 (OJ L98)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
+- whole_name: Polizia Criminalità informatica
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '127111'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-04-09'
+    number_title: 2019/560 (OJ L98)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
+- whole_name: Kiberpolicija
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '127112'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-04-09'
+    number_title: 2019/560 (OJ L98)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
+- whole_name: Αστυνομία Κυβερνοχώρου
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '127113'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-04-09'
+    number_title: 2019/560 (OJ L98)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
+- whole_name: Cyber Police (küberpolitsei)
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '127114'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-04-09'
+    number_title: 2019/560 (OJ L98)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
+- whole_name: Cyber-Polizei
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '127115'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-04-09'
+    number_title: 2019/560 (OJ L98)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
+- whole_name: IT-politi
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '127116'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-04-09'
+    number_title: 2019/560 (OJ L98)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
+- whole_name: Policejní útvar pro počítačovou trestnou činnost
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '127117'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-04-09'
+    number_title: 2019/560 (OJ L98)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
+- whole_name: Policía Cibernética
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '127118'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-04-09'
+    number_title: 2019/560 (OJ L98)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
+- whole_name: Киберполиция
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '127119'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-04-09'

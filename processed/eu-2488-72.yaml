@@ -14,19 +14,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: AMIF
+- whole_name: Al Mashreq Investment Fund
   strong: true
   regulation_language: en
-  logical_id: '12878'
+  logical_id: '12522'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-06-24'
     number_title: 611/2011 (OJ L164)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:164:0001:0003:EN:PDF
-- whole_name: Al Mashreq Investment Fund
+- whole_name: AMIF
   strong: true
   regulation_language: en
-  logical_id: '12522'
+  logical_id: '12878'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-06-24'

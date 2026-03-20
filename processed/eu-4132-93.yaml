@@ -14,13 +14,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Foreign Trade Bank
-  function: Foreign Trade Bank is a State-owned bank and acts as the DPRK’s primary
-    foreign exchange bank and has provided key financial support to the Korea Kwangson
-    Banking Corporation.
+- whole_name: Mooyokbank
   strong: true
   regulation_language: en
-  logical_id: '113881'
+  logical_id: '144189'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
@@ -35,10 +32,13 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Mooyokbank
+- whole_name: Foreign Trade Bank
+  function: Foreign Trade Bank is a State-owned bank and acts as the DPRK’s primary
+    foreign exchange bank and has provided key financial support to the Korea Kwangson
+    Banking Corporation.
   strong: true
   regulation_language: en
-  logical_id: '144189'
+  logical_id: '113881'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'

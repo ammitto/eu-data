@@ -14,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Fábrica Central de Equipamento Ferroviário 41
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '175231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: "»41. Központi Üzem« Rt."
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '175232'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Fábrica Central de Equipamento Ferroviário 41
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '175231'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -74,16 +74,6 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО "41 Центральный Завод"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174905'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Joint Stock Company "41 Central Plant of Railway Equipment"
   function: Is a Russian military industry company that manufactures and supplies
     mobile repair complexes for the Ministry of Defense of Russia.
@@ -107,6 +97,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: АО "41 Центральный Завод"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174905'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: Proezd Proektiruemyi 4296, Vladenie 3
   city: Lyubertsy
@@ -121,16 +121,6 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: other
-  number: '502701001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174900'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1095027006722'
   country_iso2_code: RU
@@ -146,6 +136,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174901'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: other
+  number: '502701001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174900'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

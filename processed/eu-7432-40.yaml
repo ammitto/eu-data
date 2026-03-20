@@ -25,22 +25,22 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/332 (OJ L53)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
-- whole_name: Ольга  Михайловна Казакова
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '135594'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/332 (OJ L53)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
 - whole_name: Olga Mikhailovna KAZAKOVA
   function: Member of the State Duma
   gender: F
   strong: true
   regulation_language: en
   logical_id: '135595'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/332 (OJ L53)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
+- whole_name: Ольга  Михайловна Казакова
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '135594'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

@@ -14,39 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Center for Geopolitical Expertise
-  function: The Center for Geopolitical Expertise (CGE) is a Moscow-based think tank
-    founded by Aleksandr Dugin, and headed by Valery Korovin, accused of orchestrating
-    disinformation campaigns aimed at targeting Ukrainian interests, discrediting
-    Western political figures, and influencing electoral processes in Western countries.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177835'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Центр геополитических экспертиз, CGE
-  strong: true
-  regulation_language: en
-  logical_id: '177834'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Център за геополитически експертизи
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '177833'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
 - whole_name: Zentrum für Geopolitische Expertise
   name_language: DE
   strong: true
@@ -57,11 +24,11 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Geopolitikai Szakértői Központ
-  name_language: HU
+- whole_name: Centre d’expertise géopolitique
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '177829'
+  logical_id: '177831'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -77,11 +44,11 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Centre d’expertise géopolitique
-  name_language: FR
+- whole_name: Geopolitikai Szakértői Központ
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '177831'
+  logical_id: '177829'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -112,6 +79,39 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177826'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Център за геополитически експертизи
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '177833'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Center for Geopolitical Expertise
+  function: The Center for Geopolitical Expertise (CGE) is a Moscow-based think tank
+    founded by Aleksandr Dugin, and headed by Valery Korovin, accused of orchestrating
+    disinformation campaigns aimed at targeting Ukrainian interests, discrediting
+    Western political figures, and influencing electoral processes in Western countries.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177835'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Центр геополитических экспертиз, CGE
+  strong: true
+  regulation_language: en
+  logical_id: '177834'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

@@ -14,22 +14,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Голос Европы
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - whole_name: Voice of Europe
   title: Limited Liability Company (s.r.o.)
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '175807'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Голос Европы
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175806'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

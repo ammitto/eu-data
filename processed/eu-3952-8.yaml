@@ -1,20 +1,60 @@
 ---
 eu_reference_number: EU.3952.8
 logical_id: '3817'
-designation_details: UN designation 23/12/2006 (no longer valid)
+designation_details: UN designation 23/12/2006
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2023-10-17'
-  entry_into_force_date: '2023-10-18'
-  number_title: 2023/2196 (OJ L17102023)
+  publication_date: '2025-09-29'
+  entry_into_force_date: '2025-09-29'
+  number_title: 2025/1982 (OJ L202501982)
   programme: IRN
-  logical_id: '184760'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+  logical_id: '217748'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Kalaye Electric
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181805'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Kala-Electric
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Kala Electric
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5195'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Kalaye Electric Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5196'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Kalaye Electric Co.
   name_language: EN
   strong: true
@@ -55,11 +95,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Kalaye Electric Company
+- whole_name: KEC
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '5196'
+  logical_id: '159392'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -80,26 +120,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159394'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: KEC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159392'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Kala Electric
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5195'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

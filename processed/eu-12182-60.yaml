@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Антон Геннадьевич ДУДАЛЬ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '169347'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Антон Генадзевіч ДУДАЛЬ
   gender: M
   name_language: BE
@@ -36,12 +25,36 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Антон Геннадьевич ДУДАЛЬ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '169347'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Anton Gennadievich DUDAL
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '169349'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- first_name: Anton
+  last_name: Dudaľ
+  whole_name: Anton Dudaľ
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169557'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -60,19 +73,6 @@ name_aliases:
     publication_date: '2025-02-25'
     number_title: 2025/386 (OJ L25022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
-- first_name: Anton
-  last_name: Dudaľ
-  whole_name: Anton Dudaľ
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '169557'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

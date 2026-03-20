@@ -14,42 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexandr
-  middle_name: Petrovič
-  last_name: KALAŠNIKOv
-  whole_name: Alexandr Petrovič KALAŠNIKOv
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '146163'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-06'
-    number_title: 2022/2374 (OJ L314)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- whole_name: Alexander Petrovitj KALASJNIKOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '128067'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-02'
-    number_title: 2021/371 (OJ L71I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.071.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A071I%3ATOC
-- whole_name: Aleksandr Petrovitj KALASJNIKOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '128066'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-02'
-    number_title: 2021/371 (OJ L71I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.071.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A071I%3ATOC
 - first_name: Alexander
   middle_name: Petrovich
   last_name: KALASHNIKOV
@@ -91,6 +55,42 @@ name_aliases:
     publication_date: '2022-12-06'
     number_title: 2022/2374 (OJ L314)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
+- first_name: Alexandr
+  middle_name: Petrovič
+  last_name: KALAŠNIKOv
+  whole_name: Alexandr Petrovič KALAŠNIKOv
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '146163'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-06'
+    number_title: 2022/2374 (OJ L314)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
+- whole_name: Alexander Petrovitj KALASJNIKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '128067'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-02'
+    number_title: 2021/371 (OJ L71I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.071.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A071I%3ATOC
+- whole_name: Aleksandr Petrovitj KALASJNIKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '128066'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-02'
+    number_title: 2021/371 (OJ L71I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.071.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A071I%3ATOC
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

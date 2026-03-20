@@ -14,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vasily
-  middle_name: Maksimovich
-  last_name: VLASOV
-  whole_name: Vasily Maksimovich VLASOV
-  function: Former Member of the State Duma
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '134078'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Василий
   middle_name: Максимович
   last_name: ВЛАСОВ
@@ -52,6 +37,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143875'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Vasily
+  middle_name: Maksimovich
+  last_name: VLASOV
+  whole_name: Vasily Maksimovich VLASOV
+  function: Former Member of the State Duma
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '134078'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

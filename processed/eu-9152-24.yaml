@@ -14,11 +14,41 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Odporniške sile Basij
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '146192'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: Pokret otpora Basij
   name_language: HR
   strong: true
   regulation_language: en
   logical_id: '146193'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Milícia Basídž
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '146194'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Jednotky Basídž
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '146195'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'
@@ -126,6 +156,16 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: pasipriešinimo pajėgos „Basij“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '146191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: Basij vastupanuliikumine
   name_language: ET
   strong: true
@@ -141,46 +181,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146190'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: pasipriešinimo pajėgos „Basij“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '146191'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Odporniške sile Basij
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '146192'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Milícia Basídž
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '146194'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Jednotky Basídž
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '146195'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

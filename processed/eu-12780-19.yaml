@@ -15,20 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Денис
-  middle_name: Сергеевич
-  last_name: ЧЕРНОБАЙ
-  whole_name: Денис Сергеевич ЧЕРНОБАЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '173155'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- first_name: Денис
   middle_name: Сергійович
   last_name: ЧЕРНОБАЙ
   whole_name: Денис Сергійович ЧЕРНОБАЙ
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173154'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- first_name: Денис
+  middle_name: Сергеевич
+  last_name: ЧЕРНОБАЙ
+  whole_name: Денис Сергеевич ЧЕРНОБАЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173155'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

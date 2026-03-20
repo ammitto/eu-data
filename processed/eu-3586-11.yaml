@@ -15,35 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Fahd Jasim AL-FREIJ
-  strong: true
-  regulation_language: en
-  logical_id: '17253'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Fahed Jasim AL-FURAYJ
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109707'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Fahid Jasim AL-FURAYJ
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109708'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: فهد جاسم الفريج
   gender: M
   name_language: AR
@@ -232,6 +203,35 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17252'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Fahd Jasim AL-FREIJ
+  strong: true
+  regulation_language: en
+  logical_id: '17253'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Fahed Jasim AL-FURAYJ
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109707'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Fahid Jasim AL-FURAYJ
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109708'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

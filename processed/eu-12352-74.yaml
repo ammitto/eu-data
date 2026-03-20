@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: لؤي عماد الدين المنجد
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '170628'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-11-25'
-    number_title: 2024/2934 (OJ L25112024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402934
 - first_name: Louai Emad El-Din
   last_name: al-MUNAJJID
   whole_name: Louai Emad El-Din al-MUNAJJID
@@ -35,6 +24,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170629'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-11-25'
+    number_title: 2024/2934 (OJ L25112024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402934
+- whole_name: لؤي عماد الدين المنجد
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '170628'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-11-25'

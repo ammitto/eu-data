@@ -5,12 +5,12 @@ designation_details: 'UN designation: 09/06/2010 (no longer valid)'
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2023-10-17'
-  entry_into_force_date: '2023-10-18'
-  number_title: 2023/2196 (OJ L17102023)
+  publication_date: '2025-09-29'
+  entry_into_force_date: '2025-09-29'
+  number_title: 2025/1982 (OJ L202501982)
   programme: IRN
-  logical_id: '184760'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+  logical_id: '217748'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 subject_type:
   code: enterprise
   classification_code: E
@@ -21,16 +21,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '8012'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Rah Sahel est.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158824'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -56,6 +46,16 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Rah Sahel Co
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158826'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Rah e Sahel Org.
   name_language: EN
   strong: true
@@ -66,11 +66,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Rah Sahel Co
+- whole_name: Rah Sahel est.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158826'
+  logical_id: '158824'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

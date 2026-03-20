@@ -58,15 +58,14 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Sergej
-  middle_name: Viktorovitj
-  last_name: TJEMEZOV
-  whole_name: Sergej Viktorovitj TJEMEZOV
+- first_name: Sergei
+  last_name: Chemezov
+  whole_name: Sergei Chemezov
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158580'
+  logical_id: '158220'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -98,14 +97,15 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Sergei
-  last_name: Chemezov
-  whole_name: Sergei Chemezov
+- first_name: Sergej
+  middle_name: Viktorovitj
+  last_name: TJEMEZOV
+  whole_name: Sergej Viktorovitj TJEMEZOV
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '158220'
+  logical_id: '158580'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

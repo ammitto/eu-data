@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Societatea pe  acțiuni «Uzina mecanică Ijevsk»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '177305'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Sociedade  por ações “Izhevsk Mechanical  Plant”
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '177306'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: "»Izhevsk Mechanical  Plant« Rt."
   name_language: HU
   strong: true
@@ -84,14 +64,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Joint Stock Company “Izhevsk  Mechanical Plant”
-  function: JSC “Izhevsk Mechanical Plant” is one of the largest multi-profile manufacturers
-    in Russia, and its primary products include combat weapons, components for missile
-    systems, and high-precision castings.
+- whole_name: JSC “Izhevsk Mechanical  Plant”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177314'
+  logical_id: '177312'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -107,11 +84,34 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC “Izhevsk Mechanical  Plant”
+- whole_name: Joint Stock Company “Izhevsk  Mechanical Plant”
+  function: JSC “Izhevsk Mechanical Plant” is one of the largest multi-profile manufacturers
+    in Russia, and its primary products include combat weapons, components for missile
+    systems, and high-precision castings.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177312'
+  logical_id: '177314'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Societatea pe  acțiuni «Uzina mecanică Ijevsk»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177305'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Sociedade  por ações “Izhevsk Mechanical  Plant”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177306'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

@@ -15,11 +15,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: LLC “Stanko”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176508'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: ООО “Станко”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '176507'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Общество с ограниченной  ответственностью “СТАНКО”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176509'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -36,39 +56,7 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Общество с ограниченной  ответственностью “СТАНКО”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176509'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: LLC “Stanko”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176508'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
-- street: st. Vavilova, 71/1
-  city: Rostov-on-Don
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '344064'
-  regulation_language: en
-  logical_id: '176503'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - street: st. Vavilova, 62/1 - ROOM 3N
   city: Rostov-on-Don
   country_iso2_code: RU
@@ -81,22 +69,34 @@ addresses:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-identifications:
-- identification_type_code: other
-  number: '6165169426'
+- street: st. Vavilova, 71/1
+  city: Rostov-on-Don
   country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '344064'
   regulation_language: en
-  logical_id: '176505'
+  logical_id: '176503'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+identifications:
 - identification_type_code: regnumber
   number: '1116165003635'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '176506'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: other
+  number: '6165169426'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '176505'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

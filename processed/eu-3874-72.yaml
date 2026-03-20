@@ -1,20 +1,46 @@
 ---
 eu_reference_number: EU.3874.72
 logical_id: '4292'
-designation_details: UN designation 03/03/2008 (no longer valid)
+designation_details: UN designation 03/03/2008
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2023-10-17'
-  entry_into_force_date: '2023-10-18'
-  number_title: 2023/2196 (OJ L17102023)
+  publication_date: '2025-09-29'
+  entry_into_force_date: '2025-09-29'
+  number_title: 2025/1982 (OJ L202501982)
   programme: IRN
-  logical_id: '184760'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+  logical_id: '217748'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Mohammad Islami
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- first_name: Mohammad
+  last_name: ESLAMI
+  whole_name: Mohammad ESLAMI
+  function: Head of Defence Industries Training and Research Institute.
+  gender: M
+  title: Dr
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6257'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: محمد اسلامی
   gender: M
   name_language: FA
@@ -26,21 +52,28 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Mohammad
-  last_name: ESLAMI
-  whole_name: Mohammad ESLAMI
-  function: Head of the Atomic Energy Organization of Iran; Vice President of Iran
+- whole_name: Mohammed Islami
   gender: M
-  title: Brig. General
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6257'
+  logical_id: '181784'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Mohamed Islami
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181785'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

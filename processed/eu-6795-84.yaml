@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Andrey Andreevich PROKOPUK
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '132636'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-28'
-    number_title: 2023/419 (OJ L61)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
 - whole_name: Andrei Andreevich PRAKAPUK
   function: |-
     Director of the Republican Unitary Enterprise ‘Brest Center for Standardization, Metrology and Certification’, former Deputy Director of the Financial Investigations Department of the State Control Committee of the Republic of Belarus
@@ -35,6 +24,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132637'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-28'
+    number_title: 2023/419 (OJ L61)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
+- whole_name: Andrey Andreevich PROKOPUK
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '132636'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-28'
@@ -62,23 +62,23 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Andrej Andrejevitj PRAKAPUK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '132633'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: Andrej Andrejevitj PROKOPUK
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '132632'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Andrej Andrejevitj PRAKAPUK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '132633'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

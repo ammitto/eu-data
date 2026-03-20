@@ -23,6 +23,15 @@ name_aliases:
     publication_date: '2007-04-13'
     number_title: 400/2007 (OJ L98)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
+- whole_name: GLBC
+  strong: true
+  regulation_language: en
+  logical_id: '5134'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-13'
+    number_title: 400/2007 (OJ L98)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
 - whole_name: CAGL
   strong: true
   regulation_language: en
@@ -41,26 +50,7 @@ name_aliases:
     publication_date: '2007-04-13'
     number_title: 400/2007 (OJ L98)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
-- whole_name: GLBC
-  strong: true
-  regulation_language: en
-  logical_id: '5134'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-13'
-    number_title: 400/2007 (OJ L98)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
 addresses:
-- city: Gisenyi
-  country_iso2_code: RW
-  country_description: RWANDA
-  regulation_language: en
-  logical_id: '1018'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-13'
-    number_title: 400/2007 (OJ L98)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
 - street: Avenue President Mobutu
   city: Goma
   country_iso2_code: CD
@@ -78,6 +68,16 @@ addresses:
   country_description: CONGO, Democratic Republic of (was Zaire)
   regulation_language: en
   logical_id: '1017'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-13'
+    number_title: 400/2007 (OJ L98)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
+- city: Gisenyi
+  country_iso2_code: RW
+  country_description: RWANDA
+  regulation_language: en
+  logical_id: '1018'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-04-13'

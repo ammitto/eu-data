@@ -14,33 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Мария  Вячеславовна  ЕРОХИНА
+- whole_name: Marija Vjatjeslavovna JEROCHINA
   gender: F
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '129804'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Марыя  Вячаславаўна ЯРОХІНА
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '129805'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Maria  Viacheslavovna  YEROKHINA
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '129806'
+  logical_id: '130662'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -57,23 +36,44 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Maria  Viacheslavovna  YEROKHINA
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '129806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Марыя  Вячаславаўна ЯРОХІНА
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '129805'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Мария  Вячеславовна  ЕРОХИНА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '129804'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Mariya  Viachaslavauna YAROKHINA
   function: "Judge at the Frunzensky \nDistrict Court in Minsk"
   gender: F
   strong: true
   regulation_language: en
   logical_id: '129807'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Marija Vjatjeslavovna JEROCHINA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130662'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

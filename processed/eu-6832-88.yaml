@@ -16,17 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Shihab Mahajar
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '132929'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-06'
-    number_title: 2024/1301 (OJ L06052014)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
 - whole_name: Shihab Mohajir
   gender: M
   name_language: EN
@@ -38,12 +27,12 @@ name_aliases:
     publication_date: '2024-05-06'
     number_title: 2024/1301 (OJ L06052014)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: ثناء اللہ غفاری
+- whole_name: Shihab Muhajer
   gender: M
-  name_language: PS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '132938'
+  logical_id: '132931'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
@@ -59,6 +48,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132937'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-06'
+    number_title: 2024/1301 (OJ L06052014)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
+- whole_name: Shihab Mahajar
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '132929'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-06'
+    number_title: 2024/1301 (OJ L06052014)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
+- whole_name: ثناء اللہ غفاری
+  gender: M
+  name_language: PS
+  strong: true
+  regulation_language: en
+  logical_id: '132938'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
@@ -87,28 +98,6 @@ name_aliases:
     publication_date: '2024-05-06'
     number_title: 2024/1301 (OJ L06052014)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: Shahab Mohajir
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '132934'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-06'
-    number_title: 2024/1301 (OJ L06052014)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: Shihab Muhajer
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '132931'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-06'
-    number_title: 2024/1301 (OJ L06052014)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
 - whole_name: Shihab al Muhajir
   gender: M
   name_language: EN
@@ -126,6 +115,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132933'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-06'
+    number_title: 2024/1301 (OJ L06052014)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
+- whole_name: Shahab Mohajir
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '132934'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
@@ -175,20 +175,20 @@ birthdates:
     number_title: 2024/1301 (OJ L06052014)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
 addresses:
-- city: Kunduz
-  country_iso2_code: AF
+- country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '132925'
+  logical_id: '132926'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-23'
     number_title: 2021/2311 (OJ L458I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.458.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A458I%3ATOC
-- country_iso2_code: AF
+- city: Kunduz
+  country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '132926'
+  logical_id: '132925'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-23'

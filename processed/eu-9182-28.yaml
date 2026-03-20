@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Сайгидпаша
-  middle_name: Дарбишевич
-  last_name: УМАХАНОВ
-  whole_name: Сайгидпаша Дарбишевич УМАХАНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146370'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Saygidpasha
   middle_name: Darbishevich
   last_name: UMAKHANOV
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146371'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Сайгидпаша
+  middle_name: Дарбишевич
+  last_name: УМАХАНОВ
+  whole_name: Сайгидпаша Дарбишевич УМАХАНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146370'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

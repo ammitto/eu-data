@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Александр
-  middle_name: Владимирович
-  last_name: ГОЛЯКОВ
-  whole_name: Александр Владимирович ГОЛЯКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '164275'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Alexander
   middle_name: Vladimirovich
   last_name: GOLYAKOV
@@ -57,6 +43,20 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Aleksandr
+  middle_name: Vladimirovitš
+  last_name: Goljakov
+  whole_name: Aleksandr Vladimirovitš Goljakov
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164638'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Alexandr
   middle_name: Vladimirovič
   last_name: Goljakov
@@ -71,15 +71,15 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Aleksandr
-  middle_name: Vladimirovitš
-  last_name: Goljakov
-  whole_name: Aleksandr Vladimirovitš Goljakov
+- first_name: Александр
+  middle_name: Владимирович
+  last_name: ГОЛЯКОВ
+  whole_name: Александр Владимирович ГОЛЯКОВ
   gender: M
-  name_language: FI
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '164638'
+  logical_id: '164275'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

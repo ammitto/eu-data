@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Sorinet Commercial Trust
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180088'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1980 (OJ L202501980)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 - whole_name: Sorinet Commercial Trust  Bankers Ltd. (SCT)
   name_language: EN
   strong: true
@@ -35,16 +45,6 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- whole_name: SCT Bankers Company Branch
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180089'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1980 (OJ L202501980)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 - whole_name: SCT  Bankers Kish Company (PJS)
   name_language: EN
   strong: true
@@ -55,28 +55,17 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- whole_name: Sorinet Commercial Trust
+- whole_name: SCT Bankers Company Branch
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180088'
+  logical_id: '180089'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 addresses:
-- street: Reahi Aiiey, First of  Karaj, Maksous Road 9
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '180082'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1980 (OJ L202501980)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 - street: No.1808, 18th Floor, Grosvenor House  Commercial Tower, Sheikh Zayed Road
   city: Dubai
   country_iso2_code: AE
@@ -88,12 +77,11 @@ addresses:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- street: Sheykh Admad, Sheykh Zayed Road
-  city: Dubai
+- street: Head Office, Kish Island, Sadaf Tower,  3rd floor, Suite 301
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '180079'
+  logical_id: '180080'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -109,11 +97,23 @@ addresses:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- street: Head Office, Kish Island, Sadaf Tower,  3rd floor, Suite 301
+- street: Reahi Aiiey, First of  Karaj, Maksous Road 9
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '180082'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1980 (OJ L202501980)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
+- street: Sheykh Admad, Sheykh Zayed Road
+  city: Dubai
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '180080'
+  logical_id: '180079'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -132,16 +132,6 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 identifications:
 - identification_type_code: swiftbic
-  number: SCTSAEA1
-  country_iso2_code: AE
-  regulation_language: en
-  logical_id: '180086'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1980 (OJ L202501980)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- identification_type_code: swiftbic
   number: SCERIRTH KSH
   country_iso2_code: IR
   regulation_language: en
@@ -156,6 +146,16 @@ identifications:
   country_iso2_code: IR
   regulation_language: en
   logical_id: '180085'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1980 (OJ L202501980)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
+- identification_type_code: swiftbic
+  number: SCTSAEA1
+  country_iso2_code: AE
+  regulation_language: en
+  logical_id: '180086'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

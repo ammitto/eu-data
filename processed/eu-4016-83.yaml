@@ -14,6 +14,38 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Yevgeniy
+  middle_name: Vyacheslavovich
+  last_name: ORLOV
+  whole_name: Yevgeniy Vyacheslavovich ORLOV
+  function: Former Member of the ‘National Council’ of the so-called ‘Donetsk People’s
+    Republic’. Former chairman of the public movement ‘Free Donbass’ and former commander
+    of “Don battalion” Former Deputy Chairman of the DPR National Assembly Committee
+    on Industry and Trade.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18418'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Yevhen
+  middle_name: Vyacheslavovych
+  last_name: ORLOV
+  whole_name: Yevhen Vyacheslavovych ORLOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18419'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Евгений
   middle_name: Вячеславович
   last_name: ОРЛОВ
@@ -37,38 +69,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '131437'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Yevhen
-  middle_name: Vyacheslavovych
-  last_name: ORLOV
-  whole_name: Yevhen Vyacheslavovych ORLOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18419'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Yevgeniy
-  middle_name: Vyacheslavovich
-  last_name: ORLOV
-  whole_name: Yevgeniy Vyacheslavovich ORLOV
-  function: Former Member of the ‘National Council’ of the so-called ‘Donetsk People’s
-    Republic’. Former chairman of the public movement ‘Free Donbass’ and former commander
-    of “Don battalion” Former Deputy Chairman of the DPR National Assembly Committee
-    on Industry and Trade.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18418'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

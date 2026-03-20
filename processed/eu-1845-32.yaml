@@ -1,16 +1,16 @@
 ---
 eu_reference_number: EU.1845.32
 logical_id: '5759'
-designation_details: 'UN designation: 23/12/2006 (no longer valid)'
+designation_details: 'UN designation: 23/12/2006'
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2025-07-28'
-  entry_into_force_date: '2025-07-29'
-  number_title: 2025/1559 (OJ L202501559)
+  publication_date: '2025-09-29'
+  entry_into_force_date: '2025-09-29'
+  number_title: 2025/1982 (OJ L202501982)
   programme: IRN
-  logical_id: '216042'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501559
+  logical_id: '217748'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 subject_type:
   code: person
   classification_code: P
@@ -33,16 +33,18 @@ name_aliases:
 - first_name: Hosein
   last_name: SALIMI
   whole_name: Hosein SALIMI
+  function: Commander of the Air Force, IRGC (Pasdaran)
   gender: M
+  title: General
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '158860'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - first_name: Hosein
   last_name: SALEEMI
   whole_name: Hosein SALEEMI

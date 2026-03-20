@@ -24,11 +24,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “NIID”
-  name_language: EN
+- whole_name: "»Tudományos Motorkutató Intézet« Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175011'
+  logical_id: '175248'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -64,21 +64,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “Research Institute of Engines”
+- whole_name: JSC “NIID”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175012'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Tudományos Motorkutató Intézet« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175248'
+  logical_id: '175011'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -119,6 +109,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC “Research Institute of Engines”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175012'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: Novoslobodskaya str., 37, bldg. 1, floor. 2, pom. 1, room. 8-9
   city: Moscow
@@ -143,21 +143,21 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: fiscalcode
-  number: '7707696113'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175008'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: other
   number: '770701001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175007'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
+  number: '7707696113'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175008'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

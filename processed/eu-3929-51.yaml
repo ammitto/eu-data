@@ -1,16 +1,16 @@
 ---
 eu_reference_number: EU.3929.51
 logical_id: '6696'
-designation_details: UN designation 18/04/2012 (no longer valid)
+designation_details: UN designation 18/04/2012
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2023-10-17'
-  entry_into_force_date: '2023-10-18'
-  number_title: 2023/2196 (OJ L17102023)
+  publication_date: '2025-09-29'
+  entry_into_force_date: '2025-09-29'
+  number_title: 2025/1982 (OJ L202501982)
   programme: IRN
-  logical_id: '184760'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+  logical_id: '217748'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 subject_type:
   code: person
   classification_code: P
@@ -26,11 +26,56 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Ali Akber Tahmaesebi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181799'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Ali Akber Tabatabaei
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181800'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Syed Akber Tahmaesebi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181801'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Ali Akbar Tahmaesebi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '181798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - first_name: Ali Akbar
   last_name: TABATABAEI
   whole_name: Ali Akbar TABATABAEI
-  function: Member of the Islamic Revolutionary Guard Corps Qods-Force (IRGC-QF),
-    former Commander of the IRGC-QF Africa Corps.
+  function: Member of the IRGC Qods Force operating under the direction of Qods Force
+    Commander, Major General Qasem Soleimani, who was designated by the UN Security
+    Council in Resolution 1747 (2007).
   gender: M
   name_language: EN
   strong: true
@@ -38,9 +83,9 @@ name_aliases:
   logical_id: '14855'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - first_name: Sayed Akbar
   last_name: TAHMAESEBI
   whole_name: Sayed Akbar TAHMAESEBI
@@ -77,3 +122,24 @@ birthdates:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+identifications:
+- identification_type_code: passport
+  number: '6620505'
+  country_iso2_code: IR
+  regulation_language: en
+  logical_id: '181796'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- identification_type_code: passport
+  number: '9003213'
+  country_iso2_code: IR
+  regulation_language: en
+  logical_id: '181797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982

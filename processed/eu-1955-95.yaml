@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: ESNICO - Fornecedor de equipamento  à Nuclear Industries Corporation
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '169624'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: ESNICO  - dostawca sprzętu dla Nuclear  Industries Corporation
   name_language: PL
   strong: true
@@ -59,16 +69,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169629'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: ESNICO - Fornecedor de equipamento  à Nuclear Industries Corporation
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '169624'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

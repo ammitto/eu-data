@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: لؤي العلي
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '124424'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: Lu’ai AL-ALI
   function: Head of Syrian Military Intelligence, Dara'a Branch.
   gender: M
@@ -45,6 +34,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17248'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: لؤي العلي
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124424'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

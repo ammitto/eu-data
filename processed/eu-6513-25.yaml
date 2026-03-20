@@ -14,24 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Bremino Group LLC
-  strong: true
-  regulation_language: en
-  logical_id: '130944'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: ООО "Бремино групп”
-  strong: true
-  regulation_language: en
-  logical_id: '130943'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Bremino Gruppe LLC
   name_language: DE
   strong: true
@@ -47,6 +29,24 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130942'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: ООО "Бремино групп”
+  strong: true
+  regulation_language: en
+  logical_id: '130943'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Bremino Group LLC
+  strong: true
+  regulation_language: en
+  logical_id: '130944'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -73,15 +73,6 @@ name_aliases:
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 addresses:
-- country_iso2_code: BY
-  country_description: BELARUS
-  regulation_language: en
-  logical_id: '130938'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - street: Niamiha 40
   city: Minsk
   country_iso2_code: BY
@@ -89,6 +80,15 @@ addresses:
   zip_code: '220004'
   regulation_language: en
   logical_id: '130939'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- country_iso2_code: BY
+  country_description: BELARUS
+  regulation_language: en
+  logical_id: '130938'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

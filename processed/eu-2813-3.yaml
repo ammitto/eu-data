@@ -14,81 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Sadek al-Rawi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18100'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Abu Baker al-Khatab
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18099'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Abu Mohamed al-Adnani
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18102'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Abu-Mohammad al-Adnani al-Shami
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18103'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Hajj Ibrahim
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18104'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Taha al-Banshi
-  strong: true
-  regulation_language: en
-  logical_id: '18101'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-08-21'
-    number_title: 914/2014 (OJ L248)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
-- whole_name: Yasser Khalaf Hussein Nazal al-Rawi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18098'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 - first_name: Abou
   middle_name: Mohamed
   last_name: al Adnani
@@ -113,6 +38,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18091'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: Hajj Ibrahim
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18104'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'
@@ -179,6 +115,70 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18097'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: Yasser Khalaf Hussein Nazal al-Rawi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18098'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: Abu Baker al-Khatab
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18099'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: Abu Sadek al-Rawi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18100'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: Taha al-Banshi
+  strong: true
+  regulation_language: en
+  logical_id: '18101'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-08-21'
+    number_title: 914/2014 (OJ L248)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
+- whole_name: Abu Mohamed al-Adnani
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18102'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: Abu-Mohammad al-Adnani al-Shami
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18103'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'

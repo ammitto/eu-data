@@ -14,17 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Открытое акционерное общество “Электростальский Химико-Механический
-    Завод Имени Н.Д. Зелинского"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Ny. D. Zelinszkij EHMZ Nyrt.
   name_language: HU
   strong: true
@@ -40,37 +29,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175238'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Fábrica de produtos químicos e mecânicos que recebeu o nome de N.D.
-    Zelinsky
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175237'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “N.D. Zelinsky EHMZ”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174978'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: OJSC EHMZ named after N. D. Zelinsky
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -96,12 +54,54 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Открытое акционерное общество “Электростальский Химико-Механический
+    Завод Имени Н.Д. Зелинского"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Fábrica de produtos químicos e mecânicos que recebeu o nome de N.D.
+    Zelinsky
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175237'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: "»Elektrosztali Ny. D. Zelinszkij Vegyi és Mechanikai Üzem« Nyilvánosan
     Működő Részvénytársaság"
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '175240'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC “N.D. Zelinsky EHMZ”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174978'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: OJSC EHMZ named after N. D. Zelinsky
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -137,6 +137,16 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
+- identification_type_code: regnumber
+  number: '1025007108390'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174977'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '5053002307'
   country_iso2_code: RU
@@ -152,16 +162,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174975'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: regnumber
-  number: '1025007108390'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

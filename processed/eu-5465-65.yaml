@@ -14,14 +14,27 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Saqer Asaad
+- first_name: Saqr Asaad
   last_name: al-Rustom
-  whole_name: Saqer Asaad al-Rustom
+  whole_name: Saqr Asaad al-Rustom
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '122328'
+  logical_id: '122329'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Saqer Asad
+  last_name: al-Rustom
+  whole_name: Saqer Asad al-Rustom
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '122322'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -89,32 +102,6 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Saqer
-  last_name: RUSTOM
-  whole_name: Saqer RUSTOM
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '122342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Saqr Asad
-  last_name: al-Rustom
-  whole_name: Saqr Asad al-Rustom
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '122323'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Saqer Asad
   last_name: RUSTOM
   whole_name: Saqer Asad RUSTOM
@@ -167,27 +154,27 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Saqer Asad
+- first_name: Saqer Asaad
   last_name: al-Rustom
-  whole_name: Saqer Asad al-Rustom
+  whole_name: Saqer Asaad al-Rustom
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '122322'
+  logical_id: '122328'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Saqr Asaad
+- first_name: Saqr Asad
   last_name: al-Rustom
-  whole_name: Saqr Asaad al-Rustom
+  whole_name: Saqr Asad al-Rustom
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '122329'
+  logical_id: '122323'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -344,6 +331,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '122341'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Saqer
+  last_name: RUSTOM
+  whole_name: Saqer RUSTOM
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '122342'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

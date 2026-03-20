@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mychajlo Vasyljovytj ZJELTJAKOV
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139361'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - whole_name: Michail Vasiljevitj ZJELTJAKOV
   name_language: SV
   strong: true
@@ -34,11 +24,22 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Михайло Васильович ЖЕЛТЯКОВ
+- whole_name: Mychajlo Vasyljovytj ZJELTJAKOV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139361'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: Mihail Vasilevich ZHELTYAKOV
+  function: So-called ‘Minister of Culture’ of the so-called ‘Donetsk People’s Republic’
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '138272'
+  logical_id: '138274'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
@@ -54,12 +55,11 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Mihail Vasilevich ZHELTYAKOV
-  function: So-called ‘Minister of Culture’ of the so-called ‘Donetsk People’s Republic’
+- whole_name: Михайло Васильович ЖЕЛТЯКОВ
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '138274'
+  logical_id: '138272'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

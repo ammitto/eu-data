@@ -14,72 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Sirat
-  strong: true
-  regulation_language: en
-  logical_id: '3137'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 984/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
-- whole_name: Association for Education, Culture and Building Society - Sirat
-  strong: true
-  regulation_language: en
-  logical_id: '3139'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 984/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
-- whole_name: Association for Education, Cultural and to Create Society - Sirat
-  strong: true
-  regulation_language: en
-  logical_id: '3140'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 984/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
-- whole_name: Istikamet
-  strong: true
-  regulation_language: en
-  logical_id: '3141'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 984/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
-- whole_name: In Siratel
-  strong: true
-  regulation_language: en
-  logical_id: '3142'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 984/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
-- whole_name: Stowarzyszenie na rzecz Praw Obywatelskich i Oporu Przeciw Kłamstwu
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '3152'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 984/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
-- whole_name: Stowarzyszenie Obywatelskie na rzecz Wspierania Prawdy i Eliminowania
-    Kłamstw
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '3154'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 984/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
 - whole_name: Stowarzyszenie na rzecz Edukacji, Kultury i Społeczeństwa – Sirat
   name_language: PL
   strong: true
@@ -149,6 +83,143 @@ name_aliases:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Асоциация за граждански права и борба с лъжите
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '7428'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Гражданска асоциация за защита на истината и премахването на лъжата
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '7429'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Асоциация за образование, култура и за изграждане на общество - Sirat
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '7430'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Гражданска асоциация за защита на истината и премахването на лъжата
+    - Furqan
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '7431'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Udruženje za obrazovanje, kulturu i izgradnju  društva - Sirat
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '161614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Udruženje građana za potporu istini i suzbijanje laži
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '161615'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Udruženje za građanska prava i odupiranje lažima
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '161616'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Stowarzyszenie Obywatelskie na rzecz Wspierania Prawdy i Eliminowania
+    Kłamstw
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '3154'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-05-15'
+    number_title: 984/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
+- whole_name: Stowarzyszenie na rzecz Praw Obywatelskich i Oporu Przeciw Kłamstwu
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '3152'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-05-15'
+    number_title: 984/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
+- whole_name: In Siratel
+  strong: true
+  regulation_language: en
+  logical_id: '3142'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-05-15'
+    number_title: 984/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
+- whole_name: Istikamet
+  strong: true
+  regulation_language: en
+  logical_id: '3141'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-05-15'
+    number_title: 984/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
+- whole_name: Association for Education, Cultural and to Create Society - Sirat
+  strong: true
+  regulation_language: en
+  logical_id: '3140'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-05-15'
+    number_title: 984/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
+- whole_name: Association for Education, Culture and Building Society - Sirat
+  strong: true
+  regulation_language: en
+  logical_id: '3139'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-05-15'
+    number_title: 984/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
+- whole_name: Sirat
+  strong: true
+  regulation_language: en
+  logical_id: '3137'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-05-15'
+    number_title: 984/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
 - whole_name: Association of Citizens for the Support of Truth and Suppression of
     Lies
   strong: true
@@ -186,15 +257,6 @@ name_aliases:
     publication_date: '2004-05-15'
     number_title: 984/2004 (OJ L180)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
-- whole_name: Dzemilijati Furkan
-  strong: true
-  regulation_language: en
-  logical_id: '3132'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 984/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
 - whole_name: Al Furqan
   strong: true
   regulation_language: en
@@ -204,77 +266,15 @@ name_aliases:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Udruženje za građanska prava i odupiranje lažima
-  name_language: HR
+- whole_name: Dzemilijati Furkan
   strong: true
   regulation_language: en
-  logical_id: '161616'
+  logical_id: '3132'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Udruženje građana za potporu istini i suzbijanje laži
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '161615'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Udruženje za obrazovanje, kulturu i izgradnju  društva - Sirat
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '161614'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Гражданска асоциация за защита на истината и премахването на лъжата
-    - Furqan
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '7431'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Асоциация за образование, култура и за изграждане на общество - Sirat
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '7430'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Асоциация за граждански права и борба с лъжите
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '7428'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- whole_name: Гражданска асоциация за защита на истината и премахването на лъжата
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '7429'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+    publication_date: '2004-05-15'
+    number_title: 984/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
 addresses:
 - street: 42 Muhameda Hadžijahića
   city: Sarajevo
@@ -309,17 +309,6 @@ addresses:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- street: ul. Strossmajerova, 72
-  city: Zenica
-  country_iso2_code: BA
-  country_description: BOSNIA AND HERZEGOWINA
-  regulation_language: en
-  logical_id: '736'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 984/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
 - street: Put Mladih Muslimana, 30a (former name ul. Palva Lukaca / Palva Lukaca Street)
   city: Sarajevo
   country_iso2_code: BA
@@ -332,6 +321,17 @@ addresses:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- street: ul. Strossmajerova, 72
+  city: Zenica
+  country_iso2_code: BA
+  country_description: BOSNIA AND HERZEGOWINA
+  regulation_language: en
+  logical_id: '736'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-05-15'
+    number_title: 984/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0024:0025:EN:PDF
 - street: Muhameda Hadzijahica, 42
   city: Sarajevo
   country_iso2_code: BA

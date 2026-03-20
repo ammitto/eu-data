@@ -14,19 +14,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Korean Committee for Space Technology
+- whole_name: Committee for Space Technology
   strong: true
   regulation_language: en
-  logical_id: '17040'
+  logical_id: '17043'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-02-19'
     number_title: 137/2013 (OJ L46)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:046:0019:0024:EN:PDF
-- whole_name: DPRK Committee for Space Technology
+- whole_name: KCST
   strong: true
   regulation_language: en
-  logical_id: '17041'
+  logical_id: '17044'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-02-19'
@@ -41,19 +41,19 @@ name_aliases:
     publication_date: '2013-02-19'
     number_title: 137/2013 (OJ L46)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:046:0019:0024:EN:PDF
-- whole_name: Committee for Space Technology
+- whole_name: Korean Committee for Space Technology
   strong: true
   regulation_language: en
-  logical_id: '17043'
+  logical_id: '17040'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-02-19'
     number_title: 137/2013 (OJ L46)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:046:0019:0024:EN:PDF
-- whole_name: KCST
+- whole_name: DPRK Committee for Space Technology
   strong: true
   regulation_language: en
-  logical_id: '17044'
+  logical_id: '17041'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-02-19'

@@ -14,11 +14,29 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Εταιρία περιορισμένης ευθύνης “Inter Tobacco”
-  name_language: EL
+- whole_name: Общество с ограниченной ответственностью “Интер Тобако”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '141167'
+  logical_id: '140367'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Таварыства з абмежаванай адказнасцю “Інтэр Табак”
+  strong: true
+  regulation_language: en
+  logical_id: '140368'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: "“Inter Tobacco” LLC"
+  strong: true
+  regulation_language: en
+  logical_id: '140369'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -29,6 +47,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141168'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Societatea cu răspundere limitată «Inter Tobacco»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '141174'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Εταιρία περιορισμένης ευθύνης “Inter Tobacco”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '141167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: RAB „Inter Tobacco“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '141175'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -79,54 +127,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141173'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: "“Inter Tobacco” LLC"
-  strong: true
-  regulation_language: en
-  logical_id: '140369'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Societatea cu răspundere limitată «Inter Tobacco»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '141174'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: RAB „Inter Tobacco“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '141175'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Общество с ограниченной ответственностью “Интер Тобако”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140367'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Таварыства з абмежаванай адказнасцю “Інтэр Табак”
-  strong: true
-  regulation_language: en
-  logical_id: '140368'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

@@ -15,35 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: George
-  last_name: HASWANI
-  whole_name: George HASWANI
-  function: Businessperson. Holds interests in and/or has significant influence in
-    a number of companies and entities in Syria, in particular HESCO Engineering and
-    Construction Company, a major engineering and construction company. Hesco Engineering
-    and Construction Company Ltd is registered at the same London address as British
-    firm, Savero Ltd.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '18588'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- first_name: George
-  last_name: Heswani
-  whole_name: George Heswani
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '18589'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- first_name: George
   last_name: Hasawani
   whole_name: George Hasawani
   gender: M
@@ -62,6 +33,35 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18591'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- first_name: George
+  last_name: Heswani
+  whole_name: George Heswani
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '18589'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- first_name: George
+  last_name: HASWANI
+  whole_name: George HASWANI
+  function: Businessperson. Holds interests in and/or has significant influence in
+    a number of companies and entities in Syria, in particular HESCO Engineering and
+    Construction Company, a major engineering and construction company. Hesco Engineering
+    and Construction Company Ltd is registered at the same London address as British
+    firm, Savero Ltd.
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '18588'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'

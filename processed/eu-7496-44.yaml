@@ -14,15 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Юрий
-  middle_name: Николаевич
-  last_name: Пыжик
-  whole_name: Юрий Николаевич Пыжик
+- first_name: Yuri
+  middle_name: Nikolayevich
+  last_name: PYZHIK
+  whole_name: Yuri Nikolayevich PYZHIK
+  function: Military pilot, Commander of the 61st Fighter Air Base / Baranovichi airfield,
+    Commander of military unit 54804
   gender: M
-  name_language: RU
+  title: Colonel
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '135852'
+  logical_id: '135853'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'
@@ -39,6 +42,20 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/332 (OJ L53)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
+- first_name: Юрий
+  middle_name: Николаевич
+  last_name: Пыжик
+  whole_name: Юрий Николаевич Пыжик
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '135852'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Jurij
   last_name: Pyžik
   whole_name: Jurij Pyžik
@@ -47,23 +64,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169959'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Yuri
-  middle_name: Nikolayevich
-  last_name: PYZHIK
-  whole_name: Yuri Nikolayevich PYZHIK
-  function: Military pilot, Commander of the 61st Fighter Air Base / Baranovichi airfield,
-    Commander of military unit 54804
-  gender: M
-  title: Colonel
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '135853'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

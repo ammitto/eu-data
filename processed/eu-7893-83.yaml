@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Александр
-  middle_name: Евгеньевич
-  last_name: АНАНЧЕНКO
-  whole_name: Александр Евгеньевич АНАНЧЕНКO
+- first_name: Aleksandr
+  middle_name: Jevgenjevitj
+  last_name: ANANTJENKO
+  whole_name: Aleksandr Jevgenjevitj ANANTJENKO
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '138229'
+  logical_id: '139345'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -45,15 +45,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Aleksandr
-  middle_name: Jevgenjevitj
-  last_name: ANANTJENKO
-  whole_name: Aleksandr Jevgenjevitj ANANTJENKO
+- first_name: Александр
+  middle_name: Евгеньевич
+  last_name: АНАНЧЕНКO
+  whole_name: Александр Евгеньевич АНАНЧЕНКO
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '139345'
+  logical_id: '138229'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

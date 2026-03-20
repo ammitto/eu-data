@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: BONG NAM
-  last_name: PAK
-  whole_name: BONG NAM PAK
-  function: Overseas Ilsim International Bank representative.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '115031'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-01-09'
-    number_title: 2018/12 (OJ L4)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0012&from=EN
 - first_name: Pong-nam
   last_name: Pak
   whole_name: Pong-nam Pak
@@ -47,6 +34,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '115029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-01-09'
+    number_title: 2018/12 (OJ L4)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0012&from=EN
+- first_name: BONG NAM
+  last_name: PAK
+  whole_name: BONG NAM PAK
+  function: Overseas Ilsim International Bank representative.
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '115031'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-01-09'

@@ -28,17 +28,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Ilja Eduardovitj TOROSOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151034'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Ilya
   middle_name: Eduardovich
   last_name: TOROSOV
@@ -49,6 +38,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149762'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Ilja Eduardovitj TOROSOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151034'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

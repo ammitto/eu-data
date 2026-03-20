@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Макс ШЛУНД
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175671'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - whole_name: Max SCHLUND
   gender: M
   name_language: EN
@@ -55,6 +44,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175674'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Макс ШЛУНД
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175671'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

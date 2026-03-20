@@ -1,40 +1,20 @@
 ---
 eu_reference_number: EU.3951.43
 logical_id: '3815'
-designation_details: UN designation 23/12/2006 (no longer valid)
+designation_details: UN designation 23/12/2006
 regulations:
 - regulation_type: amendment
   organisation_type: council
-  publication_date: '2023-10-17'
-  entry_into_force_date: '2023-10-18'
-  number_title: 2023/2196 (OJ L17102023)
+  publication_date: '2025-09-29'
+  entry_into_force_date: '2025-09-29'
+  number_title: 2025/1982 (OJ L202501982)
   programme: IRN
-  logical_id: '184760'
-  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+  logical_id: '217748'
+  publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Instrumentation Factory Plant
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159077'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Fajr Industry Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161994'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Instrumentation Factories of  Precision-Machinery
   name_language: EN
   strong: true
@@ -45,11 +25,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Fajr Industries Group
+- whole_name: Instrumentation Factories Plant
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159080'
+  logical_id: '159078'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -145,36 +125,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Instrumentation Factories Plant
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159078'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Fajr Industry Group
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '162132'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Grúpa Tionsclaíoch Fajr
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '162131'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: FIG
   name_language: EN
   strong: true
@@ -185,51 +135,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: مجتمع صنعتی قطعات دقیق
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '159073'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Fajr Industrial Group
+- whole_name: Fajr Industry Group
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '5193'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Industrial Factories of Precision Machinery
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159074'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Instrumentation Factories Plan
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159075'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: IFP
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159076'
+  logical_id: '161994'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -245,11 +155,71 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Fajr Industry Group
-  name_language: LV
+- whole_name: Grúpa Tionsclaíoch Fajr
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '162130'
+  logical_id: '162131'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Fajr Industries Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159080'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Instrumentation Factory Plant
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159077'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: IFP
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159076'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Fajr Industrial Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5193'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: مجتمع صنعتی قطعات دقیق
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '159073'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Industrial Factories of Precision Machinery
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159074'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

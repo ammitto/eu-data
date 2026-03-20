@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mikhail Vladimirovich  DENISENKO
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174148'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Mikhail  Uladzimiravich  DZENISENKA
   function: "Businessperson - director of the Republican unitary enterprise Belorusskiye
     Loterei. Belorusskiye Loterei is owned by the \nBelarus President Property Management
@@ -100,6 +89,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174147'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Mikhail Vladimirovich  DENISENKO
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174148'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

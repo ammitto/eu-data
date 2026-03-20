@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: U Win Shein
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/998 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
 - whole_name: Win Shein
   function: Deputy Prime Minister since 1 February 2023; Minister for Planning, Finance,
     and Industry in the Union Government, appointed by Commander-in-Chief Min Aung
@@ -37,6 +27,16 @@ name_aliases:
     publication_date: '2023-04-28'
     number_title: 2023/886 (OJ L113 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0886
+- whole_name: U Win Shein
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/998 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
 citizenships:
 - country_iso2_code: MM
   country_description: MYANMAR

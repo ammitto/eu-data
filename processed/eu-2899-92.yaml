@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: عامر ابراهيم العشي
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '124686'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: Amer AL-ACHI
   function: "Former Governor of the Sweida \nGovernorate, appointed by President Bashar
     al-Assad in July 2016. Former Head of the intelligence branch of the Syrian Air
@@ -39,6 +28,39 @@ name_aliases:
     publication_date: '2021-05-28'
     number_title: 2021/848 (OJ L188)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
+- first_name: Amis
+  last_name: al Ashi
+  whole_name: Amis al Ashi
+  strong: true
+  regulation_language: en
+  logical_id: '16438'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-24'
+    number_title: 673/2012 (OJ L196)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:196:0008:0011:en:PDF
+- whole_name: عامر ابراهيم العشي
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124686'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- first_name: Amer
+  last_name: Ashi
+  whole_name: Amer Ashi
+  strong: true
+  regulation_language: en
+  logical_id: '16440'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-24'
+    number_title: 673/2012 (OJ L196)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:196:0008:0011:en:PDF
 - first_name: Amer
   middle_name: Ibrahim
   last_name: al-Achi
@@ -57,28 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '16439'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-24'
-    number_title: 673/2012 (OJ L196)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:196:0008:0011:en:PDF
-- first_name: Amer
-  last_name: Ashi
-  whole_name: Amer Ashi
-  strong: true
-  regulation_language: en
-  logical_id: '16440'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-24'
-    number_title: 673/2012 (OJ L196)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:196:0008:0011:en:PDF
-- first_name: Amis
-  last_name: al Ashi
-  whole_name: Amis al Ashi
-  strong: true
-  regulation_language: en
-  logical_id: '16438'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-24'

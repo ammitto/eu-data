@@ -15,15 +15,26 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Malaquías
-  last_name: GIL RODRÍGUEZ
-  whole_name: Malaquías GIL RODRÍGUEZ
-  function: Judge, President of the Political-Administrative Chamber of the Supreme
-    Court of Justice of Venezuela (TSJ)
+  last_name: GIL RODRÍGUEZIN
+  whole_name: Malaquías GIL RODRÍGUEZIN
   gender: M
-  name_language: EN
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '172389'
+  logical_id: '172386'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-10'
+    number_title: 2025/44 (OJ L10012025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
+- first_name: Malaquías
+  last_name: GIL RODRÍGUEZ
+  whole_name: Malaquías GIL RODRÍGUEZ
+  gender: M
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '172387'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-10'
@@ -45,24 +56,13 @@ name_aliases:
 - first_name: Malaquías
   last_name: GIL RODRÍGUEZ
   whole_name: Malaquías GIL RODRÍGUEZ
+  function: Judge, President of the Political-Administrative Chamber of the Supreme
+    Court of Justice of Venezuela (TSJ)
   gender: M
-  name_language: EL
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172387'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-10'
-    number_title: 2025/44 (OJ L10012025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
-- first_name: Malaquías
-  last_name: GIL RODRÍGUEZIN
-  whole_name: Malaquías GIL RODRÍGUEZIN
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '172386'
+  logical_id: '172389'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-10'

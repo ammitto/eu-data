@@ -52,13 +52,12 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   month_of_year: 3
-  year: 1968
+  year: 1969
   city: Tehran
-  place: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '148301'
+  logical_id: '148563'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -67,12 +66,13 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   month_of_year: 3
-  year: 1969
+  year: 1968
   city: Tehran
+  place: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '148563'
+  logical_id: '148301'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

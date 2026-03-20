@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Nicaragua telekommunikatsiooni ja postiteenuste instituut
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '133177'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
 - whole_name: Nicaraguan televiestintä- ja postihallinto
   name_language: FI
   strong: true
@@ -34,101 +24,21 @@ name_aliases:
     publication_date: '2023-10-10'
     number_title: 2023/2125 (OJ L10102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302125
-- whole_name: Nikaragvas Telekomunikāciju un pasta pakalpojumu pārvalde
-  name_language: LV
+- whole_name: TELCOR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '133179'
+  logical_id: '158148'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Istituto nicaraguense delle telecomunicazioni e dei servizi postali
-  name_language: IT
+    publication_date: '2023-10-10'
+    number_title: 2023/2125 (OJ L10102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302125
+- whole_name: Nikaragujský inštitút telekomunikačných a poštových služieb
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '133180'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Nikaragvanski institut za telekomunikacije i poštanske usluge
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '133181'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: L-Istitut tan-Nikaragwa għat-Telekomunikazzjoni u s-Servizzi tal-Posta
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '133182'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Nicaraguai Távközlési és Postai szolgáltatások Intézete
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '133183'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Institutul Nicaraguan de Telecomunicații și Servicii Poștale
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '133184'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Instituto Nicaraguense de Telecomunicações e Correios
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '133185'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Nikaraguański Instytut Usług Telekomunikacyjnych i Pocztowych
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '133186'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Nicaraguaans Instituut voor Telecommunicatie en Postdiensten
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '133187'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Det nicaraguanska institutet för telekommunikation och posttjänster
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '133188'
+  logical_id: '133191'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-01-10'
@@ -144,11 +54,101 @@ name_aliases:
     publication_date: '2022-01-10'
     number_title: 2022/22 (OJ L5I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Nikaragujský inštitút telekomunikačných a poštových služieb
-  name_language: SK
+- whole_name: Det nicaraguanska institutet för telekommunikation och posttjänster
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '133191'
+  logical_id: '133188'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Nicaraguaans Instituut voor Telecommunicatie en Postdiensten
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '133187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Nikaraguański Instytut Usług Telekomunikacyjnych i Pocztowych
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '133186'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Instituto Nicaraguense de Telecomunicações e Correios
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '133185'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Institutul Nicaraguan de Telecomunicații și Servicii Poștale
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '133184'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Nicaraguai Távközlési és Postai szolgáltatások Intézete
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '133183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: L-Istitut tan-Nikaragwa għat-Telekomunikazzjoni u s-Servizzi tal-Posta
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '133182'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Nikaragvanski institut za telekomunikacije i poštanske usluge
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '133181'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Istituto nicaraguense delle telecomunicazioni e dei servizi postali
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '133180'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Nikaragvas Telekomunikāciju un pasta pakalpojumu pārvalde
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '133179'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-01-10'
@@ -164,61 +164,11 @@ name_aliases:
     publication_date: '2022-01-10'
     number_title: 2022/22 (OJ L5I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: TELCOR
-  name_language: EN
+- whole_name: Nicaragua telekommunikatsiooni ja postiteenuste instituut
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '158148'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-10'
-    number_title: 2023/2125 (OJ L10102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302125
-- whole_name: Det nicaraguanske institut for telekommunikations- og posttjenester
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '133171'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Nikaragujský institut pro telekomunikace a poštovní služby
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '133172'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Instituto Nicaragüense de Telecomunicaciones y Correos
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '133173'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Никарагуански институт по телекомуникации и пощенски услуги
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '133174'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-10'
-    number_title: 2022/22 (OJ L5I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Institut nicaraguayen des télécommunications et des services postaux
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '133175'
+  logical_id: '133177'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-01-10'
@@ -234,10 +184,51 @@ name_aliases:
     publication_date: '2022-01-10'
     number_title: 2022/22 (OJ L5I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
-- whole_name: Nicaraguan Institute of Telecommunications and Postal Services
+- whole_name: Institut nicaraguayen des télécommunications et des services postaux
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '132840'
+  logical_id: '133175'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Никарагуански институт по телекомуникации и пощенски услуги
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '133174'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Instituto Nicaragüense de Telecomunicaciones y Correos
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '133173'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Nikaragujský institut pro telekomunikace a poštovní služby
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '133172'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Det nicaraguanske institut for telekommunikations- og posttjenester
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '133171'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-01-10'
@@ -248,6 +239,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133170'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-10'
+    number_title: 2022/22 (OJ L5I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- whole_name: Nicaraguan Institute of Telecommunications and Postal Services
+  strong: true
+  regulation_language: en
+  logical_id: '132840'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-01-10'

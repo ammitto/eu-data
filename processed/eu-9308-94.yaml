@@ -14,32 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Igor
-  last_name: Bagňuk
-  whole_name: Igor Bagňuk
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '157514'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Igor
-  middle_name: Borisovitj
-  last_name: BAGNJUK
-  whole_name: Igor Borisovitj BAGNJUK
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157515'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Игорь
   middle_name: Борисович
   last_name: БАГНЮК
@@ -66,6 +40,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146896'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Igor
+  last_name: Bagňuk
+  whole_name: Igor Bagňuk
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '157514'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Igor
+  middle_name: Borisovitj
+  last_name: BAGNJUK
+  whole_name: Igor Borisovitj BAGNJUK
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157515'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

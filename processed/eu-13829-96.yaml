@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: ليتاسكو ميدل إيست م.د.م.س
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '179882'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Litasco Middle East DMCC
   function: Litasco Middle East DMCC is a Dubai-based subsidiary of PJSC Lukoil, with
     strong ties to the Russian energy industry. Litasco Middle East DMCC and an entity
@@ -26,16 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179883'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: ليتاسكو ميدل إيست م.د.م.س
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '179882'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

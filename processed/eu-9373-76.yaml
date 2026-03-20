@@ -14,6 +14,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: АО КОНСТРУКТОРСКОЕ БЮРО ТОЧНОГО МАШИНОСТРОЕНИЯ ИМ. А. Э. НУДЕЛЬМАНА
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147157'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: КБ ТОЧМАШ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147158'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: JSC A.E. NUDELMAN DESIGN BUREAU OF PRECISION MACHINE BUILDING
   function: Russian company that develops weapons
   name_language: EN
@@ -56,6 +76,16 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: NUDELMANO VARDO TIKSLIOSIOS MAŠINŲ GAMYBOS KONSTRUKTORIŲ  BIURAS
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147970'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: BIROUL DE PROIECTARE PENTRU CONSTRUCȚII DE MAȘINI DE PRECIZIE A.E. NUDELMAN
   name_language: RO
   strong: true
@@ -71,36 +101,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147907'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: NUDELMANO VARDO TIKSLIOSIOS MAŠINŲ GAMYBOS KONSTRUKTORIŲ  BIURAS
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147970'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: АО КОНСТРУКТОРСКОЕ БЮРО ТОЧНОГО МАШИНОСТРОЕНИЯ ИМ. А. Э. НУДЕЛЬМАНА
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147157'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: КБ ТОЧМАШ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147158'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

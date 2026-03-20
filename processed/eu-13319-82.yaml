@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: OTKRYTOE AKTSIONERNOE OBSCHESTVO BELORUSSKIY METALLURGICHESKIY ZAVOD
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176816'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: OTKRYTOE AKTSIONERNOE OBSCHESTVO ZAVOD LEGMASH
   name_language: EN
   strong: true
@@ -34,16 +44,6 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: ZAVOD SHVEINYKH MASHIN OAO
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176817'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: Legmash Plant OJSC
   function: Legmash Plant OJSC is a Belarusian plant which produces 152-mm and 122-mm
     shells for cannon artillery (including howitzers D-30, D-20, Msta-B, Giatsint-B,
@@ -57,21 +57,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: OTKRYTOE AKTSIONERNOE OBSCHESTVO BELORUSSKIY METALLURGICHESKIY ZAVOD
+- whole_name: ZAVOD SHVEINYKH MASHIN OAO
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176816'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Завод Легмаш OJSC
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '177182'
+  logical_id: '176817'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -82,6 +72,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Завод Легмаш OJSC
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '177182'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

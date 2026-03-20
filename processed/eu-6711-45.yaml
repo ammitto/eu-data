@@ -14,66 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Otvorená akciová spoločnosť „Belavia Belarusian Airlines“
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164187'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- whole_name: Отворено акционерно дружество „Belavia Belarusian Airlines“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164177'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- whole_name: Avoin osakeyhtiö ”Belavia Belarusian Airlines”
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164192'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- whole_name: OJSC Belavia Belarusian Airlines
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '132394'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- whole_name: "„Belavia Belarusian Airlines” nyilvánosan működő részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '164170'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- whole_name: ОАО «Авиакомпания «Белавиа»
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '132102'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - whole_name: ААТ “Авіякампанія Белавія”
   name_language: BE
   strong: true
@@ -145,16 +85,16 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Ανοικτή συμμετοχική εταιρεία “Belavia Belarusian Airlines”
-  name_language: EL
+- whole_name: Avoin osakeyhtiö ”Belavia Belarusian Airlines”
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '132387'
+  logical_id: '164192'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - whole_name: Avatud aktsiaselts Belavia Belarusian Airlines
   name_language: ET
   strong: true
@@ -211,6 +151,66 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132393'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- whole_name: OJSC Belavia Belarusian Airlines
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '132394'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- whole_name: ОАО «Авиакомпания «Белавиа»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '132102'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- whole_name: Отворено акционерно дружество „Belavia Belarusian Airlines“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '164177'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- whole_name: Ανοικτή συμμετοχική εταιρεία “Belavia Belarusian Airlines”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '132387'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Otvorená akciová spoločnosť „Belavia Belarusian Airlines“
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '164187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- whole_name: "„Belavia Belarusian Airlines” nyilvánosan működő részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '164170'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Volgai Hajózási Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175227'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Акционерное Общество "СУДОХОДНАЯ КОМПАНИЯ "ВОЛЖСКОЕ ПАРОХОДСТВО"
   name_language: RU
   strong: true
@@ -24,24 +34,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Joint Stock Company Volga Shipping
-  function: JSC Volga Shipping manages vessels transporting crude oil and oil products
-    by sea, including for export purposes.
-  title: Joint Stock Company
+- whole_name: JSC Volga Shipping
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174818'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Volgai Hajózási Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175227'
+  logical_id: '174816'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -57,11 +54,14 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC Volga Shipping
+- whole_name: Joint Stock Company Volga Shipping
+  function: JSC Volga Shipping manages vessels transporting crude oil and oil products
+    by sea, including for export purposes.
+  title: Joint Stock Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174816'
+  logical_id: '174818'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -82,16 +82,6 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: regnumber
-  number: '1025203016717'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174815'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: other
   number: '526001001'
   country_iso2_code: RU
@@ -107,6 +97,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174814'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: regnumber
+  number: '1025203016717'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174815'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

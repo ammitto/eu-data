@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Наталья Сергеевна ВИРТУОЗОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173014'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - first_name: Natalya
   middle_name: Sergeevna
   last_name: VIRTUOZOVA
@@ -26,17 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173015'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Наталья Сергеевна ВИРТУОЗОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '173014'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

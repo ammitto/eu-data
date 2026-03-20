@@ -25,12 +25,16 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Grigorij Grigorijev
+- first_name: Grigoriy
+  middle_name: Igorevich
+  last_name: GRIGORIEV
+  whole_name: Grigoriy Igorevich GRIGORIEV
+  function: General Director and CEO of LLC NOVELCO
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163712'
+  logical_id: '163085'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -47,16 +51,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Grigoriy
-  middle_name: Igorevich
-  last_name: GRIGORIEV
-  whole_name: Grigoriy Igorevich GRIGORIEV
-  function: General Director and CEO of LLC NOVELCO
+- whole_name: Grigorij Grigorijev
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '163085'
+  logical_id: '163712'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

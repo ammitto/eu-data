@@ -24,31 +24,11 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Staden Sevastopols statliga enhetsföretag ’Sevastopols kusthamn’
-  name_language: SV
+- whole_name: Državno unitarno poduzeće Grada Sevastopolja ‚Sevastopol seaport’
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '158639'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: κρατική επιχείρηση “Εμπορικός Θαλάσσιος Λιμένας Σεβαστούπολης”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '158294'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: staatsbedrijf “Sevastopol commercial seaport”
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '158295'
+  logical_id: '158661'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -64,11 +44,63 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: valsts  uzņēmums “Sevastopol commercial seaport
-  name_language: LV
+- whole_name: Κρατική ενιαία επιχείρηση της πόλης της Σεβαστούπολης “Θαλάσσιος Λιμένας
+    Σεβαστούπολης”
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '158666'
+  logical_id: '158293'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: κρατική επιχείρηση “Εμπορικός Θαλάσσιος Λιμένας Σεβαστούπολης”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '158294'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: valtionyhtiö ”Sevastopolin kaupallinen merisatama”
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '158640'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Sevastopolin kaupungin omistama valtion unitaarinen yritys ”Sevastopolin
+    merisatama”
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '158641'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: valstybės įmonė "Sevastopol commercial seaport“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '158642'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Sevastopolio miesto valstybės unitarinė įmonė „Sevastopol seaport“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '158643'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -109,6 +141,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158665'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: valsts  uzņēmums “Sevastopol commercial seaport
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '158666'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Porto marítimo comercial de Sebastopol
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '158286'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -166,94 +218,51 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Porto marítimo comercial de Sebastopol
-  name_language: PT
+- whole_name: Statliga företaget ’Sevastopols kommersiella kusthamn’
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '158286'
+  logical_id: '158638'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: valtionyhtiö ”Sevastopolin kaupallinen merisatama”
-  name_language: FI
+- whole_name: Staden Sevastopols statliga enhetsföretag ’Sevastopols kusthamn’
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '158640'
+  logical_id: '158639'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Sevastopolin kaupungin omistama valtion unitaarinen yritys ”Sevastopolin
-    merisatama”
-  name_language: FI
+- whole_name: întreprinderea de stat «Portul maritim comercial Sevastopol»
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '158641'
+  logical_id: '158541'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: valstybės įmonė "Sevastopol commercial seaport“
-  name_language: LT
+- whole_name: Štátny unitárny podnik mesta Sevastopol „Námorný prístav Sevastopol“
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '158642'
+  logical_id: '158542'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Sevastopolio miesto valstybės unitarinė įmonė „Sevastopol seaport“
-  name_language: LT
+- whole_name: štátny podnik „Komerčný námorný prístav Sevastopol“
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '158643'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Státní jednotný podnik města  Sevastopolu „Sevastopol seaport“
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: "„Szevasztopoli Kereskedelmi Tengeri Kikötő” állami vállalat"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '158409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: "„Szevasztopoli Tengeri Kikötő”, Szevasztopol város szövetségi állami
-    vállalata"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '158410'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Държавно единно предприятие на град Севастопол, „Севастополско морско
-    пристанище“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '158411'
+  logical_id: '158543'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -313,32 +322,32 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Κρατική ενιαία επιχείρηση της πόλης της Σεβαστούπολης “Θαλάσσιος Λιμένας
-    Σεβαστούπολης”
-  name_language: EL
+- whole_name: staatsbedrijf “Sevastopol commercial seaport”
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '158293'
+  logical_id: '158295'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Statliga företaget ’Sevastopols kommersiella kusthamn’
-  name_language: SV
+- whole_name: unitarne przedsiębiorstwo państwowe miasta Sewastopola »Port morski
+    w Sewastopolu«
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '158638'
+  logical_id: '158237'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Državno unitarno poduzeće Grada Sevastopolja ‚Sevastopol seaport’
-  name_language: HR
+- whole_name: przedsiębiorstwo państwowe »Morski port handlowy w Sewastopolu«
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '158661'
+  logical_id: '158236'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -375,31 +384,43 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: întreprinderea de stat «Portul maritim comercial Sevastopol»
-  name_language: RO
+- whole_name: Státní jednotný podnik města  Sevastopolu „Sevastopol seaport“
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '158541'
+  logical_id: '158408'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Štátny unitárny podnik mesta Sevastopol „Námorný prístav Sevastopol“
-  name_language: SK
+- whole_name: "„Szevasztopoli Kereskedelmi Tengeri Kikötő” állami vállalat"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '158542'
+  logical_id: '158409'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: štátny podnik „Komerčný námorný prístav Sevastopol“
-  name_language: SK
+- whole_name: "„Szevasztopoli Tengeri Kikötő”, Szevasztopol város szövetségi állami
+    vállalata"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '158543'
+  logical_id: '158410'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Държавно единно предприятие на град Севастопол, „Севастополско морско
+    пристанище“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '158411'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -421,27 +442,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: przedsiębiorstwo państwowe »Morski port handlowy w Sewastopolu«
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '158236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: unitarne przedsiębiorstwo państwowe miasta Sewastopola »Port morski
-    w Sewastopolu«
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '158237'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

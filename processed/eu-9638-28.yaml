@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: محمد حسین خسروی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '149456'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
 - first_name: Mohammad Hossein
   last_name: KHOSRAVI
   whole_name: Mohammad Hossein KHOSRAVI
@@ -23,17 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149457'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: محمد حسین خسروی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '149456'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Sitt Taing Aung
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '149187'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: Sit Taing Aung
   function: the Director of Yatanarpon Aviation Support Company and Suntac Group of
     Companies between the establishment of these companies and their disbanding in
@@ -32,6 +22,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149188'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Sitt Taing Aung
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '149187'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

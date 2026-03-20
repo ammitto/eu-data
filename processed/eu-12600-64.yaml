@@ -18,6 +18,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО “АВИАКОМПАНИЯ ‘ЮТЭЙР’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171619'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: UTAIR Nyrt.
   name_language: HU
   strong: true
@@ -33,16 +43,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171618'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО “АВИАКОМПАНИЯ ‘ЮТЭЙР’”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171619'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

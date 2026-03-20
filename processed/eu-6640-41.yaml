@@ -14,20 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Владимир
-  middle_name: Николаевич
-  last_name: ТЕРЕНТЬЕВ
-  whole_name: Владимир Николаевич ТЕРЕНТЬЕВ
+- whole_name: Vladimir Nikolajevitj Terentiev
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '131614'
+  logical_id: '131645'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
+- whole_name: Wladimir Nikolajewitsch TERENTJEW
+  gender: M
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '131644'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 - first_name: Vladimir
   middle_name: Nikolaevich
   last_name: TERENTEV
@@ -44,28 +52,20 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Wladimir Nikolajewitsch TERENTJEW
+- first_name: Владимир
+  middle_name: Николаевич
+  last_name: ТЕРЕНТЬЕВ
+  whole_name: Владимир Николаевич ТЕРЕНТЬЕВ
   gender: M
-  name_language: DE
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '131644'
+  logical_id: '131614'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
-- whole_name: Vladimir Nikolajevitj Terentiev
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '131645'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - whole_name: Władimir Nikołajewicz Terentiew
   gender: M
   name_language: PL

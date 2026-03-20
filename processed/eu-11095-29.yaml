@@ -14,6 +14,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Al Junaid Multi Activities Co Ltd
+  function: a Sudanese holding company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161654'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-22'
+    number_title: 2024/384 (OJ L22012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
 - whole_name: Al Gunade
   name_language: EN
   strong: true
@@ -29,17 +40,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161657'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-22'
-    number_title: 2024/384 (OJ L22012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
-- whole_name: Al Junaid Multi Activities Co Ltd
-  function: a Sudanese holding company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161654'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-22'

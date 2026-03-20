@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Лариса
-  middle_name: Павловна
-  last_name: ФАЛЬКОВСКАЯ
-  whole_name: Лариса Павловна ФАЛЬКОВСКАЯ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147313'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Larisa
   middle_name: Pavlovna
   last_name: FALKOVSKAYA
@@ -38,6 +24,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147314'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Лариса
+  middle_name: Павловна
+  last_name: ФАЛЬКОВСКАЯ
+  whole_name: Лариса Павловна ФАЛЬКОВСКАЯ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147313'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ayman Al Zawahari
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174364'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 - whole_name: الظواهري ربيع محمد أيمن
   gender: M
   name_language: EN
@@ -25,12 +36,46 @@ name_aliases:
     publication_date: '2025-03-21'
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Ayman Al Zawahari
+- whole_name: Al Zawahry Aiman Mohamed Robi
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174364'
+  logical_id: '5849'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: Al Zawahry Aiman Mohamed Rabie
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5848'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: Al Zawahiri Ayman
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '5847'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- first_name: Ayman
+  last_name: Al-Zawahari
+  whole_name: Ayman Al-Zawahari
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '1307'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'
@@ -154,51 +199,6 @@ name_aliases:
     publication_date: '2025-03-21'
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Al Zawahiri Ayman
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '5847'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Al Zawahry Aiman Mohamed Rabie
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5848'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Al Zawahry Aiman Mohamed Robi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5849'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- first_name: Ayman
-  last_name: Al-Zawahari
-  whole_name: Ayman Al-Zawahari
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '1307'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 citizenships:
 - country_iso2_code: EG
   country_description: EGYPT
@@ -227,16 +227,6 @@ birthdates:
     number_title: 844/2007 (OJ L186)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
 identifications:
-- identification_type_code: other
-  number: '19820215'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '11'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
 - identification_type_code: passport
   number: '1084010'
   country_iso2_code: EG
@@ -247,3 +237,13 @@ identifications:
     publication_date: '2025-03-21'
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- identification_type_code: other
+  number: '19820215'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '11'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF

@@ -73,20 +73,6 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Валерий
-  middle_name: Геннадьевич
-  last_name: БОЯРИНЕВ
-  whole_name: Валерий Геннадьевич БОЯРИНЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '164292'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Valerij
   middle_name: Gennadievič
   last_name: Bojarinev
@@ -96,6 +82,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164682'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Валерий
+  middle_name: Геннадьевич
+  last_name: БОЯРИНЕВ
+  whole_name: Валерий Геннадьевич БОЯРИНЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '164292'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

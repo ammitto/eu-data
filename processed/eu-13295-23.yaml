@@ -14,38 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mudalal
-  last_name: KHOURY
-  whole_name: Mudalal KHOURY
+- whole_name: مدلل خوري
   gender: M
-  name_language: EN
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '176607'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-06-23'
-    number_title: 2025/1256 (OJ L202501256)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- whole_name: Madalal (Mtanyus) KHURI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176606'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-06-23'
-    number_title: 2025/1256 (OJ L202501256)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- first_name: Mudallal
-  last_name: KHOURY
-  whole_name: Mudallal KHOURY
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176605'
+  logical_id: '176603'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-23'
@@ -64,31 +38,57 @@ name_aliases:
     publication_date: '2025-06-23'
     number_title: 2025/1256 (OJ L202501256)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- whole_name: مدلل خوري
+- first_name: Mudallal
+  last_name: KHOURY
+  whole_name: Mudallal KHOURY
   gender: M
-  name_language: AR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176603'
+  logical_id: '176605'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-06-23'
+    number_title: 2025/1256 (OJ L202501256)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
+- whole_name: Madalal (Mtanyus) KHURI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176606'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-06-23'
+    number_title: 2025/1256 (OJ L202501256)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
+- first_name: Mudalal
+  last_name: KHOURY
+  whole_name: Mudalal KHOURY
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176607'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-23'
     number_title: 2025/1256 (OJ L202501256)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
 citizenships:
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '176602'
+  logical_id: '176601'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-23'
     number_title: 2025/1256 (OJ L202501256)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '176601'
+  logical_id: '176602'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-23'

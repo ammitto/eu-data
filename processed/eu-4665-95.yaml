@@ -14,31 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: STROYGAZMONTAZH vállalat [SGM csoport]
-  name_language: HU
+- whole_name: Družba STROYGAZMONTAZH (SGM Group)
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '128669'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: STROYGAZMONTAZH részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '128670'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: société anonyme STROYGAZMONTAZH
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '128671'
+  logical_id: '128659'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
@@ -94,31 +74,31 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: STROYGAZMONTAZH részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '128670'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: STROYGAZMONTAZH vállalat [SGM csoport]
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '128669'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: Akciju sabiedrība “STROYGAZMONTAZH”
   name_language: LV
   strong: true
   regulation_language: en
   logical_id: '128668'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: STROYGAZMONTAZH Corporation (Grupul SGM)
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '128665'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Societatea pe acțiuni STROYGAZMONTAZH
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '128666'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
@@ -134,56 +114,26 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Cuideachta comhstoic phoiblí STROYGAZMONTAZH
-  name_language: GA
+- whole_name: Societatea pe acțiuni STROYGAZMONTAZH
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '152640'
+  logical_id: '128666'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "„Стройгазмонтаж“ ООД (група СГМ)"
-  name_language: BG
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: STROYGAZMONTAZH Corporation (Grupul SGM)
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '152385'
+  logical_id: '128665'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: STROJGAZMONTAZJ
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '152587'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: ООО Стройгазмонтаж (груп СГМ)
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '117781'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: STROYGAZMONTAZH Corporation (SGM Group)
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '117782'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: spółka akcyjna STROYGAZMONTAZH
   name_language: PL
   strong: true
@@ -234,11 +184,11 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Družba STROYGAZMONTAZH (SGM Group)
-  name_language: SL
+- whole_name: société anonyme STROYGAZMONTAZH
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '128659'
+  logical_id: '128671'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
@@ -249,6 +199,56 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127712'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: STROYGAZMONTAZH Corporation (SGM Group)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '117782'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: ООО Стройгазмонтаж (груп СГМ)
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '117781'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: "„Стройгазмонтаж“ ООД (група СГМ)"
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '152385'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Cuideachta comhstoic phoiblí STROYGAZMONTAZH
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '152640'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: STROJGAZMONTAZJ
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '152587'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -268,6 +268,16 @@ addresses:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 identifications:
+- identification_type_code: other
+  number: '1207700324941'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '127710'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - identification_type_code: fiscalcode
   number: '7729588440'
   country_iso2_code: '00'
@@ -303,16 +313,6 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '127711'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- identification_type_code: other
-  number: '1207700324941'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '127710'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'

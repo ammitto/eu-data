@@ -24,11 +24,11 @@ name_aliases:
     publication_date: '2011-08-24'
     number_title: 843/2011 (OJ L218)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Politikai Biztonsági Igazgatóság [szíria]
-  name_language: HU
+- whole_name: Politinio saugumo direktoratas [Sirija]
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '14331'
+  logical_id: '14330'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'
@@ -99,6 +99,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14340'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Politikai Biztonsági Igazgatóság [szíria]
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '14331'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'
@@ -208,16 +218,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14329'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Politinio saugumo direktoratas [Sirija]
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '14330'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'

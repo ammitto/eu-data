@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Suhail
-  last_name: Hasan
-  whole_name: Suhail Hasan
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113616'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Sohail
   last_name: Hasan
   whole_name: Sohail Hasan
@@ -35,6 +22,30 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113615'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: al-Nimr
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '113614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Suheil
+  last_name: Hasan
+  whole_name: Suheil Hasan
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '113617'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -105,14 +116,14 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Suheil
+- first_name: Suhail
   last_name: Hasan
-  whole_name: Suheil Hasan
+  whole_name: Suhail Hasan
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '113617'
+  logical_id: '113616'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -173,6 +184,17 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: "‚Tygr‘"
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '166997'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - whole_name: "“Le Tigre”"
   gender: M
   name_language: FR
@@ -190,17 +212,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166995'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: "‚Tygr‘"
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '166997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -363,17 +374,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113613'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: al-Nimr
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113614'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

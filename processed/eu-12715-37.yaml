@@ -34,11 +34,21 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Akcinė bendrovė BTK Group
-  name_language: LT
+- whole_name: JSC BTK Group
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173458'
+  logical_id: '172686'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Акционерное общество “БТК Групп”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '172687'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -49,16 +59,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173459'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC BTK Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172686'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -77,11 +77,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Акционерное общество “БТК Групп”
-  name_language: RU
+- whole_name: Akcinė bendrovė BTK Group
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '172687'
+  logical_id: '173458'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

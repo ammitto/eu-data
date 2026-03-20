@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Organizacija ratnih veterana Mjanmara
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '130893'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/998 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
 - whole_name: Myanmari sõjaveteranide organisatsioon
   name_language: ET
   strong: true
@@ -34,30 +24,11 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/998 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
-- whole_name: Organizace myanmarských válečných veteránů
-  name_language: CS
+- whole_name: Organizacija ratnih veterana Mjanmara
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '130895'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/998 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
-- whole_name: Организация на ветераните от войната на Мианмар
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '130896'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/998 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
-- whole_name: Myanmar War Veterans Organization
-  strong: true
-  regulation_language: en
-  logical_id: '130898'
+  logical_id: '130893'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -73,11 +44,11 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/998 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
-- whole_name: Organización de excombatientes de Myanmar
-  name_language: ES
+- whole_name: Организация на ветераните от войната на Мианмар
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '130897'
+  logical_id: '130896'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -93,11 +64,40 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/998 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
+- whole_name: Organizace myanmarských válečných veteránů
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '130895'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/998 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
 - whole_name: Mianmaro karo veteranų organizacija
   name_language: LT
   strong: true
   regulation_language: en
   logical_id: '130891'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/998 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
+- whole_name: Myanmar War Veterans Organization
+  strong: true
+  regulation_language: en
+  logical_id: '130898'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/998 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
+- whole_name: Organización de excombatientes de Myanmar
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '130897'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

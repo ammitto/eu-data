@@ -14,6 +14,35 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: JSC “VSK”
+  strong: true
+  regulation_language: en
+  logical_id: '175150'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Страховое акционерное общество “ВСК”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175151'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»VSK« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175293'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: "»VSK« Biztosítási Részvénytársaság"
   name_language: HU
   strong: true
@@ -38,35 +67,6 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “VSK”
-  strong: true
-  regulation_language: en
-  logical_id: '175150'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»VSK« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175293'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Страховое акционерное общество “ВСК”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175151'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: Ostrovnaya str.
   city: Moscow
@@ -81,16 +81,6 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: regnumber
-  number: '1027700186062'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '175149'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '773101001'
   country_iso2_code: '00'
@@ -106,6 +96,16 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '175148'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: regnumber
+  number: '1027700186062'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '175149'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: GHU – Hlavní hospodářská správa prezidentské kanceláře
-  name_language: CS
+- whole_name: GHU – presidendi kantselei juhtiv majandusosakond
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '135448'
+  logical_id: '135449'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -232,11 +232,11 @@ name_aliases:
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: GHU – presidendi kantselei juhtiv majandusosakond
-  name_language: ET
+- whole_name: GHU – Hlavní hospodářská správa prezidentské kanceláře
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '135449'
+  logical_id: '135448'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

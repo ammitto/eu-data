@@ -14,37 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Open Joint Stock Company “BELAZ” - Management Company of Holding “BELAZ-HOLDING”
-  strong: true
-  regulation_language: en
-  logical_id: '135459'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Offene Aktiengesellschaft ‚BELAZ‘ – Verwaltungsgesellschaft der Holding
-    ‚BELAZ-HOLDING‘
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '135460'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Veřejná akciová společnost „BELAZ“- správcovská společnost holdingu
-    „BELAZ-HOLDING“
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '135461'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - whole_name: Sociedad limitada por acciones abierta “BELAZ” – Sociedad gestora de
     participación “BELAZ HOLDING”
   name_language: ES
@@ -156,6 +125,37 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135472'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Open Joint Stock Company “BELAZ” - Management Company of Holding “BELAZ-HOLDING”
+  strong: true
+  regulation_language: en
+  logical_id: '135459'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Offene Aktiengesellschaft ‚BELAZ‘ – Verwaltungsgesellschaft der Holding
+    ‚BELAZ-HOLDING‘
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '135460'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Veřejná akciová společnost „BELAZ“- správcovská společnost holdingu
+    „BELAZ-HOLDING“
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '135461'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

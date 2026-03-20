@@ -14,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Milice Kaniyat
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '128988'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Ταξιαρχία Kani
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '128989'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: 9η Ταξιαρχία
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '128990'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Ταξιαρχία Tarhuna
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '128991'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 - whole_name: 7η Ταξιαρχία Tarhuna
   name_language: EL
   strong: true
@@ -584,6 +544,43 @@ name_aliases:
     publication_date: '2022-12-06'
     number_title: 2022/2374 (OJ L314)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
+- whole_name: مليشيا كانيات
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '128876'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: Kanyat
+  strong: true
+  regulation_language: en
+  logical_id: '128877'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: Kaniyat
+  strong: true
+  regulation_language: en
+  logical_id: '128878'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: Kaniat
+  strong: true
+  regulation_language: en
+  logical_id: '128879'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 - whole_name: Brigada Tarhuna
   name_language: RO
   strong: true
@@ -629,43 +626,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '129050'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: مليشيا كانيات
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '128876'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Kanyat
-  strong: true
-  regulation_language: en
-  logical_id: '128877'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Kaniyat
-  strong: true
-  regulation_language: en
-  logical_id: '128878'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Kaniat
-  strong: true
-  regulation_language: en
-  logical_id: '128879'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'
@@ -1009,6 +969,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128987'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: Milice Kaniyat
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '128988'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: Ταξιαρχία Kani
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '128989'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: 9η Ταξιαρχία
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '128990'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: Ταξιαρχία Tarhuna
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '128991'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'

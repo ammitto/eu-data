@@ -26,10 +26,12 @@ name_aliases:
     publication_date: '2008-01-25'
     number_title: 59/2008 (OJ L22)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:022:0004:0005:EN:PDF
-- whole_name: Abu Muhammad
+- first_name: Jabir
+  last_name: Al-Jalhami
+  whole_name: Jabir Al-Jalhami
   strong: true
   regulation_language: en
-  logical_id: '6141'
+  logical_id: '6139'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-01-25'
@@ -44,18 +46,37 @@ name_aliases:
     publication_date: '2008-01-25'
     number_title: 59/2008 (OJ L22)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:022:0004:0005:EN:PDF
-- first_name: Jabir
-  middle_name: Abdallah Jabir Ahmad
-  last_name: Jalahmah
-  whole_name: Jabir Abdallah Jabir Ahmad Jalahmah
+- whole_name: Abu Muhammad
   strong: true
   regulation_language: en
-  logical_id: '6137'
+  logical_id: '6141'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-01-25'
     number_title: 59/2008 (OJ L22)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:022:0004:0005:EN:PDF
+- first_name: Abu Muhammad
+  last_name: Al-Jalahmah
+  whole_name: Abu Muhammad Al-Jalahmah
+  strong: true
+  regulation_language: en
+  logical_id: '6136'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-01-25'
+    number_title: 59/2008 (OJ L22)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:022:0004:0005:EN:PDF
+- first_name: Jaber
+  last_name: Al-Jalamah
+  whole_name: Jaber Al-Jalamah
+  strong: true
+  regulation_language: en
+  logical_id: '6135'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-07-17'
+    number_title: 678/2008 (OJ L189)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:189:0023:0024:EN:PDF
 - first_name: Jaber
   middle_name: Abdallah Jaber
   last_name: Ahmad Al-Jalahmah
@@ -68,34 +89,13 @@ name_aliases:
     publication_date: '2008-08-09'
     number_title: 803/2008 (OJ L214)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:214:0052:0055:EN:PDF
-- first_name: Jaber
-  last_name: Al-Jalamah
-  whole_name: Jaber Al-Jalamah
-  strong: true
-  regulation_language: en
-  logical_id: '6135'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-07-17'
-    number_title: 678/2008 (OJ L189)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:189:0023:0024:EN:PDF
-- first_name: Abu Muhammad
-  last_name: Al-Jalahmah
-  whole_name: Abu Muhammad Al-Jalahmah
-  strong: true
-  regulation_language: en
-  logical_id: '6136'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-01-25'
-    number_title: 59/2008 (OJ L22)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:022:0004:0005:EN:PDF
 - first_name: Jabir
-  last_name: Al-Jalhami
-  whole_name: Jabir Al-Jalhami
+  middle_name: Abdallah Jabir Ahmad
+  last_name: Jalahmah
+  whole_name: Jabir Abdallah Jabir Ahmad Jalahmah
   strong: true
   regulation_language: en
-  logical_id: '6139'
+  logical_id: '6137'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-01-25'

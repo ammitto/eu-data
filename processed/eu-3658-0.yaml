@@ -15,14 +15,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Vladimir
-  middle_name: Anatoljevitj
-  last_name: SJAMANOV
-  whole_name: Vladimir Anatoljevitj SJAMANOV
+  middle_name: Anatolievich
+  last_name: SHAMANOV
+  whole_name: Vladimir Anatolievich SHAMANOV
+  function: Deputy Chairman of the State Duma Committee for the Development of Civil
+    Society, Issues of Public and Religious Associations. Former Commander of the
+    Russian Airborne Troops, Former Chairperson of the Defence Committee of the State
+    Duma of the Russian Federation.
   gender: M
-  name_language: SV
+  title: Colonel-General
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '137434'
+  logical_id: '17756'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -43,19 +48,14 @@ name_aliases:
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Vladimir
-  middle_name: Anatolievich
-  last_name: SHAMANOV
-  whole_name: Vladimir Anatolievich SHAMANOV
-  function: Deputy Chairman of the State Duma Committee for the Development of Civil
-    Society, Issues of Public and Religious Associations. Former Commander of the
-    Russian Airborne Troops, Former Chairperson of the Defence Committee of the State
-    Duma of the Russian Federation.
+  middle_name: Anatoljevitj
+  last_name: SJAMANOV
+  whole_name: Vladimir Anatoljevitj SJAMANOV
   gender: M
-  title: Colonel-General
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '17756'
+  logical_id: '137434'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

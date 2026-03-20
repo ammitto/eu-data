@@ -14,6 +14,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Joint Stock Company Scientific Production Enterprise “Aerosila”
+  function: JSC SPE “Aerosila” is a Russian developer and manufacturer of various
+    aircraft parts, such as engines, propellers and fans. JSC SPE “Aerosila” provides
+    its products to domestic aviation manufacturers.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171792'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: "»Aeroszila« Tudományos Termelő Vállalat Rt."
   name_language: HU
   strong: true
@@ -24,24 +37,31 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: "»Aeroszila« Tudományos Termelő Vállalat Részvénytársaság"
-  name_language: HU
+- whole_name: Întreprinderea științifică de producție «Aerosila», societate pe acțiuni
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '171963'
+  logical_id: '171969'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Joint Stock Company Scientific Production Enterprise “Aerosila”
-  function: JSC SPE “Aerosila” is a Russian developer and manufacturer of various
-    aircraft parts, such as engines, propellers and fans. JSC SPE “Aerosila” provides
-    its products to domestic aviation manufacturers.
+- whole_name: NPP Aerosila PAO
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '171792'
+  logical_id: '171789'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: "»Aeroszila« Tudományos Termelő Vállalat Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '171963'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -63,26 +83,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171790'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Întreprinderea științifică de producție «Aerosila», societate pe acțiuni
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '171969'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: NPP Aerosila PAO
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -112,21 +112,21 @@ identifications:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- identification_type_code: fiscalcode
-  number: '5045002261'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '171787'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: regnumber
   number: '1025005917023'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '171788'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- identification_type_code: fiscalcode
+  number: '5045002261'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '171787'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

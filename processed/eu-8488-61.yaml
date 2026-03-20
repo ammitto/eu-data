@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: محمد عصام شموط
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '141884'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1275 (OJ L194)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0008.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
 - first_name: Issam
   last_name: SHAMMOUT
   whole_name: Issam SHAMMOUT
@@ -53,29 +64,6 @@ name_aliases:
     publication_date: '2023-05-26'
     number_title: 2023/1027 (OJ L139)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
-- first_name: Muhammad Essam
-  last_name: Shammout
-  whole_name: Muhammad Essam Shammout
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141885'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-26'
-    number_title: 2023/1027 (OJ L139)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
-- whole_name: محمد عصام شموط
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '141884'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1275 (OJ L194)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0008.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
 - first_name: Muhammad Issam
   last_name: Shammout
   whole_name: Muhammad Issam Shammout
@@ -83,6 +71,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141886'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-26'
+    number_title: 2023/1027 (OJ L139)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
+- first_name: Muhammad Essam
+  last_name: Shammout
+  whole_name: Muhammad Essam Shammout
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141885'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-26'

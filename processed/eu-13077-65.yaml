@@ -14,15 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО “ЦКБР”
-  strong: true
-  regulation_language: en
-  logical_id: '175124'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Centro para Soluções Não Tripuladas Integradas
   name_language: PT
   strong: true
@@ -33,11 +24,42 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: STC LTD
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '175286'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Pilóta Nélküli Integrált Megoldások  Központja« Korlátolt Felelősségű
+    \ Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175285'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Pilóta Nélküli Komplex  Megoldások Központja Kft.
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '175284'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: USC Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175283'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -85,32 +107,10 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: USC Kft.
-  name_language: HU
+- whole_name: ООО “ЦКБР”
   strong: true
   regulation_language: en
-  logical_id: '175283'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: STC LTD
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '175286'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Pilóta Nélküli Integrált Megoldások  Központja« Korlátolt Felelősségű
-    \ Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175285'
+  logical_id: '175124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

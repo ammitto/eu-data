@@ -14,33 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Константин
-  middle_name: Борисович
-  last_name: КУДРЯВЦЕВ
-  whole_name: Константин Борисович КУДРЯВЦЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '145400'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Konstantin
-  middle_name: Yevgenievich
-  last_name: SOKOLOV
-  whole_name: Konstantin Yevgenievich SOKOLOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145399'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Konstantin
   middle_name: Jevgenjevitj
   last_name: SOKOLOV
@@ -50,20 +23,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145984'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Константин
-  middle_name: Евгеньевич
-  last_name: СОКОЛОВ
-  whole_name: Константин Евгеньевич СОКОЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '145398'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -84,6 +43,20 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Константин
+  middle_name: Евгеньевич
+  last_name: СОКОЛОВ
+  whole_name: Константин Евгеньевич СОКОЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '145398'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Konstantin
   middle_name: Borisovitj
   last_name: KUDRJAVTSEV
@@ -93,6 +66,33 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145985'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Konstantin
+  middle_name: Yevgenievich
+  last_name: SOKOLOV
+  whole_name: Konstantin Yevgenievich SOKOLOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145399'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Константин
+  middle_name: Борисович
+  last_name: КУДРЯВЦЕВ
+  whole_name: Константин Борисович КУДРЯВЦЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '145400'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -109,21 +109,6 @@ citizenships:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 birthdates:
-- birthdate: '1981-04-28'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 28
-  month_of_year: 4
-  year: 1981
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '145395'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - birthdate: '1980-04-28'
   circa: false
   calendar_type: GREGORIAN
@@ -134,6 +119,21 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '145396'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- birthdate: '1981-04-28'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 28
+  month_of_year: 4
+  year: 1981
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '145395'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

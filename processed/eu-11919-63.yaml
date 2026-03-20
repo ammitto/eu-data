@@ -14,23 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Tzav 9
-  function: An Israeli group of violent activists co-founded in January 2024 by Reut
-    Ben Haim and Aviad Shlomo Sarid
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167851'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-15'
-    number_title: 2024/1960 (OJ L15072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
 - whole_name: Ordinul 9
   name_language: RO
   strong: true
   regulation_language: en
   logical_id: '168236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-15'
+    number_title: 2024/1960 (OJ L15072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
+- whole_name: Tsav 9
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167850'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-15'
@@ -46,11 +44,13 @@ name_aliases:
     publication_date: '2024-07-15'
     number_title: 2024/1960 (OJ L15072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
-- whole_name: Tsav 9
+- whole_name: Tzav 9
+  function: An Israeli group of violent activists co-founded in January 2024 by Reut
+    Ben Haim and Aviad Shlomo Sarid
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167850'
+  logical_id: '167851'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-15'

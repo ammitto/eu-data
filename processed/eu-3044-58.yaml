@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Αποκαλούμενη “Λαϊκή Δημοκρατία του Ντονέτσκ”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '152422'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: L-hekk imsejħa “Donetsk People’s Republic”
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '152628'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Așa-numita «Republică Populară Donețk»
   name_language: RO
   strong: true
@@ -44,11 +24,11 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Tzw. „Doniecka Republika Ludowa”
-  name_language: PL
+- whole_name: "„Donetski Rahvavabariik“"
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '152439'
+  logical_id: '152611'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -124,35 +104,16 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: So-called “Donetsk People’s Republic”
-  name_language: EN
+- whole_name: Αποκαλούμενη “Λαϊκή Δημοκρατία του Ντονέτσκ”
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '17996'
+  logical_id: '152422'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "'Донецкая народная республика' (ДНР)"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '17997'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "'Donetskaya narodnaya  respublika' (DNR)"
-  strong: true
-  regulation_language: en
-  logical_id: '17998'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-09-11'
-    number_title: 2020/1267 (OJ L298)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
 - whole_name: Zogenaamde “Volksrepubliek Donetsk”
   name_language: NL
   strong: true
@@ -203,11 +164,60 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: So-called “Donetsk People’s Republic”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '17996'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: "'Донецкая народная республика' (ДНР)"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '17997'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: "'Donetskaya narodnaya  respublika' (DNR)"
+  strong: true
+  regulation_language: en
+  logical_id: '17998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-09-11'
+    number_title: 2020/1267 (OJ L298)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
+- whole_name: Tzw. „Doniecka Republika Ludowa”
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152439'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: s.k. Folkrepubliken Donetsk
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '152036'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: denominada “Republics Popular de Donetsk"
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '152162'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -223,11 +233,21 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: denominada “Republics Popular de Donetsk"
-  name_language: ES
+- whole_name: "‘Donetsk People’s Republic’, mar a ghairtear de"
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '152162'
+  logical_id: '152627'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: L-hekk imsejħa “Donetsk People’s Republic”
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '152628'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -248,26 +268,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152610'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "„Donetski Rahvavabariik“"
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '152611'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "‘Donetsk People’s Republic’, mar a ghairtear de"
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '152627'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

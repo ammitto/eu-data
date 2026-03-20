@@ -14,6 +14,62 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Hafiz
+  middle_name: Abdusalam
+  last_name: Budvi
+  whole_name: Hafiz Abdusalam Budvi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '15770'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
+- first_name: Hafiz
+  middle_name: Abdussalaam
+  last_name: Bhutvi
+  whole_name: Hafiz Abdussalaam Bhutvi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '15771'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
+- first_name: Abdul
+  middle_name: Salam
+  last_name: Budvi
+  whole_name: Abdul Salam Budvi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '15772'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
+- first_name: Abdul
+  middle_name: Salam
+  last_name: Bhattwi
+  whole_name: Abdul Salam Bhattwi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '15773'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 - first_name: Abdul
   middle_name: Salam
   last_name: Bhutvi
@@ -37,6 +93,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '15775'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
+- first_name: Hafiz
+  middle_name: Abdul Salam
+  last_name: Bhattvi
+  whole_name: Hafiz Abdul Salam Bhattvi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '104301'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'
@@ -66,76 +136,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '104300'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- first_name: Hafiz
-  middle_name: Abdussalaam
-  last_name: Bhutvi
-  whole_name: Hafiz Abdussalaam Bhutvi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '15771'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- first_name: Abdul
-  middle_name: Salam
-  last_name: Bhattwi
-  whole_name: Abdul Salam Bhattwi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '15773'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- first_name: Abdul
-  middle_name: Salam
-  last_name: Budvi
-  whole_name: Abdul Salam Budvi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '15772'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- first_name: Hafiz
-  middle_name: Abdusalam
-  last_name: Budvi
-  whole_name: Hafiz Abdusalam Budvi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '15770'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- first_name: Hafiz
-  middle_name: Abdul Salam
-  last_name: Bhattvi
-  whole_name: Hafiz Abdul Salam Bhattvi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '104301'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'

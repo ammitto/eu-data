@@ -54,16 +54,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: КРЭТ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147191'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Concernul pentru tehnologii radioelectronice KRET SA
   name_language: RO
   strong: true
@@ -74,21 +64,11 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: KRET
-  name_language: EN
+- whole_name: Rádióelektronikai Technológiai  Konszern Rt. (KRET)
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '147640'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Société par actions Consortium de technologies radio-électroniques KRET
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147709'
+  logical_id: '147840'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -104,11 +84,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Rádióelektronikai Technológiai  Konszern Rt. (KRET)
-  name_language: HU
+- whole_name: Société par actions Consortium de technologies radio-électroniques KRET
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '147840'
+  logical_id: '147709'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: KRET
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '147640'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -126,6 +116,16 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: КРЭТ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 addresses:
 - street: Goncharnaya st., 20/1
   city: Moscow

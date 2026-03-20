@@ -15,11 +15,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Общество с ограниченной ответственностью “Инроел”
-  name_language: RU
+- whole_name: LLC “INROEL”
   strong: true
   regulation_language: en
-  logical_id: '177036'
+  logical_id: '177035'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -39,10 +38,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: LLC “INROEL”
+- whole_name: Общество с ограниченной ответственностью “Инроел”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177035'
+  logical_id: '177036'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -61,21 +61,21 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: taxid
-  number: '7811763398'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '177033'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: regnumber
   number: '1217800120724'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177034'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: taxid
+  number: '7811763398'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '177033'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

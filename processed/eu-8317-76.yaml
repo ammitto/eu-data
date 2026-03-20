@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: ЧЕРЕВКО Сергій Миколайович
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '140557'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Serhiy Mikolayovich CHEREVKO
   function: Member of the „Salvation Committee for Peace and Order” in Kherson, former
     deputy Mayor of Kherson
@@ -31,6 +21,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '140558'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: ЧЕРЕВКО Сергій Миколайович
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '140557'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

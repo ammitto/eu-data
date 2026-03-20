@@ -14,6 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Dass
+  strong: true
+  regulation_language: en
+  logical_id: '4922'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-08-11'
+    number_title: 1217/2006 (OJ L220)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:220:0009:0010:EN:PDF
 - first_name: Nessim
   middle_name: Ben Romdhane
   last_name: Sahraoui
@@ -22,15 +31,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4921'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-08-11'
-    number_title: 1217/2006 (OJ L220)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:220:0009:0010:EN:PDF
-- whole_name: Dass
-  strong: true
-  regulation_language: en
-  logical_id: '4922'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-08-11'

@@ -14,6 +14,25 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Military Intelligence Directorate [Syria]
+  strong: true
+  regulation_language: en
+  logical_id: '14280'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Direktoratet för den militära underrättelse-tjänsten [Syrien]
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '14394'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
 - whole_name: Direktorat Militärischer Nachrichtendienst [Syrien]
   name_language: DE
   strong: true
@@ -24,11 +43,11 @@ name_aliases:
     publication_date: '2011-08-24'
     number_title: 843/2011 (OJ L218)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Directorat des renseignements militaires [Syrie]
-  name_language: FR
+- whole_name: Дирекция за военно разузнаване [Сирия]
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '14290'
+  logical_id: '14376'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'
@@ -204,30 +223,11 @@ name_aliases:
     publication_date: '2011-08-24'
     number_title: 843/2011 (OJ L218)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Direktoratet för den militära underrättelse-tjänsten [Syrien]
-  name_language: SV
+- whole_name: Directorat des renseignements militaires [Syrie]
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '14394'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Military Intelligence Directorate [Syria]
-  strong: true
-  regulation_language: en
-  logical_id: '14280'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Дирекция за военно разузнаване [Сирия]
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '14376'
+  logical_id: '14290'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'

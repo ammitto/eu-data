@@ -14,14 +14,56 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Miqdad
-  last_name: FUTAIHA
-  whole_name: Miqdad FUTAIHA
+- whole_name: Abu Ja’ afar
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176578'
+  logical_id: '176575'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-06-23'
+    number_title: 2025/1256 (OJ L202501256)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
+- whole_name: مقداد لؤيّ فتيحة
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176574'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-06-23'
+    number_title: 2025/1256 (OJ L202501256)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
+- whole_name: مقداد فتيحة
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176573'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-06-23'
+    number_title: 2025/1256 (OJ L202501256)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
+- whole_name: Abu Jaafar
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176576'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-06-23'
+    number_title: 2025/1256 (OJ L202501256)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
+- whole_name: Miqdad Lu’ay FATIHA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176580'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-23'
@@ -40,67 +82,25 @@ name_aliases:
     publication_date: '2025-06-23'
     number_title: 2025/1256 (OJ L202501256)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
+- first_name: Miqdad
+  last_name: FUTAIHA
+  whole_name: Miqdad FUTAIHA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176578'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-06-23'
+    number_title: 2025/1256 (OJ L202501256)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
 - whole_name: Abu Jafar
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '176577'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-06-23'
-    number_title: 2025/1256 (OJ L202501256)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- whole_name: Miqdad Lu’ay FATIHA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176580'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-06-23'
-    number_title: 2025/1256 (OJ L202501256)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- whole_name: مقداد فتيحة
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176573'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-06-23'
-    number_title: 2025/1256 (OJ L202501256)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- whole_name: مقداد لؤيّ فتيحة
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176574'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-06-23'
-    number_title: 2025/1256 (OJ L202501256)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- whole_name: Abu Ja’ afar
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176575'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-06-23'
-    number_title: 2025/1256 (OJ L202501256)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- whole_name: Abu Jaafar
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176576'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-23'

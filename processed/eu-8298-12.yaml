@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Tatshina LLC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '151761'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: OOO ТАТШИНАУК
+- whole_name: OOO УК Татнефть-Нефтехим
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151760'
+  logical_id: '140445'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -44,41 +34,21 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: administrationsselskab Tatneft-Neftekhim LLC
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '158552'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: OOO УК Татнефть-Нефтехим
+- whole_name: OOO ТАТШИНАУК
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '140445'
+  logical_id: '151760'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: haldusettevõtja Tatneft-Neftekhim LLC
-  name_language: ET
+- whole_name: Tatshina LLC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158707'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Správcovská spoločnosť Tatneft-NefteKhim
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '152559'
+  logical_id: '151761'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -94,11 +64,41 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: haldusettevõtja Tatneft-Neftekhim LLC
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '158707'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: administrationsselskab Tatneft-Neftekhim LLC
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '158552'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: správcovské společnosti Tatněfť-Něftěchim LLC
   name_language: CS
   strong: true
   regulation_language: en
   logical_id: '158428'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Správcovská spoločnosť Tatneft-NefteKhim
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '152559'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -119,11 +119,11 @@ addresses:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 identifications:
-- identification_type_code: regnumber
-  number: '1021601627090'
-  country_iso2_code: RU
+- identification_type_code: other
+  number: '165101001'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '158164'
+  logical_id: '158165'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -149,11 +149,11 @@ identifications:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- identification_type_code: other
-  number: '165101001'
-  country_iso2_code: '00'
+- identification_type_code: regnumber
+  number: '1021601627090'
+  country_iso2_code: RU
   regulation_language: en
-  logical_id: '158165'
+  logical_id: '158164'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

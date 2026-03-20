@@ -14,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Yuri    Gennadievich NAZARENKO
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '125429'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-02'
+    number_title: 2020/1387 (OJ L319I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
 - whole_name: Jurij Gennadjevich NAZARENKO
   gender: M
   name_language: SV
@@ -25,16 +35,17 @@ name_aliases:
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Yuri    Gennadievich NAZARENKO
+- whole_name: Juryj Henadzevitj NAZARANKA
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '125429'
+  logical_id: '127835'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2020-10-02'
-    number_title: 2020/1387 (OJ L319I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 - whole_name: Yuri    Genadzevich NAZARANKA
   function: |-
     Former Deputy Minister of Internal Affairs, Former Commander of the Internal Troops;
@@ -71,17 +82,6 @@ name_aliases:
     publication_date: '2020-10-02'
     number_title: 2020/1387 (OJ L319I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
-- whole_name: Juryj Henadzevitj NAZARANKA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127835'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 birthdates:
 - birthdate: '1976-04-17'
   circa: false

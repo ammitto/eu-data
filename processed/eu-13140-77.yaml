@@ -29,23 +29,23 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Виктор Владимирович МЕДВЕДЧУК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175684'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - whole_name: Віктор Володимирович МЕДВЕДЧУК
   gender: M
   name_language: UK
   strong: true
   regulation_language: en
   logical_id: '175685'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Виктор Владимирович МЕДВЕДЧУК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175684'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

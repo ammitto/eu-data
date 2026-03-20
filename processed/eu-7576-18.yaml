@@ -28,15 +28,28 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Вадим
-  middle_name: Анатольевич
-  last_name: ЛУКАШЕВИЧ
-  whole_name: Вадим Анатольевич ЛУКАШЕВИЧ
+- first_name: Vadim
+  last_name: Lukaševič
+  whole_name: Vadim Lukaševič
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '136390'
+  logical_id: '152172'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Vadim
+  middle_name: Anatoljevitj
+  last_name: Lukasjevitj
+  whole_name: Vadim Anatoljevitj Lukasjevitj
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '136433'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -61,28 +74,15 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Vadim
-  middle_name: Anatoljevitj
-  last_name: Lukasjevitj
-  whole_name: Vadim Anatoljevitj Lukasjevitj
+- first_name: Вадим
+  middle_name: Анатольевич
+  last_name: ЛУКАШЕВИЧ
+  whole_name: Вадим Анатольевич ЛУКАШЕВИЧ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '136433'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Vadim
-  last_name: Lukaševič
-  whole_name: Vadim Lukaševič
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152172'
+  logical_id: '136390'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

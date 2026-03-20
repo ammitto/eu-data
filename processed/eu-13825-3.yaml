@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ПАО Энергия
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179840'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Публичное  Акционерное Общество  - Энергия
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179841'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: PJSC Energiya
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179842'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Energiya
   name_language: EN
   strong: true
@@ -112,6 +82,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179839'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: ПАО Энергия
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179840'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Публичное  Акционерное Общество  - Энергия
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179841'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: PJSC Energiya
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179842'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

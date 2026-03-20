@@ -14,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Магдалина Марина ВОЛОДИМИРIВНА
-  gender: F
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '167944'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Магдалина Марина ВЛАДИМИРОВНА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '167945'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - whole_name: Marina Vladimirovna MAGDALINA
   function: Former member of the so-called “People’s Council” of the so-called “Donetsk
     People’s Republic”
@@ -49,6 +27,28 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: Магдалина Марина ВЛАДИМИРОВНА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '167945'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: Магдалина Марина ВОЛОДИМИРIВНА
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '167944'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 birthdates:
 - birthdate: '1984-01-04'
   circa: false

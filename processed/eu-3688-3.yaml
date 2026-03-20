@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Nationella befrielsearmén
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '2562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-03-16'
-    number_title: 2005/221/CFSP (OJ L69)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN
-- whole_name: Kansallinen vapautusarmeija
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '2561'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-04-02'
-    number_title: 2004/306/EC (OJ L99)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:099:0028:0029:EN:PDF
 - whole_name: Národně osvobozenecká armáda
   name_language: CS
   strong: true
@@ -44,16 +24,16 @@ name_aliases:
     publication_date: '2005-03-16'
     number_title: 2005/221/CFSP (OJ L69)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN
-- whole_name: Rahvuslik Vabastusarmee
-  name_language: ET
+- whole_name: Εθνικός Απελευθερωτικός Στρατός
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '3784'
+  logical_id: '2563'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2005-03-16'
-    number_title: 2005/221/CFSP (OJ L69)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN
+    publication_date: '2004-04-02'
+    number_title: 2004/306/EC (OJ L99)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:099:0028:0029:EN:PDF
 - whole_name: Nemzeti Felszabadítási Hadsereg
   name_language: HU
   strong: true
@@ -254,13 +234,33 @@ name_aliases:
     publication_date: '2004-04-02'
     number_title: 2004/306/EC (OJ L99)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:099:0028:0029:EN:PDF
-- whole_name: Εθνικός Απελευθερωτικός Στρατός
-  name_language: EL
+- whole_name: Kansallinen vapautusarmeija
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '2563'
+  logical_id: '2561'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-04-02'
     number_title: 2004/306/EC (OJ L99)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:099:0028:0029:EN:PDF
+- whole_name: Nationella befrielsearmén
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '2562'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-03-16'
+    number_title: 2005/221/CFSP (OJ L69)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN
+- whole_name: Rahvuslik Vabastusarmee
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '3784'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-03-16'
+    number_title: 2005/221/CFSP (OJ L69)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN

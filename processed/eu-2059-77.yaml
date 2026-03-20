@@ -45,21 +45,21 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: βιομηχανικό συγκρότημα Amin
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '162011'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Kompleks Przemysłowy Amin
   name_language: PL
   strong: true
   regulation_language: en
   logical_id: '161995'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: βιομηχανικό συγκρότημα Amin
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '162011'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

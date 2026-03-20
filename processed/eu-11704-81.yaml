@@ -44,19 +44,19 @@ name_aliases:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 citizenships:
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- country_iso2_code: DE
+  country_description: GERMANY
   regulation_language: en
-  logical_id: '166499'
+  logical_id: '166498'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- country_iso2_code: DE
-  country_description: GERMANY
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '166498'
+  logical_id: '166499'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -109,10 +109,10 @@ identifications:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - identification_type_code: passport
-  number: '7303853921'
+  number: '7314052448'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '166501'
+  logical_id: '166502'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -129,10 +129,10 @@ identifications:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - identification_type_code: passport
-  number: '7314052448'
+  number: '7303853921'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '166502'
+  logical_id: '166501'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

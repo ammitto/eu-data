@@ -28,14 +28,18 @@ name_aliases:
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Alexej
-  last_name: Volkov
-  whole_name: Alexej Volkov
+- first_name: Alexey
+  middle_name: Sergeevich
+  last_name: VOLKOV
+  whole_name: Alexey Sergeevich VOLKOV
+  function: member of the Missile Pre-Planning unit at the Main Computing Centre of
+    the General Staff (GVC) of Russia’s Armed Forces
   gender: M
-  name_language: CS
+  title: Lieutenant
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '157493'
+  logical_id: '146838'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
@@ -55,18 +59,14 @@ name_aliases:
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Alexey
-  middle_name: Sergeevich
-  last_name: VOLKOV
-  whole_name: Alexey Sergeevich VOLKOV
-  function: member of the Missile Pre-Planning unit at the Main Computing Centre of
-    the General Staff (GVC) of Russia’s Armed Forces
+- first_name: Alexej
+  last_name: Volkov
+  whole_name: Alexej Volkov
   gender: M
-  title: Lieutenant
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '146838'
+  logical_id: '157493'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

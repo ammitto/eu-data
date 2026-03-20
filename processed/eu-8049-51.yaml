@@ -14,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ruslan Raisovitj MARDANOV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139617'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - whole_name: Руслан Раисович МАРДАНОВ
   gender: M
   strong: true
@@ -31,16 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138969'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Ruslan Raisovitj MARDANOV
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139617'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

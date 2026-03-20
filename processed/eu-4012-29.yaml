@@ -15,6 +15,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Chang-Ho
+  last_name: Paek
+  whole_name: Chang-Ho Paek
+  function: Senior official and head of the satellite control center of Korean Committee
+    for Space Technology
+  strong: true
+  regulation_language: en
+  logical_id: '17017'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-02-19'
+    number_title: 137/2013 (OJ L46)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:046:0019:0024:EN:PDF
 - whole_name: Pak Chang-Ho
   strong: true
   regulation_language: en
@@ -28,19 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17019'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-02-19'
-    number_title: 137/2013 (OJ L46)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:046:0019:0024:EN:PDF
-- first_name: Chang-Ho
-  last_name: Paek
-  whole_name: Chang-Ho Paek
-  function: Senior official and head of the satellite control center of Korean Committee
-    for Space Technology
-  strong: true
-  regulation_language: en
-  logical_id: '17017'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-02-19'

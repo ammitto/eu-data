@@ -27,26 +27,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Universidad Malek Ashtar
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '161976'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Univerzita Malek Ashtar
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '6660'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
 - whole_name: Politechnika Malek Asztar
   name_language: PL
   strong: true
@@ -57,36 +37,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Malek Ashtar Egyetem
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '162000'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Malek Ashtar University
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6642'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Университет Malek Ashtar
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '6651'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
 - whole_name: Univerzita Maleka Aštara
   name_language: CS
   strong: true
@@ -157,6 +107,56 @@ name_aliases:
     publication_date: '2008-06-24'
     number_title: 2008/475/EC (OJ L163)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Univerzita Malek Ashtar
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '6660'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Университет Malek Ashtar
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '6651'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Malek Ashtar Egyetem
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '162000'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Universidad Malek Ashtar
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '161976'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Malek Ashtar University
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6642'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Sveučilište Malek Ashtar
   name_language: HR
   strong: true

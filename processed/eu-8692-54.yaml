@@ -72,14 +72,15 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Jevgenij
-  last_name: Balyckyj
-  whole_name: Jevgenij Balyckyj
+- first_name: Yevgeniy
+  middle_name: Vitalievich
+  last_name: BALITSKIY
+  whole_name: Yevgeniy Vitalievich BALITSKIY
   gender: M
-  name_language: CS
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '152312'
+  logical_id: '152101'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -94,6 +95,33 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143392'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Jevgenij
+  last_name: Balyckyj
+  whole_name: Jevgenij Balyckyj
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152312'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Yevgeniy
+  middle_name: Vitalievich
+  last_name: BALITSKIY
+  whole_name: Yevgeniy Vitalievich BALITSKIY
+  gender: M
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '152332'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -118,38 +146,10 @@ name_aliases:
   last_name: BALITSKIY
   whole_name: Yevgeniy Vitalievich BALITSKIY
   gender: M
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '152332'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Yevgeniy
-  middle_name: Vitalievich
-  last_name: BALITSKIY
-  whole_name: Yevgeniy Vitalievich BALITSKIY
-  gender: M
   name_language: RO
   strong: true
   regulation_language: en
   logical_id: '152340'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Yevgeniy
-  middle_name: Vitalievich
-  last_name: BALITSKIY
-  whole_name: Yevgeniy Vitalievich BALITSKIY
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '152101'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

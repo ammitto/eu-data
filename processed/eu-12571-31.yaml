@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Андрей Викторович
+  last_name: КОЧЕРГА
+  whole_name: Андрей Викторович КОЧЕРГА
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171444'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - first_name: Andrey Viktorovich
   last_name: KOCHERGA
   whole_name: Andrey Viktorovich KOCHERGA
@@ -23,19 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171445'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- first_name: Андрей Викторович
-  last_name: КОЧЕРГА
-  whole_name: Андрей Викторович КОЧЕРГА
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171444'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

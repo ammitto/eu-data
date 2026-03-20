@@ -14,46 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Евгений
-  middle_name: Борисoвич
-  last_name: ЗУБИЦКИЙ
-  whole_name: Евгений Борисoвич ЗУБИЦКИЙ
+- first_name: Jevgenij
+  last_name: Zubickij
+  whole_name: Jevgenij Zubickij
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '138130'
+  logical_id: '158376'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Evgeny
-  middle_name: Borisovich
-  last_name: ZUBITSKIY
-  whole_name: Evgeny Borisovich ZUBITSKIY
-  function: Entrepreneur, co-owner and Chairman of the Board and CEO of Industrial
-    Metallurgical Holding (PMH)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '138131'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Jevgenij Borisovič ZUBICKI
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '139308'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - first_name: Jevgenij
   last_name: Zubickij
   whole_name: Jevgenij Zubickij
@@ -81,14 +54,41 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Jevgenij
-  last_name: Zubickij
-  whole_name: Jevgenij Zubickij
+- first_name: Евгений
+  middle_name: Борисoвич
+  last_name: ЗУБИЦКИЙ
+  whole_name: Евгений Борисoвич ЗУБИЦКИЙ
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '158376'
+  logical_id: '138130'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Jevgenij Borisovič ZUBICKI
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '139308'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- first_name: Evgeny
+  middle_name: Borisovich
+  last_name: ZUBITSKIY
+  whole_name: Evgeny Borisovich ZUBITSKIY
+  function: Entrepreneur, co-owner and Chairman of the Board and CEO of Industrial
+    Metallurgical Holding (PMH)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138131'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

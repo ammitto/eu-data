@@ -62,21 +62,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: other
-  number: 91110000100001 529B
-  country_iso2_code: CN
-  regulation_language: en
-  logical_id: '175580'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: 10000000000152 3
   country_iso2_code: CN
   regulation_language: en
   logical_id: '175581'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: other
+  number: 91110000100001 529B
+  country_iso2_code: CN
+  regulation_language: en
+  logical_id: '175580'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

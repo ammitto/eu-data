@@ -24,12 +24,32 @@ name_aliases:
     publication_date: '2024-05-31'
     number_title: 2024/1604 (OJ L31052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
+- whole_name: NEDSA
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166422'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1604 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
 - whole_name: Islamic Revolutionary Guard  Corps Navy (IRGCN)
   function: Government entity
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '166424'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1604 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
+- whole_name: Islamiska revolutionsgardets flotta (IRGCN)
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '166404'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'
@@ -200,26 +220,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166405'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1604 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
-- whole_name: Islamiska revolutionsgardets flotta (IRGCN)
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '166404'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1604 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
-- whole_name: NEDSA
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166422'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'

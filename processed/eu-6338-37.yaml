@@ -14,12 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Анастасия  Дмитриевна  КУЛИК
+- whole_name: Anastasia Dmitrievna  KULIK
   gender: F
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '129818'
+  logical_id: '129820'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -36,22 +35,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Anastasia Dmitrievna  KULIK
+- whole_name: Анастасия  Дмитриевна  КУЛИК
   gender: F
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '129820'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Anastasija Dzmitryjeuna KULIK
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130667'
+  logical_id: '129818'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -63,6 +52,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '129821'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Anastasija Dzmitryjeuna KULIK
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130667'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

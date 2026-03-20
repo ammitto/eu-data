@@ -14,12 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Elena Podolnajová
+- first_name: Елена
+  middle_name: Викторовна
+  last_name: ПОДОЛЬНАЯ
+  whole_name: Елена Викторовна ПОДОЛЬНАЯ
   gender: F
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '161815'
+  logical_id: '161819'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'
@@ -69,15 +72,12 @@ name_aliases:
     publication_date: '2023-09-08'
     number_title: 2023/1715 (OJ L221 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
-- first_name: Елена
-  middle_name: Викторовна
-  last_name: ПОДОЛЬНАЯ
-  whole_name: Елена Викторовна ПОДОЛЬНАЯ
+- whole_name: Elena Podolnajová
   gender: F
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '161819'
+  logical_id: '161815'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'

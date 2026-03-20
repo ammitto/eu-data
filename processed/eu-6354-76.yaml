@@ -14,6 +14,38 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Сергей  Александрович ГУСАЧЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '129932'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Сяргей  Аляксандравіч ГУСАЧЭНКА
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '129933'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Sergey  Alexandrovich GUSACHENKO
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '129934'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Siarhei  Aliaksandravich GUSACHENKA
   function: First Deputy Chairman of the National State Television and Radio Company
     (Belteleradio Company)
@@ -43,38 +75,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130699'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Сяргей  Аляксандравіч ГУСАЧЭНКА
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '129933'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Sergey  Alexandrovich GUSACHENKO
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '129934'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Сергей  Александрович ГУСАЧЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '129932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

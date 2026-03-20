@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Anatolij Prizenko
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '176165'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-21'
-    number_title: 2025/968 (OJ L202500968)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500968
 - first_name: Anatolii
   last_name: PRIZENKO
   whole_name: Anatolii PRIZENKO
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171272'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-21'
+    number_title: 2025/968 (OJ L202500968)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500968
+- whole_name: Anatolij Prizenko
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '176165'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-21'

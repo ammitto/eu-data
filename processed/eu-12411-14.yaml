@@ -14,61 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Nikolaj
-  last_name: Muškarov
-  whole_name: Nikolaj Muškarov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '172226'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Mikalai
-  last_name: Muškarou
-  whole_name: Mikalai Muškarou
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '172225'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Mikalaj
-  last_name: Muškarou
-  whole_name: Mikalaj Muškarou
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '172227'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Mikalai
-  middle_name: Mikalaevich
-  last_name: MUSHKAROU
-  whole_name: Mikalai Mikalaevich MUSHKAROU
-  function: Deputy Assistant chief on duty service in pre-trial Detention center No.
-    1 “Voldarka”
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170916'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Nikolai
   middle_name: Nikolaevich
   last_name: MUSHKAROV
@@ -106,6 +51,61 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170914'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Mikalai
+  middle_name: Mikalaevich
+  last_name: MUSHKAROU
+  whole_name: Mikalai Mikalaevich MUSHKAROU
+  function: Deputy Assistant chief on duty service in pre-trial Detention center No.
+    1 “Voldarka”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '170916'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Mikalaj
+  last_name: Muškarou
+  whole_name: Mikalaj Muškarou
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '172227'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Mikalai
+  last_name: Muškarou
+  whole_name: Mikalai Muškarou
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '172225'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Nikolaj
+  last_name: Muškarov
+  whole_name: Nikolaj Muškarov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '172226'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

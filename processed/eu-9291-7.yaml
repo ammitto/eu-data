@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Антон
+  last_name: ЧУЛИКОВ
+  whole_name: Антон ЧУЛИКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146825'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Anton
   last_name: CHULIKOV
   whole_name: Anton CHULIKOV
@@ -24,19 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146826'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- first_name: Антон
-  last_name: ЧУЛИКОВ
-  whole_name: Антон ЧУЛИКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

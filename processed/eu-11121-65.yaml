@@ -15,19 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Leonor Eugenia
-  last_name: Moralesová Lazová De Sánchez
-  whole_name: Leonor Eugenia Moralesová Lazová De Sánchez
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '162052'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-02'
-    number_title: 2024/455 (OJ L02022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400455
-- first_name: Leonor Eugenia
   last_name: MORALES LAZO DE SÁNCHEZ
   whole_name: Leonor Eugenia MORALES LAZO DE SÁNCHEZ
   function: Prosecutor at the Special Prosecution Office Against Impunity, Public
@@ -37,6 +24,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161966'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-02'
+    number_title: 2024/455 (OJ L02022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400455
+- first_name: Leonor Eugenia
+  last_name: Moralesová Lazová De Sánchez
+  whole_name: Leonor Eugenia Moralesová Lazová De Sánchez
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '162052'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-02'

@@ -15,28 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Valjantsina Henadzieuna KULIK
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '132364'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Valiantsina Genadzeuna KULIK
-  function: Judge at the Supreme Court of the Republic of Belarus
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '132055'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: Valentina Gennadevna KULIK
   gender: F
   strong: true
@@ -64,6 +42,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132052'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Valiantsina Genadzeuna KULIK
+  function: Judge at the Supreme Court of the Republic of Belarus
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '132055'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Valjantsina Henadzieuna KULIK
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '132364'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

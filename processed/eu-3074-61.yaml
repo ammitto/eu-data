@@ -15,106 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ministeru tal-Intern
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '16315'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Belügyminisztérium
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '16310'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Ministerstwo Spraw Wewnętrznych
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '16321'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Ministério do Interior
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '16327'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Ministerul de Interne
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '16330'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Ministerstvo vnútra
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '16342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Ministrstvo za notranje zadeve
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '16345'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Sisäasiainministeriö
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '16348'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Inrikesministeriet
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '16351'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Ministerie van Binnenlandse Zaken
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '16318'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
 - whole_name: Ministry of Interior [Syria]
   strong: true
   regulation_language: en
@@ -229,6 +129,106 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '16307'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Belügyminisztérium
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '16310'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Ministeru tal-Intern
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '16315'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Ministerie van Binnenlandse Zaken
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '16318'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Ministerstwo Spraw Wewnętrznych
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '16321'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Ministério do Interior
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '16327'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Ministerul de Interne
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '16330'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Ministerstvo vnútra
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '16342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Ministrstvo za notranje zadeve
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '16345'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Sisäasiainministeriö
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '16348'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Inrikesministeriet
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '16351'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-06-26'

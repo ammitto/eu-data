@@ -14,41 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Yongbyon Nuclear Scientific Research Centre
-  function: Facilities capable of producing fissile material for military uses, including
-    a 5MW (e) reactor, a plutonium reprocessing facility (radio-chemical laboratory),
-    a Light Water Reactor (LWR) and a reported uranium enrichment facility. The Centre
-    is maintained by the General Bureau of Atomic Energy (entity designated by the
-    UNSC, 16.7.2009).
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '7598'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3152 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403152
-- whole_name: Yongbyoni tuumauuringute keskus
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '161839'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: Centre de  recherche scientifique  nucléaire de  Yongbyon
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '143005'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: Κέντρο Πυρηνικών  Ερευνών της  Yongbyon
   name_language: EL
   strong: true
@@ -269,6 +234,31 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Yongbyoni tuumauuringute keskus
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '161839'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Yongbyon Nuclear Scientific Research Centre
+  function: Facilities capable of producing fissile material for military uses, including
+    a 5MW (e) reactor, a plutonium reprocessing facility (radio-chemical laboratory),
+    a Light Water Reactor (LWR) and a reported uranium enrichment facility. The Centre
+    is maintained by the General Bureau of Atomic Energy (entity designated by the
+    UNSC, 16.7.2009).
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '7598'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3152 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403152
 - whole_name: 녕변 원자력 연구소
   name_language: KO
   strong: true
@@ -279,3 +269,13 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Centre de  recherche scientifique  nucléaire de  Yongbyon
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '143005'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331

@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aляксандр Мікалаевіч ЗАЙЦАЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '130154'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Александр Николаевич ЗАЙЦЕВ
   gender: M
   name_language: RU
@@ -36,22 +25,22 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aleksandr Nikolajevitj ZAJTSEV
+- whole_name: Aляксандр Мікалаевіч ЗАЙЦАЎ
   gender: M
-  name_language: SV
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '130730'
+  logical_id: '130154'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Alexandr Nikolaevich  ZAITSEV
+- whole_name: Alexander Nikolaevich ZAITSEV
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '130583'
+  logical_id: '130155'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -68,11 +57,22 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Alexander Nikolaevich ZAITSEV
+- whole_name: Alexandr Nikolaevich  ZAITSEV
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '130155'
+  logical_id: '130583'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Aleksandr Nikolajevitj ZAJTSEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130730'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

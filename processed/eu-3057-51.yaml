@@ -15,24 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Qari Muhammad Ayub
-  strong: true
-  regulation_language: en
-  logical_id: '16591'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-10-30'
-    number_title: 1002/2012 (OJ L300)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
-- whole_name: Alhaj Qari Ayub Bashar
-  strong: true
-  regulation_language: en
-  logical_id: '16590'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-10-30'
-    number_title: 1002/2012 (OJ L300)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
 - first_name: Ayyub
   last_name: Bashir
   whole_name: Ayyub Bashir
@@ -45,16 +27,25 @@ name_aliases:
     publication_date: '2018-07-23'
     number_title: 2018/1033 (OJ L185)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.185.01.0014.01.ENG&toc=OJ:L:2018:185:TOC
-citizenships:
-- country_iso2_code: UZ
-  country_description: UZBEKISTAN
+- whole_name: Alhaj Qari Ayub Bashar
+  strong: true
   regulation_language: en
-  logical_id: '784'
+  logical_id: '16590'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-10-30'
     number_title: 1002/2012 (OJ L300)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
+- whole_name: Qari Muhammad Ayub
+  strong: true
+  regulation_language: en
+  logical_id: '16591'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-10-30'
+    number_title: 1002/2012 (OJ L300)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
+citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
@@ -64,31 +55,16 @@ citizenships:
     publication_date: '2012-10-30'
     number_title: 1002/2012 (OJ L300)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
+- country_iso2_code: UZ
+  country_description: UZBEKISTAN
+  regulation_language: en
+  logical_id: '784'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-10-30'
+    number_title: 1002/2012 (OJ L300)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1971
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '1941'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-10-30'
-    number_title: 1002/2012 (OJ L300)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1969
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '1940'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-10-30'
-    number_title: 1002/2012 (OJ L300)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
   year: 1966
@@ -103,11 +79,35 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
+  year: 1971
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '1941'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-10-30'
+    number_title: 1002/2012 (OJ L300)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
   year: 1964
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '1939'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-10-30'
+    number_title: 1002/2012 (OJ L300)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1969
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '1940'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-10-30'

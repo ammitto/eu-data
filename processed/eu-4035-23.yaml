@@ -14,6 +14,74 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Sogenannter „Föderaler Staat  Noworossija“
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '152400'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Tā sauktā “Novorossijas federālā valsts”
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '152632'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Soi-disant “État fédéral de Nouvelle Russie”
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '152411'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Αποκαλούμενη “Ομοσπονδιακή  Πολιτεία της Νέας Ρωσίας”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '152424'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: "“Федеративное государство Новороссия”"
+  strong: true
+  regulation_language: en
+  logical_id: '18000'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: "“Federativnoye Gosudarstvo Novorossiya”"
+  strong: true
+  regulation_language: en
+  logical_id: '18001'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Т.нар. „Федерална държава Новорусия“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '128368'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: Tzv. „Federální stát Nové Rusko“
   name_language: CS
   strong: true
@@ -24,11 +92,11 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Tā sauktā “Novorossijas federālā valsts”
-  name_language: LV
+- whole_name: el denominado "Estado Federal de Novorossiya”
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '152632'
+  logical_id: '128370'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -194,84 +262,6 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Αποκαλούμενη “Ομοσπονδιακή  Πολιτεία της Νέας Ρωσίας”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '152424'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Sogenannter „Föderaler Staat  Noworossija“
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '152400'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Cosiddetto “Stato federale di  Novorossiya”
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '152410'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Soi-disant “État fédéral de Nouvelle Russie”
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '152411'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: So-called “Federal State of Novorossiya”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17999'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "“Федеративное государство Новороссия”"
-  strong: true
-  regulation_language: en
-  logical_id: '18000'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: "“Federativnoye Gosudarstvo Novorossiya”"
-  strong: true
-  regulation_language: en
-  logical_id: '18001'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Т.нар. „Федерална държава Новорусия“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '128368'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: Așa-numitul «Stat Federal al Novorossiya»
   name_language: RO
   strong: true
@@ -302,11 +292,11 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: el denominado "Estado Federal de Novorossiya”
-  name_language: ES
+- whole_name: Cosiddetto “Stato federale di  Novorossiya”
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '128370'
+  logical_id: '152410'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -317,6 +307,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152532'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: So-called “Federal State of Novorossiya”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '17999'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

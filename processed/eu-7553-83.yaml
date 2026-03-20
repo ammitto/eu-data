@@ -14,12 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Леанiд Вiктаравiч КАСIНСКI
+- whole_name: Leonid Viktorovitj  Kasinskij
   gender: M
-  name_language: BE
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '136273'
+  logical_id: '136404'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-02'
+    number_title: 2022/353 (OJ L66)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
+- whole_name: Leonid Viktorovich KASINSKY
+  function: Major General, Assistant to the Minister of Defence for Ideological Work
+    in the Armed Forces and Head of the Main Directorate for Ideological Work in the
+    Belarusian Ministry of Defence.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '136275'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-02'
@@ -36,12 +50,12 @@ name_aliases:
     publication_date: '2022-03-02'
     number_title: 2022/353 (OJ L66)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
-- whole_name: Leonid Viktorovitj  Kasinskij
+- whole_name: Леанiд Вiктаравiч КАСIНСКI
   gender: M
-  name_language: SV
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '136404'
+  logical_id: '136273'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-02'
@@ -53,20 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136403'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-02'
-    number_title: 2022/353 (OJ L66)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
-- whole_name: Leonid Viktorovich KASINSKY
-  function: Major General, Assistant to the Minister of Defence for Ideological Work
-    in the Armed Forces and Head of the Main Directorate for Ideological Work in the
-    Belarusian Ministry of Defence.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '136275'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-02'

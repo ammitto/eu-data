@@ -18,14 +18,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Vadim Viktorovich BULGAKOV
-  function: Head of the Directorate of the Russian Federal Penal Enforcement Service
-    for the “Republic of Crimea and the City of Sevastopol”
+- whole_name: Вадим Викторович  БУЛГАКОВ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '180047'
+  logical_id: '180045'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-05'
@@ -42,31 +40,33 @@ name_aliases:
     publication_date: '2025-09-05'
     number_title: 2025/1789 (OJ L202501789)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501789
-- whole_name: Вадим Викторович  БУЛГАКОВ
+- whole_name: Vadim Viktorovich BULGAKOV
+  function: Head of the Directorate of the Russian Federal Penal Enforcement Service
+    for the “Republic of Crimea and the City of Sevastopol”
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180045'
+  logical_id: '180047'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-05'
     number_title: 2025/1789 (OJ L202501789)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501789
 citizenships:
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- country_iso2_code: UA
+  country_description: UKRAINE
   regulation_language: en
-  logical_id: '180043'
+  logical_id: '180044'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-05'
     number_title: 2025/1789 (OJ L202501789)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501789
-- country_iso2_code: UA
-  country_description: UKRAINE
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '180044'
+  logical_id: '180043'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-05'

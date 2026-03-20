@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Beijing Head Űrtechnológia
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: China Head Űrtechnológia Vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173417'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Întreprinderea chineză HEAD de Tehnologie Aerospațială
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '173334'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Beijing Head Aerospace Technology
   name_language: EN
   strong: true
@@ -68,11 +38,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: 北京和德宇航技术有限公司
-  name_language: ZH
+- whole_name: Beijing Head Űrtechnológia
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172698'
+  logical_id: '173416'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -83,6 +53,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172699'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: China Head Űrtechnológia Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173417'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: 北京和德宇航技术有限公司
+  name_language: ZH
+  strong: true
+  regulation_language: en
+  logical_id: '172698'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Întreprinderea chineză HEAD de Tehnologie Aerospațială
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '173334'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

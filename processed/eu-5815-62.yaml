@@ -14,34 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Игорь
-  middle_name: Анатольевич
-  last_name: ПЛЫШЕВСКИЙ
-  whole_name: Игорь Анатольевич ПЛЫШЕВСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '125558'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Ihar
-  middle_name: Anatoljevitj
-  last_name: PLYSJEUSKI
-  whole_name: Ihar Anatoljevitj PLYSJEUSKI
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127953'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Igor
   middle_name: Anatoljevitj
   last_name: PLYSJEVSKIJ
@@ -81,6 +53,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125560'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Ihar
+  middle_name: Anatoljevitj
+  last_name: PLYSJEUSKI
+  whole_name: Ihar Anatoljevitj PLYSJEUSKI
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '127953'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Игорь
+  middle_name: Анатольевич
+  last_name: ПЛЫШЕВСКИЙ
+  whole_name: Игорь Анатольевич ПЛЫШЕВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '125558'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

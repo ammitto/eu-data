@@ -14,10 +14,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Hasan Ahmed S. Adnan
+- whole_name: Adnan S. Hasan Ahmed
   strong: true
   regulation_language: en
-  logical_id: '3124'
+  logical_id: '3123'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-05-15'
@@ -32,10 +32,10 @@ name_aliases:
     publication_date: '2004-05-15'
     number_title: 979/2004 (OJ L180)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
-- whole_name: Adnan S. Hasan Ahmed
+- whole_name: Hasan Ahmed S. Adnan
   strong: true
   regulation_language: en
-  logical_id: '3123'
+  logical_id: '3124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-05-15'

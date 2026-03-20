@@ -38,17 +38,6 @@ name_aliases:
     publication_date: '2025-01-31'
     number_title: 2025/206 (L 202500206)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- whole_name: Sa’id
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '285'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
 - whole_name: Garbaya Ahmed
   gender: M
   name_language: EN
@@ -73,6 +62,17 @@ name_aliases:
     publication_date: '2023-07-21'
     number_title: 2023/1505 (OJ L184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Sa’id
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '285'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
 citizenships:
 - country_iso2_code: LB
   country_description: LEBANON

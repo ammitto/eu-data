@@ -14,56 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Открытое акционерное  общество
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179319'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: ОАО НИИ Стали
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179320'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: АО НИИ Стали
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179321'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Акционерное Общество  НаучноИсследовательский  Институт Стали
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179322'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Open Joint-Stock Company  Scientific Research Institute of  Steel
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179323'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: OJSC NII STALLI
   name_language: EN
   strong: true
@@ -122,6 +72,56 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Научно-исследовательский  институт стали
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179316'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: НИИ стали
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179317'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Открытое акционерное  общество  Научно-исследовательский  институт стали
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179318'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Открытое акционерное  общество
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179319'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: ОАО НИИ Стали
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179320'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: NII Steel - osakeyhtiö
   name_language: FI
   strong: true
@@ -162,31 +162,31 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Научно-исследовательский  институт стали
+- whole_name: АО НИИ Стали
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179316'
+  logical_id: '179321'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: НИИ стали
+- whole_name: Акционерное Общество  НаучноИсследовательский  Институт Стали
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179317'
+  logical_id: '179322'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Открытое акционерное  общество  Научно-исследовательский  институт стали
-  name_language: RU
+- whole_name: Open Joint-Stock Company  Scientific Research Institute of  Steel
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179318'
+  logical_id: '179323'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

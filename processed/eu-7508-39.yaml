@@ -14,15 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yuri
-  middle_name: Vitoldovich
-  last_name: SHULEYKO
-  whole_name: Yuri Vitoldovich SHULEYKO
-  function: Chairman of the Brest Regional Executive Committee
+- whole_name: Юрий Витольдович ШУЛЕЙКО
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '135903'
+  logical_id: '144023'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -38,11 +34,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Юрий Витольдович ШУЛЕЙКО
+- first_name: Yuri
+  middle_name: Vitoldovich
+  last_name: SHULEYKO
+  whole_name: Yuri Vitoldovich SHULEYKO
+  function: Chairman of the Brest Regional Executive Committee
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '144023'
+  logical_id: '135903'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

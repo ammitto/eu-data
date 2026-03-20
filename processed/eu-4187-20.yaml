@@ -25,10 +25,19 @@ name_aliases:
     publication_date: '2017-08-31'
     number_title: 2017/1509 (OJ L224)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- whole_name: CHANGGWANG SINYONG CORPORATION
+- whole_name: "‘KOMID’"
   strong: true
   regulation_language: en
-  logical_id: '7139'
+  logical_id: '7142'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2017-08-31'
+    number_title: 2017/1509 (OJ L224)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
+- whole_name: DPRKN MINING DEVELOPMENT TRADING COOPERATION
+  strong: true
+  regulation_language: en
+  logical_id: '7141'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-05-13'
@@ -43,24 +52,15 @@ name_aliases:
     publication_date: '2009-05-13'
     number_title: 389/2009 (OJ L118)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:118:0078:0079:EN:PDF
-- whole_name: DPRKN MINING DEVELOPMENT TRADING COOPERATION
+- whole_name: CHANGGWANG SINYONG CORPORATION
   strong: true
   regulation_language: en
-  logical_id: '7141'
+  logical_id: '7139'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-05-13'
     number_title: 389/2009 (OJ L118)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:118:0078:0079:EN:PDF
-- whole_name: "‘KOMID’"
-  strong: true
-  regulation_language: en
-  logical_id: '7142'
-  regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2017-08-31'
-    number_title: 2017/1509 (OJ L224)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 addresses:
 - street: Central District
   city: Pyongyang
