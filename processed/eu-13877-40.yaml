@@ -15,26 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Modern Industries Technique Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180140'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: MITEC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180099'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: Rahkar Company
   name_language: EN
   strong: true
@@ -55,21 +35,41 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Rahkar Industries
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180127'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: Rahkar Sanaye Novin
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '180125'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Modern Industries Technique Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180140'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: MITEC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180099'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Rahkar Industries
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180127'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ольга
-  middle_name: Сергеевна
-  last_name: ЗАБРАЛОВА
-  whole_name: Ольга Сергеевна ЗАБРАЛОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136550'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Olga
   middle_name: Sergeyevna
   last_name: ZABRALOVA
@@ -38,6 +24,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136551'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- first_name: Ольга
+  middle_name: Сергеевна
+  last_name: ЗАБРАЛОВА
+  whole_name: Ольга Сергеевна ЗАБРАЛОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136550'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

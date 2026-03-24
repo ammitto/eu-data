@@ -26,21 +26,21 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: ЧЕРЕВКО Сергій Миколайович
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '140557'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Serhij  Mykolajovytj TJEREVKO
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '141129'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: ЧЕРЕВКО Сергій Миколайович
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '140557'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

@@ -24,36 +24,6 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Forze speciali provinciali
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '148605'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Forze speciali dei guardiani della guida  suprema
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '148606'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Forze speciali antiterrorismo  iraniane
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '148607'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Sondereinheit Terrorismus–bekämpfung
   name_language: DE
   strong: true
@@ -104,6 +74,16 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Irano specialiosios policijos pajėgos
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '148965'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Irānas īpašie policijas spēki
   name_language: LV
   strong: true
@@ -149,16 +129,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148964'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Irano specialiosios policijos pajėgos
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '148965'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -269,6 +239,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148840'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Forze speciali provinciali
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '148605'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Forze speciali dei guardiani della guida  suprema
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '148606'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Forze speciali antiterrorismo  iraniane
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '148607'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -577,6 +577,56 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Specjalny Oddział  Antyterrorystyczny
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '148672'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Specjalne  Siły w prowincjach
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '148673'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Specjalne Oddziały  Straży Najwyższego Przywódcy
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '148674'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Irańskie Specjalne Siły  Antyterrorystyczne
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '148675'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Irańskie Specjalne Siły Policyjne
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '148676'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Fuerza Especial Antiterrorista
   name_language: ES
   strong: true
@@ -637,6 +687,16 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: iranska  polisens specialstyrkor
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '148795'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: ειδικές  αστυνομικές δυνάμεις του Ιράν
   name_language: EL
   strong: true
@@ -682,66 +742,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148654'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Specjalny Oddział  Antyterrorystyczny
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '148672'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Specjalne  Siły w prowincjach
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '148673'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Specjalne Oddziały  Straży Najwyższego Przywódcy
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '148674'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Irańskie Specjalne Siły  Antyterrorystyczne
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '148675'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Irańskie Specjalne Siły Policyjne
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '148676'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: iranska  polisens specialstyrkor
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '148795'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

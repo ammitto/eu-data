@@ -14,6 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Genadz Iosifavich  DYSKO
+  function: "Deputy Prosecutor \nGeneral of the Republic of Belarus, State Counselor
+    of Justice of the 3rd class"
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '129897'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Геннадий  Иосифович ДЫСКО
   gender: M
   name_language: RU
@@ -25,22 +37,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Генадзь Іосіфавіч  ДЫСКО
+- whole_name: Gennadij Iosifovitj DYSKO
   gender: M
-  name_language: BE
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '129895'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Gennadi Iosifovich  DYSKO
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '129896'
+  logical_id: '130688'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -57,24 +59,22 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Genadz Iosifavich  DYSKO
-  function: "Deputy Prosecutor \nGeneral of the Republic of Belarus, State Counselor
-    of Justice of the 3rd class"
+- whole_name: Gennadi Iosifovich  DYSKO
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '129897'
+  logical_id: '129896'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Gennadij Iosifovitj DYSKO
+- whole_name: Генадзь Іосіфавіч  ДЫСКО
   gender: M
-  name_language: SV
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '130688'
+  logical_id: '129895'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

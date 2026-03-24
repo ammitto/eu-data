@@ -28,20 +28,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Sergej
-  middle_name: Pavlovitj
-  last_name: IVANOV
-  whole_name: Sergej Pavlovitj IVANOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '137237'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Sergey
   middle_name: Pavlovich
   last_name: IVANOV
@@ -52,6 +38,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136668'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Sergej
+  middle_name: Pavlovitj
+  last_name: IVANOV
+  whole_name: Sergej Pavlovitj IVANOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137237'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

@@ -14,12 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Аляксандр Уладзіміравіч ВАСІЛЮК
+- whole_name: Aleksandr Vladimirovitj VASILJUK
   gender: M
-  name_language: BE
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130345'
+  logical_id: '130754'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Aljaksandr Uladzimiravitj VASILJUK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130755'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -36,12 +47,22 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aljaksandr Uladzimiravitj VASILJUK
+- whole_name: Аляксандр Уладзіміравіч ВАСІЛЮК
   gender: M
-  name_language: SV
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '130755'
+  logical_id: '130345'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Alexander Vladimirovich  VASILIUK
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130346'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -63,27 +84,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130584'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aleksandr Vladimirovitj VASILJUK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130754'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Alexander Vladimirovich  VASILIUK
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130346'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

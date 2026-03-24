@@ -29,13 +29,17 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Oleg
-  last_name: Tkač
-  whole_name: Oleg Tkač
+  middle_name: Polikarpovich
+  last_name: TKACH
+  whole_name: Oleg Polikarpovich TKACH
+  function: |-
+    Director and founder of OLMA publishing house.
+    Former Member of the Federation Council.
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169988'
+  logical_id: '136849'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'
@@ -56,17 +60,13 @@ name_aliases:
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Oleg
-  middle_name: Polikarpovich
-  last_name: TKACH
-  whole_name: Oleg Polikarpovich TKACH
-  function: |-
-    Director and founder of OLMA publishing house.
-    Former Member of the Federation Council.
+  last_name: Tkač
+  whole_name: Oleg Tkač
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '136849'
+  logical_id: '169988'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

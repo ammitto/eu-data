@@ -14,6 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Vladimir
+  middle_name: Anatolievich
+  last_name: MEDVEDEV
+  whole_name: Vladimir Anatolievich MEDVEDEV
+  function: Former member of the so-called “People's Council” of the so-called “Donetsk
+    People’s Republic”, leader of the“ Free Donbass Public Movement”.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138503'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Владимир
   middle_name: Анатольевич
   last_name: МЕДВЕДЕВ
@@ -42,22 +58,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Vladimir
-  middle_name: Anatolievich
-  last_name: MEDVEDEV
-  whole_name: Vladimir Anatolievich MEDVEDEV
-  function: Former member of the so-called “People's Council” of the so-called “Donetsk
-    People’s Republic”, leader of the“ Free Donbass Public Movement”.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '138503'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 birthdates:
 - birthdate: '1980-10-27'
   circa: false

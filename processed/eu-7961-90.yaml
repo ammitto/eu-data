@@ -14,21 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Василь Анатолійович ПЕРЦЕВ
+- whole_name: Vasily Anatolievich PERTSEV
+  function: Member of the so-called ‘People’s Council’ of the so-called ‘Donetsk People’s
+    Republic’
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '138562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Василий Анатольевич ПЕРЦЕВ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '138563'
+  logical_id: '138564'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
@@ -44,13 +36,21 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Vasily Anatolievich PERTSEV
-  function: Member of the so-called ‘People’s Council’ of the so-called ‘Donetsk People’s
-    Republic’
+- whole_name: Василь Анатолійович ПЕРЦЕВ
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '138564'
+  logical_id: '138562'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: Василий Анатольевич ПЕРЦЕВ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '138563'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

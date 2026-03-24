@@ -25,33 +25,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Evgenii Alekseevich VRUBLEVSKII
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130024'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Евгений  Алексеевич  ВРУБЛЕВСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '130022'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Jevgenij Aleksejevitj VRUBLEVSKIJ
+- whole_name: Jauhen Aljaksejevitj URUBLEUSKI
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130790'
+  logical_id: '130791'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -68,12 +47,33 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Jauhen Aljaksejevitj URUBLEUSKI
+- whole_name: Jevgenij Aleksejevitj VRUBLEVSKIJ
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130791'
+  logical_id: '130790'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Evgenii Alekseevich VRUBLEVSKII
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130024'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Евгений  Алексеевич  ВРУБЛЕВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '130022'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

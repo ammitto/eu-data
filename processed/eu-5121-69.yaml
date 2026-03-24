@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Jorasán del Estado Islámico de Irak y Siria
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '153283'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-04'
-    number_title: 2023/908 (OJ L116)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
 - whole_name: Estado Islámico de Irak y ash-Sham – provincia de Khorasan
   strong: true
   regulation_language: en
@@ -104,6 +94,16 @@ name_aliases:
     publication_date: '2023-05-04'
     number_title: 2023/908 (OJ L116)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
+- whole_name: Islamitische Staat van Irak en Syrië — Khorasan
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '153292'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-04'
+    number_title: 2023/908 (OJ L116)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
 - whole_name: IS-Khorasan
   strong: true
   regulation_language: en
@@ -162,76 +162,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153259'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-04'
-    number_title: 2023/908 (OJ L116)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
-- whole_name: Islāma valsts Khurasan
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '153333'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-04'
-    number_title: 2023/908 (OJ L116)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
-- whole_name: Irākas un Levantes  Islāma valsts Korasānas provincē
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '153334'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-04'
-    number_title: 2023/908 (OJ L116)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
-- whole_name: Irākas un Sīrijas Islāma valsts Korasānas province
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '153335'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-04'
-    number_title: 2023/908 (OJ L116)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
-- whole_name: Islāma valsts  Irākā un ash-Sham Korasānas province
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '153336'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-04'
-    number_title: 2023/908 (OJ L116)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
-- whole_name: ISIL Dienvidāzijas nodaļa
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '153337'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-04'
-    number_title: 2023/908 (OJ L116)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
-- whole_name: ISIL Dienvidāzijas filiāle
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '153338'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-04'
-    number_title: 2023/908 (OJ L116)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
-- whole_name: Islāma valsts Korasānas province
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '153339'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-04'
@@ -437,6 +367,76 @@ name_aliases:
     publication_date: '2023-05-04'
     number_title: 2023/908 (OJ L116)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
+- whole_name: Islāma valsts Khurasan
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '153333'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-04'
+    number_title: 2023/908 (OJ L116)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
+- whole_name: Irākas un Levantes  Islāma valsts Korasānas provincē
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '153334'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-04'
+    number_title: 2023/908 (OJ L116)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
+- whole_name: Irākas un Sīrijas Islāma valsts Korasānas province
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '153335'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-04'
+    number_title: 2023/908 (OJ L116)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
+- whole_name: Islāma valsts  Irākā un ash-Sham Korasānas province
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '153336'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-04'
+    number_title: 2023/908 (OJ L116)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
+- whole_name: ISIL Dienvidāzijas nodaļa
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '153337'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-04'
+    number_title: 2023/908 (OJ L116)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
+- whole_name: ISIL Dienvidāzijas filiāle
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '153338'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-04'
+    number_title: 2023/908 (OJ L116)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
+- whole_name: Islāma valsts Korasānas province
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '153339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-04'
+    number_title: 2023/908 (OJ L116)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
 - whole_name: South Asian Chapter of ISIL
   strong: true
   regulation_language: en
@@ -487,16 +487,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '122633'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-04'
-    number_title: 2023/908 (OJ L116)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
-- whole_name: Islamitische Staat van Irak en Syrië — Khorasan
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '153292'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-04'
@@ -647,6 +637,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153307'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-04'
+    number_title: 2023/908 (OJ L116)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
+- whole_name: Prowincja Chorasan Państwa Islamskiego
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '153308'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-04'
@@ -836,16 +836,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153282'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-04'
-    number_title: 2023/908 (OJ L116)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
-- whole_name: Prowincja Chorasan Państwa Islamskiego
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '153308'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-04'
@@ -1066,6 +1056,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153330'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-04'
+    number_title: 2023/908 (OJ L116)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
+- whole_name: Jorasán del Estado Islámico de Irak y Siria
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '153283'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-04'

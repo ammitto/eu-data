@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ПАО "Нижнекамскшина"
-  name_language: RU
+- whole_name: Společnost Nižněkamskšina
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '140437'
+  logical_id: '152519'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -35,31 +35,31 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Společnost Nižněkamskšina
-  name_language: CS
+- whole_name: ПАО "Нижнекамскшина"
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '152519'
+  logical_id: '140437'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: société par actions cotée Nizhnekamskshina
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '158207'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Družba Nizhnekamskshina
   name_language: SL
   strong: true
   regulation_language: en
   logical_id: '158671'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: société par actions cotée Nizhnekamskshina
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '158207'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

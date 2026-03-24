@@ -14,23 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: KIM Il Su
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '112459'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3152 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403152
 - whole_name: 김일수
   gender: M
   name_language: KO
   strong: true
   regulation_language: en
   logical_id: '142122'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3152 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403152
+- whole_name: KIM Il Su
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '112459'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

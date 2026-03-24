@@ -16,6 +16,88 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Ministry of National Defence
+  function: The Ministry of National Defence manages the general administrative and
+    logistical needs of the Korean People’s Army.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168462'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Ministeru għall-Forzi Armati tal-Poplu  (MPAF)
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '168780'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Ministeru għad-Difiża Nazzjonali
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '168781'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: A Népi Fegyveres  Erők Minisztériuma
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '168782'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Honvédelmi Minisztérium
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '168783'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Gynybos  ministerija
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '168784'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Nacionalinės gynybos ministerija
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '168785'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Liaudies ginkluotųjų pajėgų ministerij
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '168786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
 - whole_name: Valsts Aizsardzības ministrija
   name_language: LV
   strong: true
@@ -131,6 +213,76 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '168798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Misterstwo Obrony Narodowej
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '168799'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Ministerstwo Ludowych Sił Zbrojnych
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '168800'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Ministerie van de Volksstrijd-krachten (MPAF)
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '168801'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Ministerie van Nationale Defensie
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '168802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Министерство  на отбраната
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '168742'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Министерство на народните въоръжени  сили (MPAF)
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '168743'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Министерство на националната  отбрана
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '168744'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
@@ -256,36 +408,6 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2070 (OJ L202402070)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Министерство  на отбраната
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '168742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Министерство на народните въоръжени  сили (MPAF)
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '168743'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Министерство на националната  отбрана
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '168744'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
 - whole_name: Ministarstvo  obrane
   name_language: HR
   strong: true
@@ -381,128 +503,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '168461'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Ministry of National Defence
-  function: The Ministry of National Defence manages the general administrative and
-    logistical needs of the Korean People’s Army.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168462'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Misterstwo Obrony Narodowej
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '168799'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Ministerstwo Ludowych Sił Zbrojnych
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '168800'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Ministerie van de Volksstrijd-krachten (MPAF)
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '168801'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Ministerie van Nationale Defensie
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '168802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Ministeru għall-Forzi Armati tal-Poplu  (MPAF)
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '168780'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Ministeru għad-Difiża Nazzjonali
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '168781'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: A Népi Fegyveres  Erők Minisztériuma
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '168782'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Honvédelmi Minisztérium
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '168783'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Gynybos  ministerija
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '168784'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Nacionalinės gynybos ministerija
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '168785'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Liaudies ginkluotųjų pajėgų ministerij
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '168786'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

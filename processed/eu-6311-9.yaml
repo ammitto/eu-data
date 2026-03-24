@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Sate  Pyin Nyar
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '129448'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-28'
+    number_title: 2023/886 (OJ L113 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0886
 - whole_name: U Chit Naing
   function: Minister of Union Government heading the Ministry of Union Government
     Office (2). Minister for Information from 2 February 2021 to 1 August 2021.
@@ -26,17 +37,6 @@ name_aliases:
     publication_date: '2022-04-22'
     number_title: 2022/662 (OJ L121)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.121.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A121%3ATOC
-- whole_name: Sate  Pyin Nyar
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '129448'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-28'
-    number_title: 2023/886 (OJ L113 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0886
 citizenships:
 - country_iso2_code: MM
   country_description: MYANMAR

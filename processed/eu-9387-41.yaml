@@ -14,11 +14,71 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: НМГ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '158172'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Société par actions Groupe national de médias
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '158215'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Националната медийна група
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '158447'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: AO "Национальная Медиа Группа"
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '147233'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Nacionalinė žiniasklaidos  grupė
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147978'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Grupul național al mass-mediei
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '147881'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: skupina Národní Média
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '170008'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'
@@ -57,66 +117,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Grupul național al mass-mediei
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '147881'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Nacionalinė žiniasklaidos  grupė
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147978'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: skupina Národní Média
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '170008'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Société par actions Groupe national de médias
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '158215'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Националната медийна група
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '158447'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: НМГ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '158172'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 addresses:
 - street: Prechistenskaya embankment 13, building 1
   city: Moscow

@@ -14,6 +14,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: IGG
+  strong: true
+  regulation_language: en
+  logical_id: '149240'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: International Gateways Group of Company Limited
   name_language: EN
   strong: true
@@ -24,15 +33,6 @@ name_aliases:
     publication_date: '2023-10-27'
     number_title: 2023/2435 (OJ L27102023)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=OJ:L_202302435
-- whole_name: IGG
-  strong: true
-  regulation_language: en
-  logical_id: '149240'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 addresses:
 - street: Kyaik Wine Pagoda Road, No 19, Myaing Hay Wun Housing, 8-Mile
   city: Mayangone, Yangon

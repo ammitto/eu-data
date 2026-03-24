@@ -14,20 +14,20 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО Гарнизон
-  name_language: RU
+- whole_name: JSC GARNIZON
   strong: true
   regulation_language: en
-  logical_id: '140572'
+  logical_id: '140573'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: JSC GARNIZON
+- whole_name: АО Гарнизон
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '140573'
+  logical_id: '140572'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

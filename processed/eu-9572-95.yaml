@@ -16,6 +16,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Islámský stát v Iráku a Levantě v jihovýchodní Asii
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '149136'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-06'
+    number_title: 2023/249 (OJ L34I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
+- whole_name: División del Estado Islámico de Asia Oriental
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '149137'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-06'
+    number_title: 2023/249 (OJ L34I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
 - whole_name: EIIL-Sudeste Asiático
   name_language: ES
   strong: true
@@ -342,45 +362,6 @@ name_aliases:
     publication_date: '2023-02-06'
     number_title: 2023/249 (OJ L34I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
-- whole_name: Islamic State In Iraq And the Levant In South-East Asia
-  strong: true
-  regulation_language: en
-  logical_id: '149129'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-06'
-    number_title: 2023/249 (OJ L34I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
-- whole_name: Ислямска държава — Източна Азия
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '149130'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-06'
-    number_title: 2023/249 (OJ L34I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
-- whole_name: División del Estado Islámico de Asia Oriental
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '149137'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-06'
-    number_title: 2023/249 (OJ L34I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
-- whole_name: Islámský stát v Iráku a Levantě v jihovýchodní Asii
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '149136'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-06'
-    number_title: 2023/249 (OJ L34I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
 - whole_name: ISIL – jihovýchodní Asie
   name_language: CS
   strong: true
@@ -411,6 +392,16 @@ name_aliases:
     publication_date: '2023-02-06'
     number_title: 2023/249 (OJ L34I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
+- whole_name: ИДИЛ — SEA
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '149132'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-06'
+    number_title: 2023/249 (OJ L34I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
 - whole_name: ИДИЛ — Югоизточна Азия
   name_language: BG
   strong: true
@@ -421,11 +412,20 @@ name_aliases:
     publication_date: '2023-02-06'
     number_title: 2023/249 (OJ L34I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
-- whole_name: ИДИЛ — SEA
+- whole_name: Islamic State In Iraq And the Levant In South-East Asia
+  strong: true
+  regulation_language: en
+  logical_id: '149129'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-06'
+    number_title: 2023/249 (OJ L34I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
+- whole_name: Ислямска държава — Източна Азия
   name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '149132'
+  logical_id: '149130'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-06'

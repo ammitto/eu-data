@@ -40,19 +40,6 @@ name_aliases:
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Vyacheslav
-  last_name: DUHIN
-  whole_name: Vyacheslav DUHIN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149948'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Vyacheslav
   middle_name: Vyacheslavovich
   last_name: DUKHIN
   whole_name: Vyacheslav Vyacheslavovich DUKHIN
@@ -64,6 +51,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149949'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Vyacheslav
+  last_name: DUHIN
+  whole_name: Vyacheslav DUHIN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149948'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -28,19 +28,6 @@ name_aliases:
     publication_date: '2022-12-06'
     number_title: 2022/2374 (OJ L314)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- first_name: Alexandr
-  middle_name: Petrovich
-  last_name: KALASHNIKOV
-  whole_name: Alexandr Petrovich KALASHNIKOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '127730'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-06'
-    number_title: 2022/2374 (OJ L314)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
 - first_name: Александр
   middle_name: Петрович
   last_name: КАЛАШНИКОВ
@@ -50,6 +37,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127729'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-06'
+    number_title: 2022/2374 (OJ L314)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
+- first_name: Alexandr
+  middle_name: Petrovich
+  last_name: KALASHNIKOV
+  whole_name: Alexandr Petrovich KALASHNIKOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '127730'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-06'

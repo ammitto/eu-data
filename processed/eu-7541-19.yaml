@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Акционерное общество «Страховое общество газовой промышленности»  АО
+    «СОГАЗ»
+  strong: true
+  regulation_language: en
+  logical_id: '136172'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-28'
+    number_title: 2022/336 (OJ L58)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
 - whole_name: Gas Industry  Insurance Company SOGAZ
   strong: true
   regulation_language: en
@@ -23,6 +33,26 @@ name_aliases:
     publication_date: '2022-02-28'
     number_title: 2022/336 (OJ L58)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
+- whole_name: sociedad anónima “Compañía de Seguros de la Industria del Gas SOGAZ”
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '152648'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Aktiengesellschaft „Gas Industry Insurance Company SOGAZ“
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '152647'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Akciová společnost „Gas Industry Insurance Company SOGAZ“
   name_language: CS
   strong: true
@@ -33,26 +63,6 @@ name_aliases:
     publication_date: '2022-02-28'
     number_title: 2022/336 (OJ L58)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
-- whole_name: vennootschap op aandelen “Gas Industry Insurance Company SOGAZ”
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '152652'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Akcinė bendrovė „Gas Industry Insurance Company SOGAZ“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '152651'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Compañía de Seguros de la Industria del Gas SOGAZ
   name_language: ES
   strong: true
@@ -93,16 +103,6 @@ name_aliases:
     publication_date: '2022-02-28'
     number_title: 2022/336 (OJ L58)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
-- whole_name: Акционерное общество «Страховое общество газовой промышленности»  АО
-    «СОГАЗ»
-  strong: true
-  regulation_language: en
-  logical_id: '136172'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-28'
-    number_title: 2022/336 (OJ L58)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
 - whole_name: Akcinė bendrovė „Gas Industry Insurance Company SOGAZ“
   name_language: LT
   strong: true
@@ -118,6 +118,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152618'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: società per azioni “Gas Industry Insurance Company SOGAZ”
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '152649'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Spółka z o.o. „Przedsiębiorstwo ubezpieczeniowe przemysłu gazowego SOGAZ”
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152650'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Akcinė bendrovė „Gas Industry Insurance Company SOGAZ“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '152651'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: vennootschap op aandelen “Gas Industry Insurance Company SOGAZ”
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '152652'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -168,46 +208,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152646'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Aktiengesellschaft „Gas Industry Insurance Company SOGAZ“
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '152647'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: sociedad anónima “Compañía de Seguros de la Industria del Gas SOGAZ”
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '152648'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: società per azioni “Gas Industry Insurance Company SOGAZ”
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '152649'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Spółka z o.o. „Przedsiębiorstwo ubezpieczeniowe przemysłu gazowego SOGAZ”
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '152650'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

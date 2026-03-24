@@ -14,16 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yuri
-  middle_name: Viktorovich
-  last_name: ARKHAROV
-  whole_name: Yuri Viktorovich ARKHAROV
-  function: Former member of the Federation Council of the Russian Federation
+- first_name: Jurij
+  middle_name: Viktorovitj
+  last_name: ARCHAROV
+  whole_name: Jurij Viktorovitj ARCHAROV
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '137014'
+  logical_id: '137377'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -43,15 +42,16 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Jurij
-  middle_name: Viktorovitj
-  last_name: ARCHAROV
-  whole_name: Jurij Viktorovitj ARCHAROV
+- first_name: Yuri
+  middle_name: Viktorovich
+  last_name: ARKHAROV
+  whole_name: Yuri Viktorovich ARKHAROV
+  function: Former member of the Federation Council of the Russian Federation
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '137377'
+  logical_id: '137014'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

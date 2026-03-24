@@ -25,15 +25,16 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/332 (OJ L53)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
-- first_name: Alexandr
-  middle_name: Grigorievič
-  last_name: Voľfovič
-  whole_name: Alexandr Grigorievič Voľfovič
+- first_name: Aleksandr
+  middle_name: Grigoryevich
+  last_name: VOLFOVICH
+  whole_name: Aleksandr Grigoryevich VOLFOVICH
+  function: State Secretary of the Security Council of the Republic of Belarus
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169964'
+  logical_id: '135872'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'
@@ -53,16 +54,15 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Aleksandr
-  middle_name: Grigoryevich
-  last_name: VOLFOVICH
-  whole_name: Aleksandr Grigoryevich VOLFOVICH
-  function: State Secretary of the Security Council of the Republic of Belarus
+- first_name: Alexandr
+  middle_name: Grigorievič
+  last_name: Voľfovič
+  whole_name: Alexandr Grigorievič Voľfovič
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '135872'
+  logical_id: '169964'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

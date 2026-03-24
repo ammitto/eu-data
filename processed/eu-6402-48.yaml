@@ -14,23 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Andrej Siarhejevitj BAKATJ
+- whole_name: Андрей Сергеевич  БАКАЧ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '130765'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Andrej Sergejevitj BAKATJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130764'
+  logical_id: '130265'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -49,11 +38,12 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Andrei Sergeevich  BAKACH
+- whole_name: Andrej Sergejevitj BAKATJ
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130267'
+  logical_id: '130764'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -70,12 +60,22 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Андрей Сергеевич  БАКАЧ
+- whole_name: Andrei Sergeevich  BAKACH
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '130265'
+  logical_id: '130267'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Andrej Siarhejevitj BAKATJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130765'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

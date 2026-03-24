@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: شهسواری حبیب
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '146447'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2428 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
 - first_name: Habib
   last_name: SHAHSAVARI
   whole_name: Habib SHAHSAVARI
@@ -35,6 +24,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146448'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2428 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: شهسواری حبیب
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '146447'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -53,11 +53,11 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1964
+  year: 1963
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '146445'
+  logical_id: '146446'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -65,11 +65,11 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
 - circa: false
   calendar_type: GREGORIAN
-  year: 1963
+  year: 1964
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '146446'
+  logical_id: '146445'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'

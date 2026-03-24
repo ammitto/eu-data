@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Сергей
+  middle_name: Борисович
+  last_name: Иванов
+  whole_name: Сергей Борисович Иванов
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '135818'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - whole_name: Sergej Borisovitj IVANOV
   gender: M
   name_language: SV
@@ -36,20 +50,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135819'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Сергей
-  middle_name: Борисович
-  last_name: Иванов
-  whole_name: Сергей Борисович Иванов
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '135818'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

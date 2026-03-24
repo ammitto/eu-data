@@ -14,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Direttorat tal-Akkwist tad-Difiża tal-Myanmar
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '150353'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Dirección de Adquisición de Defensa de Myanmar
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '150318'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Direction des acquisitions de défense du Myanmar
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '150315'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Direzione degli appalti nel settore della difesa del Myanmar
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '150312'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: Direktion  Verteidigungsgüterbeschaffung von Myanmar/Birma
   name_language: DE
   strong: true
@@ -64,11 +24,11 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Mjanmańska Dyrekcja ds. Zamówień w dziedzinie Obronności
-  name_language: PL
+- whole_name: Myanmari kaitsealaste riigihangete direktoraat
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '150325'
+  logical_id: '150347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -84,11 +44,41 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Дирекция за обществени поръчки в областта на отбраната на Мианмар
-  name_language: BG
+- whole_name: Direktorat Mjanmara za nabavo na področju obrambe
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '150328'
+  logical_id: '150350'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Mjanmańska Dyrekcja ds. Zamówień w dziedzinie Obronności
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '150325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Direttorat tal-Akkwist tad-Difiża tal-Myanmar
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '150353'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Direction des acquisitions de défense du Myanmar
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '150315'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -104,6 +94,16 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Mjanmas Aizsardzības iepirkumu direktorāts
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '150342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: Direcția pentru Achiziții în Domeniul Apărării din Myanmar/Birmania
   name_language: RO
   strong: true
@@ -114,21 +114,31 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Direktorat Mjanmara za nabavo na področju obrambe
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '150350'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: Myanmar Directorate of Defense Procurement
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '149231'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Dirección de Adquisición de Defensa de Myanmar
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '150318'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Дирекция за обществени поръчки в областта на отбраната на Мианмар
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '150328'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -164,31 +174,21 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Direzione degli appalti nel settore della difesa del Myanmar
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '150312'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: Mianmari Védelmi  Beszerzési Igazgatóság
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '150341'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Mjanmas Aizsardzības iepirkumu direktorāts
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '150342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Myanmari kaitsealaste riigihangete direktoraat
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '150347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

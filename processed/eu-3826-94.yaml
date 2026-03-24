@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ali
+  last_name: Hammoud
+  whole_name: Ali Hammoud
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110141'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - whole_name: علي حمود
   gender: M
   name_language: AR
@@ -34,19 +47,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '110140'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Ali
-  last_name: Hammoud
-  whole_name: Ali Hammoud
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110141'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

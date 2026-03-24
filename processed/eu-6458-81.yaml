@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Arcjom
+  last_name: Sikorski
+  whole_name: Arcjom Sikorski
+  gender: M
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '164183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Artsiom
   middle_name: Iharavitj
   last_name: SIKORSKI
@@ -37,6 +50,22 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130808'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Artsiom
+  middle_name: Igaravich
+  last_name: SIKORSKI
+  whole_name: Artsiom Igaravich SIKORSKI
+  function: "Director General of the BELAERONAVIGATSIA State-Owned Enterprise, \nformer
+    Director of the Aviation Department of the Ministry of Transport and Communications"
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '130539'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -70,14 +99,41 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Артем
+  middle_name: Игоревич
+  last_name: СИКОРСКИЙ
+  whole_name: Артем Игоревич СИКОРСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '130536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Arcjom
   last_name: Sikorski
   whole_name: Arcjom Sikorski
   gender: M
-  name_language: SK
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '164186'
+  logical_id: '164165'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Артьом
+  last_name: Сикорский
+  whole_name: Артьом Сикорский
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '164173'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -99,66 +155,10 @@ name_aliases:
   last_name: Sikorski
   whole_name: Arcjom Sikorski
   gender: M
-  name_language: HR
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '164183'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Артьом
-  last_name: Сикорский
-  whole_name: Артьом Сикорский
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164173'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Arcjom
-  last_name: Sikorski
-  whole_name: Arcjom Sikorski
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164165'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Artsiom
-  middle_name: Igaravich
-  last_name: SIKORSKI
-  whole_name: Artsiom Igaravich SIKORSKI
-  function: "Director General of the BELAERONAVIGATSIA State-Owned Enterprise, \nformer
-    Director of the Aviation Department of the Ministry of Transport and Communications"
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '130539'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Артем
-  middle_name: Игоревич
-  last_name: СИКОРСКИЙ
-  whole_name: Артем Игоревич СИКОРСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '130536'
+  logical_id: '164186'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

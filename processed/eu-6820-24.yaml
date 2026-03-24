@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Det högsta valrådet
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '133169'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-09'
-    number_title: 2024/2672 (OJ L09102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
 - whole_name: CSE
   name_language: PT
   strong: true
@@ -259,6 +249,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133168'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-09'
+    number_title: 2024/2672 (OJ L09102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402672
+- whole_name: Det högsta valrådet
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '133169'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-09'

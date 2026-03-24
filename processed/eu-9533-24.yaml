@@ -24,11 +24,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Islamilaisen vallankumous-kaartin (IRGC)  alueelliset Quds-joukot Gilanissa
-  name_language: FI
+- whole_name: Cuerpo regional «Quds» del Cuerpo de los  Guardianes de la Revolución
+    Islámica en  Gilan
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '148928'
+  logical_id: '148700'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -97,6 +98,17 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Regionálna jednotka Zboru islamských  revolučných gárd (IRGC) Quds v
+    provicii  Gilan
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '148873'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Corps provincial "Quds" relevant du Corps des gardiens de la révolution
     islamique (IRGC) au Gilān
   name_language: FR
@@ -151,17 +163,6 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
-    siły Quds prowincji Gilan
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '148679'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Den Islamiske Revolutionsgardes (IRGC's)  regionale korps Quds i Gilan
   name_language: DA
   strong: true
@@ -204,17 +205,6 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Regionálna jednotka Zboru islamských  revolučných gárd (IRGC) Quds v
-    provicii  Gilan
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '148873'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: قدس سپاه پاسداران انقلاب اسلامی
   name_language: FA
   strong: true
@@ -230,6 +220,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148515'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Islamilaisen vallankumous-kaartin (IRGC)  alueelliset Quds-joukot Gilanissa
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '148928'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -256,12 +256,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Cuerpo regional «Quds» del Cuerpo de los  Guardianes de la Revolución
-    Islámica en  Gilan
-  name_language: ES
+- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
+    siły Quds prowincji Gilan
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '148700'
+  logical_id: '148679'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

@@ -14,15 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Евгений
-  middle_name: Викторович
-  last_name: ЛЕБЕДЕВ
-  whole_name: Евгений Викторович ЛЕБЕДЕВ
+- whole_name: Jevgenij Viktorovitj LEBEDEV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '134994'
+  logical_id: '144087'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -42,12 +39,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Jevgenij Viktorovitj LEBEDEV
+- first_name: Евгений
+  middle_name: Викторович
+  last_name: ЛЕБЕДЕВ
+  whole_name: Евгений Викторович ЛЕБЕДЕВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144087'
+  logical_id: '134994'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

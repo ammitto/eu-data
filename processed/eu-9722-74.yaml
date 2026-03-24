@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Рамиль
-  middle_name: Рахматуллович
-  last_name: ИБАТУЛЛИН
-  whole_name: Рамиль Рахматуллович ИБАТУЛЛИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149932'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Ramil
   middle_name: Rakhmatulovich
   last_name: IBATULLIN
@@ -51,6 +37,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151058'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Рамиль
+  middle_name: Рахматуллович
+  last_name: ИБАТУЛЛИН
+  whole_name: Рамиль Рахматуллович ИБАТУЛЛИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

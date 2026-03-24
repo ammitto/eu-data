@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Iliyas
-  middle_name: Magomed-Salamovich
-  last_name: UMAKHANOV
-  whole_name: Iliyas Magomed-Salamovich UMAKHANOV
-  function: member of the Federation Council
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146495'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Ильяс
   middle_name: Магомед-Саламович
   last_name: УМАХАНОВ
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146494'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Iliyas
+  middle_name: Magomed-Salamovich
+  last_name: UMAKHANOV
+  whole_name: Iliyas Magomed-Salamovich UMAKHANOV
+  function: member of the Federation Council
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146495'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

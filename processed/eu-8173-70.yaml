@@ -25,20 +25,20 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: АО “ОДК-Климов”
-  strong: true
-  regulation_language: en
-  logical_id: '139874'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - whole_name: ZKS-Klimow SA
   name_language: PL
   strong: true
   regulation_language: en
   logical_id: '139873'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: АО “ОДК-Климов”
+  strong: true
+  regulation_language: en
+  logical_id: '139874'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
@@ -58,21 +58,21 @@ addresses:
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 identifications:
-- identification_type_code: fiscalcode
-  number: '7802375335'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '173904'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - identification_type_code: other
   number: '1069847546383'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '173903'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- identification_type_code: fiscalcode
+  number: '7802375335'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '173904'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

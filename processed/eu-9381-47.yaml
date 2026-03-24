@@ -14,18 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC Technodinamika
-  function: holding company which includes more than 100 enterprises (weapons, ammunition,
-    chemistry and aviation products manufacturing)
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '147200'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - whole_name: Těchnodinamika
   name_language: CS
   strong: true
@@ -41,6 +29,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147199'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: JSC Technodinamika
+  function: holding company which includes more than 100 enterprises (weapons, ammunition,
+    chemistry and aviation products manufacturing)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '147200'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

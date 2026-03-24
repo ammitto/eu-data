@@ -25,12 +25,23 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Cuerpo regional «Salaman» del Cuerpo de  los Guardianes de la Revolución
-    Islámica)  en Sistán y Baluchistán
-  name_language: ES
+- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
+    siły  Salaman prowincji Sistan i Beludżystan
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '148709'
+  logical_id: '148688'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Az Iszlám Forradalmi Gárda szisztáni és beludzsisztáni Salaman regionális
+    hadteste
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '148861'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -146,12 +157,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Den Islamiske Revolutionsgardes (IRGC's) regionale korps Salaman i Sistan
-    og  Baluchestan
-  name_language: DA
+- whole_name: Cuerpo regional «Salaman» del Cuerpo de  los Guardianes de la Revolución
+    Islámica)  en Sistán y Baluchistán
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '148774'
+  logical_id: '148709'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -174,17 +185,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148645'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Επαρχιακό σώμα Salaman του Στρατού των Φρουρών της Ισλαμικής Επανάστασης  (IRGC),
-    Sistan και Baluchestan
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '148666'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -232,12 +232,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Az Iszlám Forradalmi Gárda szisztáni és beludzsisztáni Salaman regionális
-    hadteste
-  name_language: HU
+- whole_name: Den Islamiske Revolutionsgardes (IRGC's) regionale korps Salaman i Sistan
+    og  Baluchestan
+  name_language: DA
   strong: true
   regulation_language: en
-  logical_id: '148861'
+  logical_id: '148774'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -265,12 +265,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
-    siły  Salaman prowincji Sistan i Beludżystan
-  name_language: PL
+- whole_name: Επαρχιακό σώμα Salaman του Στρατού των Φρουρών της Ισλαμικής Επανάστασης  (IRGC),
+    Sistan και Baluchestan
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '148688'
+  logical_id: '148666'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

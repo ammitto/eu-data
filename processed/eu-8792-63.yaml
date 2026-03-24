@@ -14,12 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Владимир Григoрьевич КУЛИШOВ
+- first_name: Vladimir
+  middle_name: Grigorevich
+  last_name: KULISHOV
+  whole_name: Vladimir Grigorevich KULISHOV
+  function: Head of Russia’s Border Service and Deputy Director of the Federal Security
+    Service (FSB) of the Russian Federation
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144473'
+  logical_id: '144474'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -39,16 +43,12 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Vladimir
-  middle_name: Grigorevich
-  last_name: KULISHOV
-  whole_name: Vladimir Grigorevich KULISHOV
-  function: Head of Russia’s Border Service and Deputy Director of the Federal Security
-    Service (FSB) of the Russian Federation
+- whole_name: Владимир Григoрьевич КУЛИШOВ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144474'
+  logical_id: '144473'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

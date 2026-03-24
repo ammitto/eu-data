@@ -14,43 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Екатерина
-  middle_name: Васильевна
-  last_name: ТЕРЕЩЕНКО
-  whole_name: Екатерина Васильевна ТЕРЕЩЕНКО
+- first_name: Jekaterina
+  middle_name: Vasiljevna
+  last_name: TERESJTJENKO
+  whole_name: Jekaterina Vasiljevna TERESJTJENKO
   gender: F
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '118737'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Kateryna
-  middle_name: Vasylivna
-  last_name: TERESHCHENKO
-  whole_name: Kateryna Vasylivna TERESHCHENKO
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '118736'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Катерина
-  middle_name: Василiвна
-  last_name: ТЕРЕЩЕНКО
-  whole_name: Катерина Василiвна ТЕРЕЩЕНКО
-  gender: F
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '118735'
+  logical_id: '164915'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -61,24 +33,10 @@ name_aliases:
   last_name: TERESHCHENKO
   whole_name: Ekaterina Vasilievna TERESHCHENKO
   gender: F
-  name_language: EN
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '118738'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Jekaterina
-  middle_name: Vasiljevna
-  last_name: TERESJTJENKO
-  whole_name: Jekaterina Vasiljevna TERESJTJENKO
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '164915'
+  logical_id: '164759'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -98,15 +56,57 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Катерина
+  middle_name: Василiвна
+  last_name: ТЕРЕЩЕНКО
+  whole_name: Катерина Василiвна ТЕРЕЩЕНКО
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '118735'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Kateryna
+  middle_name: Vasylivna
+  last_name: TERESHCHENKO
+  whole_name: Kateryna Vasylivna TERESHCHENKO
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '118736'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Екатерина
+  middle_name: Васильевна
+  last_name: ТЕРЕЩЕНКО
+  whole_name: Екатерина Васильевна ТЕРЕЩЕНКО
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '118737'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Ekaterina
   middle_name: Vasilievna
   last_name: TERESHCHENKO
   whole_name: Ekaterina Vasilievna TERESHCHENKO
   gender: F
-  name_language: BG
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '164759'
+  logical_id: '118738'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

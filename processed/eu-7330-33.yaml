@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Андрей
-  middle_name: Павлович
-  last_name: МАРКОВ
-  whole_name: Андрей Павлович МАРКОВ
+- first_name: Andrey
+  middle_name: Pavlovich
+  last_name: MARKOV
+  whole_name: Andrey Pavlovich MARKOV
+  function: Member of the State Duma
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '135058'
+  logical_id: '135059'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -39,15 +39,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Andrey
-  middle_name: Pavlovich
-  last_name: MARKOV
-  whole_name: Andrey Pavlovich MARKOV
-  function: Member of the State Duma
+- first_name: Андрей
+  middle_name: Павлович
+  last_name: МАРКОВ
+  whole_name: Андрей Павлович МАРКОВ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '135059'
+  logical_id: '135058'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

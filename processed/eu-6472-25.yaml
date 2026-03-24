@@ -14,11 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Belaeronavigatsia  Empresa pública
-  name_language: PT
+- whole_name: Belaeronavigatsia  Intrapriża tal-istat
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '135500'
+  logical_id: '135503'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Belaeronavigatsia  Valtion omistama yritys
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '135504'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -53,56 +63,6 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/999 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.219.01.0055.01.ENG&toc=OJ%3AL%3A2021%3A219I%3ATOC
-- whole_name: Belaeronavigatsia  Întreprindere de stat
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '135507'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Belaeronavigatsia  štátny podnik
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '135506'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Belaeronavigatsia  podjetje v državni lasti
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '135505'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Belaeronavigatsia  Valtion omistama yritys
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '135504'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Belaeronavigatsia  Intrapriża tal-istat
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '135503'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - whole_name: Belaeronavigatsia  Staatsbedrijf
   name_language: NL
   strong: true
@@ -118,6 +78,86 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135501'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Belaeronavigatsia  Empresa pública
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '135500'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Belaeronavigatsia  Impresa di proprietà dello Stato
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '135499'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Belaeronavigatsia,  valstybės valdoma įmonė
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '135498'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Belaeronavigatsia  Entreprise d’État
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '135497'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Belaeronavigatsia  Fiontar faoi úinéireacht stáit
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '135496'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Belaeronavigatsia  podjetje v državni lasti
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '135505'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Belaeronavigatsia  štátny podnik
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '135506'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Belaeronavigatsia  Întreprindere de stat
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '135507'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -198,46 +238,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135495'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Belaeronavigatsia  Fiontar faoi úinéireacht stáit
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '135496'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Belaeronavigatsia  Entreprise d’État
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '135497'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Belaeronavigatsia,  valstybės valdoma įmonė
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '135498'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Belaeronavigatsia  Impresa di proprietà dello Stato
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '135499'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

@@ -14,27 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Evgeniy Andreevich  SHAPETKO
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130317'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Yauhen Andreevich  SHAPETSKA
-  function: Head of Akrestina isolation center for offenders
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130316'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Евгений Андреевич ШАПЕТЬКО
   gender: M
   name_language: RU
@@ -52,6 +31,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130318'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Evgeniy Andreevich  SHAPETKO
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130317'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Yauhen Andreevich  SHAPETSKA
+  function: Head of Akrestina isolation center for offenders
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130316'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

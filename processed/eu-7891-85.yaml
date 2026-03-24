@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Игорь
+  middle_name: Евгеньевич
+  last_name: КОНАШЕНКОВ
+  whole_name: Игорь Евгеньевич КОНАШЕНКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '138220'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Игор
   last_name: Конашенков
   whole_name: Игор Конашенков
@@ -40,6 +54,17 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: Igor Evgenievič KONAŠENKOV
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '139341'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Igor
   middle_name: Jevgenjevitj
   last_name: KONASJENKOV
@@ -49,17 +74,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Igor Evgenievič KONAŠENKOV
-  gender: M
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '139341'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -77,20 +91,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138221'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Игорь
-  middle_name: Евгеньевич
-  last_name: КОНАШЕНКОВ
-  whole_name: Игорь Евгеньевич КОНАШЕНКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138220'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

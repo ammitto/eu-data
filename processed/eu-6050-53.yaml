@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: GHU – presidendi kantselei juhtiv majandusosakond
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '135449'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - whole_name: GHU – Main Economic Department of the Presidential Administration
   strong: true
   regulation_language: en
@@ -33,11 +23,11 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: GHU — den centrale økonomiske afdeling for præsidentens administration
-  name_language: DA
+- whole_name: GHU – presidendi kantselei juhtiv majandusosakond
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '127766'
+  logical_id: '135449'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -218,6 +208,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127895'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: GHU — den centrale økonomiske afdeling for præsidentens administration
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '127766'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

@@ -14,12 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: آقایی مرتضا میر
+- first_name: Morteza Mir
+  last_name: AGHAEI
+  whole_name: Morteza Mir AGHAEI
+  function: head of the Basij in the city of Sanandaj
   gender: M
-  name_language: FA
+  title: Colonel
   strong: true
   regulation_language: en
-  logical_id: '145760'
+  logical_id: '145762'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -37,15 +40,12 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2231 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
-- first_name: Morteza Mir
-  last_name: AGHAEI
-  whole_name: Morteza Mir AGHAEI
-  function: head of the Basij in the city of Sanandaj
+- whole_name: آقایی مرتضا میر
   gender: M
-  title: Colonel
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '145762'
+  logical_id: '145760'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

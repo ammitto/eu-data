@@ -15,43 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ammar
-  middle_name: Medhat
-  last_name: Sherif
-  whole_name: Ammar Medhat Sherif
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109888'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-02-26'
-    number_title: 2018/282 (OJ L54 I)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0282&from=EN
-- first_name: Ammar
-  last_name: Sherif
-  whole_name: Ammar Sherif
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109889'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-02-26'
-    number_title: 2018/282 (OJ L54 I)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0282&from=EN
-- first_name: Ammar
-  last_name: al Shareef
-  whole_name: Ammar al Shareef
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109890'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-02-26'
-    number_title: 2018/282 (OJ L54 I)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0282&from=EN
-- first_name: Ammar
   last_name: Charif
   whole_name: Ammar Charif
   name_language: EN
@@ -75,22 +38,24 @@ name_aliases:
     publication_date: '2018-02-26'
     number_title: 2018/282 (OJ L54 I)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0282&from=EN
-- whole_name: Amar al-Charif
+- first_name: Ammar
+  last_name: al Shareef
+  whole_name: Ammar al Shareef
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '109893'
+  logical_id: '109890'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Ammar AL-SHARIF
+    publication_date: '2018-02-26'
+    number_title: 2018/282 (OJ L54 I)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0282&from=EN
+- whole_name: عمار شريف
   gender: M
-  name_language: EN
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '109895'
+  logical_id: '124781'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -106,17 +71,52 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: عمار شريف
-  gender: M
-  name_language: AR
+- first_name: Ammar
+  middle_name: Medhat
+  last_name: Sherif
+  whole_name: Ammar Medhat Sherif
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '124781'
+  logical_id: '109888'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-02-26'
+    number_title: 2018/282 (OJ L54 I)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0282&from=EN
+- whole_name: Ammar AL-SHARIF
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109895'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Amar al-Charif
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109893'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- first_name: Ammar
+  last_name: Sherif
+  whole_name: Ammar Sherif
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109889'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-02-26'
+    number_title: 2018/282 (OJ L54 I)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0282&from=EN
 citizenships:
 - country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
@@ -145,21 +145,21 @@ birthdates:
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 identifications:
-- identification_type_code: other
-  number: 060- 10276707
-  country_iso2_code: SY
-  regulation_language: en
-  logical_id: '115616'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-02-26'
-    number_title: 2018/282 (OJ L54 I)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0282&from=EN
 - identification_type_code: passport
   number: '010312413'
   country_iso2_code: SY
   regulation_language: en
   logical_id: '115617'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-02-26'
+    number_title: 2018/282 (OJ L54 I)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0282&from=EN
+- identification_type_code: other
+  number: 060- 10276707
+  country_iso2_code: SY
+  regulation_language: en
+  logical_id: '115616'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-02-26'

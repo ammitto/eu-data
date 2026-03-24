@@ -25,6 +25,21 @@ name_aliases:
     number_title: 2020/1463 (OJ L335)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.335.01.0001.01.ENG&toc=OJ:L:2020:335:TOC
 - first_name: Said
+  last_name: SAID
+  whole_name: Said SAID
+  function: Said Said is a significant figure in Institute 3000 a.k.a. Institute 6000,
+    the division of the Scientific Studies and Research Centre (SSRC)
+  gender: M
+  title: Doctor, member of Institute 3000 (a.k.a. Institute 6000) of the SSRC
+  strong: true
+  regulation_language: en
+  logical_id: '119198'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-13'
+    number_title: 2020/1463 (OJ L335)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.335.01.0001.01.ENG&toc=OJ:L:2020:335:TOC
+- first_name: Said
   last_name: Sa'id  Sa'id
   whole_name: Said Sa'id  Sa'id
   gender: M
@@ -48,21 +63,6 @@ name_aliases:
     publication_date: '2019-01-21'
     number_title: 2019/84 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
-- first_name: Said
-  last_name: SAID
-  whole_name: Said SAID
-  function: Said Said is a significant figure in Institute 3000 a.k.a. Institute 6000,
-    the division of the Scientific Studies and Research Centre (SSRC)
-  gender: M
-  title: Doctor, member of Institute 3000 (a.k.a. Institute 6000) of the SSRC
-  strong: true
-  regulation_language: en
-  logical_id: '119198'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-10-13'
-    number_title: 2020/1463 (OJ L335)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.335.01.0001.01.ENG&toc=OJ:L:2020:335:TOC
 birthdates:
 - birthdate: '1955-12-11'
   circa: false

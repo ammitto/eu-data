@@ -24,12 +24,22 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Cuerpo regional «Beit-al-Moqadas» del  Cuerpo de los Guardianes de la
-    Revolución  Islámica en Kurdistán
-  name_language: ES
+- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
+    siły Beit-al-Moqadas w prowincji Kurdystan
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '148708'
+  logical_id: '148687'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Az Iszlám Forradalmi Gárda kurdisztáni Beit-al-Moqadas regionális hadteste
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '148860'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -144,12 +154,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Den Islamiske Revolutionsgardes (IRGC's) regionale korps Beit-al-Moqadas
-    i Kurdistan
-  name_language: DA
+- whole_name: Cuerpo regional «Beit-al-Moqadas» del  Cuerpo de los Guardianes de la
+    Revolución  Islámica en Kurdistán
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '148773'
+  logical_id: '148708'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -172,17 +182,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148644'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Επαρχιακό σώμα Beit-al-Moqadas του Στρατού των Φρουρών της Ισλαμικής  Επανάστασης
-    (IRGC), Κουρδιστάν
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '148665'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -231,11 +230,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Az Iszlám Forradalmi Gárda kurdisztáni Beit-al-Moqadas regionális hadteste
-  name_language: HU
+- whole_name: Den Islamiske Revolutionsgardes (IRGC's) regionale korps Beit-al-Moqadas
+    i Kurdistan
+  name_language: DA
   strong: true
   regulation_language: en
-  logical_id: '148860'
+  logical_id: '148773'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -263,12 +263,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
-    siły Beit-al-Moqadas w prowincji Kurdystan
-  name_language: PL
+- whole_name: Επαρχιακό σώμα Beit-al-Moqadas του Στρατού των Φρουρών της Ισλαμικής  Επανάστασης
+    (IRGC), Κουρδιστάν
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '148687'
+  logical_id: '148665'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

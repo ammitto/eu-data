@@ -14,14 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: NOVATOR (RESEARCH DESIGN BYURO "NOVATOR")
-  function: Russian company engaged in the development, production, operation and
-    repair of long-range anti-aircraft missiles, cruise missiles, anti-ballistic missiles
-    and other warfare equipment
+- whole_name: ОПЫТНОЕ-КОНСТРУКТОРСКОЕ БЮРО “НОВАТОР”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '169904'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: RESEARCH DESIGN BYURO “NOVATOR”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '147174'
+  logical_id: '169905'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'
@@ -37,6 +44,39 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: MOKSLINIŲ TYRIMŲ  PROJEKTAVIMO  BIURAS „NOVATOR“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147972'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: НОВАТОР (ОПЫТНОЕ-КОНСТРУКТОРСКОЕ БЮРО 'НОВАТОР')
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147173'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: NOVATOR (RESEARCH DESIGN BYURO "NOVATOR")
+  function: Russian company engaged in the development, production, operation and
+    repair of long-range anti-aircraft missiles, cruise missiles, anti-ballistic missiles
+    and other warfare equipment
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '147174'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - whole_name: OFICINA DE DISEÑO  DE INVESTIGACIÓN  “NOVATOR”
   name_language: ES
   strong: true
@@ -67,46 +107,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: MOKSLINIŲ TYRIMŲ  PROJEKTAVIMO  BIURAS „NOVATOR“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147972'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: НОВАТОР (ОПЫТНОЕ-КОНСТРУКТОРСКОЕ БЮРО 'НОВАТОР')
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147173'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: ОПЫТНОЕ-КОНСТРУКТОРСКОЕ БЮРО “НОВАТОР”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '169904'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: RESEARCH DESIGN BYURO “NOVATOR”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169905'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 addresses:
 - street: Prospekt Kosmonavtov, 18
   city: Yekaterinburg

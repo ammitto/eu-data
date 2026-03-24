@@ -123,11 +123,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Islamo revoliucijos gvardijos  regioninis Shohada korpusas Vakarų  Azerbaidžane
-  name_language: LT
+- whole_name: Islāma revolucionāro gvardu korpusa (IRGC) reģionālais korpuss Shohada,
+    kas atrodas West-Azerbaijan
+  name_language: LV
   strong: true
   regulation_language: en
-  logical_id: '148966'
+  logical_id: '148981'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -155,12 +156,11 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Islāma revolucionāro gvardu korpusa (IRGC) reģionālais korpuss Shohada,
-    kas atrodas West-Azerbaijan
-  name_language: LV
+- whole_name: Islamo revoliucijos gvardijos  regioninis Shohada korpusas Vakarų  Azerbaidžane
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '148981'
+  logical_id: '148966'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -177,33 +177,22 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Islamiska revolutionsgardets regionala Shohada-styrkor i Västazarbaijan
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '148796'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
-    siły  Shohada prowincji Azerbejdżan Zachodni
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '148677'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Επαρχιακό σώμα Shohada του Στρατού των  Φρουρών της Ισλαμικής Επανάστασης  (IRGC),
     επαρχία του Δυτικού Αζερμπαϊτζάν
   name_language: EL
   strong: true
   regulation_language: en
   logical_id: '148655'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Islamiska revolutionsgardets regionala Shohada-styrkor i Västazarbaijan
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '148796'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -226,6 +215,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148698'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
+    siły  Shohada prowincji Azerbejdżan Zachodni
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '148677'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

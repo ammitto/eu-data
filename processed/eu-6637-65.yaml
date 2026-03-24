@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Wiktor Anatolijewicz Możelański
+  gender: M
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '131640'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 - whole_name: Viktor Anatoljevitj Mozjeljanskij
   gender: M
   name_language: SV
@@ -36,6 +47,20 @@ name_aliases:
     publication_date: '2021-10-11'
     number_title: 2021/1791 (OJ L359I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
+- first_name: Виктор
+  middle_name: Анатольевич
+  last_name: МОЖЕЛЯНСКИЙ
+  whole_name: Виктор Анатольевич МОЖЕЛЯНСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '131596'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Viktor
   middle_name: Anatolyevich
   last_name: MOZHELIANSKIY
@@ -47,31 +72,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '131597'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Wiktor Anatolijewicz Możelański
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '131640'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
-- first_name: Виктор
-  middle_name: Анатольевич
-  last_name: МОЖЕЛЯНСКИЙ
-  whole_name: Виктор Анатольевич МОЖЕЛЯНСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '131596'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'
@@ -114,18 +114,6 @@ birthdates:
     number_title: 2021/1791 (OJ L359I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 addresses:
-- street: Anhars'ka St, 8
-  city: Simferopol
-  region: Crimea
-  country_iso2_code: UA
-  country_description: UKRAINE
-  regulation_language: en
-  logical_id: '131591'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 - street: 35  Marshala Zhukova  St, App. 53
   city: Simferopol
   region: Crimea
@@ -133,6 +121,18 @@ addresses:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '131592'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
+- street: Anhars'ka St, 8
+  city: Simferopol
+  region: Crimea
+  country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '131591'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-10-11'

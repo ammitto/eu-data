@@ -27,20 +27,20 @@ name_aliases:
     publication_date: '2021-11-18'
     number_title: 2021/2015 (OJ L410I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
-- whole_name: Mohammad Al-Ghamari
-  strong: true
-  regulation_language: en
-  logical_id: '131924'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-11-18'
-    number_title: 2021/2015 (OJ L410I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
 - whole_name: محمد عبدالكریم الغماري
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '131925'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-11-18'
+    number_title: 2021/2015 (OJ L410I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
+- whole_name: Mohammad Al-Ghamari
+  strong: true
+  regulation_language: en
+  logical_id: '131924'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-11-18'
@@ -59,18 +59,6 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1984
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '131921'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-11-18'
-    number_title: 2021/2015 (OJ L410I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
-- circa: false
-  calendar_type: GREGORIAN
   year: 1979
   city: Izla Dhaen
   place: Wahha District, Hajjar Governorate
@@ -78,6 +66,18 @@ birthdates:
   country_description: YEMEN
   regulation_language: en
   logical_id: '131922'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-11-18'
+    number_title: 2021/2015 (OJ L410I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1984
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '131921'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-11-18'

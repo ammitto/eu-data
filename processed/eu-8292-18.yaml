@@ -34,11 +34,12 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: société par actions SOUKHOÏ
-  name_language: FR
+- whole_name: JSC SUKHOI Company
+  function: a Russian aircraft manufacturer
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158209'
+  logical_id: '140420'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -64,12 +65,11 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: JSC SUKHOI Company
-  function: a Russian aircraft manufacturer
-  name_language: EN
+- whole_name: société par actions SOUKHOÏ
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '140420'
+  logical_id: '158209'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

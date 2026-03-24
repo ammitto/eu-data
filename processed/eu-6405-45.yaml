@@ -14,6 +14,53 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Andrej Nikolajevitj DAJLIDA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130738'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Andrej Mikalajevitj DAJLIDA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130739'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Andrei Nikolaevich DAILIDA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '130290'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-28'
+    number_title: 2023/419 (OJ L61)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
+- whole_name: Andrei Mikalaevich DAILIDA
+  function: Head of the Rear Support Department at the Ministry of Internal Affairs
+    of Belarus, former Deputy Head of the Penal Correction Department of the Ministry
+    of Internal Affairs
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '130291'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-28'
+    number_title: 2023/419 (OJ L61)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
 - whole_name: Андрэй Мікалаевіч ДАЙЛІДА
   gender: M
   name_language: BE
@@ -36,53 +83,6 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Andrei Mikalaevich DAILIDA
-  function: Head of the Rear Support Department at the Ministry of Internal Affairs
-    of Belarus, former Deputy Head of the Penal Correction Department of the Ministry
-    of Internal Affairs
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '130291'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-28'
-    number_title: 2023/419 (OJ L61)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
-- whole_name: Andrej Mikalajevitj DAJLIDA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130739'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Andrej Nikolajevitj DAJLIDA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130738'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Andrei Nikolaevich DAILIDA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '130290'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-28'
-    number_title: 2023/419 (OJ L61)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

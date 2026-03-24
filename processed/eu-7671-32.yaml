@@ -23,17 +23,12 @@ name_aliases:
     publication_date: '2022-03-09'
     number_title: 2022/396 (OJ L80)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
-- whole_name: Sergey Alexandrovich  KULIKOV
-  function: |-
-    Chairman of the Board of Management Company RUSNANO LLC
-
-    Member of the Board of Directors of Rusnano JSC
-
-    First deputy Chairman of the board of the Military Industrial Commission
+- whole_name: Сергеи  Алехандрович  КУЛИКОВ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '136773'
+  logical_id: '136770'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-09'
@@ -49,22 +44,27 @@ name_aliases:
     publication_date: '2022-03-09'
     number_title: 2022/396 (OJ L80)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
-- whole_name: Сергеи  Алехандрович  КУЛИКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136770'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-09'
-    number_title: 2022/396 (OJ L80)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
 - whole_name: Sergej Aleksandrovitj KULIKOV
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '137356'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-09'
+    number_title: 2022/396 (OJ L80)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
+- whole_name: Sergey Alexandrovich  KULIKOV
+  function: |-
+    Chairman of the Board of Management Company RUSNANO LLC
+
+    Member of the Board of Directors of Rusnano JSC
+
+    First deputy Chairman of the board of the Military Industrial Commission
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '136773'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-09'

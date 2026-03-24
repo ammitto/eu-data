@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Sjarip
+  middle_name: Sultanovitj
+  last_name: DELIMCHANOV
+  whole_name: Sjarip Sultanovitj DELIMCHANOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Sharip
   middle_name: Sultanovich
   last_name: DELIMKHANOV
@@ -39,20 +53,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143245'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Sjarip
-  middle_name: Sultanovitj
-  last_name: DELIMCHANOV
-  whole_name: Sjarip Sultanovitj DELIMCHANOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143244'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

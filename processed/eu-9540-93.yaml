@@ -25,12 +25,22 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Cuerpo regional «Valiasr» del Cuerpo de los  Guardianes de la Revolución
-    Islámica en  Juzestán
-  name_language: ES
+- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
+    siły  Valiasr w prowincji Chuzestan
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '148706'
+  logical_id: '148685'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Az Iszlám Forradalmi Gárda huzesztáni Valiasr regionális hadteste
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '148798'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -152,11 +162,11 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Az Iszlám Forradalmi Gárda huzesztáni Valiasr regionális hadteste
-  name_language: HU
+- whole_name: Den Islamiske Revolutionsgardes (IRGC's) regionale korps Valiasr i Khuzestan
+  name_language: DA
   strong: true
   regulation_language: en
-  logical_id: '148798'
+  logical_id: '148771'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -183,11 +193,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Den Islamiske Revolutionsgardes (IRGC's) regionale korps Valiasr i Khuzestan
-  name_language: DA
+- whole_name: Cuerpo regional «Valiasr» del Cuerpo de los  Guardianes de la Revolución
+    Islámica en  Juzestán
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '148771'
+  logical_id: '148706'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -210,17 +221,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148663'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
-    siły  Valiasr w prowincji Chuzestan
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '148685'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

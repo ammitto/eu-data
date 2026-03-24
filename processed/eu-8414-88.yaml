@@ -15,13 +15,12 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Amadou
-  middle_name: Boucary
-  last_name: Dicko
-  whole_name: Amadou Boucary Dicko
+  last_name: Boucary
+  whole_name: Amadou Boucary
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '141425'
+  logical_id: '141426'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'
@@ -34,6 +33,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141429'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- first_name: Jaffar
+  last_name: Dicko
+  whole_name: Jaffar Dicko
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141428'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'
@@ -52,24 +63,13 @@ name_aliases:
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
 - first_name: Amadou
-  last_name: Boucary
-  whole_name: Amadou Boucary
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141426'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- first_name: Jaffar
+  middle_name: Boucary
   last_name: Dicko
-  whole_name: Jaffar Dicko
+  whole_name: Amadou Boucary Dicko
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '141428'
+  logical_id: '141425'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'

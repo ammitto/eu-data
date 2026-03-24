@@ -28,20 +28,6 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Vasilij
-  middle_name: Maksimovitj
-  last_name: VLASOV
-  whole_name: Vasilij Maksimovitj VLASOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143875'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Vasily
   middle_name: Maksimovich
   last_name: VLASOV
@@ -52,6 +38,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '134078'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Vasilij
+  middle_name: Maksimovitj
+  last_name: VLASOV
+  whole_name: Vasilij Maksimovitj VLASOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143875'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

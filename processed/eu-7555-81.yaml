@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Алег
-  middle_name: Леанiдавiч
-  last_name: ВОIНАЎ
-  whole_name: Алег Леанiдавiч ВОIНАЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '136285'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Oleg
   middle_name: Leonidovitj
   last_name: VOINOV
@@ -74,14 +60,15 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Oleg
-  last_name: Vojnov
-  whole_name: Oleg Vojnov
+- first_name: Алег
+  middle_name: Леанiдавiч
+  last_name: ВОIНАЎ
+  whole_name: Алег Леанiдавiч ВОIНАЎ
   gender: M
-  name_language: CS
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '158329'
+  logical_id: '136285'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -95,6 +82,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Oleg
+  last_name: Vojnov
+  whole_name: Oleg Vojnov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158329'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

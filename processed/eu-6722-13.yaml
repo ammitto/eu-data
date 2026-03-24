@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Valtion tuotantoyhdistys Belorusneft
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '132486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Staatliche Produktionsvereinigung Belorusneft
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '132476'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Valstybinė gamybos asociacija „Belorusneft“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '132484'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: Дзяржаўнае вытворчае аб'яднанне «Беларуснафта»
   strong: true
   regulation_language: en
@@ -57,6 +27,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132160'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Valtion tuotantoyhdistys Belorusneft
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '132486'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -101,11 +81,11 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Državno udruženje za proizvodnju Belorusneft
-  name_language: HR
+- whole_name: Staatliche Produktionsvereinigung Belorusneft
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '132485'
+  logical_id: '132476'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -176,6 +156,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Valstybinė gamybos asociacija „Belorusneft“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '132484'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Državno udruženje za proizvodnju Belorusneft
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '132485'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

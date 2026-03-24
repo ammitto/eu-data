@@ -16,49 +16,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Saleh Mesfer Saleh Al Shaer
-  function: "‘Judicial Custodian’ of properties and funds owned by Houthis’ \nopponents"
-  title: Major General
-  strong: true
-  regulation_language: en
-  logical_id: '131919'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-11-18'
-    number_title: 2021/2015 (OJ L410I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
-- whole_name: صالح مسفر صالح الشاعر
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '131918'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-11-18'
-    number_title: 2021/2015 (OJ L410I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
 - whole_name: Saleh Mosfer Saleh al Shaer
   strong: true
   regulation_language: en
   logical_id: '131917'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-11-18'
-    number_title: 2021/2015 (OJ L410I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
-- whole_name: Saleh Musfer Saleh al Shaer
-  strong: true
-  regulation_language: en
-  logical_id: '131916'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-11-18'
-    number_title: 2021/2015 (OJ L410I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
-- whole_name: Saleh Mesfer al Shaer
-  strong: true
-  regulation_language: en
-  logical_id: '131915'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-11-18'
@@ -86,6 +47,45 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '131912'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-11-18'
+    number_title: 2021/2015 (OJ L410I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
+- whole_name: Saleh Mesfer Saleh Al Shaer
+  function: "‘Judicial Custodian’ of properties and funds owned by Houthis’ \nopponents"
+  title: Major General
+  strong: true
+  regulation_language: en
+  logical_id: '131919'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-11-18'
+    number_title: 2021/2015 (OJ L410I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
+- whole_name: صالح مسفر صالح الشاعر
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '131918'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-11-18'
+    number_title: 2021/2015 (OJ L410I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
+- whole_name: Saleh Mesfer al Shaer
+  strong: true
+  regulation_language: en
+  logical_id: '131915'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-11-18'
+    number_title: 2021/2015 (OJ L410I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
+- whole_name: Saleh Musfer Saleh al Shaer
+  strong: true
+  regulation_language: en
+  logical_id: '131916'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-11-18'
@@ -127,16 +127,6 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
 identifications:
 - identification_type_code: passport
-  number: '05274639'
-  country_iso2_code: YE
-  regulation_language: en
-  logical_id: '131911'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-11-18'
-    number_title: 2021/2015 (OJ L410I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
-- identification_type_code: passport
   number: " 00481779"
   country_iso2_code: YE
   regulation_language: en
@@ -161,6 +151,16 @@ identifications:
   country_iso2_code: YE
   regulation_language: en
   logical_id: '131908'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-11-18'
+    number_title: 2021/2015 (OJ L410I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.410.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A410I%3ATOC
+- identification_type_code: passport
+  number: '05274639'
+  country_iso2_code: YE
+  regulation_language: en
+  logical_id: '131911'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-11-18'

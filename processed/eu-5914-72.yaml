@@ -24,12 +24,12 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: 85. hlavní středisko pro speciální služby (GTsSS) hlavního ředitelství
-    generálního štábu ozbrojených sil Ruské federace (GU/GRU)
-  name_language: CS
+- whole_name: Az Oroszországi Föderáció fegyveres erői vezérkara Főigazgatóságának
+    (GU/GRU) 85. Különleges Szolgálati Főközpontja (GTsSS)
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '165515'
+  logical_id: '165496'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -77,16 +77,6 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: unidade militar 26165
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '165486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
 - whole_name: 85.º Centro Principal de Serviços Especiais (GTsSS) da Direção-Geral
     de Informações do Estado-Maior-General das Forças Armadas da Federação da Rússia
     (GU/GRU)
@@ -94,6 +84,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165487'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: unidade militar 26165
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '165486'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -144,6 +144,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165464'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: 85ú Príomh-Lárionad le haghaidh Seirbhísí Speisialta (GTsSS) Phríomh-Ard-Stiúrthóireacht
+    Fhoireann Ghinearálta Fhórsaí Armtha Chónaidhm na Rúise (GU/GRU)
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '165570'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: vojenská jednotka 26165
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '165549'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -254,17 +275,6 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: 85ú Príomh-Lárionad le haghaidh Seirbhísí Speisialta (GTsSS) Phríomh-Ard-Stiúrthóireacht
-    Fhoireann Ghinearálta Fhórsaí Armtha Chónaidhm na Rúise (GU/GRU)
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '165570'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
 - whole_name: militär enhet 26165
   name_language: SV
   strong: true
@@ -328,16 +338,6 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: vojenská jednotka 26165
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '165549'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
 - whole_name: 85th Main Centre for Special Services (GTsSS) of the Main Directorate
     of the General Staff of the Armed Forces of the Russian Federation (GU/GRU)
   name_language: EN
@@ -349,12 +349,22 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Az Oroszországi Föderáció fegyveres erői vezérkara Főigazgatóságának
-    (GU/GRU) 85. Különleges Szolgálati Főközpontja (GTsSS)
-  name_language: HU
+- whole_name: vojenská jednotka 26165
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '165496'
+  logical_id: '165514'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: 85. hlavní středisko pro speciální služby (GTsSS) hlavního ředitelství
+    generálního štábu ozbrojených sil Ruské federace (GU/GRU)
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '165515'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -525,16 +535,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165492'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: vojenská jednotka 26165
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '165514'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'

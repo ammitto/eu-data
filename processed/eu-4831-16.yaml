@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Леонид
-  middle_name: Иванович
-  last_name: ПАСЕЧНИК
-  whole_name: Леонид Иванович ПАСЕЧНИК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '118702'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Leonid
   middle_name: Ivanovytj
   last_name: PASITJNYK
@@ -56,15 +42,15 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Leonid
-  middle_name: Ivanovych
-  last_name: PASICHNYK
-  whole_name: Leonid Ivanovych PASICHNYK
+- first_name: Леонид
+  middle_name: Иванович
+  last_name: ПАСЕЧНИК
+  whole_name: Леонид Иванович ПАСЕЧНИК
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '118701'
+  logical_id: '118702'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -79,6 +65,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158588'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Leonid
+  middle_name: Ivanovych
+  last_name: PASICHNYK
+  whole_name: Leonid Ivanovych PASICHNYK
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '118701'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

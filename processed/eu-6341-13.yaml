@@ -14,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aleksandr Anatoljevitj RUDENKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130672'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aljaksandr Anatoljevitj RUDZENKA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130673'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Александр  Анатольевич РУДЕНКО
   gender: M
   name_language: RU
@@ -58,6 +36,27 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Aleksandr  Anatolevich RUDENKO
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '129841'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Aljaksandr Anatoljevitj RUDZENKA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130673'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Aliaksandr Anatolevich  RUDZENKA
   function: "Deputy Chairman of the of \nthe Oktyabrsky District \nCourt of Minsk"
   gender: M
@@ -69,11 +68,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aleksandr  Anatolevich RUDENKO
+- whole_name: Aleksandr Anatoljevitj RUDENKO
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '129841'
+  logical_id: '130672'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

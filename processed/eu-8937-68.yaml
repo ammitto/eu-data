@@ -94,6 +94,16 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Fórsaí  Forfheidhmithe Dlí Phoblacht  Ioslamach na hIaráine
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '144982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: Forces de l’ordre de la République  islamique d’Iran
   name_language: FR
   strong: true
@@ -163,11 +173,21 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Fórsaí  Forfheidhmithe Dlí Phoblacht  Ioslamach na hIaráine
-  name_language: GA
+- whole_name: Δυνάμεις  Επιβολής του Νόμου της Ισλαμικής  Δημοκρατίας του Ιράν
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '144982'
+  logical_id: '145002'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: Iranische Strafverfolgungskräfte
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '145004'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'
@@ -188,26 +208,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145012'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Δυνάμεις  Επιβολής του Νόμου της Ισλαμικής  Δημοκρατίας του Ιράν
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '145002'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: Iranische Strafverfolgungskräfte
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '145004'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

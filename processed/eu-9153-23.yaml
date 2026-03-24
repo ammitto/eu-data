@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Василий
+  middle_name: Викторович
+  last_name: НОСКОВ
+  whole_name: Василий Викторович НОСКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146211'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Vasiliy
   middle_name: Viktorovich
   last_name: NOSKOV
@@ -25,20 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146212'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- first_name: Василий
-  middle_name: Викторович
-  last_name: НОСКОВ
-  whole_name: Василий Викторович НОСКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

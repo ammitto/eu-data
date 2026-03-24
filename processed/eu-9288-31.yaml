@@ -15,28 +15,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Nikolaj
-  middle_name: Vladimirovitj
-  last_name: TARASOV
-  whole_name: Nikolaj Vladimirovitj TARASOV
+  last_name: Tarasov
+  whole_name: Nikolaj Tarasov
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '157488'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Николай
-  middle_name: Владимирович
-  last_name: ТАРАСОВ
-  whole_name: Николай Владимирович ТАРАСОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146813'
+  logical_id: '157545'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
@@ -60,13 +45,28 @@ name_aliases:
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Nikolaj
-  last_name: Tarasov
-  whole_name: Nikolaj Tarasov
+  middle_name: Vladimirovitj
+  last_name: TARASOV
+  whole_name: Nikolaj Vladimirovitj TARASOV
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '157545'
+  logical_id: '157488'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Николай
+  middle_name: Владимирович
+  last_name: ТАРАСОВ
+  whole_name: Николай Владимирович ТАРАСОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146813'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

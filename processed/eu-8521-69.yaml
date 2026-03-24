@@ -14,16 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Yury Alexandrovich BURLACHKO
-  function: Mr. Burlachko has served as the chairman of the Legislative Assembly of
-    the Krasnodar Krai (region) since 2017 and is the highest ranking MP in Krasnodar
-    Krai’s Legislative Assembly. Mr. Burlachko is a member of the Kremlin-aligned
-    ruling party United Russia.
-  gender: M
-  name_language: EN
+- whole_name: Jurij  Aleksandrovitj  BURLATJKO
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '141984'
+  logical_id: '142425'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -38,11 +33,16 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Jurij  Aleksandrovitj  BURLATJKO
-  name_language: SV
+- whole_name: Yury Alexandrovich BURLACHKO
+  function: Mr. Burlachko has served as the chairman of the Legislative Assembly of
+    the Krasnodar Krai (region) since 2017 and is the highest ranking MP in Krasnodar
+    Krai’s Legislative Assembly. Mr. Burlachko is a member of the Kremlin-aligned
+    ruling party United Russia.
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '142425'
+  logical_id: '141984'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

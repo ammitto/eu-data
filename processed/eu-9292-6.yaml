@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Artiom
-  middle_name: Aleksandrovitj
-  last_name: TJERNOV
-  whole_name: Artiom Aleksandrovitj TJERNOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '152022'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Arťom
   last_name: Černov
   whole_name: Arťom Černov
@@ -36,19 +22,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152324'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Артьом
-  last_name: Чернов
-  whole_name: Артьом Чернов
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '157523'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
@@ -68,6 +41,20 @@ name_aliases:
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Artiom
+  middle_name: Aleksandrovitj
+  last_name: TJERNOV
+  whole_name: Artiom Aleksandrovitj TJERNOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '152022'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Artyom
   middle_name: Aleksandrovich
   last_name: CHERNOV
@@ -80,6 +67,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146830'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Артьом
+  last_name: Чернов
+  whole_name: Артьом Чернов
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '157523'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

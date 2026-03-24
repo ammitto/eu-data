@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Fiscalía de la República Popular Democrática de Corea (RPDC)
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '128891'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 - whole_name: Fiscalía Central
   name_language: ES
   strong: true
@@ -357,11 +347,21 @@ name_aliases:
     publication_date: '2021-03-22'
     number_title: 2021/478 (OJ L99I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: den centrala åklagarmyndigheten
+- whole_name: Demokratiska folkrepubliken Koreas (Nordkorea) åklagarmyndighet
   name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '128926'
+  logical_id: '128925'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: Fiscalía de la República Popular Democrática de Corea (RPDC)
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '128891'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'
@@ -376,11 +376,11 @@ name_aliases:
     publication_date: '2021-03-22'
     number_title: 2021/478 (OJ L99I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Demokratiska folkrepubliken Koreas (Nordkorea) åklagarmyndighet
+- whole_name: den centrala åklagarmyndigheten
   name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '128925'
+  logical_id: '128926'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'

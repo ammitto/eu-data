@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Gleb
-  middle_name: Sergeevich
-  last_name: NIKITIN
-  whole_name: Gleb Sergeevich NIKITIN
-  function: governor of Nizhny Novgorod Oblast
+- first_name: Глеб
+  middle_name: Сергеевич
+  last_name: НИКИТИН
+  whole_name: Глеб Сергеевич НИКИТИН
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '147031'
+  logical_id: '147029'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -41,15 +41,15 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- first_name: Глеб
-  middle_name: Сергеевич
-  last_name: НИКИТИН
-  whole_name: Глеб Сергеевич НИКИТИН
+- first_name: Gleb
+  middle_name: Sergeevich
+  last_name: NIKITIN
+  whole_name: Gleb Sergeevich NIKITIN
+  function: governor of Nizhny Novgorod Oblast
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '147029'
+  logical_id: '147031'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Армен
-  middle_name: Сумбатович
-  last_name: ГAСПАРЯН
-  whole_name: Армен Сумбатович ГAСПАРЯН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '137849'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Armen
   last_name: Gasparjan
   whole_name: Armen Gasparjan
@@ -36,20 +22,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158366'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Armen
-  middle_name: Sumbatovitj
-  last_name: GASPARJAN
-  whole_name: Armen Sumbatovitj GASPARJAN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '137848'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -79,6 +51,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '137683'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Armen
+  middle_name: Sumbatovitj
+  last_name: GASPARJAN
+  whole_name: Armen Sumbatovitj GASPARJAN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137848'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Армен
+  middle_name: Сумбатович
+  last_name: ГAСПАРЯН
+  whole_name: Армен Сумбатович ГAСПАРЯН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '137849'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
