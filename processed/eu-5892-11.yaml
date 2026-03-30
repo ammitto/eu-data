@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Anatoli
-  middle_name: Anatolievich
-  last_name: VASILIEV
-  whole_name: Anatoli Anatolievich VASILIEV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '125968'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-28'
-    number_title: 2023/419 (OJ L61)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
 - whole_name: Anatol Anatoljevitj VASILJEU
   gender: M
   name_language: SV
@@ -63,6 +49,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125969'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-28'
+    number_title: 2023/419 (OJ L61)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
+- first_name: Anatoli
+  middle_name: Anatolievich
+  last_name: VASILIEV
+  whole_name: Anatoli Anatolievich VASILIEV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '125968'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-28'

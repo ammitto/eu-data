@@ -14,41 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: société par actions KOMZ
-  name_language: FR
+- whole_name: АО КАЗАНСКИЙ ОПТИКО-МЕХАНИЧЕСКИЙ МЕХАНИЧЕСКИЙ ЗАВОД
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '158212'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: PLANTA ÓPTICO-MECÁNICA DE KAZÁN
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '147761'
+  logical_id: '147120'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: société par actions USINE OPTIQUE ET MÉCANIQUE DE KAZAN
-  name_language: FR
+- whole_name: AB KOMZ
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '147702'
+  logical_id: '158653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: JSC KOMZ
-  name_language: EN
+- whole_name: AO КОМЗ
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '147123'
+  logical_id: '147121'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -66,21 +56,41 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: AO КОМЗ
-  name_language: RU
+- whole_name: JSC KOMZ
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '147121'
+  logical_id: '147123'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: АО КАЗАНСКИЙ ОПТИКО-МЕХАНИЧЕСКИЙ МЕХАНИЧЕСКИЙ ЗАВОД
-  name_language: RU
+- whole_name: société par actions USINE OPTIQUE ET MÉCANIQUE DE KAZAN
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '147120'
+  logical_id: '147702'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: PLANTA ÓPTICO-MECÁNICA DE KAZÁN
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '147761'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: EMPRESA ÓTICA E MECÂNICA DE KAZAN
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '147802'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -106,21 +116,31 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: EMPRESA ÓTICA E MECÂNICA DE KAZAN
-  name_language: PT
+- whole_name: KAZANĖS OPTIKOS IR  MECHANIKOS  GAMYKLA
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '147802'
+  logical_id: '147961'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: KAZANYI OPTIKAI ÉS  MECHANIKAI ÜZEM Rt.
-  name_language: HU
+- whole_name: société par actions KOMZ
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '158435'
+  logical_id: '158212'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: ZAKŁAD OPTYCZNY I MECHANICZNY JSC KAZAN
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '158242'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -131,6 +151,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158434'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: KAZANYI OPTIKAI ÉS  MECHANIKAI ÜZEM Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '158435'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -156,36 +186,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: AB KOMZ
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '158653'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: ZAKŁAD OPTYCZNY I MECHANICZNY JSC KAZAN
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '158242'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: KAZANĖS OPTIKOS IR  MECHANIKOS  GAMYKLA
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147961'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 addresses:
 - street: st. Lipatova, 37
   city: Kazan

@@ -14,23 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ihar Vasilievich KARPENKA
-  function: Chairperson of the Central Commission of the Republic of Belarus on elections
-    and holding Republic Referenda
+- whole_name: Игорь Васильевич КАРПЕНКО
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '140605'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Igor Vasilievich KARPENKO
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '140604'
+  logical_id: '140602'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -47,12 +36,33 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Игорь Васильевич КАРПЕНКО
-  gender: M
-  name_language: RU
+- whole_name: Igor Vasiljevitj KARPENKO
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '140602'
+  logical_id: '141047'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Igor Vasilievich KARPENKO
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '140604'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Ihar Vasilievich KARPENKA
+  function: Chairperson of the Central Commission of the Republic of Belarus on elections
+    and holding Republic Referenda
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '140605'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -63,16 +73,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141049'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Igor Vasiljevitj KARPENKO
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '141047'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

@@ -14,11 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Michail Gennadjevitj DELJAGIN
-  name_language: SV
+- first_name: Михаил
+  middle_name: Геннадьевич
+  last_name: ДЕЛЯГИН
+  whole_name: Михаил Геннадьевич ДЕЛЯГИН
+  gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '143684'
+  logical_id: '134185'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -38,15 +42,11 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Михаил
-  middle_name: Геннадьевич
-  last_name: ДЕЛЯГИН
-  whole_name: Михаил Геннадьевич ДЕЛЯГИН
-  gender: M
-  name_language: RU
+- whole_name: Michail Gennadjevitj DELJAGIN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '134185'
+  logical_id: '143684'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

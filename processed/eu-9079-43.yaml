@@ -14,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ahmad
-  last_name: SHAFAHI
-  whole_name: Ahmad SHAFAHI
-  function: commander and public relations officer of the IRGC in Sistan and Baluchestan
-    province
-  gender: M
-  title: Brigadier General
-  strong: true
-  regulation_language: en
-  logical_id: '145727'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2231 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 - whole_name: احمد شفاهی
   gender: M
   name_language: FA
@@ -47,6 +32,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145726'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2231 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
+- first_name: Ahmad
+  last_name: SHAFAHI
+  whole_name: Ahmad SHAFAHI
+  function: commander and public relations officer of the IRGC in Sistan and Baluchestan
+    province
+  gender: M
+  title: Brigadier General
+  strong: true
+  regulation_language: en
+  logical_id: '145727'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

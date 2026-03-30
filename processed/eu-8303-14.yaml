@@ -26,21 +26,21 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Сергей Николаевич БОРИСЕНКО
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140482'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Sergej  Nikolajevitj BORISENKO
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '141193'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Сергей Николаевич БОРИСЕНКО
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140482'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -83,21 +83,21 @@ identifications:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- identification_type_code: passport
-  number: 0503 357858
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '140481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - identification_type_code: other
   number: '3127462'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '140479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- identification_type_code: passport
+  number: 0503 357858
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '140481'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

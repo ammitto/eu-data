@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Олександр
-  middle_name: Юрiйович
-  last_name: ГРОМАКОВ
-  whole_name: Олександр Юрiйович ГРОМАКОВ
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '138277'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Aleksandr
   middle_name: Jurjevitj
   last_name: GROMAKOV
@@ -37,6 +23,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139364'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Александр
+  middle_name: Юрьевич
+  last_name: ГРОМАКОВ
+  whole_name: Александр Юрьевич ГРОМАКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '138278'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Олександр
+  middle_name: Юрiйович
+  last_name: ГРОМАКОВ
+  whole_name: Олександр Юрiйович ГРОМАКОВ
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '138277'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -53,20 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138279'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Александр
-  middle_name: Юрьевич
-  last_name: ГРОМАКОВ
-  whole_name: Александр Юрьевич ГРОМАКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138278'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

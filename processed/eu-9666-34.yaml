@@ -14,6 +14,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Elena
+  middle_name: Vladimirovna
+  last_name: SHMELEVA
+  whole_name: Elena Vladimirovna SHMELEVA
+  function: Co-Chairman of the Central Headquarters of the All-Russia People’s Front
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149653'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Jelena Vladimirovna SJMELJOVA
   gender: F
   name_language: SV
@@ -34,21 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149652'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Elena
-  middle_name: Vladimirovna
-  last_name: SHMELEVA
-  whole_name: Elena Vladimirovna SHMELEVA
-  function: Co-Chairman of the Central Headquarters of the All-Russia People’s Front
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

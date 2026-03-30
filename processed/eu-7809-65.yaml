@@ -14,20 +14,20 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC NPO High Precision Systems
-  strong: true
-  regulation_language: en
-  logical_id: '137723'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-15'
-    number_title: 2022/427 (OJ L87I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
 - whole_name: АО НПО Высокоточные комплексы
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '137876'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-15'
+    number_title: 2022/427 (OJ L87I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
+- whole_name: JSC NPO High Precision Systems
+  strong: true
+  regulation_language: en
+  logical_id: '137723'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-15'

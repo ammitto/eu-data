@@ -14,15 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mikhail
-  middle_name: Leonidovich
-  last_name: KISLYAKOV
-  whole_name: Mikhail Leonidovich KISLYAKOV
-  function: Member of the State Duma
-  gender: M
+- whole_name: Michail Leonidovitj KISLJAKOV
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '134919'
+  logical_id: '143950'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -42,11 +38,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Michail Leonidovitj KISLJAKOV
-  name_language: SV
+- first_name: Mikhail
+  middle_name: Leonidovich
+  last_name: KISLYAKOV
+  whole_name: Mikhail Leonidovich KISLYAKOV
+  function: Member of the State Duma
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '143950'
+  logical_id: '134919'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

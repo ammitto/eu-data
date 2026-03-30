@@ -24,20 +24,6 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Olga
-  middle_name: Mikhailovna
-  last_name: GERMANOVA
-  whole_name: Olga Mikhailovna GERMANOVA
-  function: Member of the State Duma
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '134711'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Ольга
   middle_name: Михайловна
   last_name: ГЕРМАНОВА
@@ -47,6 +33,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '134710'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Olga
+  middle_name: Mikhailovna
+  last_name: GERMANOVA
+  whole_name: Olga Mikhailovna GERMANOVA
+  function: Member of the State Duma
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '134711'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

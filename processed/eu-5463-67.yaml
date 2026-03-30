@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Amer Zuhair Fawz
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '129692'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-05-28'
-    number_title: 2021/848 (OJ L188)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
 - whole_name: عامر فوز
   gender: M
   strong: true
@@ -48,6 +38,16 @@ name_aliases:
     publication_date: '2023-05-26'
     number_title: 2023/1027 (OJ L139)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
+- whole_name: Amer Zuhair Fawz
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '129692'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-05-28'
+    number_title: 2021/848 (OJ L188)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
 citizenships:
 - country_iso2_code: KN
   country_description: SAINT KITTS AND NEVIS
@@ -95,21 +95,21 @@ identifications:
     publication_date: '2021-05-28'
     number_title: 2021/848 (OJ L188)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
-- identification_type_code: passport
-  number: 002-14-L169340
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '129694'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-05-28'
-    number_title: 2021/848 (OJ L188)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
 - identification_type_code: residentperm
   number: 784-1976-7135283-5
   country_iso2_code: AE
   regulation_language: en
   logical_id: '129695'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-05-28'
+    number_title: 2021/848 (OJ L188)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
+- identification_type_code: passport
+  number: 002-14-L169340
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '129694'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-05-28'

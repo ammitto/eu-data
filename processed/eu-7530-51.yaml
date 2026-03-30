@@ -29,34 +29,6 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Антон
   middle_name: Вячеславович
-  last_name: КРАСОВСКИЙ
-  whole_name: Антон Вячеславович КРАСОВСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136122'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Anton
-  middle_name: Vyacheslavovich
-  last_name: KUZNETSOV-KRASOVSKY
-  whole_name: Anton Vyacheslavovich KUZNETSOV-KRASOVSKY
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '136123'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Антон
-  middle_name: Вячеславович
   last_name: КУЗНЕЦОВ-КРАСОВСКИЙ
   whole_name: Антон Вячеславович КУЗНЕЦОВ-КРАСОВСКИЙ
   gender: M
@@ -86,14 +58,14 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Anton
-  middle_name: Vjatjeslavovitj
-  last_name: KUZNETSOV-KRASOVSKIJ
-  whole_name: Anton Vjatjeslavovitj KUZNETSOV-KRASOVSKIJ
+  middle_name: Vyacheslavovich
+  last_name: KUZNETSOV-KRASOVSKY
+  whole_name: Anton Vyacheslavovich KUZNETSOV-KRASOVSKY
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '143977'
+  logical_id: '136123'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -113,6 +85,34 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Anton
+  middle_name: Vjatjeslavovitj
+  last_name: KUZNETSOV-KRASOVSKIJ
+  whole_name: Anton Vjatjeslavovitj KUZNETSOV-KRASOVSKIJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143977'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Антон
+  middle_name: Вячеславович
+  last_name: КРАСОВСКИЙ
+  whole_name: Антон Вячеславович КРАСОВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136122'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 birthdates:
 - birthdate: '1975-07-18'
   circa: false

@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Hussain SALAMI
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '127406'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
 - whole_name: Hossein SALAMI
   function: Commander in Chief of the Islamic Revolutionary Guard Corps (IRGC)
   gender: M
@@ -31,6 +21,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127407'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Hussain SALAMI
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '127406'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'
@@ -47,19 +47,6 @@ citizenships:
     number_title: 2021/584 (OJ L124I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
 birthdates:
-- circa: false
-  calendar_type: ISLAMIC
-  year: 1339
-  city: Vaneshan, Golpayegan
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '127402'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
 - circa: false
   calendar_type: GREGORIAN
   year: 1961
@@ -81,6 +68,19 @@ birthdates:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '127404'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- circa: false
+  calendar_type: ISLAMIC
+  year: 1339
+  city: Vaneshan, Golpayegan
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '127402'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'

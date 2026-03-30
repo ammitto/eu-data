@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Eduard
+  middle_name: Jurijevič
+  last_name: Chudajnatov
+  whole_name: Eduard Jurijevič Chudajnatov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '152341'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Едуард
   last_name: Худайнатов
   whole_name: Едуард Худайнатов
@@ -28,14 +42,14 @@ name_aliases:
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Eduard
-  middle_name: Jurjevitj
-  last_name: CHUDAJNATOV
-  whole_name: Eduard Jurjevitj CHUDAJNATOV
+  middle_name: Jurjevič
+  last_name: Chudajnatov
+  whole_name: Eduard Jurjevič Chudajnatov
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '141108'
+  logical_id: '152309'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -56,28 +70,14 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Eduard
-  middle_name: Jurjevič
-  last_name: Chudajnatov
-  whole_name: Eduard Jurjevič Chudajnatov
+  middle_name: Jurjevitj
+  last_name: CHUDAJNATOV
+  whole_name: Eduard Jurjevitj CHUDAJNATOV
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '152309'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Eduard
-  middle_name: Jurijevič
-  last_name: Chudajnatov
-  whole_name: Eduard Jurijevič Chudajnatov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '152341'
+  logical_id: '141108'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

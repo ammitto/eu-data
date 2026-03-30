@@ -15,14 +15,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Vadim
-  middle_name: Jevgenjevitj
-  last_name: SJADURA
-  whole_name: Vadim Jevgenjevitj SJADURA
+  last_name: Šadura
+  whole_name: Vadim Šadura
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '136436'
+  logical_id: '158331'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -59,13 +58,14 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Vadim
-  last_name: Šadura
-  whole_name: Vadim Šadura
+  middle_name: Jevgenjevitj
+  last_name: SJADURA
+  whole_name: Vadim Jevgenjevitj SJADURA
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '158331'
+  logical_id: '136436'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

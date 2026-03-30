@@ -15,6 +15,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ch'o'l-man
+  last_name: Ko
+  whole_name: Ch'o'l-man Ko
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '115009'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-01-09'
+    number_title: 2018/12 (OJ L4)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0012&from=EN
 - first_name: CHOL MAN
   last_name: KO
   whole_name: CHOL MAN KO
@@ -23,18 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '115010'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-01-09'
-    number_title: 2018/12 (OJ L4)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0012&from=EN
-- first_name: Ch'o'l-man
-  last_name: Ko
-  whole_name: Ch'o'l-man Ko
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '115009'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-01-09'

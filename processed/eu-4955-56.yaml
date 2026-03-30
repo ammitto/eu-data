@@ -33,15 +33,6 @@ name_aliases:
     publication_date: '2019-01-21'
     number_title: 2019/84 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
-- whole_name: Centre de Recherche de Kaboun
-  strong: true
-  regulation_language: en
-  logical_id: '119271'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-01-21'
-    number_title: 2019/84 (OJ L18 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
 - whole_name: Scientific Studies and Research  Centre (SSRC)
   function: The Scientific Studies and Research Centre (SSRC) is the Syrian regime's
     principal entity for  the development of chemical weapon
@@ -57,6 +48,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '119272'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-01-21'
+    number_title: 2019/84 (OJ L18 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
+- whole_name: Centre de Recherche de Kaboun
+  strong: true
+  regulation_language: en
+  logical_id: '119271'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-01-21'

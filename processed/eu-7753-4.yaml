@@ -28,6 +28,20 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Aleksandr
+  middle_name: Jurjevitj
+  last_name: PRONJUSJKIN
+  whole_name: Aleksandr Jurjevitj PRONJUSJKIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137283'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Alexander
   middle_name: Yuryevich
   last_name: PRONYUSHKIN
@@ -43,20 +57,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Aleksandr
-  middle_name: Jurjevitj
-  last_name: PRONJUSJKIN
-  whole_name: Aleksandr Jurjevitj PRONJUSJKIN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '137283'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 birthdates:
 - birthdate: '1987-07-31'
   circa: false

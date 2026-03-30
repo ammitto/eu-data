@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sung Mu
-  last_name: HONG
-  whole_name: Sung Mu HONG
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '108629'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - first_name: Sung-Mu
   last_name: HONG
   whole_name: Sung-Mu HONG
@@ -47,6 +34,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142056'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Sung Mu
+  last_name: HONG
+  whole_name: Sung Mu HONG
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '108629'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

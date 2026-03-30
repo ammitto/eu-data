@@ -14,17 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dmitry
-  middle_name: Aleksandrovich
-  last_name: KHOROSHILOV
-  whole_name: Dmitry Aleksandrovich KHOROSHILOV
-  function: First Deputy Chairman of the so-called “People’s Council” of the so-called
-    “Luhansk People’s Republic”.
+- first_name: Дмитро
+  middle_name: Олександрович
+  last_name: ХОРОШИЛОВ
+  whole_name: Дмитро Олександрович ХОРОШИЛОВ
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '139081'
+  logical_id: '139079'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -44,20 +42,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Дмитро
-  middle_name: Олександрович
-  last_name: ХОРОШИЛОВ
-  whole_name: Дмитро Олександрович ХОРОШИЛОВ
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '139079'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Dmitrij
   middle_name: Aleksandrovitj
   last_name: CHOROSJILOV
@@ -67,6 +51,22 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139638'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Dmitry
+  middle_name: Aleksandrovich
+  last_name: KHOROSHILOV
+  whole_name: Dmitry Aleksandrovich KHOROSHILOV
+  function: First Deputy Chairman of the so-called “People’s Council” of the so-called
+    “Luhansk People’s Republic”.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '139081'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

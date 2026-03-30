@@ -14,15 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Евгений
-  middle_name: Николаевич
-  last_name: ЖУРАВЛЕВ
-  whole_name: Евгений Николаевич ЖУРАВЛЕВ
+- whole_name: Jevgenij Nikolajevitj ZJURAVLJOV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '149898'
+  logical_id: '151050'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -45,12 +42,15 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Jevgenij Nikolajevitj ZJURAVLJOV
+- first_name: Евгений
+  middle_name: Николаевич
+  last_name: ЖУРАВЛЕВ
+  whole_name: Евгений Николаевич ЖУРАВЛЕВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151050'
+  logical_id: '149898'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

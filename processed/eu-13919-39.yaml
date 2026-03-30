@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Денис Игоревич ДЕНИСЕНКО
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180238'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-12-15'
-    number_title: 2025/2568 (OJ L202502568)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
 - whole_name: Denis Igorevich DENISENKO
   function: Denis Denisenko is a member of GRU (Russia’s military intelligence agency),
     Unit 29155, as well as of cyber actor Cadet Blizzard. Denisenko acted in concert
@@ -39,6 +29,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180239'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2568 (OJ L202502568)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
+- whole_name: Денис Игоревич ДЕНИСЕНКО
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180238'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'

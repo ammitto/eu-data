@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vitaliy
-  middle_name: Viktorovich
-  last_name: NAZARENKO
-  whole_name: Vitaliy Viktorovich NAZARENKO
-  function: member of the Federation Council
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146490'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Виталий
   middle_name: Викторович
   last_name: НАЗАРЕНКО
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146489'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Vitaliy
+  middle_name: Viktorovich
+  last_name: NAZARENKO
+  whole_name: Vitaliy Viktorovich NAZARENKO
+  function: member of the Federation Council
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146490'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -53,22 +53,6 @@ citizenships:
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 birthdates:
-- birthdate: '1977-02-11'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 11
-  month_of_year: 2
-  year: 1977
-  city: Ordzhonikidze
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  regulation_language: en
-  logical_id: '146486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - birthdate: '1977-02-11'
   circa: false
   calendar_type: GREGORIAN
@@ -96,6 +80,22 @@ birthdates:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '146485'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- birthdate: '1977-02-11'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 11
+  month_of_year: 2
+  year: 1977
+  city: Ordzhonikidze
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '146486'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

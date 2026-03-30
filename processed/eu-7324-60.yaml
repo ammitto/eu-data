@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Александр
-  middle_name: Георгиевич
-  last_name: МАЖУГА
-  whole_name: Александр Георгиевич МАЖУГА
+- first_name: Alexander
+  middle_name: Georgievich
+  last_name: MAZHUGA
+  whole_name: Alexander Georgievich MAZHUGA
+  function: Member of the State Duma
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '135034'
+  logical_id: '135035'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -39,15 +39,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Alexander
-  middle_name: Georgievich
-  last_name: MAZHUGA
-  whole_name: Alexander Georgievich MAZHUGA
-  function: Member of the State Duma
+- first_name: Александр
+  middle_name: Георгиевич
+  last_name: МАЖУГА
+  whole_name: Александр Георгиевич МАЖУГА
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '135035'
+  logical_id: '135034'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

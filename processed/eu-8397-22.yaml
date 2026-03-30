@@ -14,22 +14,44 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Nikolai Ivanovich DOLYA
+- whole_name: Мiĸалай Iванавiч ДОЛЯ
   gender: M
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '141371'
+  logical_id: '141370'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Mikalai Ivanavich DOLIA
-  function: Judge at the Gomel Regional Court
+- whole_name: Ниĸолай Иванович ДОЛЯ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '141369'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Nikolaj DOLJA
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '141366'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Nikolai Ivanovich DOLYA
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '141372'
+  logical_id: '141371'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -57,34 +79,12 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Nikolaj DOLJA
+- whole_name: Mikalai Ivanavich DOLIA
+  function: Judge at the Gomel Regional Court
   gender: M
-  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '141366'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Мiĸалай Iванавiч ДОЛЯ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '141370'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Ниĸолай Иванович ДОЛЯ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '141369'
+  logical_id: '141372'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

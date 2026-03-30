@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Dr. Swe Swe Aung
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '145587'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
 - whole_name: Swe Swe Aung
   function: Director-General of the Prosecution Department in the Ministry of Legal
     Affairs
@@ -32,6 +22,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145462'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Dr. Swe Swe Aung
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '145587'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'

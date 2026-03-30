@@ -14,11 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Владислав  Александрович Третьяк
+- whole_name: Vladislav Aleksandrovitj TRETIAK
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '135750'
+  logical_id: '135977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -35,12 +36,11 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/332 (OJ L53)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
-- whole_name: Vladislav Aleksandrovitj TRETIAK
+- whole_name: Владислав  Александрович Третьяк
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '135977'
+  logical_id: '135750'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

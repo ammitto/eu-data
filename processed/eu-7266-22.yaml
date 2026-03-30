@@ -24,20 +24,6 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Yelena
-  middle_name: Alexandrovna
-  last_name: YEVTYUKHOVA
-  whole_name: Yelena Alexandrovna YEVTYUKHOVA
-  function: Member of the State Duma
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '134803'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Елена
   middle_name: Александровна
   last_name: ЕВТЮХОВА
@@ -47,6 +33,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '134802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Yelena
+  middle_name: Alexandrovna
+  last_name: YEVTYUKHOVA
+  whole_name: Yelena Alexandrovna YEVTYUKHOVA
+  function: Member of the State Duma
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '134803'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

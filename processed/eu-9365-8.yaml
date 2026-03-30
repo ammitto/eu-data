@@ -24,41 +24,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: JSC MACHINE BUILDING COMPANY "VITYAZ"
-  name_language: EN
+- whole_name: MAŠINŲ GAMYBOS BENDROVĖ „VITYAZ“
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '147117'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: "„VITYAZ” Gépgyártó Vállalat"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '147834'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: FABRICA DE  CONSTRUCȚII DE  MAȘINI «VITYAZ»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '147869'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: EMPRESA DE  MAQUINARIA  "VITIAZ"
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '147801'
+  logical_id: '147958'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -94,11 +64,41 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: MAŠINŲ GAMYBOS BENDROVĖ „VITYAZ“
-  name_language: LT
+- whole_name: JSC MACHINE BUILDING COMPANY "VITYAZ"
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '147958'
+  logical_id: '147117'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: EMPRESA DE  MAQUINARIA  "VITIAZ"
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '147801'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: "„VITYAZ” Gépgyártó Vállalat"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '147834'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: FABRICA DE  CONSTRUCȚII DE  MAȘINI «VITYAZ»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '147869'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Vladislav
+  last_name: Brujev
+  whole_name: Vladislav Brujev
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164810'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Владислав
   middle_name: Леонидович
   last_name: БРУЕВ
@@ -45,19 +58,6 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Vladislav
-  last_name: Brujev
-  whole_name: Vladislav Brujev
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164810'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

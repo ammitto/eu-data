@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Константин
-  middle_name: Геннадьевич
-  last_name: МОЛОСТОВ
-  whole_name: Константин Геннадьевич МОЛОСТОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '131977'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Канстанцiн
   middle_name: Генадзьевiч
   last_name: МОЛАСТАЎ
@@ -42,15 +28,15 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Konstantin
-  middle_name: Gennadevich
-  last_name: MOLOSTOV
-  whole_name: Konstantin Gennadevich MOLOSTOV
+- first_name: Константин
+  middle_name: Геннадьевич
+  last_name: МОЛОСТОВ
+  whole_name: Константин Геннадьевич МОЛОСТОВ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '131979'
+  logical_id: '131977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -113,6 +99,20 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Konstantin
+  middle_name: Gennadevich
+  last_name: MOLOSTOV
+  whole_name: Konstantin Gennadevich MOLOSTOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '131979'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS
@@ -142,21 +142,21 @@ birthdates:
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 identifications:
-- identification_type_code: other
-  number: 3300570K025PB3
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '131975'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - identification_type_code: passport
   number: KH2479999
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '131976'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- identification_type_code: other
+  number: 3300570K025PB3
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '131975'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

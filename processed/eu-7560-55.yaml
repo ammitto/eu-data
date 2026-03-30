@@ -14,38 +14,32 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dmitry
-  middle_name: Anatolievich
-  last_name: MIHOLAP
-  whole_name: Dmitry Anatolievich MIHOLAP
-  function: |-
-    Head of the Faculty of the General Staff of the Armed Forces; Deputy Head of the Military Academy of Belarus.
-    Deputy Commander of the Belarusian Air Force and Air Defence Forces.
+- first_name: Dmitrij
+  last_name: Miholap
+  whole_name: Dmitrij Miholap
   gender: M
-  title: Colonel
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '136316'
+  logical_id: '173936'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Дмитрий
-  middle_name: Анатольевич
-  last_name: МИХОЛАП
-  whole_name: Дмитрий Анатольевич МИХОЛАП
+- first_name: Dmitrij
+  last_name: Micholap
+  whole_name: Dmitrij Micholap
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '136315'
+  logical_id: '173937'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Дзмітрый
   middle_name: Анатольевіч
   last_name: МІХАЛАП
@@ -60,27 +54,33 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Dmitrij
-  last_name: Micholap
-  whole_name: Dmitrij Micholap
+- first_name: Дмитрий
+  middle_name: Анатольевич
+  last_name: МИХОЛАП
+  whole_name: Дмитрий Анатольевич МИХОЛАП
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '173937'
+  logical_id: '136315'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Dmitrij
-  last_name: Miholap
-  whole_name: Dmitrij Miholap
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Dmitry
+  middle_name: Anatolievich
+  last_name: MIHOLAP
+  whole_name: Dmitry Anatolievich MIHOLAP
+  function: |-
+    Head of the Faculty of the General Staff of the Armed Forces; Deputy Head of the Military Academy of Belarus.
+    Deputy Commander of the Belarusian Air Force and Air Defence Forces.
   gender: M
-  name_language: SK
+  title: Colonel
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173936'
+  logical_id: '136316'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

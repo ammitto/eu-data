@@ -14,6 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: KIM Won-hong
+  function: General of the Korean People’s Army. Former First Deputy Director of the
+    General Political Department of the Korean People’s Army. Former Director of the
+    State Security Department. Former Minister of State Security. Former Member of
+    the Central Military Commission of the Workers’ Party of Korea and National Defence
+    Commission
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '108646'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: 김원홍
   gender: M
   strong: true
@@ -29,22 +45,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '112450'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: KIM Won-hong
-  function: General of the Korean People’s Army. Former First Deputy Director of the
-    General Political Department of the Korean People’s Army. Former Director of the
-    State Security Department. Former Minister of State Security. Former Member of
-    the Central Military Commission of the Workers’ Party of Korea and National Defence
-    Commission
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '108646'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

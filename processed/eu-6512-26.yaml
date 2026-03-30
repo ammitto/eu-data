@@ -14,23 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Мiхаiл Рыгоравiч БАРАЗНА
+- whole_name: Mikhail Grigorevich BOROZNA
   gender: M
-  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '130931'
+  logical_id: '130935'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Mихаил Григорьевич БОРОЗНА
+- whole_name: Mikhail Ryhoravich BARAZNA
+  function: Rector of the Belarusian State Academy of Arts (BSAA)
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '130932'
+  logical_id: '130936'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -58,22 +57,23 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Mikhail Grigorevich BOROZNA
+- whole_name: Mихаил Григорьевич БОРОЗНА
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '130935'
+  logical_id: '130932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Mikhail Ryhoravich BARAZNA
-  function: Rector of the Belarusian State Academy of Arts (BSAA)
+- whole_name: Мiхаiл Рыгоравiч БАРАЗНА
   gender: M
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '130936'
+  logical_id: '130931'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

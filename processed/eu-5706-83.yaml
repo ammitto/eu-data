@@ -14,43 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Евгений
-  middle_name: Михайлович
-  last_name: СЕРЕБРЯКОВ
-  whole_name: Евгений Михайлович СЕРЕБРЯКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '124992'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
 - whole_name: Евгений Серебряков
   gender: M
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '174971'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-12'
-    number_title: 2025/886 (OJ L202500886)
-    publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
-- first_name: Evgenii
-  middle_name: Mikhaylovich
-  last_name: SEREBRIAKOV
-  whole_name: Evgenii Mikhaylovich SEREBRIAKOV
-  function: |-
-    Cyber-operator for the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU)
-    Since spring 2022, Evgenii Serebriakov is leading “Sandworm” (a.k.a. “Sandworm Team”, “BlackEnergy Group”, “Voodoo Bear”, “Quedagh”, “Olympic Destroyer” and “Telebots”), an actor and hacking group affiliated with Unit 74455 of the Russian Main Intelligence Directorate. Sandworm has carried out cyber-attacks on Ukraine, including Ukrainian government agencies, following Russia’s war of aggression against Ukraine.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '124993'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-12'
@@ -82,6 +51,37 @@ name_aliases:
     publication_date: '2025-05-12'
     number_title: 2025/886 (OJ L202500886)
     publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
+- first_name: Evgenii
+  middle_name: Mikhaylovich
+  last_name: SEREBRIAKOV
+  whole_name: Evgenii Mikhaylovich SEREBRIAKOV
+  function: |-
+    Cyber-operator for the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU)
+    Since spring 2022, Evgenii Serebriakov is leading “Sandworm” (a.k.a. “Sandworm Team”, “BlackEnergy Group”, “Voodoo Bear”, “Quedagh”, “Olympic Destroyer” and “Telebots”), an actor and hacking group affiliated with Unit 74455 of the Russian Main Intelligence Directorate. Sandworm has carried out cyber-attacks on Ukraine, including Ukrainian government agencies, following Russia’s war of aggression against Ukraine.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '124993'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-12'
+    number_title: 2025/886 (OJ L202500886)
+    publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
+- first_name: Евгений
+  middle_name: Михайлович
+  last_name: СЕРЕБРЯКОВ
+  whole_name: Евгений Михайлович СЕРЕБРЯКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '124992'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

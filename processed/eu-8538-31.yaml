@@ -14,6 +14,78 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: FORSS-koncernen
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '142554'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Concern FORSS
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '152435'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Grupa kompanija FORSS
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '152568'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Группа компаний ФОРСС
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '142073'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: FORSS Group of Companies
+  function: FORSS is Russian company which provides engineering services to the shipbuilding
+    industry.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '142074'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: skupina spoločností FORSS
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '142447'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Grupul de Societăți FORSS
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '142453'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Grupo de Empresas FORSS
   name_language: PT
   strong: true
@@ -54,78 +126,6 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: FORSS-koncernen
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '142554'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Grupul de Societăți FORSS
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '142453'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: skupina spoločností FORSS
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '142447'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Concern FORSS
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '152435'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Группа компаний ФОРСС
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '142073'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: FORSS Group of Companies
-  function: FORSS is Russian company which provides engineering services to the shipbuilding
-    industry.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '142074'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Grupa kompanija FORSS
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '152568'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 addresses:
 - street: Magnitogorskaya street 51, lit. E,
   city: St. Petersburg

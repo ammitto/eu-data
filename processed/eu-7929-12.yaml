@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Светлана
+  middle_name: Николаевна
+  last_name: ПОДЛИПАЕВА
+  whole_name: Светлана Николаевна ПОДЛИПАЕВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '138398'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Svetlana
   middle_name: Nikolaevna
   last_name: PODLIPAEVA
@@ -37,20 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139405'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Светлана
-  middle_name: Николаевна
-  last_name: ПОДЛИПАЕВА
-  whole_name: Светлана Николаевна ПОДЛИПАЕВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138398'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

@@ -30,19 +30,6 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Andrej
-  last_name: Žuk
-  whole_name: Andrej Žuk
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '169965'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Андрей
   middle_name: Владимирович
   last_name: ЖУК
@@ -57,6 +44,19 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Andrej
+  last_name: Žuk
+  whole_name: Andrej Žuk
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '169965'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

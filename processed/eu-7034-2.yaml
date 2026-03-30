@@ -14,12 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Vladimir Ivanovitj KASJIN
+- whole_name: Владимир Иванович КАШИН
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144194'
+  logical_id: '133888'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -36,11 +35,12 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Владимир Иванович КАШИН
+- whole_name: Vladimir Ivanovitj KASJIN
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '133888'
+  logical_id: '144194'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

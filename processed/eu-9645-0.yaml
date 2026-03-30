@@ -14,11 +14,94 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Kooperationsstiftung der  Iranischen  Strafverfolgungskräfte
-  name_language: DE
+- whole_name: Fondation de coopération des  forces de l'ordre de la République islamique
+    d'Iran
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '150378'
+  logical_id: '150380'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Fundacja  Współpracy NAJA
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '150382'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Fundacja Współpracy Irańskich Organów Ochrony Porządku Publicznego
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '150383'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Συνεταιριστικό ίδρυμα των Δυνάμεων Επιβολής του Νόμου της  Ισλαμικής
+    Δημοκρατίας του Ιράν
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '150385'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Fundación para la Cooperación NAJA
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '150388'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Fundación para la Cooperación de la Fuerza Disciplinaria de la República
+    Islámica de Irán
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '150389'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Fundação Cooperativa das Forças Policiais da República Islâmica do Irão
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '150390'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Fundação Cooperativa NAJA
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '150391'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: NAJA  Együttműködési Alapítvány
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '150393'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -29,66 +112,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150394'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: بنیاد تعاون فراجا
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '150375'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: NAJA Cooperation Foundation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149510'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: LEF Cooperation Foundation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149511'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Law Enforcement Forces of the Islamic Republic of Iran Cooperation Foundation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149512'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: بنیاد تعاون ناجا
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '150374'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: فرماندهی انتظامی جمهورى اسلامی ایران
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '150446'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -208,6 +231,76 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/379 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: فرماندهی انتظامی جمهورى اسلامی ایران
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '150446'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: NAJA Cooperation Foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149510'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: LEF Cooperation Foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149511'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Law Enforcement Forces of the Islamic Republic of Iran Cooperation Foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149512'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: بنیاد تعاون ناجا
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '150374'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: بنیاد تعاون فراجا
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '150375'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Kooperationsstiftung der  Iranischen  Strafverfolgungskräfte
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '150378'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
 - whole_name: Fundacija za sodelovanje  NAJA
   name_language: SL
   strong: true
@@ -244,99 +337,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150379'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Fondation de coopération des  forces de l'ordre de la République islamique
-    d'Iran
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '150380'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Fundacja  Współpracy NAJA
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '150382'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Fundacja Współpracy Irańskich Organów Ochrony Porządku Publicznego
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '150383'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Συνεταιριστικό ίδρυμα των Δυνάμεων Επιβολής του Νόμου της  Ισλαμικής
-    Δημοκρατίας του Ιράν
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '150385'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Fundación para la Cooperación NAJA
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '150388'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Fundación para la Cooperación de la Fuerza Disciplinaria de la República
-    Islámica de Irán
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '150389'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Fundação Cooperativa das Forças Policiais da República Islâmica do Irão
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '150390'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Fundação Cooperativa NAJA
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '150391'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: NAJA  Együttműködési Alapítvány
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '150393'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

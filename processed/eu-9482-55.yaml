@@ -14,15 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Youssef
+- first_name: Youssuf
   last_name: POURANVARI
-  whole_name: Youssef POURANVARI
-  function: Director of the Programs and Scheduling Department at the Islamic Republic
-    of Iran Broadcasting (IRIB) foreign language flagship channel
+  whole_name: Youssuf POURANVARI
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '148351'
+  logical_id: '148349'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -39,13 +37,15 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- first_name: Youssuf
+- first_name: Youssef
   last_name: POURANVARI
-  whole_name: Youssuf POURANVARI
+  whole_name: Youssef POURANVARI
+  function: Director of the Programs and Scheduling Department at the Islamic Republic
+    of Iran Broadcasting (IRIB) foreign language flagship channel
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '148349'
+  logical_id: '148351'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

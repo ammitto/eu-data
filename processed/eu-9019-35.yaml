@@ -14,6 +14,61 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Konstantin
+  middle_name: Borisovitj
+  last_name: KUDRJAVTSEV
+  whole_name: Konstantin Borisovitj KUDRJAVTSEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '145985'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Konstantin
+  middle_name: Jevgenjevitj
+  last_name: SOKOLOV
+  whole_name: Konstantin Jevgenjevitj SOKOLOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '145984'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Константин
+  middle_name: Евгеньевич
+  last_name: СОКОЛОВ
+  whole_name: Константин Евгеньевич СОКОЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '145398'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Konstantin
+  middle_name: Yevgenievich
+  last_name: SOKOLOV
+  whole_name: Konstantin Yevgenievich SOKOLOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145399'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Константин
   middle_name: Борисович
   last_name: КУДРЯВЦЕВ
@@ -38,61 +93,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145401'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Konstantin
-  middle_name: Jevgenjevitj
-  last_name: SOKOLOV
-  whole_name: Konstantin Jevgenjevitj SOKOLOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '145984'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Konstantin
-  middle_name: Borisovitj
-  last_name: KUDRJAVTSEV
-  whole_name: Konstantin Borisovitj KUDRJAVTSEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '145985'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Konstantin
-  middle_name: Yevgenievich
-  last_name: SOKOLOV
-  whole_name: Konstantin Yevgenievich SOKOLOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145399'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Константин
-  middle_name: Евгеньевич
-  last_name: СОКОЛОВ
-  whole_name: Константин Евгеньевич СОКОЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '145398'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

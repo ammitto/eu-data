@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Zaffer
-  last_name: Iqbal
-  whole_name: Zaffer Iqbal
-  strong: true
-  regulation_language: en
-  logical_id: '125235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
 - first_name: Muhammad
   middle_name: Zafar
   last_name: Iqbal
@@ -72,6 +61,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125234'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- first_name: Zaffer
+  last_name: Iqbal
+  whole_name: Zaffer Iqbal
+  strong: true
+  regulation_language: en
+  logical_id: '125235'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'

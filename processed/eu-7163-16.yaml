@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Михаил
-  middle_name: Евгеньевич
-  last_name: СТАРШИНОВ
-  whole_name: Михаил Евгеньевич СТАРШИНОВ
+- first_name: Mikhail
+  middle_name: Evgenyevich
+  last_name: STARSHINOV
+  whole_name: Mikhail Evgenyevich STARSHINOV
+  function: Member of the State Duma
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '134390'
+  logical_id: '134391'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -38,15 +38,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Mikhail
-  middle_name: Evgenyevich
-  last_name: STARSHINOV
-  whole_name: Mikhail Evgenyevich STARSHINOV
-  function: Member of the State Duma
+- first_name: Михаил
+  middle_name: Евгеньевич
+  last_name: СТАРШИНОВ
+  whole_name: Михаил Евгеньевич СТАРШИНОВ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '134391'
+  logical_id: '134390'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

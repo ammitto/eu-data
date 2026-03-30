@@ -17,112 +17,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Itsenäisten valtioiden yhteisöä, ulkomailla asuvia venäläisiä ja kansainvälistä
-    humanitaarista yhteistyötä koskevia asioita käsittelevä liittovaltion virasto
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '152604'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: federala byrån för Oberoende staters samvälde, utlandsboende landsmän
-    och internationell humanitär hjälp
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '152605'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: det føderale agentur for anliggender vedrørende Fællesskabet af Uafhængige
-    Stater, landsmænd, der er bosat i udlandet, og internationalt humanitært samarbejde
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '152397'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Agência Federal para a Comunidade dos Assuntos dos Estados Independentes,
-    os  Compatriotas a Viver no Estrangeiro e a Cooperação Humanitária Internacional
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '152499'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Federální agentura pro společenství věcí nezávislých států, krajany
-    žijící v zahraničí  a mezinárodní humanitární spolupráci
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152524'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Agenzia federale per gli affari della Comunità di Stati indipendenti,
-    i compatrioti che vivono all'estero e la cooperazione umanitaria internazionale
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '152419'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Rosotrudniczestwo
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '152453'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Россотрудничество
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '142722'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Федеральное агентство по  делам Содружества  Независимых Государств,  соотечественников,  проживающих
-    за рубежом, и  по международному  гуманитарному  сотрудничеству
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '142723'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Rossotrudnichestvo
-  strong: true
-  regulation_language: en
-  logical_id: '142724'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: The Federal Agency for the Commonwealth of Independent  States Affairs,
     Compatriots Living Abroad and  International Humanitarian  Cooperation
   function: Russian federal executive body responsible for rendering state services
@@ -248,6 +142,112 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Agenzia federale per gli affari della Comunità di Stati indipendenti,
+    i compatrioti che vivono all'estero e la cooperazione umanitaria internazionale
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '152419'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Rosotrudniczestwo
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152453'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: det føderale agentur for anliggender vedrørende Fællesskabet af Uafhængige
+    Stater, landsmænd, der er bosat i udlandet, og internationalt humanitært samarbejde
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '152397'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Agência Federal para a Comunidade dos Assuntos dos Estados Independentes,
+    os  Compatriotas a Viver no Estrangeiro e a Cooperação Humanitária Internacional
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '152499'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Federální agentura pro společenství věcí nezávislých států, krajany
+    žijící v zahraničí  a mezinárodní humanitární spolupráci
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152524'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Itsenäisten valtioiden yhteisöä, ulkomailla asuvia venäläisiä ja kansainvälistä
+    humanitaarista yhteistyötä koskevia asioita käsittelevä liittovaltion virasto
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '152604'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: federala byrån för Oberoende staters samvälde, utlandsboende landsmän
+    och internationell humanitär hjälp
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '152605'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Россотрудничество
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '142722'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Федеральное агентство по  делам Содружества  Независимых Государств,  соотечественников,  проживающих
+    за рубежом, и  по международному  гуманитарному  сотрудничеству
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '142723'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Rossotrudnichestvo
+  strong: true
+  regulation_language: en
+  logical_id: '142724'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 addresses:
 - street: Vozdvizhenka Str. 18/9
   city: Moscow

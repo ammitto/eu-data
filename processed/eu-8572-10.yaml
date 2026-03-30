@@ -14,20 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Maya
+- first_name: Maja
   middle_name: Nikolaevna
   last_name: BOLOTOVA
-  whole_name: Maya Nikolaevna BOLOTOVA
+  whole_name: Maja Nikolaevna BOLOTOVA
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '142661'
+  logical_id: '142657'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Mayya
   middle_name: Nikolaevna
   last_name: BOLOTOVA
@@ -42,6 +42,20 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Majja
+  middle_name: Nikolajevna
+  last_name: BOLOTOVA
+  whole_name: Majja Nikolajevna BOLOTOVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '158632'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Maija
   middle_name: Nikolaevna
   last_name: BOLOTOVA
@@ -51,20 +65,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142658'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Maja
-  middle_name: Nikolaevna
-  last_name: BOLOTOVA
-  whole_name: Maja Nikolaevna BOLOTOVA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '142657'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -84,6 +84,20 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Maya
+  middle_name: Nikolaevna
+  last_name: BOLOTOVA
+  whole_name: Maya Nikolaevna BOLOTOVA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '142661'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Maiya
   middle_name: Nikolaevna
   last_name: BOLOTOVA
@@ -112,33 +126,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Majja
-  middle_name: Nikolajevna
-  last_name: BOLOTOVA
-  whole_name: Majja Nikolajevna BOLOTOVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '158632'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Maja
-  last_name: Tokarevová
-  whole_name: Maja Tokarevová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '158528'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Maya
   middle_name: Nikolaevna
   last_name: TOKAREVA
@@ -161,6 +148,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158529'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Maja
+  last_name: Tokarevová
+  whole_name: Maja Tokarevová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158528'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

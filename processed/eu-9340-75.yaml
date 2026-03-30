@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Алексей
+  middle_name: Львович
+  last_name: НИКОЛОВ
+  whole_name: Алексей Львович НИКОЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146988'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Alexey
   middle_name: Lvovich
   last_name: NIKOLOV
@@ -24,20 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146989'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- first_name: Алексей
-  middle_name: Львович
-  last_name: НИКОЛОВ
-  whole_name: Алексей Львович НИКОЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146988'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -72,20 +72,20 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 identifications:
 - identification_type_code: other
-  number: '531246870'
+  number: '530308406'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '146986'
+  logical_id: '146987'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - identification_type_code: other
-  number: '530308406'
+  number: '531246870'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '146987'
+  logical_id: '146986'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

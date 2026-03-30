@@ -15,41 +15,15 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ivan
-  middle_name: Vasilyevich
-  last_name: SPIRIDONOV
-  whole_name: Ivan Vasilyevich SPIRIDONOV
+  middle_name: Vladimirovich
+  last_name: OSIPOV
+  whole_name: Ivan Vladimirovich OSIPOV
+  function: agent of the Russian Federal Security Service (FSB) working as a Criminalistics
+    Institute operative
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '145378'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Ivan
-  middle_name: Vasiljevitj
-  last_name: SPIRIDONOV
-  whole_name: Ivan Vasiljevitj SPIRIDONOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '145979'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Иван
-  middle_name: Васильевич
-  last_name: СПИРИДОНОВ
-  whole_name: Иван Васильевич СПИРИДОНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '145377'
+  logical_id: '145380'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -70,15 +44,41 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Ivan
-  middle_name: Vladimirovich
-  last_name: OSIPOV
-  whole_name: Ivan Vladimirovich OSIPOV
-  function: agent of the Russian Federal Security Service (FSB) working as a Criminalistics
-    Institute operative
+  middle_name: Vasilyevich
+  last_name: SPIRIDONOV
+  whole_name: Ivan Vasilyevich SPIRIDONOV
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '145380'
+  logical_id: '145378'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Иван
+  middle_name: Васильевич
+  last_name: СПИРИДОНОВ
+  whole_name: Иван Васильевич СПИРИДОНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '145377'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Ivan
+  middle_name: Vasiljevitj
+  last_name: SPIRIDONOV
+  whole_name: Ivan Vasiljevitj SPIRIDONOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '145979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -109,21 +109,6 @@ citizenships:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 birthdates:
-- birthdate: '1975-08-21'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 21
-  month_of_year: 8
-  year: 1975
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '145374'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - birthdate: '1976-08-21'
   circa: false
   calendar_type: GREGORIAN
@@ -134,6 +119,21 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '145375'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- birthdate: '1975-08-21'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 21
+  month_of_year: 8
+  year: 1975
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '145374'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

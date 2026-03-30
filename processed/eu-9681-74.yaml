@@ -14,15 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Михаил
-  middle_name: Игоревич
-  last_name: ИВАНОВ
-  whole_name: Михаил Игоревич ИВАНОВ
+- whole_name: Michail Igorevitj IVANOV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '149734'
+  logical_id: '151030'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -43,12 +40,15 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Michail Igorevitj IVANOV
+- first_name: Михаил
+  middle_name: Игоревич
+  last_name: ИВАНОВ
+  whole_name: Михаил Игоревич ИВАНОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151030'
+  logical_id: '149734'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

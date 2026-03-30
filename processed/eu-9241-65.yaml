@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Алексей
-  middle_name: Логвинович
-  last_name: ОВЕРЧУК
-  whole_name: Алексей Логвинович ОВЕРЧУК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146588'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Alexey
   middle_name: Logvinovich
   last_name: OVERCHUK
@@ -39,6 +25,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146589'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Алексей
+  middle_name: Логвинович
+  last_name: ОВЕРЧУК
+  whole_name: Алексей Логвинович ОВЕРЧУК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146588'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

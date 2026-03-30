@@ -32,21 +32,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: SOCIEDAD DE CARTERA ‘EGO  HOLDING’
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '147764'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: KONTROLIUOJANČIOJI BENDROVĖ „EGO-HOLDING“
   name_language: LT
   strong: true
   regulation_language: en
   logical_id: '147969'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: SOCIEDAD DE CARTERA ‘EGO  HOLDING’
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '147764'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

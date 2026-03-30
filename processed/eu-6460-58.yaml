@@ -14,26 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aleh Siarheevich  HAIDUKEVICH
-  function: Deputy Chairman of the Standing Committee on International Affairs in
-    the House of Representatives of the National Assembly, member of the delegation
-    of the National Assembly for contacts with the Parliamentary Assembly of the Council
-    of Europe, chairman of the Liberal Democratic Party of Belarus
+- whole_name: Олег Сергеевич  ГАЙДУКЕВИЧ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '130557'
+  logical_id: '130554'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-02-25'
-    number_title: 2025/386 (OJ L25022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
-- whole_name: Oleg Sergejevitj GAJDUKEVITJ
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Oleg Sergeevich  GAIDUKEVICH
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130810'
+  logical_id: '130556'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -50,33 +46,37 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Oleg Sergeevich  GAIDUKEVICH
+- whole_name: Oleg Sergejevitj GAJDUKEVITJ
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130556'
+  logical_id: '130810'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Aleh Siarheevich  HAIDUKEVICH
+  function: Deputy Chairman of the Standing Committee on International Affairs in
+    the House of Representatives of the National Assembly, member of the delegation
+    of the National Assembly for contacts with the Parliamentary Assembly of the Council
+    of Europe, chairman of the Liberal Democratic Party of Belarus
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130557'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-25'
+    number_title: 2025/386 (OJ L25022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
 - whole_name: Алег Сяргеевіч  ГАЙДУКЕВІЧ
   gender: M
   name_language: BE
   strong: true
   regulation_language: en
   logical_id: '130555'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Олег Сергеевич  ГАЙДУКЕВИЧ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '130554'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

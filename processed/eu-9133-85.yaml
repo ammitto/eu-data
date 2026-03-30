@@ -18,6 +18,52 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Meddie
+  last_name: NKALUBO
+  whole_name: Meddie NKALUBO
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146096'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
+- first_name: Mohamed Ali
+  last_name: Nkalubo
+  whole_name: Mohamed Ali Nkalubo
+  function: Allied Democratic Forces (ADF) senior leader for operations/organization/support,
+    and also communication and propaganda
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146095'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
+- whole_name: Abdul Jihad
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146094'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
+- whole_name: Punny Boy
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146093'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-08'
+    number_title: 2022/2397 (OJ L316-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
+- first_name: Meddie
   last_name: LEE
   whole_name: Meddie LEE
   gender: M
@@ -49,17 +95,6 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: DEFENDER
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165358'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 - whole_name: Abu SHAUKAN
   gender: M
   strong: true
@@ -81,47 +116,12 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- first_name: Meddie
-  last_name: NKALUBO
-  whole_name: Meddie NKALUBO
+- whole_name: DEFENDER
   gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '146096'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- first_name: Mohamed Ali
-  last_name: Nkalubo
-  whole_name: Mohamed Ali Nkalubo
-  function: Allied Democratic Forces (ADF) senior leader for operations/organization/support,
-    and also communication and propaganda
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146095'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: Punny Boy
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146093'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-08'
-    number_title: 2022/2397 (OJ L316-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
-- whole_name: Abdul Jihad
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146094'
+  logical_id: '165358'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'
@@ -140,19 +140,6 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1988
-  city: Kampala
-  country_iso2_code: UG
-  country_description: UGANDA
-  regulation_language: en
-  logical_id: '159153'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- circa: false
-  calendar_type: GREGORIAN
   year: 1992
   city: Kampala
   country_iso2_code: UG
@@ -166,12 +153,12 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 - circa: false
   calendar_type: GREGORIAN
-  year: 1993
+  year: 1988
   city: Kampala
   country_iso2_code: UG
   country_description: UGANDA
   regulation_language: en
-  logical_id: '146727'
+  logical_id: '159153'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'
@@ -185,6 +172,19 @@ birthdates:
   country_description: UGANDA
   regulation_language: en
   logical_id: '165382'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1993
+  city: Kampala
+  country_iso2_code: UG
+  country_description: UGANDA
+  regulation_language: en
+  logical_id: '146727'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'

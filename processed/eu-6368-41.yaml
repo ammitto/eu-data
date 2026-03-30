@@ -14,34 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Яўген Аляксеевіч УРУБЛЕЎСКІ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '130023'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Jauhen Aljaksejevitj URUBLEUSKI
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130791'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Yauhen Aliakseevich  URUBLEUSKI
-  function: "Senior Police Sergeant of \nthe Akrestina Offenders' \nIsolation Centre"
+- whole_name: Evgenii Alekseevich VRUBLEVSKII
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '130025'
+  logical_id: '130024'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -58,11 +35,34 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Evgenii Alekseevich VRUBLEVSKII
+- whole_name: Yauhen Aliakseevich  URUBLEUSKI
+  function: "Senior Police Sergeant of \nthe Akrestina Offenders' \nIsolation Centre"
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '130024'
+  logical_id: '130025'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Jauhen Aljaksejevitj URUBLEUSKI
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130791'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Яўген Аляксеевіч УРУБЛЕЎСКІ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '130023'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

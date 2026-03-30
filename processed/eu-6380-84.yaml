@@ -14,12 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Dmitrij Aleksandrovitj LUKASJENKO
+- whole_name: Dzmitry Aliaksandravich LUKASHENKA
+  function: Businessman, chairman of President’s Sport Club
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130714'
+  logical_id: '130109'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Dmitry Aleksandrovich LUKASHENKO
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130108'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -36,12 +46,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Dzmitry Aliaksandravich LUKASHENKA
-  function: Businessman, chairman of President’s Sport Club
+- whole_name: Dmitrij Aleksandrovitj LUKASJENKO
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130109'
+  logical_id: '130714'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -64,16 +74,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130107'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Dmitry Aleksandrovich LUKASHENKO
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130108'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

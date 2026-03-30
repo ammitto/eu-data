@@ -14,6 +14,36 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Cirujano
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '142765'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Хирурга
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '142764'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: il Chirurgo
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '142756'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Alexander Sergeyevich  ZALDOSTANOV
   function: "Alexander Zaldostanov is the leader and founder of the nationalist motorcycle
     club Nightwolves MC. Due to his position as leader of the \nNightwolves MC, Alexander
@@ -31,55 +61,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142668'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Александр Сергеевич  ЗАЛДОСТAНОВ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '142667'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: The Surgeon
-  strong: true
-  regulation_language: en
-  logical_id: '142666'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Хирург
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '142665'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Il Kirurgu
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '142755'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: il Chirurgo
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '142756'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -135,21 +116,11 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Cirujano
-  name_language: ES
+- whole_name: Il Kirurgu
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '142765'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Хирурга
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '142764'
+  logical_id: '142755'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -205,11 +176,30 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Kirugen
-  name_language: DA
+- whole_name: Хирург
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '142762'
+  logical_id: '142665'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: The Surgeon
+  strong: true
+  regulation_language: en
+  logical_id: '142666'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Александр Сергеевич  ЗАЛДОСТAНОВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '142667'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -220,6 +210,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142763'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Kirugen
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '142762'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

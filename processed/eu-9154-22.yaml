@@ -15,22 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Denis
-  middle_name: Sergeevich
-  last_name: KURASHOV
-  whole_name: Denis Sergeevich KURASHOV
-  function: Minister of Communications of the so-called "People’s Republic of Donetsk"
-    since May 2023, former Deputy Minister of Communications
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '146218'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Denis
   middle_name: Sergejevič
   last_name: Kurašov
   whole_name: Denis Sergejevič Kurašov
@@ -59,14 +43,16 @@ name_aliases:
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Denis
-  middle_name: Sergejevič
-  last_name: Kurašov
-  whole_name: Denis Sergejevič Kurašov
+  middle_name: Sergeevich
+  last_name: KURASHOV
+  whole_name: Denis Sergeevich KURASHOV
+  function: Minister of Communications of the so-called "People’s Republic of Donetsk"
+    since May 2023, former Deputy Minister of Communications
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158531'
+  logical_id: '146218'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -81,6 +67,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158633'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Denis
+  middle_name: Sergejevič
+  last_name: Kurašov
+  whole_name: Denis Sergejevič Kurašov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158531'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Nikolaj
+  last_name: Zabolotněv
+  whole_name: Nikolaj Zabolotněv
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164823'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Nikolay
   middle_name: Nikolaevich
   last_name: ZABOLOTNEV
@@ -32,20 +45,6 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Николай
-  middle_name: Николаевич
-  last_name: ЗАБОЛОТНЕВ
-  whole_name: Николай Николаевич ЗАБОЛОТНЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '143299'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - whole_name: Nikolaj Nikolajevitj ZABOLOTNEV
   gender: M
   name_language: SV
@@ -57,14 +56,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Nikolaj
-  last_name: Zabolotněv
-  whole_name: Nikolaj Zabolotněv
+- first_name: Николай
+  middle_name: Николаевич
+  last_name: ЗАБОЛОТНЕВ
+  whole_name: Николай Николаевич ЗАБОЛОТНЕВ
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '164823'
+  logical_id: '143299'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

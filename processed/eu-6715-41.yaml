@@ -14,44 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Δημοκρατική θυγατρική διαχειριστική επιχείρηση “Hotel Minsk”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '132419'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Republikový dceřiný unitářský podnik „Hotel Minsk“
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '135509'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Гатэль “Мiнск”
-  strong: true
-  regulation_language: en
-  logical_id: '132125'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Republican subsidiary unitary enterprise “Hotel Minsk”
-  strong: true
-  regulation_language: en
-  logical_id: '132126'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - whole_name: Республиканское дочернее унитарное предприятие “Отель “Минск”
   strong: true
   regulation_language: en
@@ -111,22 +73,21 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Републиканско субсидиарно унитарно дружество ‘Hotel Minsk’
-  name_language: BG
+- whole_name: Δημοκρατική θυγατρική διαχειριστική επιχείρηση “Hotel Minsk”
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '135510'
+  logical_id: '132419'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Onder de Republiek Belarus vallende gecentraliseerde dochteronderneming
-    “Hotel Minsk”
-  name_language: NL
+- whole_name: Tasavallan unitaari tytäryritys ”Hotel Minsk”
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '132420'
+  logical_id: '132425'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -152,11 +113,40 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Empresa filial unitária da República "Hotel Minsk"
-  name_language: PT
+- whole_name: Republican subsidiary unitary enterprise “Hotel Minsk”
   strong: true
   regulation_language: en
-  logical_id: '132423'
+  logical_id: '132126'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Гатэль “Мiнск”
+  strong: true
+  regulation_language: en
+  logical_id: '132125'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Onder de Republiek Belarus vallende gecentraliseerde dochteronderneming
+    “Hotel Minsk”
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '132420'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Republikansko hčerinsko unitarno podjetje „Hotel Minsk“
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '132426'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -172,21 +162,31 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Tasavallan unitaari tytäryritys ”Hotel Minsk”
-  name_language: FI
+- whole_name: Empresa filial unitária da República "Hotel Minsk"
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '132425'
+  logical_id: '132423'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Republikansko hčerinsko unitarno podjetje „Hotel Minsk“
-  name_language: SL
+- whole_name: Republikový dceřiný unitářský podnik „Hotel Minsk“
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '132426'
+  logical_id: '135509'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Републиканско субсидиарно унитарно дружество ‘Hotel Minsk’
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '135510'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

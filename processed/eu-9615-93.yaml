@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: سید مجتبی مصطفوی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '149343'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
 - first_name: Mojtaba
   last_name: MOSTAF
   whole_name: Mojtaba MOSTAF
@@ -38,14 +27,12 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/379 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- first_name: Mojtaba
-  last_name: MORTAZAVI
-  whole_name: Mojtaba MORTAZAVI
+- whole_name: سید مجتبی مصطفوی
   gender: M
-  name_language: EN
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '149345'
+  logical_id: '149343'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -66,6 +53,19 @@ name_aliases:
     publication_date: '2025-04-07'
     number_title: 2025/689 (OJ L202500689)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500689
+- first_name: Mojtaba
+  last_name: MORTAZAVI
+  whole_name: Mojtaba MORTAZAVI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149345'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

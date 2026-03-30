@@ -15,6 +15,20 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Лариса
+  middle_name: Валентинiвна
+  last_name: ТОЛСТИКIНА
+  whole_name: Лариса Валентинiвна ТОЛСТИКIНА
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '138312'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Лариса
   middle_name: Валентиновна
   last_name: ТОЛСТЫКИНА
   whole_name: Лариса Валентиновна ТОЛСТЫКИНА
@@ -39,20 +53,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138314'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Лариса
-  middle_name: Валентинiвна
-  last_name: ТОЛСТИКIНА
-  whole_name: Лариса Валентинiвна ТОЛСТИКIНА
-  gender: F
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '138312'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

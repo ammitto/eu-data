@@ -48,20 +48,20 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Aleksey  Yevgenevich VEITZ
-  strong: true
-  regulation_language: en
-  logical_id: '142679'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Алексей ВАЙЦ
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '142678'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Aleksey  Yevgenevich VEITZ
+  strong: true
+  regulation_language: en
+  logical_id: '142679'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

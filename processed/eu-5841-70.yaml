@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Korejska splošna  trgovska družba  Rungrado
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '143047'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: Rungrado Trading Corporation
   strong: true
   regulation_language: en
@@ -23,15 +33,6 @@ name_aliases:
     publication_date: '2017-10-16'
     number_title: 2017/1859 (OJ L265 I)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1859&from=EN
-- whole_name: 조선릉라도무역총회사
-  strong: true
-  regulation_language: en
-  logical_id: '142131'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: Korea Rungrado General Trading Corporation
   strong: true
   regulation_language: en
@@ -51,11 +52,10 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Korejska splošna  trgovska družba  Rungrado
-  name_language: SL
+- whole_name: 조선릉라도무역총회사
   strong: true
   regulation_language: en
-  logical_id: '143047'
+  logical_id: '142131'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

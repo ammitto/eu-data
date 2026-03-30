@@ -16,28 +16,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ministry of National Defence
-  function: The Ministry of National Defence manages the general administrative and
-    logistical needs of the Korean People’s Army.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168462'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Ministeru għall-Forzi Armati tal-Poplu  (MPAF)
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '168780'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
 - whole_name: Ministeru għad-Difiża Nazzjonali
   name_language: MT
   strong: true
@@ -258,6 +236,26 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2070 (OJ L202402070)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Υπουργείο  των Λαϊκών Ενόπλων Δυνάμεων  (MPAF)
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '168745'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Υπουργείο Εθνικής Άμυνας
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '168746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
 - whole_name: Министерство  на отбраната
   name_language: BG
   strong: true
@@ -283,26 +281,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '168744'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Υπουργείο  των Λαϊκών Ενόπλων Δυνάμεων  (MPAF)
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '168745'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Υπουργείο Εθνικής Άμυνας
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '168746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
@@ -468,6 +446,38 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2070 (OJ L202402070)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Ministry of Defence
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168460'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Ministry of National Defense
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168461'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Ministry of National Defence
+  function: The Ministry of National Defence manages the general administrative and
+    logistical needs of the Korean People’s Army.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168462'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
 - whole_name: Ministry of the People’s  Armed Forces (MPAF)
   name_language: EN
   strong: true
@@ -488,21 +498,11 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2070 (OJ L202402070)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Ministry of Defence
-  name_language: EN
+- whole_name: Ministeru għall-Forzi Armati tal-Poplu  (MPAF)
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '168460'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Ministry of National Defense
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168461'
+  logical_id: '168780'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

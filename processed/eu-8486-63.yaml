@@ -14,14 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ahmed
-  last_name: KHALIL
-  whole_name: Ahmed KHALIL
+- first_name: Ahmad
+  last_name: Khalil Khalil
+  whole_name: Ahmad Khalil Khalil
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '141874'
+  logical_id: '153706'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-26'
@@ -42,6 +42,19 @@ name_aliases:
     publication_date: '2023-05-26'
     number_title: 2023/1027 (OJ L139)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
+- first_name: Ahmed
+  last_name: KHALIL
+  whole_name: Ahmed KHALIL
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '141874'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-26'
+    number_title: 2023/1027 (OJ L139)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
 - whole_name: احمد خليل خليل
   gender: M
   name_language: AR
@@ -53,19 +66,6 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1275 (OJ L194)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0008.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
-- first_name: Ahmad
-  last_name: Khalil Khalil
-  whole_name: Ahmad Khalil Khalil
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153706'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-26'
-    number_title: 2023/1027 (OJ L139)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
 birthdates:
 - circa: false
   calendar_type: GREGORIAN

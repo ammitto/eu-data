@@ -28,20 +28,6 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Николай
-  middle_name: Александрович
-  last_name: ПАНКОВ
-  whole_name: Николай Александрович ПАНКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '144443'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Nikolay
   middle_name: Aleksandrovich
   last_name: PANKOV
@@ -52,6 +38,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144444'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Николай
+  middle_name: Александрович
+  last_name: ПАНКОВ
+  whole_name: Николай Александрович ПАНКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '144443'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

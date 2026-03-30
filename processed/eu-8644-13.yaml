@@ -30,15 +30,14 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Сергей
-  middle_name: Евгеньевич
-  last_name: ЦИВИЛЕВ
-  whole_name: Сергей Евгеньевич ЦИВИЛЕВ
+- first_name: Sergej
+  last_name: Civilev
+  whole_name: Sergej Civilev
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '143311'
+  logical_id: '164825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -55,14 +54,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Sergej
-  last_name: Civilev
-  whole_name: Sergej Civilev
+- first_name: Сергей
+  middle_name: Евгеньевич
+  last_name: ЦИВИЛЕВ
+  whole_name: Сергей Евгеньевич ЦИВИЛЕВ
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '164825'
+  logical_id: '143311'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

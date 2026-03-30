@@ -16,13 +16,13 @@ subject_type:
 name_aliases:
 - first_name: Alla
   middle_name: Viktorovna
-  last_name: POLJAKOVA
-  whole_name: Alla Viktorovna POLJAKOVA
+  last_name: POLYAKOVA
+  whole_name: Alla Viktorovna POLYAKOVA
+  function: Member of the State Duma
   gender: F
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '143506'
+  logical_id: '143446'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-01'
@@ -40,13 +40,13 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1446
 - first_name: Alla
   middle_name: Viktorovna
-  last_name: POLYAKOVA
-  whole_name: Alla Viktorovna POLYAKOVA
-  function: Member of the State Duma
+  last_name: POLJAKOVA
+  whole_name: Alla Viktorovna POLJAKOVA
   gender: F
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '143446'
+  logical_id: '143506'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-01'

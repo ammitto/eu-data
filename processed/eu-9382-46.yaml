@@ -14,6 +14,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Ulan-udský letecký závod
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '170007'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Planta de Fabricación de Aviones de Ulan-Ude
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '147769'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ulan Udės aviacijos gamykla
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147974'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: АО 'УЛАН-УДЭНСКИЙ АВИАЦИОННЫЙ ЗАВОД'
   name_language: RU
   strong: true
@@ -44,16 +74,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Planta de Fabricación de Aviones de Ulan-Ude
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '147769'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Empresa de  Aviação de Ulan-Ude
   name_language: PT
   strong: true
@@ -74,31 +94,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ulan-udský letecký závod
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '170007'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - whole_name: Uzina aeronautică  Ulan-Ude
   name_language: RO
   strong: true
   regulation_language: en
   logical_id: '147877'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ulan Udės aviacijos gamykla
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147974'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

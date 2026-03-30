@@ -14,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Тимур Савельевич ВАХРАМЕЕВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180421'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-11-20'
+    number_title: 2025/2356 (OJ L202502356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502356
 - whole_name: Timur Savelevich VAKHRAMEEV
   function: Timur Vakhrameev, a judge at the Basmanny District Court in Russia, has
     been involved in a number of politically motivated prosecution cases, imposing
@@ -26,16 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180422'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-11-20'
-    number_title: 2025/2356 (OJ L202502356)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502356
-- whole_name: Тимур Савельевич ВАХРАМЕЕВ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180421'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-11-20'

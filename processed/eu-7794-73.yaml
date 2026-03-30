@@ -32,26 +32,14 @@ name_aliases:
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Viktor
-  last_name: Rašnikov
-  whole_name: Viktor Rašnikov
+  middle_name: Filippovitj
+  last_name: RASJNIKOV
+  whole_name: Viktor Filippovitj RASJNIKOV
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '158505'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Viktor
-  last_name: Rašnikov
-  whole_name: Viktor Rašnikov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158365'
+  logical_id: '137838'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -72,14 +60,26 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Viktor
-  middle_name: Filippovitj
-  last_name: RASJNIKOV
-  whole_name: Viktor Filippovitj RASJNIKOV
+  last_name: Rašnikov
+  whole_name: Viktor Rašnikov
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '137838'
+  logical_id: '158365'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Viktor
+  last_name: Rašnikov
+  whole_name: Viktor Rašnikov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158505'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

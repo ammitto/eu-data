@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dmitrij
-  middle_name: Arkadjevitj
-  last_name: MAZEPIN
-  whole_name: Dmitrij Arkadjevitj MAZEPIN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '137340'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Дмитрий
   middle_name: Аркадьевич
   last_name: МАЗЕПИН
@@ -42,19 +28,6 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Dmitrij
-  last_name: Mazepin
-  whole_name: Dmitrij Mazepin
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158362'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Dmitry
   middle_name: Arkadievich
   last_name: MAZEPIN
@@ -71,6 +44,20 @@ name_aliases:
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Dmitrij
+  middle_name: Arkadjevitj
+  last_name: MAZEPIN
+  whole_name: Dmitrij Arkadjevitj MAZEPIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137340'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Dmitrij
   last_name: Mazepin
   whole_name: Dmitrij Mazepin
   gender: M
@@ -78,6 +65,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Dmitrij
+  last_name: Mazepin
+  whole_name: Dmitrij Mazepin
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158362'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

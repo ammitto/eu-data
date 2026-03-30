@@ -14,14 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Александър
-  last_name: Белски
-  whole_name: Александър Белски
+- first_name: Alexandr
+  last_name: Bělskij
+  whole_name: Alexandr Bělskij
   gender: M
-  name_language: BG
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '164767'
+  logical_id: '164821'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -33,6 +33,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143292'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Александр
+  middle_name: Николаевич
+  last_name: БЕЛЬСКИЙ
+  whole_name: Александр Николаевич БЕЛЬСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '143293'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -56,28 +70,14 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Александр
-  middle_name: Николаевич
-  last_name: БЕЛЬСКИЙ
-  whole_name: Александр Николаевич БЕЛЬСКИЙ
+- first_name: Александър
+  last_name: Белски
+  whole_name: Александър Белски
   gender: M
-  name_language: RU
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '143293'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Alexandr
-  last_name: Bělskij
-  whole_name: Alexandr Bělskij
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164821'
+  logical_id: '164767'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -100,11 +100,11 @@ birthdates:
   day_of_month: 16
   month_of_year: 7
   year: 1975
-  city: St. Petersburg
+  city: Leningrad
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '164472'
+  logical_id: '143290'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -116,11 +116,11 @@ birthdates:
   day_of_month: 16
   month_of_year: 7
   year: 1975
-  city: Leningrad
+  city: St. Petersburg
   country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '143290'
+  logical_id: '164472'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Владислав
-  middle_name: Гариевич
-  last_name: КУЗНЕЦОВ
-  whole_name: Владислав Гариевич КУЗНЕЦОВ
+- first_name: Vladislav
+  middle_name: Garijevitj
+  last_name: KUZNETSOV
+  whole_name: Vladislav Garijevitj KUZNETSOV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144381'
+  logical_id: '144643'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -44,15 +44,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Vladislav
-  middle_name: Garijevitj
-  last_name: KUZNETSOV
-  whole_name: Vladislav Garijevitj KUZNETSOV
+- first_name: Владислав
+  middle_name: Гариевич
+  last_name: КУЗНЕЦОВ
+  whole_name: Владислав Гариевич КУЗНЕЦОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144643'
+  logical_id: '144381'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

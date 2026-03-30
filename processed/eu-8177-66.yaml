@@ -24,16 +24,6 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: АО “Росэлектроника”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '139913'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: JSC Ruselectronics
   name_language: EN
   strong: true
@@ -44,6 +34,16 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: АО “Росэлектроника”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '139913'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 addresses:
 - street: Vereiskaya Str., 29, p. 141.
   city: Moscow
@@ -58,16 +58,6 @@ addresses:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 identifications:
-- identification_type_code: fiscalcode
-  number: '7710277994'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '151729'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - identification_type_code: regnumber
   number: '1027739000475'
   country_iso2_code: RU
@@ -78,3 +68,13 @@ identifications:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- identification_type_code: fiscalcode
+  number: '7710277994'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '151729'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571

@@ -39,18 +39,6 @@ name_aliases:
     publication_date: '2018-01-09'
     number_title: 2018/12 (OJ L4)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0012&from=EN
-- first_name: Wai Ming
-  last_name: Lui
-  whole_name: Wai Ming Lui
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '115030'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-01-09'
-    number_title: 2018/12 (OJ L4)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0012&from=EN
 - first_name: BONG NAM
   last_name: PAK
   whole_name: BONG NAM PAK
@@ -59,6 +47,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '115031'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-01-09'
+    number_title: 2018/12 (OJ L4)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0012&from=EN
+- first_name: Wai Ming
+  last_name: Lui
+  whole_name: Wai Ming Lui
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '115030'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-01-09'

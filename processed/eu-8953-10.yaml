@@ -14,17 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sayed Hojatollah
-  last_name: QUREISHI
-  whole_name: Sayed Hojatollah QUREISHI
-  function: Head of the Supply, Research, and Industrial Affairs Division at the Iranian
-    Ministry of Defense and Armed Forces Logistics (MODAFL)
+- whole_name: سید حجت الله قریشی
   gender: M
-  title: General
-  name_language: EN
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '145115'
+  logical_id: '145116'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -44,12 +39,17 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: سید حجت الله قریشی
+- first_name: Sayed Hojatollah
+  last_name: QUREISHI
+  whole_name: Sayed Hojatollah QUREISHI
+  function: Head of the Supply, Research, and Industrial Affairs Division at the Iranian
+    Ministry of Defense and Armed Forces Logistics (MODAFL)
   gender: M
-  name_language: FA
+  title: General
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '145116'
+  logical_id: '145115'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -82,11 +82,11 @@ birthdates:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 identifications:
-- identification_type_code: passport
-  number: D9021706
+- identification_type_code: other
+  number: '5929869741'
   country_iso2_code: IR
   regulation_language: en
-  logical_id: '158129'
+  logical_id: '158133'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -103,10 +103,10 @@ identifications:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - identification_type_code: passport
-  number: A59655618
+  number: D9021706
   country_iso2_code: IR
   regulation_language: en
-  logical_id: '158131'
+  logical_id: '158129'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -122,11 +122,11 @@ identifications:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- identification_type_code: other
-  number: '5929869741'
+- identification_type_code: passport
+  number: A59655618
   country_iso2_code: IR
   regulation_language: en
-  logical_id: '158133'
+  logical_id: '158131'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

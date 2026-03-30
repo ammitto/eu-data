@@ -25,17 +25,6 @@ name_aliases:
     number_title: 2023/886 (OJ L113 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0886
 addresses:
-- street: 52/66, Botahtaung Pagoda St. (Rm 2, 3rd Flr), Lower Block
-  city: Botahtaung Township, Yangon
-  country_iso2_code: MM
-  country_description: MYANMAR
-  regulation_language: en
-  logical_id: '153180'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-28'
-    number_title: 2023/886 (OJ L113 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0886
 - street: 422/426 Strand Rd. (Rm 2, 2nd Flr,), Corner of Botahtaung Pagoda St., FJVC
     Center, Ward (4), BTHG
   city: Yangon
@@ -43,6 +32,17 @@ addresses:
   country_description: MYANMAR
   regulation_language: en
   logical_id: '130441'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-28'
+    number_title: 2023/886 (OJ L113 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0886
+- street: 52/66, Botahtaung Pagoda St. (Rm 2, 3rd Flr), Lower Block
+  city: Botahtaung Township, Yangon
+  country_iso2_code: MM
+  country_description: MYANMAR
+  regulation_language: en
+  logical_id: '153180'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-28'

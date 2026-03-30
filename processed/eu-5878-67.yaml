@@ -29,28 +29,10 @@ name_aliases:
     publication_date: '2020-10-13'
     number_title: 2020/1473 (OJ L334I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
-- whole_name: Abu-Malik al-Talli
+- whole_name: Abu Malek El Talleh
   strong: true
   regulation_language: en
-  logical_id: '125942'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-10-13'
-    number_title: 2020/1473 (OJ L334I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
-- whole_name: Abu-Malik al-Shami
-  strong: true
-  regulation_language: en
-  logical_id: '125943'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-10-13'
-    number_title: 2020/1473 (OJ L334I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
-- whole_name: abu-Malik al-Ansari
-  strong: true
-  regulation_language: en
-  logical_id: '125944'
+  logical_id: '125946'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-13'
@@ -65,19 +47,28 @@ name_aliases:
     publication_date: '2020-10-13'
     number_title: 2020/1473 (OJ L334I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
-- whole_name: Abu Malek El Talleh
+- whole_name: abu-Malik al-Ansari
   strong: true
   regulation_language: en
-  logical_id: '125946'
+  logical_id: '125944'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-13'
     number_title: 2020/1473 (OJ L334I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
-- whole_name: Jamal Husayn Zayniyah
+- whole_name: Abu-Malik al-Shami
   strong: true
   regulation_language: en
-  logical_id: '125947'
+  logical_id: '125943'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-13'
+    number_title: 2020/1473 (OJ L334I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
+- whole_name: Abu-Malik al-Talli
+  strong: true
+  regulation_language: en
+  logical_id: '125942'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-13'
@@ -87,6 +78,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125948'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-13'
+    number_title: 2020/1473 (OJ L334I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
+- whole_name: Jamal Husayn Zayniyah
+  strong: true
+  regulation_language: en
+  logical_id: '125947'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-13'
@@ -103,6 +103,22 @@ citizenships:
     number_title: 2020/1473 (OJ L334I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
 birthdates:
+- birthdate: '1972-08-17'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 17
+  month_of_year: 8
+  year: 1972
+  city: Tell Mnin
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '125935'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-13'
+    number_title: 2020/1473 (OJ L334I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
 - birthdate: '1972-01-01'
   circa: false
   calendar_type: GREGORIAN
@@ -119,17 +135,17 @@ birthdates:
     publication_date: '2020-10-13'
     number_title: 2020/1473 (OJ L334I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
-- birthdate: '1972-08-17'
+- birthdate: '1972-01-01'
   circa: false
   calendar_type: GREGORIAN
-  day_of_month: 17
-  month_of_year: 8
+  day_of_month: 1
+  month_of_year: 1
   year: 1972
-  city: Benghazi
-  country_iso2_code: LY
-  country_description: LIBYA
+  city: Tell Mnin
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '125937'
+  logical_id: '125932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-13'
@@ -157,27 +173,11 @@ birthdates:
   day_of_month: 17
   month_of_year: 8
   year: 1972
-  city: Tell Mnin
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+  city: Benghazi
+  country_iso2_code: LY
+  country_description: LIBYA
   regulation_language: en
-  logical_id: '125935'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-10-13'
-    number_title: 2020/1473 (OJ L334I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
-- birthdate: '1972-01-01'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 1
-  month_of_year: 1
-  year: 1972
-  city: Tell Mnin
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
-  regulation_language: en
-  logical_id: '125932'
+  logical_id: '125937'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-13'
@@ -200,20 +200,20 @@ birthdates:
     number_title: 2020/1473 (OJ L334I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
 addresses:
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
-  regulation_language: en
-  logical_id: '125931'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-10-13'
-    number_title: 2020/1473 (OJ L334I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
 - city: Arsal, Bekaa
   country_iso2_code: LB
   country_description: LEBANON
   regulation_language: en
   logical_id: '125930'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-13'
+    number_title: 2020/1473 (OJ L334I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '125931'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-13'
@@ -230,21 +230,21 @@ identifications:
     publication_date: '2020-10-13'
     number_title: 2020/1473 (OJ L334I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
-- identification_type_code: passport
-  number: '3987189'
-  country_iso2_code: SY
-  regulation_language: en
-  logical_id: '125941'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-10-13'
-    number_title: 2020/1473 (OJ L334I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
 - identification_type_code: id
   number: '5877002'
   country_iso2_code: SY
   regulation_language: en
   logical_id: '125939'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-13'
+    number_title: 2020/1473 (OJ L334I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.334.01.0001.01.ENG&toc=OJ:L:2020:334I:TOC
+- identification_type_code: passport
+  number: '3987189'
+  country_iso2_code: SY
+  regulation_language: en
+  logical_id: '125941'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-13'

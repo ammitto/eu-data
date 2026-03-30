@@ -68,21 +68,21 @@ addresses:
     number_title: 2022/239 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0010.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
 identifications:
-- identification_type_code: other
-  number: 9MAKANAN034200
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '133392'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/239 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0010.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
 - identification_type_code: passport
   number: MB132403
   country_iso2_code: MM
   regulation_language: en
   logical_id: '133393'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/239 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0010.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- identification_type_code: other
+  number: 9MAKANAN034200
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '133392'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'

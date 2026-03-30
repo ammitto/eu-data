@@ -14,15 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Дмитрий
-  middle_name: Анатольевич
-  last_name: Медведев
-  whole_name: Дмитрий Анатольевич Медведев
+- first_name: Dmitry
+  middle_name: Anatolyevich
+  last_name: MEDVEDEV
+  whole_name: Dmitry Anatolyevich MEDVEDEV
+  function: Deputy Chairman of the Security Council of the Russian Federation
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '135806'
+  logical_id: '135807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'
@@ -39,16 +40,15 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/332 (OJ L53)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
-- first_name: Dmitry
-  middle_name: Anatolyevich
-  last_name: MEDVEDEV
-  whole_name: Dmitry Anatolyevich MEDVEDEV
-  function: Deputy Chairman of the Security Council of the Russian Federation
+- first_name: Дмитрий
+  middle_name: Анатольевич
+  last_name: Медведев
+  whole_name: Дмитрий Анатольевич Медведев
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '135807'
+  logical_id: '135806'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

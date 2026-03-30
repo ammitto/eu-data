@@ -47,20 +47,6 @@ name_aliases:
     publication_date: '2021-10-11'
     number_title: 2021/1791 (OJ L359I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
-- first_name: Виктор
-  middle_name: Анатольевич
-  last_name: МОЖЕЛЯНСКИЙ
-  whole_name: Виктор Анатольевич МОЖЕЛЯНСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '131596'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Viktor
   middle_name: Anatolyevich
   last_name: MOZHELIANSKIY
@@ -77,16 +63,21 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-citizenships:
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- first_name: Виктор
+  middle_name: Анатольевич
+  last_name: МОЖЕЛЯНСКИЙ
+  whole_name: Виктор Анатольевич МОЖЕЛЯНСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
   regulation_language: en
-  logical_id: '131594'
+  logical_id: '131596'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+citizenships:
 - country_iso2_code: UA
   country_description: UKRAINE
   regulation_language: en
@@ -96,6 +87,15 @@ citizenships:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '131594'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 birthdates:
 - birthdate: '1964-05-10'
   circa: false

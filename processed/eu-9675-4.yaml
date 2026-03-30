@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Алексей
-  middle_name: Сергеевич
-  last_name: БЕСПРОЗВАННЫХ
-  whole_name: Алексей Сергеевич БЕСПРОЗВАННЫХ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149701'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Alexey
   middle_name: Sergeevich
   last_name: BESPROZVANNYKH
@@ -50,6 +36,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151025'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Алексей
+  middle_name: Сергеевич
+  last_name: БЕСПРОЗВАННЫХ
+  whole_name: Алексей Сергеевич БЕСПРОЗВАННЫХ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149701'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

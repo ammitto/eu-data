@@ -28,16 +28,42 @@ name_aliases:
     publication_date: '2024-12-03'
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- first_name: Alexander
-  middle_name: Ivanovich
-  last_name: BASTRYKIN
-  whole_name: Alexander Ivanovich BASTRYKIN
-  function: Chairman of the Investigative Committee of the Russian Federation
+- first_name: Алексaндр
+  middle_name: Ивaнович
+  last_name: БАСТРЫКИН
+  whole_name: Алексaндр Ивaнович БАСТРЫКИН
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '127737'
+  logical_id: '127735'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- first_name: Александър
+  last_name: Бастрикин
+  whole_name: Александър Бастрикин
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '159025'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- first_name: Alexander
+  middle_name: Ivanovitj
+  last_name: BASTRYKIN
+  whole_name: Alexander Ivanovitj BASTRYKIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '128069'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-06'
@@ -58,41 +84,15 @@ name_aliases:
     number_title: 2023/2722 (OJ L05122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - first_name: Alexander
-  middle_name: Ivanovitj
+  middle_name: Ivanovich
   last_name: BASTRYKIN
-  whole_name: Alexander Ivanovitj BASTRYKIN
+  whole_name: Alexander Ivanovich BASTRYKIN
+  function: Chairman of the Investigative Committee of the Russian Federation
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '128069'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- first_name: Александър
-  last_name: Бастрикин
-  whole_name: Александър Бастрикин
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '159025'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- first_name: Алексaндр
-  middle_name: Ивaнович
-  last_name: БАСТРЫКИН
-  whole_name: Алексaндр Ивaнович БАСТРЫКИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '127735'
+  logical_id: '127737'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-06'

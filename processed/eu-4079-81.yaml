@@ -14,15 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: SON Chol-ju
-  function: Colonel General of the Korean People’s Army. Vice Director, Guidance Bureau
-    of the Korean People’s Army General Political Bureau and former Political Director
-    of the Air and Anti-Air Forces
+- whole_name: SON Chol Ju
   gender: M
-  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '108652'
+  logical_id: '112453'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
@@ -38,11 +34,15 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: SON Chol Ju
+- whole_name: SON Chol-ju
+  function: Colonel General of the Korean People’s Army. Vice Director, Guidance Bureau
+    of the Korean People’s Army General Political Bureau and former Political Director
+    of the Air and Anti-Air Forces
   gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '112453'
+  logical_id: '108652'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

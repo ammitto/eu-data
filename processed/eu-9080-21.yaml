@@ -15,6 +15,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ebrahim
+  last_name: KOUCHAKZAEI
+  whole_name: Ebrahim KOUCHAKZAEI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '145731'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-05'
+    number_title: 2024/1033 (OJ L05042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
+- first_name: Ebrahim
   last_name: KOCHZAI
   whole_name: Ebrahim KOCHZAI
   gender: M
@@ -38,19 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145733'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-05'
-    number_title: 2024/1033 (OJ L05042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
-- first_name: Ebrahim
-  last_name: KOUCHAKZAEI
-  whole_name: Ebrahim KOUCHAKZAEI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '145731'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-05'

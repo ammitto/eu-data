@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Společnost TD KAMA
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152520'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: ООО ТД "КАМА"
   name_language: RU
   strong: true
@@ -40,6 +30,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '140434'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Společnost TD KAMA
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152520'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

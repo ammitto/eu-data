@@ -23,20 +23,20 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Ribotos atsakomybės bendrovė (RAB) „Oskartour“
-  name_language: LT
+- whole_name: Oskartour LLC
   strong: true
   regulation_language: en
-  logical_id: '135508'
+  logical_id: '132121'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Oskartour LLC
+- whole_name: Ribotos atsakomybės bendrovė (RAB) „Oskartour“
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '132121'
+  logical_id: '135508'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

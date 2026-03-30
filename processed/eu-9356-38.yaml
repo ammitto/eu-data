@@ -14,23 +14,34 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Federalna Służba Nadzoru w zakresie Komunikacji, Informatyki i Środków
-    Masowego Przekazu
-  name_language: PL
+- whole_name: Serviciul Federal Rus de  Supraveghere a  Comunicațiilor,  Tehnologiei
+    Informației și  Mass-mediei
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '147729'
+  logical_id: '147861'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Rusijos federalinės ryšių, informacinių technologijų ir žiniasklaidos
-    priežiūros  tarnyba
-  name_language: LT
+- whole_name: Federale dienst voor toezicht op communicatie, informatietechnologiën
+    en massamedia
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '147950'
+  logical_id: '147901'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Federální služba pro dozor v oblasti telekomunikací, informačních technologií
+    a hromadných sdělovacích prostředků
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '147924'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -42,6 +53,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147932'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Rusijos federalinės ryšių, informacinių technologijų ir žiniasklaidos
+    priežiūros  tarnyba
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147950'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -122,6 +144,17 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Federalna Służba Nadzoru w zakresie Komunikacji, Informatyki i Środków
+    Masowego Przekazu
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '147729'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Servicio Federal de Supervisión de las Comunicaciones, las Tecnologías
     de la Información y los Medios de Comunicación de Rusia
   name_language: ES
@@ -150,39 +183,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147826'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Serviciul Federal Rus de  Supraveghere a  Comunicațiilor,  Tehnologiei
-    Informației și  Mass-mediei
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '147861'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Federale dienst voor toezicht op communicatie, informatietechnologiën
-    en massamedia
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '147901'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Federální služba pro dozor v oblasti telekomunikací, informačních technologií
-    a hromadných sdělovacích prostředků
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '147924'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

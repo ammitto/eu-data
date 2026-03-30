@@ -14,21 +14,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Het concern Mansudae Overseas Project
-  name_language: NL
+- whole_name: Mansudae Overseas Project Group of Companies
   strong: true
   regulation_language: en
-  logical_id: '143609'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Grupul  de întreprinderi din cadrul proiectului  Mansudae Overseas
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '143606'
+  logical_id: '113889'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
@@ -44,10 +33,21 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Mansudae Overseas Project Group of Companies
+- whole_name: Het concern Mansudae Overseas Project
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '113889'
+  logical_id: '143609'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: Grupul  de întreprinderi din cadrul proiectului  Mansudae Overseas
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '143606'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'

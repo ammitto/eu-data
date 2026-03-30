@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Javna delniška družba VAD
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '152543'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Společnost CJSC VAD
   name_language: CS
   strong: true
@@ -24,16 +34,16 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: AKCIONERNOE OBŠČESTVO VAD
-  name_language: SL
+- whole_name: АО «ВАД»
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '152544'
+  logical_id: '117800'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: CJSC VAD
   name_language: EN
   strong: true
@@ -54,39 +64,17 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: АО «ВАД»
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '117800'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Javna delniška družba VAD
+- whole_name: AKCIONERNOE OBŠČESTVO VAD
   name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '152543'
+  logical_id: '152544'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 addresses:
-- street: 122, Grazhdanskiy Prospect, suite 5, Liter A
-  city: St. Petersburg
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '195267'
-  regulation_language: en
-  logical_id: '117796'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - street: 133 Chernyshevskogo street
   city: Vologda
   region: Vologodskaya Oblast
@@ -95,6 +83,18 @@ addresses:
   zip_code: '160019'
   regulation_language: en
   logical_id: '117797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- street: 122, Grazhdanskiy Prospect, suite 5, Liter A
+  city: St. Petersburg
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '195267'
+  regulation_language: en
+  logical_id: '117796'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

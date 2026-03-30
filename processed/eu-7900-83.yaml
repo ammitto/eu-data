@@ -14,15 +14,29 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aleksandr
-  middle_name: Aleksandrovitj
-  last_name: OPRISJTJENKO
-  whole_name: Aleksandr Aleksandrovitj OPRISJTJENKO
+- first_name: Олександр
+  middle_name: Олександрович
+  last_name: ОПРИЩЕНКО
+  whole_name: Олександр Олександрович ОПРИЩЕНКО
   gender: M
-  name_language: SV
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '139358'
+  logical_id: '138262'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Александр
+  middle_name: Александрович
+  last_name: ОПРИЩЕНКО
+  whole_name: Александр Александрович ОПРИЩЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '138263'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -45,29 +59,15 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Александр
-  middle_name: Александрович
-  last_name: ОПРИЩЕНКО
-  whole_name: Александр Александрович ОПРИЩЕНКО
+- first_name: Aleksandr
+  middle_name: Aleksandrovitj
+  last_name: OPRISJTJENKO
+  whole_name: Aleksandr Aleksandrovitj OPRISJTJENKO
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '138263'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Олександр
-  middle_name: Олександрович
-  last_name: ОПРИЩЕНКО
-  whole_name: Олександр Олександрович ОПРИЩЕНКО
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '138262'
+  logical_id: '139358'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

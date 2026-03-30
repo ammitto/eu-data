@@ -14,28 +14,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Issam
-  last_name: SHAMMOUT
-  whole_name: Issam SHAMMOUT
-  function: Owner and chairman of the board of directors of the airline “Cham Wings”.
-    Head of the Shammout Group active in the automotive, steel, aviation, freight
-    forwarding, constructions, and real estate sectors.
+- whole_name: محمد عصام شموط
   gender: M
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '141889'
+  logical_id: '141884'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
     number_title: 2022/1275 (OJ L194)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0008.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
-- first_name: Mohammed Issam
+- first_name: Muhammad Essam
   last_name: Shammout
-  whole_name: Mohammed Issam Shammout
+  whole_name: Muhammad Essam Shammout
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '141888'
+  logical_id: '141885'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-26'
@@ -65,24 +61,28 @@ name_aliases:
     publication_date: '2023-05-26'
     number_title: 2023/1027 (OJ L139)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
-- first_name: Muhammad Essam
+- first_name: Mohammed Issam
   last_name: Shammout
-  whole_name: Muhammad Essam Shammout
+  whole_name: Mohammed Issam Shammout
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '141885'
+  logical_id: '141888'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-26'
     number_title: 2023/1027 (OJ L139)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
-- whole_name: محمد عصام شموط
+- first_name: Issam
+  last_name: SHAMMOUT
+  whole_name: Issam SHAMMOUT
+  function: Owner and chairman of the board of directors of the airline “Cham Wings”.
+    Head of the Shammout Group active in the automotive, steel, aviation, freight
+    forwarding, constructions, and real estate sectors.
   gender: M
-  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '141884'
+  logical_id: '141889'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

@@ -14,15 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Сергей Борисович КОРОЛЕВ
-  strong: true
-  regulation_language: en
-  logical_id: '143276'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Sergej Borisovitj KOROLEV
   name_language: SV
   strong: true
@@ -44,22 +35,16 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-birthdates:
-- birthdate: '1952-07-25'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 25
-  month_of_year: 7
-  year: 1952
-  country_iso2_code: '00'
-  country_description: UNKNOWN
+- whole_name: Сергей Борисович КОРОЛЕВ
+  strong: true
   regulation_language: en
-  logical_id: '143273'
+  logical_id: '143276'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+birthdates:
 - birthdate: '1952-11-09'
   circa: false
   calendar_type: GREGORIAN
@@ -70,6 +55,21 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '143274'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- birthdate: '1952-07-25'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 25
+  month_of_year: 7
+  year: 1952
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '143273'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

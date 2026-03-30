@@ -14,29 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Андрiй
-  middle_name: Федорович
-  last_name: СОПЕЛЬНИК
-  whole_name: Андрiй Федорович СОПЕЛЬНИК
+- first_name: Andrej
+  middle_name: Fjodorovitj
+  last_name: SOPELNIK
+  whole_name: Andrej Fjodorovitj SOPELNIK
   gender: M
-  name_language: UK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '139088'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Андрей
-  middle_name: Федорович
-  last_name: СОПЕЛЬНИК
-  whole_name: Андрей Федорович СОПЕЛЬНИК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '139089'
+  logical_id: '139640'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -58,15 +44,29 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Andrej
-  middle_name: Fjodorovitj
-  last_name: SOPELNIK
-  whole_name: Andrej Fjodorovitj SOPELNIK
+- first_name: Андрей
+  middle_name: Федорович
+  last_name: СОПЕЛЬНИК
+  whole_name: Андрей Федорович СОПЕЛЬНИК
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '139640'
+  logical_id: '139089'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Андрiй
+  middle_name: Федорович
+  last_name: СОПЕЛЬНИК
+  whole_name: Андрiй Федорович СОПЕЛЬНИК
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '139088'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

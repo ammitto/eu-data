@@ -14,10 +14,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abderahmane al Maghrebi
+- whole_name: Abou Abderahmane Sanhaji
   strong: true
   regulation_language: en
-  logical_id: '120831'
+  logical_id: '120835'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-08-20'
@@ -50,10 +50,10 @@ name_aliases:
     publication_date: '2019-08-20'
     number_title: 2019/1353 (OJ L217)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
-- whole_name: Abou Abderahmane Sanhaji
+- whole_name: Abderahmane al Maghrebi
   strong: true
   regulation_language: en
-  logical_id: '120835'
+  logical_id: '120831'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-08-20'
@@ -97,21 +97,21 @@ addresses:
     number_title: 2019/1353 (OJ L217)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
 identifications:
-- identification_type_code: id
-  number: AB704306
-  country_iso2_code: MA
-  regulation_language: en
-  logical_id: '120830'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-08-20'
-    number_title: 2019/1353 (OJ L217)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
 - identification_type_code: passport
   number: V06359364
   country_iso2_code: MA
   regulation_language: en
   logical_id: '120829'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-08-20'
+    number_title: 2019/1353 (OJ L217)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
+- identification_type_code: id
+  number: AB704306
+  country_iso2_code: MA
+  regulation_language: en
+  logical_id: '120830'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-08-20'

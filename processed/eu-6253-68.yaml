@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: 王明山
+  gender: M
+  name_language: ZH
+  strong: true
+  regulation_language: en
+  logical_id: '128239'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - first_name: Mingshan
   last_name: WANG
   whole_name: Mingshan WANG
@@ -33,17 +44,6 @@ name_aliases:
     publication_date: '2024-12-03'
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- whole_name: 王明山
-  gender: M
-  name_language: ZH
-  strong: true
-  regulation_language: en
-  logical_id: '128239'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 citizenships:
 - country_iso2_code: CN
   country_description: CHINA

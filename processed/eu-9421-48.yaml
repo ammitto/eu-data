@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Fabryka TUŁA
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '147745'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: ЗАВОД ТУЛА
   name_language: RU
   strong: true
@@ -38,6 +28,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147360'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Fabryka TUŁA
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '147745'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

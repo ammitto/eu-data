@@ -52,11 +52,11 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1965
+  year: 1957
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '145472'
+  logical_id: '145473'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'
@@ -64,11 +64,11 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
 - circa: false
   calendar_type: GREGORIAN
-  year: 1957
+  year: 1965
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '145473'
+  logical_id: '145472'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'

@@ -28,17 +28,6 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Viktorija Sergejevna RODINA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '144032'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Victoria
   middle_name: Sergeevna
   last_name: RODINA
@@ -48,6 +37,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Viktorija Sergejevna RODINA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '144032'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

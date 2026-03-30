@@ -14,16 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Grupo Vagner
-  name_language: ES
+- whole_name: Wagnergroep
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '132731'
+  logical_id: '149499'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2195 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+    publication_date: '2022-12-06'
+    number_title: 2022/2374 (OJ L314)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
 - whole_name: Africa Corps
   name_language: EN
   strong: true
@@ -64,6 +64,74 @@ name_aliases:
     publication_date: '2024-12-03'
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
+- whole_name: Vagner  Group
+  strong: true
+  regulation_language: en
+  logical_id: '132564'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2195 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+- whole_name: Wagner Group
+  strong: true
+  regulation_language: en
+  logical_id: '132565'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2195 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+- whole_name: групата „Вагнер“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '132727'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2195 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+- whole_name: Группа Вагнера
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '132728'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2195 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+- whole_name: ομάδα Vagner
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '132729'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2195 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+- whole_name: Ομάδα Wagner
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '132730'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2195 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+- whole_name: Grupo Vagner
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '132731'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2195 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
 - whole_name: Grupo Wagner
   name_language: ES
   strong: true
@@ -304,71 +372,3 @@ name_aliases:
     publication_date: '2022-12-06'
     number_title: 2022/2374 (OJ L314)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- whole_name: Wagnergroep
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '149499'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-06'
-    number_title: 2022/2374 (OJ L314)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- whole_name: Vagner  Group
-  strong: true
-  regulation_language: en
-  logical_id: '132564'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2195 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
-- whole_name: Wagner Group
-  strong: true
-  regulation_language: en
-  logical_id: '132565'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2195 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
-- whole_name: групата „Вагнер“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '132727'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2195 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
-- whole_name: Группа Вагнера
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '132728'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2195 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
-- whole_name: ομάδα Vagner
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '132729'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2195 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
-- whole_name: Ομάδα Wagner
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '132730'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2195 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC

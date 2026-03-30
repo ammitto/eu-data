@@ -15,20 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Александр
-  middle_name: Анатольевич
-  last_name: МАКСИМЦЕВ
-  whole_name: Александр Анатольевич МАКСИМЦЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '141842'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - first_name: Alexander
   middle_name: Anatolievich
   last_name: MAKSIMTSEV
@@ -54,6 +40,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142351'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- first_name: Александр
+  middle_name: Анатольевич
+  last_name: МАКСИМЦЕВ
+  whole_name: Александр Анатольевич МАКСИМЦЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '141842'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

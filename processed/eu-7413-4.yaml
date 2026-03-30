@@ -14,22 +14,32 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Sardana Vladimirovna GOGOLEVA
+- whole_name: Сардаана  Владимировна  Авксентьева
   gender: F
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '135919'
+  logical_id: '135516'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
     number_title: 2022/332 (OJ L53)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
-- whole_name: Сардана  Владимировна  Авксентьева
+- whole_name: Sardana Vladimirovna AVKSENTIEVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '135920'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/332 (OJ L53)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
+- whole_name: Sardana Vladimirovna GOGOLEVA
   gender: F
   strong: true
   regulation_language: en
-  logical_id: '135517'
+  logical_id: '135518'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -48,30 +58,20 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
 - whole_name: Sardana Vladimirovna GOGOLEVA
   gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '135518'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/332 (OJ L53)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
-- whole_name: Сардаана  Владимировна  Авксентьева
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '135516'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/332 (OJ L53)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
-- whole_name: Sardana Vladimirovna AVKSENTIEVA
-  gender: F
   name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '135920'
+  logical_id: '135919'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/332 (OJ L53)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
+- whole_name: Сардана  Владимировна  Авксентьева
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '135517'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

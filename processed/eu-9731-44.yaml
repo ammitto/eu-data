@@ -14,56 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Акционерное Общество "Аккумуляторная Компания "Ригель""
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149983'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Rigel
-  strong: true
-  regulation_language: en
-  logical_id: '149984'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Joint Stock Company "Battery Company "Rigel""
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149985'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Battery Company Rigel JSC
-  function: manufacturer of nickel-metal hydride and silver-zinc batteries
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149986'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: Société par actions Battery Company Rigel
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151109'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Producent Baterii Rigel S.A.
   name_language: PL
   strong: true
@@ -99,6 +49,56 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151333'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Battery Company Rigel JSC
+  function: manufacturer of nickel-metal hydride and silver-zinc batteries
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149986'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: Акционерное Общество "Аккумуляторная Компания "Ригель""
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149983'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Rigel
+  strong: true
+  regulation_language: en
+  logical_id: '149984'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Joint Stock Company "Battery Company "Rigel""
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149985'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Société par actions Battery Company Rigel
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151109'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

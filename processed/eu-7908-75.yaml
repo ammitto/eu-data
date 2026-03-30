@@ -14,6 +14,36 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Sergei
+  middle_name: Sergeevich
+  last_name: NAUMETS
+  whole_name: Sergei Sergeevich NAUMETS
+  function: Former so-called "Minister of Construction, Housing, and Communal Services"
+    of the so-called "Donetsk People’s Republic"
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138304'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Sergej
+  middle_name: Sergejevitj
+  last_name: NAUMETS
+  whole_name: Sergej Sergejevitj NAUMETS
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139374'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Сергiй
   middle_name: Сергiйович
   last_name: НАУМЕЦЬ
@@ -37,36 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138303'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Sergej
-  middle_name: Sergejevitj
-  last_name: NAUMETS
-  whole_name: Sergej Sergejevitj NAUMETS
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139374'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Sergei
-  middle_name: Sergeevich
-  last_name: NAUMETS
-  whole_name: Sergei Sergeevich NAUMETS
-  function: Former so-called "Minister of Construction, Housing, and Communal Services"
-    of the so-called "Donetsk People’s Republic"
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '138304'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

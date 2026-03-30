@@ -14,24 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Koryo Global Credit Bank
-  strong: true
-  regulation_language: en
-  logical_id: '113884'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-08-11'
-    number_title: 2017/1457 (OJ L208)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
-- whole_name: Koryo Global Trust Bank
-  strong: true
-  regulation_language: en
-  logical_id: '113883'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-08-11'
-    number_title: 2017/1457 (OJ L208)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
 - whole_name: Koryo Credit Development Bank
   function: Koryo Credit Development Bank operates in the financial services industry
     in the DPRK’s economy.
@@ -47,6 +29,24 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113885'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-08-11'
+    number_title: 2017/1457 (OJ L208)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
+- whole_name: Koryo Global Trust Bank
+  strong: true
+  regulation_language: en
+  logical_id: '113883'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-08-11'
+    number_title: 2017/1457 (OJ L208)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
+- whole_name: Koryo Global Credit Bank
+  strong: true
+  regulation_language: en
+  logical_id: '113884'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-11'

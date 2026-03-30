@@ -14,29 +14,43 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Олександр
-  middle_name: Федорович
-  last_name: САУЛЕНКО
-  whole_name: Олександр Федорович САУЛЕНКО
+- first_name: Aleksandr
+  middle_name: Fjodorovitj
+  last_name: SAULENKO
+  whole_name: Aleksandr Fjodorovitj SAULENKO
   gender: M
-  name_language: UK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '143264'
+  logical_id: '143263'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Alexander
+- first_name: Oleksandr
   middle_name: Fedorovich
   last_name: SAULENKO
-  whole_name: Alexander Fedorovich SAULENKO
+  whole_name: Oleksandr Fedorovich SAULENKO
   gender: M
-  name_language: SL
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152346'
+  logical_id: '143265'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Александр
+  middle_name: Федорович
+  last_name: САУЛЕНКО
+  whole_name: Александр Федорович САУЛЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '143266'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -58,48 +72,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Александр
-  middle_name: Федорович
-  last_name: САУЛЕНКО
-  whole_name: Александр Федорович САУЛЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '143266'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Oleksandr
-  middle_name: Fedorovich
-  last_name: SAULENKO
-  whole_name: Oleksandr Fedorovich SAULENKO
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '143265'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Aleksandr
-  middle_name: Fjodorovitj
-  last_name: SAULENKO
-  whole_name: Aleksandr Fjodorovitj SAULENKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143263'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Oleksandr
   middle_name: Fedorovytj
   last_name: SAULENKO
@@ -109,6 +81,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143262'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Alexander
+  middle_name: Fedorovich
+  last_name: SAULENKO
+  whole_name: Alexander Fedorovich SAULENKO
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '152346'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Олександр
+  middle_name: Федорович
+  last_name: САУЛЕНКО
+  whole_name: Олександр Федорович САУЛЕНКО
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '143264'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

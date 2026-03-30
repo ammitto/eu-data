@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ігар Анатольевіч  КРУЧКОЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '131961'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: Игорь  Анатольевич  КРЮЧКОВ
   gender: M
   name_language: RU
@@ -36,12 +25,22 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Igor Anatoljevitj KRJUTJKOV
+- whole_name: Ігар Анатольевіч  КРУЧКОЎ
   gender: M
-  name_language: SV
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '132325'
+  logical_id: '131961'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Igor Anatolevich KRIUCHKOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '131962'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -59,16 +58,6 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Igor Anatolevich KRIUCHKOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '131962'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: Ihar Anatolevič KRUČKOV
   gender: M
   name_language: SK
@@ -80,12 +69,12 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Ihar Anatoljevitj KRUTJKOU
+- whole_name: Igor Anatoljevitj KRJUTJKOV
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '132326'
+  logical_id: '132325'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -96,6 +85,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132323'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Ihar Anatoljevitj KRUTJKOU
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '132326'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

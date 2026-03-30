@@ -14,11 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Mjanmarské riaditeľstvo obranného priemyslu
-  name_language: SK
+- whole_name: Direção das Indústrias de  Defesa de Mianmar
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '150333'
+  logical_id: '150323'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Mianmari Védelmi Ipari Igazgatóság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '150340'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -34,11 +44,41 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Direcția Industriilor de Apărare din Myanmar/ Birmania
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '150320'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Myanmarské ředitelství obranného průmyslu
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '150330'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: Dirección de Industrias de  Defensa de Myanmar
   name_language: ES
   strong: true
   regulation_language: en
   logical_id: '150317'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Myanmari kaitsetööstuse direktoraat
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '150346'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -54,6 +94,16 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Mjanmas Aizsardzības rūpniecības direktorāts
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '150344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: Direzione delle industrie della difesa del Myanmar
   name_language: IT
   strong: true
@@ -64,41 +114,11 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Direktion  Verteidigungsindustrie  von Myanmar/Birma
-  name_language: DE
+- whole_name: Διεύθυνση Αμυντικών Βιομηχανιών της Μιανμάρ
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '150308'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Дирекция на отбранителната промишленост на Мианмар
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '150327'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Direção das Indústrias de  Defesa de Mianmar
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '150323'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Direcția Industriilor de Apărare din Myanmar/ Birmania
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '150320'
+  logical_id: '150337'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -134,51 +154,31 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Myanmari kaitsetööstuse direktoraat
-  name_language: ET
+- whole_name: Дирекция на отбранителната промишленост на Мианмар
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '150346'
+  logical_id: '150327'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Mjanmas Aizsardzības rūpniecības direktorāts
-  name_language: LV
+- whole_name: Mjanmarské riaditeľstvo obranného priemyslu
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '150344'
+  logical_id: '150333'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Mianmari Védelmi Ipari Igazgatóság
-  name_language: HU
+- whole_name: Direktion  Verteidigungsindustrie  von Myanmar/Birma
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '150340'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Διεύθυνση Αμυντικών Βιομηχανιών της Μιανμάρ
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '150337'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Myanmarské ředitelství obranného průmyslu
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '150330'
+  logical_id: '150308'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

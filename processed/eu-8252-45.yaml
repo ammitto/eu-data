@@ -14,21 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Faik Sameddin ogly MAMEDOV
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '141101'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Фаик Самеддин оглы МАМЕДОВ
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '140170'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Faik Samaddin MAMMADOV
+  strong: true
+  regulation_language: en
+  logical_id: '140171'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -46,10 +45,11 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Faik Samaddin MAMMADOV
+- whole_name: Faik Sameddin ogly MAMEDOV
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '140171'
+  logical_id: '141101'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

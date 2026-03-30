@@ -14,6 +14,31 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Aleksej Konstantinovič PUŠKOV
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '135409'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-23'
+    number_title: 2022/260 (OJ L42I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:042I:FULL&from=EN
+- first_name: Алексей
+  middle_name: Константинович
+  last_name: Пушков
+  whole_name: Алексей Константинович Пушков
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '135325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Aleksey
   middle_name: Konstantinovich
   last_name: PUSHKOV
@@ -40,31 +65,6 @@ name_aliases:
     publication_date: '2022-02-23'
     number_title: 2022/260 (OJ L42I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:042I:FULL&from=EN
-- whole_name: Aleksej Konstantinovič PUŠKOV
-  gender: M
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '135409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-23'
-    number_title: 2022/260 (OJ L42I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:042I:FULL&from=EN
-- first_name: Алексей
-  middle_name: Константинович
-  last_name: Пушков
-  whole_name: Алексей Константинович Пушков
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '135325'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
