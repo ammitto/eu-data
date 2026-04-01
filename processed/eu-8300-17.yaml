@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Όμιλος Εταιρειών JSC KRONSHTADT TEKHNOLOGII
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '152433'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Vennootschap op aandelen KRONSHTADT TEKHNOLOGII (concern)
   name_language: NL
   strong: true
@@ -54,6 +44,16 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Όμιλος Εταιρειών JSC KRONSHTADT TEKHNOLOGII
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '152433'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Gruppo di società JSC KRONSHTADT TEKHNOLOGII
   name_language: IT
   strong: true

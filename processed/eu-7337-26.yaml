@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vjatjeslav
-  middle_name: Aleksejevitj
-  last_name: NIKONOV
-  whole_name: Vjatjeslav Aleksejevitj NIKONOV
+- first_name: Вячеслав
+  middle_name: Алексеевич
+  last_name: НИКОНОВ
+  whole_name: Вячеслав Алексеевич НИКОНОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144065'
+  logical_id: '135086'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -43,15 +43,15 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Вячеслав
-  middle_name: Алексеевич
-  last_name: НИКОНОВ
-  whole_name: Вячеслав Алексеевич НИКОНОВ
+- first_name: Vjatjeslav
+  middle_name: Aleksejevitj
+  last_name: NIKONOV
+  whole_name: Vjatjeslav Aleksejevitj NIKONOV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '135086'
+  logical_id: '144065'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

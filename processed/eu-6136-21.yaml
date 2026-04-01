@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hosejn
-  last_name: Aštarí
-  whole_name: Hosejn Aštarí
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-03'
-    number_title: 2023/721 (OJ L94)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
 - first_name: Hossein
   last_name: ASHTARI
   whole_name: Hossein ASHTARI
@@ -37,6 +24,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127422'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-03'
+    number_title: 2023/721 (OJ L94)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0721
+- first_name: Hosejn
+  last_name: Aštarí
+  whole_name: Hosejn Aštarí
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152236'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-03'
@@ -55,11 +55,11 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  city: Ispahan
+  city: Isfahan
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '127418'
+  logical_id: '127420'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'
@@ -79,11 +79,11 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
 - circa: false
   calendar_type: GREGORIAN
-  city: Isfahan
+  city: Ispahan
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '127420'
+  logical_id: '127418'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'

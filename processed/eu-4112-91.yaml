@@ -15,6 +15,25 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Общество с ограниченной ответственностью ‘Внешнеэкономическое объединение
+    Технопромэкспорт’
+  strong: true
+  regulation_language: en
+  logical_id: '113797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-08-04'
+    number_title: 2017/1417 (OJ L203)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1417&qid=1502198727659&from=EN
+- whole_name: Limited Liability Company ‘Foreign Economic Association’ ‘Technopromexport’
+  strong: true
+  regulation_language: en
+  logical_id: '113798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-08-04'
+    number_title: 2017/1417 (OJ L203)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1417&qid=1502198727659&from=EN
 - whole_name: OOO ‘VO Technopromexport’ (OOO ‘VO TPE’)
   function: Owner of the gas turbines originally supplied by  Siemens Gas  Turbine
     Technologies OOO to OAO ‘VO TPE’. OOO ‘VO TPE’ transferred the  gas  turbines
@@ -30,25 +49,6 @@ name_aliases:
     publication_date: '2019-09-13'
     number_title: 2019/1403 (OJ L236)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:236:FULL&from=EN
-- whole_name: Limited Liability Company ‘Foreign Economic Association’ ‘Technopromexport’
-  strong: true
-  regulation_language: en
-  logical_id: '113798'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-08-04'
-    number_title: 2017/1417 (OJ L203)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1417&qid=1502198727659&from=EN
-- whole_name: Общество с ограниченной ответственностью ‘Внешнеэкономическое объединение
-    Технопромэкспорт’
-  strong: true
-  regulation_language: en
-  logical_id: '113797'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-08-04'
-    number_title: 2017/1417 (OJ L203)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1417&qid=1502198727659&from=EN
 addresses:
 - street: Novyi Arbat str., 15, building 2
   city: Moscow

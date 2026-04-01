@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Bihona-Hayi
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146099'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-08'
-    number_title: 2022/2397 (OJ L316-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
 - first_name: Justin
   last_name: BITAKWIRA
   whole_name: Justin BITAKWIRA
@@ -38,6 +28,16 @@ name_aliases:
     publication_date: '2023-12-12'
     number_title: 2023/2771 (OJ L11122013)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302771
+- whole_name: Bihona-Hayi
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146099'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-08'
+    number_title: 2022/2397 (OJ L316-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
 citizenships:
 - country_iso2_code: CD
   country_description: CONGO, Democratic Republic of (was Zaire)

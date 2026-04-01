@@ -14,24 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hasan
-  middle_name: Al-Salahayn Salih
-  last_name: Al-Sha'ari
-  whole_name: Hasan Al-Salahayn Salih Al-Sha'ari
+- whole_name: Hasan Abu Habib
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '107692'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Abu Habib al-Libi
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107759'
+  logical_id: '107758'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -50,11 +37,24 @@ name_aliases:
     publication_date: '2016-03-04'
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Hasan Abu Habib
+- first_name: Hasan
+  middle_name: Al-Salahayn Salih
+  last_name: Al-Sha'ari
+  whole_name: Hasan Al-Salahayn Salih Al-Sha'ari
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '107758'
+  logical_id: '107692'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Abu Habib al-Libi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107759'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -95,21 +95,21 @@ addresses:
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 identifications:
-- identification_type_code: id
-  number: '55252'
-  country_iso2_code: LY
-  regulation_language: en
-  logical_id: '107756'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 - identification_type_code: passport
   number: '542858'
   country_iso2_code: LY
   regulation_language: en
   logical_id: '107757'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- identification_type_code: id
+  number: '55252'
+  country_iso2_code: LY
+  regulation_language: en
+  logical_id: '107756'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

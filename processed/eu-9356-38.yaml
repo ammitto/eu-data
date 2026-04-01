@@ -14,6 +14,28 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Serviço Federal de Supervisão das Comunicações, das Tecnologias da Informação
+    e dos Meios de Comunicação de Massas,
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '147793'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Servicio Federal de Supervisión de las Comunicaciones, las Tecnologías
+    de la Información y los Medios de Comunicación de Rusia
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '147752'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Serviciul Federal Rus de  Supraveghere a  Comunicațiilor,  Tehnologiei
     Informației și  Mass-mediei
   name_language: RO
@@ -69,6 +91,39 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: A Kommunikáció, az Információtechnológia és a Tömegmédia Felügyeletéért
+    felelős Szövetségi Szolgálat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '147826'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Federalna Służba Nadzoru w zakresie Komunikacji, Informatyki i Środków
+    Masowego Przekazu
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '147729'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Service fédéral de supervision des communications, des technologies
+    de l’information et des médias de masse,
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '147695'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - whole_name: Роскомнадзор
   name_language: RU
   strong: true
@@ -128,61 +183,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147675'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Service fédéral de supervision des communications, des technologies
-    de l’information et des médias de masse,
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147695'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Federalna Służba Nadzoru w zakresie Komunikacji, Informatyki i Środków
-    Masowego Przekazu
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '147729'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Servicio Federal de Supervisión de las Comunicaciones, las Tecnologías
-    de la Información y los Medios de Comunicación de Rusia
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '147752'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Serviço Federal de Supervisão das Comunicações, das Tecnologias da Informação
-    e dos Meios de Comunicação de Massas,
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '147793'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: A Kommunikáció, az Információtechnológia és a Tömegmédia Felügyeletéért
-    felelős Szövetségi Szolgálat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '147826'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

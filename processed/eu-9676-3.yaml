@@ -14,19 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jekaterina
-  last_name: Prijezževová
-  whole_name: Jekaterina Prijezževová
+- first_name: Екатерина
+  middle_name: Геннадьевна
+  last_name: ПРИЕЗЖЕВА
+  whole_name: Екатерина Геннадьевна ПРИЕЗЖЕВА
   gender: F
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '169996'
+  logical_id: '149705'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Ekaterina
   middle_name: Gennadievna
   last_name: PRIEZZHEVA
@@ -42,20 +43,19 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Екатерина
-  middle_name: Геннадьевна
-  last_name: ПРИЕЗЖЕВА
-  whole_name: Екатерина Геннадьевна ПРИЕЗЖЕВА
+- first_name: Jekaterina
+  last_name: Prijezževová
+  whole_name: Jekaterina Prijezževová
   gender: F
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '149705'
+  logical_id: '169996'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Jekatěrina
   last_name: Prijezževa
   whole_name: Jekatěrina Prijezževa

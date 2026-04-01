@@ -14,22 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: U  Maung  Maung  Ohn
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '133397'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/239 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0010.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
 - whole_name: Maung  Maung  Ohn
   function: "Minister of Information \nsince 1 August 2021"
   gender: M
   strong: true
   regulation_language: en
   logical_id: '133398'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/239 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0010.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: U  Maung  Maung  Ohn
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '133397'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'

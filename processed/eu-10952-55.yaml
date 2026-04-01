@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aleksandr
-  last_name: BELOGLAZOV
-  whole_name: Aleksandr BELOGLAZOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160691'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Alexandre
   last_name: Beloglazov
   whole_name: Alexandre Beloglazov
@@ -35,6 +22,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160559'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Александър
+  last_name: Белоглазов
+  whole_name: Александър Белоглазов
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161245'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Aleksandr
+  last_name: BELOGLAZOV
+  whole_name: Aleksandr BELOGLAZOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160691'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -54,14 +67,14 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Александър
-  last_name: Белоглазов
-  whole_name: Александър Белоглазов
+- first_name: Александр
+  last_name: БЕЛОГЛАЗОВ
+  whole_name: Александр БЕЛОГЛАЗОВ
   gender: M
-  name_language: BG
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '161245'
+  logical_id: '159916'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -76,19 +89,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159917'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Александр
-  last_name: БЕЛОГЛАЗОВ
-  whole_name: Александр БЕЛОГЛАЗОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159916'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

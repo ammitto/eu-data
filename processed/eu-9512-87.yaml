@@ -15,20 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ivan
-  middle_name: Ivanavitj
-  last_name: HALAVATY
-  whole_name: Ivan Ivanavitj HALAVATY
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '148492'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Ivan
   middle_name: Ivanovitj
   last_name: GOLOVATYJ
   whole_name: Ivan Ivanovitj GOLOVATYJ
@@ -60,6 +46,17 @@ name_aliases:
     publication_date: '2025-02-25'
     number_title: 2025/386 (OJ L25022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
+- whole_name: Ivan GALAVATIJ
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '148491'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
 - first_name: Iван
   middle_name: Iванавiч
   last_name: ГАЛАВАТЫ
@@ -74,17 +71,20 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- whole_name: Ivan GALAVATIJ
+- first_name: Ivan
+  middle_name: Ivanavitj
+  last_name: HALAVATY
+  whole_name: Ivan Ivanavitj HALAVATY
   gender: M
-  name_language: SL
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '148491'
+  logical_id: '148492'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Ivan
   middle_name: Ivanovich
   last_name: GOLOVATY

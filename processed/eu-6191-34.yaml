@@ -56,11 +56,11 @@ name_aliases:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1971
+  year: 1973
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '129169'
+  logical_id: '129168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-06'
@@ -80,11 +80,11 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
 - circa: false
   calendar_type: GREGORIAN
-  year: 1973
+  year: 1971
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '129168'
+  logical_id: '129169'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-06'

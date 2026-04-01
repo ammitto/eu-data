@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "„CST” KFT."
-  name_language: HU
+- whole_name: ZALA Aero
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160964'
+  logical_id: '160001'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -45,6 +45,36 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: SOCIÉTÉ À RESPONSABILITÉ LIMITÉE “CST”
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160571'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: sociedad de responsabilidad limitada CST
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160706'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: "„CST” KFT."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160964'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Zala Aero Group
   name_language: EN
   strong: true
@@ -65,36 +95,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: ZALA Aero
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160001'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad de responsabilidad limitada CST
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160706'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: SOCIÉTÉ À RESPONSABILITÉ LIMITÉE “CST”
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 addresses:
 - city: UR, Izhevsk
   country_iso2_code: RU
@@ -108,21 +108,21 @@ addresses:
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 identifications:
-- identification_type_code: fiscalcode
-  number: '1841015504'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '173909'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - identification_type_code: regnumber
   number: '1101841007938'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '160000'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- identification_type_code: fiscalcode
+  number: '1841015504'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '173909'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

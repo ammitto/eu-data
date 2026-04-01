@@ -14,31 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Janvier Karahiri
-  last_name: BUINGO
-  whole_name: Janvier Karahiri BUINGO
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156576'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1564 (OJ L190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
-- first_name: Janvier
-  last_name: Karahiri
-  whole_name: Janvier Karahiri
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '156575'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1564 (OJ L190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
 - first_name: Janvier
   last_name: Karairi
   whole_name: Janvier Karairi
@@ -62,6 +37,31 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156577'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1564 (OJ L190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
+- first_name: Janvier Karahiri
+  last_name: BUINGO
+  whole_name: Janvier Karahiri BUINGO
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156576'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1564 (OJ L190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
+- first_name: Janvier
+  last_name: Karahiri
+  whole_name: Janvier Karahiri
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '156575'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

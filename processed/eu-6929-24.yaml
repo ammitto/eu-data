@@ -14,15 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Nu Mya Zan
-  function: |-
-    Deputy Minister for Religious Affairs and Culture (appointed on 2 February 2023).
-    Nominated as member of the Union Election Commission (UEC) on 26 February 2021.
+- whole_name: Daw Nu Mya Zan
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '133449'
+  logical_id: '133448'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'
@@ -39,12 +36,15 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1249 (OJ L29042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401249
-- whole_name: Daw Nu Mya Zan
+- whole_name: Nu Mya Zan
+  function: |-
+    Deputy Minister for Religious Affairs and Culture (appointed on 2 February 2023).
+    Nominated as member of the Union Election Commission (UEC) on 26 February 2021.
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '133448'
+  logical_id: '133449'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'

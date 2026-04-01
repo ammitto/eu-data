@@ -40,21 +40,6 @@ citizenships:
     number_title: 2021/480 (OJ L99I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0015.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 birthdates:
-- birthdate: '1961-05-05'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 5
-  month_of_year: 5
-  year: 1961
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '128201'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/480 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0015.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 - birthdate: '1961-05-04'
   circa: false
   calendar_type: GREGORIAN
@@ -65,6 +50,21 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '128202'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/480 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0015.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- birthdate: '1961-05-05'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 5
+  month_of_year: 5
+  year: 1961
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '128201'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'

@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Viktor
-  middle_name: Anatolyevich
-  last_name: SHEPTIY
-  whole_name: Viktor Anatolyevich SHEPTIY
-  function: member of the Federation Council
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146520'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Виктор
   middle_name: Анатольевич
   last_name: ШЕПТИЙ
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146519'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Viktor
+  middle_name: Anatolyevich
+  last_name: SHEPTIY
+  whole_name: Viktor Anatolyevich SHEPTIY
+  function: member of the Federation Council
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146520'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

@@ -14,6 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Leonid Wladimirowitsch MICHAILJUK
+  gender: M
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '131635'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
+- whole_name: Leonid Władimirowicz Michajluk
+  gender: M
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '131637'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 - whole_name: Леонид  Владимирович  МИХАЙЛЮК
   gender: M
   strong: true
@@ -36,34 +58,12 @@ name_aliases:
     publication_date: '2021-10-11'
     number_title: 2021/1791 (OJ L359I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
-- whole_name: Leonid Wladimirowitsch MICHAILJUK
-  gender: M
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '131635'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 - whole_name: Leonid Vladimirovitj Michajljuk
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '131636'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
-- whole_name: Leonid Władimirowicz Michajluk
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '131637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-10-11'

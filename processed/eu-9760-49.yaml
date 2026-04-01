@@ -14,11 +14,43 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ribotos atsakomybės bendrovė „United Machine-Building Group“
-  name_language: LT
+- whole_name: LLC "OMG"
+  function: a Russian industrial holding
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151304'
+  logical_id: '150159'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Limited Liability Company United Machine-Building Group
+  function: a Russian industrial holding
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150160'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Société à responsabilité limitée "Groupe uni de construction mécanique"
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151121'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Societatea cu răspundere limitată Grupul unit de construcții de mașini
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151256'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -29,6 +61,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: vennootschap met beperkte aansprakelijkheid Verenigde machinebouwgroep
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151205'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Ribotos atsakomybės bendrovė „United Machine-Building Group“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '151304'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -60,58 +112,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150158'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Societatea cu răspundere limitată Grupul unit de construcții de mașini
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151256'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Limited Liability Company United Machine-Building Group
-  function: a Russian industrial holding
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150160'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: LLC "OMG"
-  function: a Russian industrial holding
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150159'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société à responsabilité limitée "Groupe uni de construction mécanique"
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151121'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: vennootschap met beperkte aansprakelijkheid Verenigde machinebouwgroep
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '151205'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

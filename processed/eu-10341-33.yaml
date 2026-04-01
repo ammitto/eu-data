@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Лейла
+  middle_name: Ринатовна
+  last_name: ФАЗЛЕЕВА
+  whole_name: Лейла Ринатовна ФАЗЛЕЕВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '154616'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - first_name: Leyla
   middle_name: Rinatovna
   last_name: FAZLEEVA
@@ -26,20 +40,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '154617'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Лейла
-  middle_name: Ринатовна
-  last_name: ФАЗЛЕЕВА
-  whole_name: Лейла Ринатовна ФАЗЛЕЕВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '154616'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

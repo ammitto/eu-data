@@ -24,15 +24,6 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Korea Ansan SHPG CO
-  strong: true
-  regulation_language: en
-  logical_id: '143204'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 - whole_name: KOREA ANSAN SHPG COMPANY
   strong: true
   regulation_language: en
@@ -42,6 +33,15 @@ name_aliases:
     publication_date: '2018-04-09'
     number_title: 2018/548 (OJ L91)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0548&from=EN
+- whole_name: Korea Ansan SHPG CO
+  strong: true
+  regulation_language: en
+  logical_id: '143204'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 addresses:
 - street: Pyongchon 1-dong, Pyongchon-guyok
   city: Pyongyang

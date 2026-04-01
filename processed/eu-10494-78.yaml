@@ -14,18 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aleksandr
-  middle_name: Gennad'yevich
-  last_name: STARUNSKY
-  whole_name: Aleksandr Gennad'yevich STARUNSKY
-  function: |-
-    Russian military intelligence officer and former commander of GRU PsyOps unit 54777;
-    Founder of the Institute of the Russian Diaspora
+- first_name: Александр
+  middle_name: Геннадьевич
+  last_name: СТАРУНСКИЙ
+  whole_name: Александр Геннадьевич СТАРУНСКИЙ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '155795'
+  logical_id: '155794'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -72,15 +69,18 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Александр
-  middle_name: Геннадьевич
-  last_name: СТАРУНСКИЙ
-  whole_name: Александр Геннадьевич СТАРУНСКИЙ
+- first_name: Aleksandr
+  middle_name: Gennad'yevich
+  last_name: STARUNSKY
+  whole_name: Aleksandr Gennad'yevich STARUNSKY
+  function: |-
+    Russian military intelligence officer and former commander of GRU PsyOps unit 54777;
+    Founder of the Institute of the Russian Diaspora
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '155794'
+  logical_id: '155795'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

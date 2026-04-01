@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oleksandr
-  last_name: Janukovyč
-  whole_name: Oleksandr Janukovyč
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158314'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Ołeksandr
   last_name: Janukowycz
   whole_name: Ołeksandr Janukowycz
@@ -40,19 +27,20 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Alexandre
-  last_name: Ianoukovitch
-  whole_name: Alexandre Ianoukovitch
+- first_name: Олександр
+  middle_name: Вiкторович
+  last_name: ЯНУКОВИЧ
+  whole_name: Олександр Вiкторович ЯНУКОВИЧ
   gender: M
-  name_language: FR
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '158180'
+  logical_id: '143349'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+    publication_date: '2022-08-04'
+    number_title: 2022/1354 (OJ L204I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.204.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A204I%3ATOC
 - whole_name: Oleksandr Viktorovič JANUKOVIČ
   gender: M
   name_language: SL
@@ -64,6 +52,45 @@ name_aliases:
     publication_date: '2022-08-04'
     number_title: 2022/1354 (OJ L204I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.204.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A204I%3ATOC
+- first_name: Olexandr
+  last_name: Janukovyč
+  whole_name: Olexandr Janukovyč
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158459'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Александър
+  last_name: Янукович
+  whole_name: Александър Янукович
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '158315'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Oleksandr
+  last_name: Janukovyč
+  whole_name: Oleksandr Janukovyč
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158314'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Oleksandr
   middle_name: Viktorovych
   last_name: YANUKOVYCH
@@ -81,41 +108,14 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Олександр
-  middle_name: Вiкторович
-  last_name: ЯНУКОВИЧ
-  whole_name: Олександр Вiкторович ЯНУКОВИЧ
+- first_name: Alexandre
+  last_name: Ianoukovitch
+  whole_name: Alexandre Ianoukovitch
   gender: M
-  name_language: UK
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '143349'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-04'
-    number_title: 2022/1354 (OJ L204I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.204.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A204I%3ATOC
-- first_name: Александър
-  last_name: Янукович
-  whole_name: Александър Янукович
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '158315'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Olexandr
-  last_name: Janukovyč
-  whole_name: Olexandr Janukovyč
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '158459'
+  logical_id: '158180'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

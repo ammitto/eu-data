@@ -24,11 +24,11 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: închisoarea centrală Sanandaj
-  name_language: RO
+- whole_name: Sanandaj centrālcietums
+  name_language: LV
   strong: true
   regulation_language: en
-  logical_id: '157870'
+  logical_id: '157947'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
@@ -39,6 +39,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157877'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: prigione centrale di Sanandaj
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '157799'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Prisión Central de Sanandaj
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '157804'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
@@ -74,16 +94,6 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Zentralgefängnis Sanandaj
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '157786'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
 - whole_name: centrale gevangenis van Sanandaj
   name_language: NL
   strong: true
@@ -104,11 +114,11 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Príosún Lárnach Sanandaj
-  name_language: GA
+- whole_name: Sanandaj keskvangla
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '157966'
+  logical_id: '157959'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
@@ -165,21 +175,11 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: prigione centrale di Sanandaj
-  name_language: IT
+- whole_name: Zentralgefängnis Sanandaj
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '157799'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Prisión Central de Sanandaj
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '157804'
+  logical_id: '157786'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'
@@ -214,6 +214,16 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
+- whole_name: Príosún Lárnach Sanandaj
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '157966'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-15'
+    number_title: 2023/1779 (OJ L228 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
 - whole_name: Sanandadžo centrinis kalėjimas
   name_language: LT
   strong: true
@@ -224,21 +234,11 @@ name_aliases:
     publication_date: '2023-09-15'
     number_title: 2023/1779 (OJ L228 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Sanandaj centrālcietums
-  name_language: LV
+- whole_name: închisoarea centrală Sanandaj
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '157947'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-15'
-    number_title: 2023/1779 (OJ L228 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2023_228_I_0001
-- whole_name: Sanandaj keskvangla
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '157959'
+  logical_id: '157870'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-15'

@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jelena
-  middle_name: Aleksejevna
-  last_name: PERMINOVA
-  whole_name: Jelena Aleksejevna PERMINOVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '137286'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Елена
   middle_name: Алексеевна
   last_name: ПЕРМИНОВА
@@ -52,6 +38,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '137126'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Jelena
+  middle_name: Aleksejevna
+  last_name: PERMINOVA
+  whole_name: Jelena Aleksejevna PERMINOVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137286'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

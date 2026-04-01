@@ -14,14 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Marina
-  last_name: Mordašovová
-  whole_name: Marina Mordašovová
+- first_name: Марина
+  middle_name: Александровна
+  last_name: МОРДАШОВА
+  whole_name: Марина Александровна МОРДАШОВА
   gender: F
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '152197'
+  logical_id: '140487'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -46,15 +47,14 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Марина
-  middle_name: Александровна
-  last_name: МОРДАШОВА
-  whole_name: Марина Александровна МОРДАШОВА
+- first_name: Marina
+  last_name: Mordašovová
+  whole_name: Marina Mordašovová
   gender: F
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '140487'
+  logical_id: '152197'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

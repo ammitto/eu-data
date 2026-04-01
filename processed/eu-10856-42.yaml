@@ -25,19 +25,6 @@ name_aliases:
     publication_date: '2023-12-11'
     number_title: 2023/2793 (OJ L11122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
-- first_name: Hádí
-  last_name: Zahourian
-  whole_name: Hádí Zahourian
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '159285'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-11'
-    number_title: 2023/2793 (OJ L11122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
 - first_name: Hadi
   last_name: ZAHOURIAN
   whole_name: Hadi ZAHOURIAN
@@ -47,6 +34,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159177'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-11'
+    number_title: 2023/2793 (OJ L11122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
+- first_name: Hádí
+  last_name: Zahourian
+  whole_name: Hádí Zahourian
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '159285'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'

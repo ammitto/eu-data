@@ -24,21 +24,11 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Hírközlést Szabályozó Hatóság
+- whole_name: Hírközlési Szabályozó Hatóság
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '148831'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: ρυθμιστική αρχή επικοινωνιών
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '148646'
+  logical_id: '148832'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -48,16 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Autorité de régulation des communications
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '148625'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -83,6 +63,26 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Autoridad Reguladora de la Comunicación
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '148689'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: ρυθμιστική αρχή επικοινωνιών
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '148646'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Urząd ds. Regulacji Komunikacji
   name_language: PL
   strong: true
@@ -98,26 +98,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148668'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Autoridad Reguladora de la Comunicación
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '148689'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Kommunikationsreguleringsmyndigheden
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '148758'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -153,6 +133,16 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Autorité de régulation des communications
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '148625'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: سازمان تنظیم مقررات ارتباطات
   name_language: FA
   strong: true
@@ -167,16 +157,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148411'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Hírközlési Szabályozó Hatóság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '148832'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -197,6 +177,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148923'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Kommunikationsreguleringsmyndigheden
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '148758'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Hírközlést Szabályozó Hatóság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '148831'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

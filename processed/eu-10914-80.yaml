@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ilja
+  middle_name: Nikolajevitj
+  last_name: KURILOV
+  whole_name: Ilja Nikolajevitj KURILOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160656'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Iľja
   last_name: Kurilov
   whole_name: Iľja Kurilov
@@ -40,30 +54,14 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Ilya
-  middle_name: Nikolaevich
-  last_name: KURILOV
-  whole_name: Ilya Nikolaevich KURILOV
-  function: Director, Imperial Tula Arms Plant
+- first_name: Иля
+  last_name: Курилов
+  whole_name: Иля Курилов
   gender: M
-  name_language: EN
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '159690'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Ilja
-  middle_name: Nikolajevitj
-  last_name: KURILOV
-  whole_name: Ilja Nikolajevitj KURILOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160656'
+  logical_id: '161229'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -83,14 +81,16 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Иля
-  last_name: Курилов
-  whole_name: Иля Курилов
+- first_name: Ilya
+  middle_name: Nikolaevich
+  last_name: KURILOV
+  whole_name: Ilya Nikolaevich KURILOV
+  function: Director, Imperial Tula Arms Plant
   gender: M
-  name_language: BG
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161229'
+  logical_id: '159690'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

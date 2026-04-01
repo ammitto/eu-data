@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Legión Imperial
-  name_language: ES
+- whole_name: Ruská  imperiálna légia
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '147785'
+  logical_id: '148132'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -34,21 +34,31 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Legión Imperial Rusa
+- whole_name: Legión Imperial
   name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '147787'
+  logical_id: '147785'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ruská  imperiálna légia
-  name_language: SK
+- whole_name: Legión Imperial de San  Petersburgo
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '148132'
+  logical_id: '147786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Legión Imperial Rusa
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '147787'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -69,16 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147689'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Legião  Imperial Russa
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '147819'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -114,6 +114,16 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ruska imperialna legija
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '148142'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Leġjun  Imperjali Russu
   name_language: MT
   strong: true
@@ -124,11 +134,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ruska imperialna legija
-  name_language: SL
+- whole_name: Venäjän keisarillinen  legioona
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '148142'
+  logical_id: '148051'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -159,16 +169,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148044'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Venäjän keisarillinen  legioona
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '148051'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -251,11 +251,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Legión Imperial de San  Petersburgo
-  name_language: ES
+- whole_name: Legião  Imperial Russa
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '147786'
+  logical_id: '147819'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

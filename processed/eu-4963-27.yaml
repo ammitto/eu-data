@@ -14,27 +14,78 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Khalid Bassam
-  last_name: Zubaidi
-  whole_name: Khalid Bassam Zubaidi
+- first_name: Mohammed Khaled
+  last_name: al-Zubedi
+  whole_name: Mohammed Khaled al-Zubedi
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '119320'
+  logical_id: '119329'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khalid Bassam
+- first_name: Mohammed Khaled
+  last_name: Zubaidi
+  whole_name: Mohammed Khaled Zubaidi
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '119328'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Mohammed Khaled
   last_name: Zubedi
-  whole_name: Khalid Bassam Zubedi
+  whole_name: Mohammed Khaled Zubedi
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '119319'
+  logical_id: '119327'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khalid
+  last_name: Zubedi
+  whole_name: Khalid Zubedi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119323'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khalid
+  last_name: al-Zubedi
+  whole_name: Khalid al-Zubedi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khalid
+  last_name: Zubaidi
+  whole_name: Khalid Zubaidi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119324'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -92,6 +143,32 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khalid
+  last_name: al-Zubaidi
+  whole_name: Khalid al-Zubaidi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119326'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khalid Bassam
+  last_name: al-Zubaidi
+  whole_name: Khalid Bassam al-Zubaidi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119322'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Khalid Bassam
   last_name: al-Zubedi
   whole_name: Khalid Bassam al-Zubedi
@@ -100,6 +177,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '119321'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khalid Bassam
+  last_name: Zubaidi
+  whole_name: Khalid Bassam Zubaidi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119320'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khalid Bassam
+  last_name: Zubedi
+  whole_name: Khalid Bassam Zubedi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119319'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -133,14 +236,27 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khaled
-  last_name: Zubaidi
-  whole_name: Khaled Zubaidi
+- first_name: Mohammed Khaled
+  last_name: al-Zubaidi
+  whole_name: Mohammed Khaled al-Zubaidi
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '119333'
+  logical_id: '119330'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khaled
+  last_name: al-Zubedi
+  whole_name: Khaled al-Zubedi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119331'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -160,129 +276,13 @@ name_aliases:
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Khaled
-  last_name: al-Zubedi
-  whole_name: Khaled al-Zubedi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119331'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Mohammed Khaled
-  last_name: al-Zubaidi
-  whole_name: Mohammed Khaled al-Zubaidi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119330'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khalid Bassam
-  last_name: al-Zubaidi
-  whole_name: Khalid Bassam al-Zubaidi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119322'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khalid
-  last_name: Zubedi
-  whole_name: Khalid Zubedi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119323'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khalid
   last_name: Zubaidi
-  whole_name: Khalid Zubaidi
+  whole_name: Khaled Zubaidi
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '119324'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khalid
-  last_name: al-Zubedi
-  whole_name: Khalid al-Zubedi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119325'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khalid
-  last_name: al-Zubaidi
-  whole_name: Khalid al-Zubaidi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119326'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Mohammed Khaled
-  last_name: Zubedi
-  whole_name: Mohammed Khaled Zubedi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119327'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Mohammed Khaled
-  last_name: Zubaidi
-  whole_name: Mohammed Khaled Zubaidi
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '119328'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Mohammed Khaled
-  last_name: al-Zubedi
-  whole_name: Mohammed Khaled al-Zubedi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119329'
+  logical_id: '119333'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

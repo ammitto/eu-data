@@ -14,32 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Anton Olegovitj JELIZAROV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151152'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Anton
-  middle_name: Olegovich
-  last_name: ELIZAROV
-  whole_name: Anton Olegovich ELIZAROV
-  function: Military commander of the Wagner Group
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150692'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Anton
   middle_name: Olegovich
   last_name: YELIZAROV
@@ -63,6 +37,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150690'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Anton Olegovitj JELIZAROV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151152'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Anton
+  middle_name: Olegovich
+  last_name: ELIZAROV
+  whole_name: Anton Olegovich ELIZAROV
+  function: Military commander of the Wagner Group
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150692'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: سازمان صدا و سيمای جمهوری اسلامی ايران
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '146481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2428 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
 - whole_name: Az Iráni Iszlám Köztársaság Műsorszolgáltatási Hatósága
   name_language: HU
   strong: true
@@ -157,6 +147,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146482'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2428 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: سازمان صدا و سيمای جمهوری اسلامی ايران
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '146481'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'

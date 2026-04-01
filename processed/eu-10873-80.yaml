@@ -111,17 +111,6 @@ birthdates:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 addresses:
-- street: Malija  97
-  country_iso2_code: SI
-  country_description: SLOVENIA
-  zip_code: '6310'
-  regulation_language: en
-  logical_id: '159350'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - street: Balaklavskiy Prospect 16
   city: Moscow
   country_iso2_code: RU
@@ -134,22 +123,33 @@ addresses:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-identifications:
-- identification_type_code: passport
-  number: '764101287'
-  country_iso2_code: RU
+- street: Malija  97
+  country_iso2_code: SI
+  country_description: SLOVENIA
+  zip_code: '6310'
   regulation_language: en
-  logical_id: '159352'
+  logical_id: '159350'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+identifications:
 - identification_type_code: fiscalcode
   number: '773501047190'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '159351'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- identification_type_code: passport
+  number: '764101287'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '159352'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

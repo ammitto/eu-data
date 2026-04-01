@@ -14,11 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Andrej Anatoljevitj ANIKEJEV
-  name_language: SV
+- first_name: Андрей
+  middle_name: Анатольевич
+  last_name: АНИКЕЕВ
+  whole_name: Андрей Анатольевич АНИКЕЕВ
+  gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144006'
+  logical_id: '134510'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -38,15 +42,11 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Андрей
-  middle_name: Анатольевич
-  last_name: АНИКЕЕВ
-  whole_name: Андрей Анатольевич АНИКЕЕВ
-  gender: M
-  name_language: RU
+- whole_name: Andrej Anatoljevitj ANIKEJEV
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '134510'
+  logical_id: '144006'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

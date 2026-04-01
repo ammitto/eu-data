@@ -14,34 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aleh
-  middle_name: Leanidavitj
-  last_name: SLIZJEUSKI
-  whole_name: Aleh Leanidavitj SLIZJEUSKI
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127945'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Oleg
-  middle_name: Leonidovitj
-  last_name: SLIZJEVSKIJ
-  whole_name: Oleg Leonidovitj SLIZJEVSKIJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127944'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Oleg
   middle_name: Leonidovich
   last_name: SLIZHEVSKI
@@ -96,6 +68,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125570'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Oleg
+  middle_name: Leonidovitj
+  last_name: SLIZJEVSKIJ
+  whole_name: Oleg Leonidovitj SLIZJEVSKIJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '127944'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Aleh
+  middle_name: Leanidavitj
+  last_name: SLIZJEUSKI
+  whole_name: Aleh Leanidavitj SLIZJEUSKI
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '127945'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

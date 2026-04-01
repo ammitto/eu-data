@@ -43,6 +43,26 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2229 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: zakłady przemysłu lotniczego Qods
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '145959'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Indústrias de Aviação Qods
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '145954'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
 - whole_name: Въздухоплавателни индустрии Qods
   name_language: BG
   strong: true
@@ -98,26 +118,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145953'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Indústrias de Aviação Qods
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '145954'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: zakłady przemysłu lotniczego Qods
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '145959'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

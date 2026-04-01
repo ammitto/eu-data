@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Igor
-  middle_name: Nikolajevitj
-  last_name: CHALEPA
-  whole_name: Igor Nikolajevitj CHALEPA
+- first_name: Iгор
+  middle_name: Миколайович
+  last_name: ХАЛЕПА
+  whole_name: Iгор Миколайович ХАЛЕПА
   gender: M
-  name_language: SV
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '139372'
+  logical_id: '138297'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -44,15 +44,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Iгор
-  middle_name: Миколайович
-  last_name: ХАЛЕПА
-  whole_name: Iгор Миколайович ХАЛЕПА
+- first_name: Igor
+  middle_name: Nikolajevitj
+  last_name: CHALEPA
+  whole_name: Igor Nikolajevitj CHALEPA
   gender: M
-  name_language: UK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '138297'
+  logical_id: '139372'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

@@ -14,21 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Société par actions Entreprise automobile OURAL
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147706'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: JSC automobielfabriek URAL
   name_language: NL
   strong: true
   regulation_language: en
   logical_id: '147908'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Automobilių gamykla URAL
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147971'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: АО Автомобильный завод 'УРАЛ'
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147169'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -44,11 +54,21 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: АО Автомобильный завод 'УРАЛ'
-  name_language: RU
+- whole_name: Fabrica de automobile «URAL» SA
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '147169'
+  logical_id: '147874'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: URAL Autógyár Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '147838'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -65,26 +85,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Automobilių gamykla URAL
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147971'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Planta de Automoción  URAL
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '147766'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Fábrica de  Automóveis URAL SA
   name_language: PT
   strong: true
@@ -95,21 +95,21 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: URAL Autógyár Rt.
-  name_language: HU
+- whole_name: Planta de Automoción  URAL
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '147838'
+  logical_id: '147766'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Fabrica de automobile «URAL» SA
-  name_language: RO
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Société par actions Entreprise automobile OURAL
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '147874'
+  logical_id: '147706'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

@@ -14,15 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vasilij
-  middle_name: Petrovitj
-  last_name: TONKOSJKUROV
-  whole_name: Vasilij Petrovitj TONKOSJKUROV
+- first_name: Vasily
+  middle_name: Petrovich
+  last_name: TONKOSHKUROV
+  whole_name: Vasily Petrovich TONKOSHKUROV
+  function: First Deputy Chairman of the Board of the Military Industrial Commission
+    of the Russian Federation
   gender: M
-  name_language: SV
+  title: Colonel General
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160689'
+  logical_id: '159905'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -42,18 +45,28 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vasily
-  middle_name: Petrovich
-  last_name: TONKOSHKUROV
-  whole_name: Vasily Petrovich TONKOSHKUROV
-  function: First Deputy Chairman of the Board of the Military Industrial Commission
-    of the Russian Federation
+- first_name: Vasilij
+  last_name: Tonkoškurov
+  whole_name: Vasilij Tonkoškurov
   gender: M
-  title: Colonel General
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '159905'
+  logical_id: '160928'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Vasilij
+  middle_name: Petrovitj
+  last_name: TONKOSJKUROV
+  whole_name: Vasilij Petrovitj TONKOSJKUROV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160689'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -66,19 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160927'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vasilij
-  last_name: Tonkoškurov
-  whole_name: Vasilij Tonkoškurov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160928'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

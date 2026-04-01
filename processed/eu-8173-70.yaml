@@ -14,6 +14,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: АО “ОДК-Климов”
+  strong: true
+  regulation_language: en
+  logical_id: '139874'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - whole_name: JSC UEC Klimov
   function: producer of gas-turbine engines for military and civil aircraft
   name_language: EN
@@ -30,15 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139873'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: АО “ОДК-Климов”
-  strong: true
-  regulation_language: en
-  logical_id: '139874'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

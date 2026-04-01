@@ -14,10 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: National Security Agency of the Government of Eritrea
+- whole_name: Ufficio per la sicurezza nazionale del governo dell’Eritrea
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '128889'
+  logical_id: '128949'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: Agenzia per la sicurezza nazionale del governo dell’Eritrea
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '128948'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: Bureau national de sécurité du gouvernement érythréen
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '128951'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'
@@ -148,6 +169,24 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128928'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: National Security Agency of the Government of Eritrea
+  strong: true
+  regulation_language: en
+  logical_id: '128889'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: National Security Office of the Government of Eritrea
+  strong: true
+  regulation_language: en
+  logical_id: '128890'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'
@@ -343,50 +382,11 @@ name_aliases:
     publication_date: '2021-03-22'
     number_title: 2021/478 (OJ L99I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Agenzia per la sicurezza nazionale del governo dell’Eritrea
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '128948'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Ufficio per la sicurezza nazionale del governo dell’Eritrea
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '128949'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 - whole_name: Agence nationale de sécurité du gouvernement érythréen
   name_language: FR
   strong: true
   regulation_language: en
   logical_id: '128950'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Bureau national de sécurité du gouvernement érythréen
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '128951'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: National Security Office of the Government of Eritrea
-  strong: true
-  regulation_language: en
-  logical_id: '128890'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'

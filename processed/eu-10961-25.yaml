@@ -54,11 +54,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Permská prachárna
-  name_language: CS
+- whole_name: Permi Robbanóanyaggyár Szövetségi Állami Vállalat
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '160950'
+  logical_id: '160951'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -74,11 +74,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Permi Robbanóanyaggyár Szövetségi Állami Vállalat
-  name_language: HU
+- whole_name: Fiontar Stáit Chónaidhme PERM POWDER PLANT
+  name_language: GL
   strong: true
   regulation_language: en
-  logical_id: '160951'
+  logical_id: '161236'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -104,21 +104,21 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Fiontar Stáit Chónaidhme PERM POWDER PLANT
-  name_language: GL
-  strong: true
-  regulation_language: en
-  logical_id: '161236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Federálny štátny podnik Perm Powder Plant
   name_language: SK
   strong: true
   regulation_language: en
   logical_id: '160949'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Permská prachárna
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160950'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Natalia Mikhailovna  BUGUK
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '129771'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-28'
+    number_title: 2023/419 (OJ L61)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
 - whole_name: Наталля  Міхайлаўна  БУГУК
   gender: F
   name_language: BE
@@ -36,28 +47,6 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Natallja Michajlauna BUHUK
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130653'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Natalja Michajlovna BUGUK
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130652'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Natallia Mikhailauna  BUHUK
   function: judge of the Minsk City Court, former judge at the Fruzensky district
     court in Minsk
@@ -71,17 +60,28 @@ name_aliases:
     publication_date: '2023-02-28'
     number_title: 2023/419 (OJ L61)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
-- whole_name: Natalia Mikhailovna  BUGUK
+- whole_name: Natalja Michajlovna BUGUK
   gender: F
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '129771'
+  logical_id: '130652'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-02-28'
-    number_title: 2023/419 (OJ L61)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Natallja Michajlauna BUHUK
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130653'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

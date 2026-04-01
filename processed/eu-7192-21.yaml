@@ -14,48 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ольга
-  middle_name: Николаевна
-  last_name: ЗАНКО
-  whole_name: Ольга Николаевна ЗАНКО
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '151860'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Ольга
-  middle_name: Николаевна
-  last_name: АМЕЛЬЧЕНКОВА
-  whole_name: Ольга Николаевна АМЕЛЬЧЕНКОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '134506'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Olga
-  middle_name: Nikolajevna
-  last_name: AMELTJENKOVA
-  whole_name: Olga Nikolajevna AMELTJENKOVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '144005'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Olga
   middle_name: Nikolajevna
   last_name: ZANKO
@@ -65,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151862'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Ольга
+  middle_name: Николаевна
+  last_name: ЗАНКО
+  whole_name: Ольга Николаевна ЗАНКО
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '151860'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -85,6 +57,20 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Olga
+  middle_name: Nikolajevna
+  last_name: AMELTJENKOVA
+  whole_name: Olga Nikolajevna AMELTJENKOVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '144005'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Olga
   middle_name: Nikolaevna
   last_name: AMELCHENKOVA
   whole_name: Olga Nikolaevna AMELCHENKOVA
@@ -99,6 +85,20 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Ольга
+  middle_name: Николаевна
+  last_name: АМЕЛЬЧЕНКОВА
+  whole_name: Ольга Николаевна АМЕЛЬЧЕНКОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '134506'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 birthdates:
 - birthdate: '1990-09-05'
   circa: false

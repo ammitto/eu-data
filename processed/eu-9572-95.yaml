@@ -16,6 +16,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: ISIL-jugovzhodna Azija
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '149165'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-06'
+    number_title: 2023/249 (OJ L34I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
+- whole_name: Islamska država Iraka in Levanta v jugovzhodni Aziji
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '149166'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-06'
+    number_title: 2023/249 (OJ L34I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
 - whole_name: ИДИЛ — Югоизточна Азия
   name_language: BG
   strong: true
@@ -106,11 +126,11 @@ name_aliases:
     publication_date: '2023-02-06'
     number_title: 2023/249 (OJ L34I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
-- whole_name: Estado Islámico de Irak y el Levante en el Sudeste Asiático
-  name_language: ES
+- whole_name: Vzhodnoazijska divizija Islamske države
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '149140'
+  logical_id: '149164'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-06'
@@ -126,11 +146,11 @@ name_aliases:
     publication_date: '2023-02-06'
     number_title: 2023/249 (OJ L34I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
-- whole_name: Islamska država Iraka in Levanta v jugovzhodni Aziji
-  name_language: SL
+- whole_name: ISIL-Oirdheisceart na hÁise
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '149166'
+  logical_id: '149142'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-06'
@@ -346,26 +366,6 @@ name_aliases:
     publication_date: '2023-02-06'
     number_title: 2023/249 (OJ L34I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
-- whole_name: Vzhodnoazijska divizija Islamske države
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '149164'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-06'
-    number_title: 2023/249 (OJ L34I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
-- whole_name: ISIL-jugovzhodna Azija
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '149165'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-06'
-    number_title: 2023/249 (OJ L34I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
 - whole_name: Ислямска държава — Източна Азия
   name_language: BG
   strong: true
@@ -421,11 +421,11 @@ name_aliases:
     publication_date: '2023-02-06'
     number_title: 2023/249 (OJ L34I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.034.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A034I%3ATOC
-- whole_name: ISIL-Oirdheisceart na hÁise
-  name_language: GA
+- whole_name: Estado Islámico de Irak y el Levante en el Sudeste Asiático
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '149142'
+  logical_id: '149140'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-06'

@@ -15,27 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Anna Mikhaylovna SOKOLOVSKAYA
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '132647'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Anna Michajlovna SOKOLOVSKAJA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '132643'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: Hanna Michajlauna SAKALOUSKAJA
   gender: F
   name_language: SV
@@ -58,23 +37,44 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Hanna Mikhailauna SAKALOUSKAYA
-  function: Judge of the Judicial Collegium for Civil Cases at the Supreme Court
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '132648'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: Ганна Міхайлаўна САКАЛОЎСКАЯ
   gender: F
   name_language: BE
   strong: true
   regulation_language: en
   logical_id: '132646'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Anna Mikhaylovna SOKOLOVSKAYA
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '132647'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Anna Michajlovna SOKOLOVSKAJA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '132643'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Hanna Mikhailauna SAKALOUSKAYA
+  function: Judge of the Judicial Collegium for Civil Cases at the Supreme Court
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '132648'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

@@ -14,21 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Tatiana Viktorovna PEREVERZEVA
-  name_language: SV
+- whole_name: Tatyana Viktorovna PEREVERZEVA
+  function: So-called ‘Deputy of the Chair of the Government’ of the so-called ‘Donetsk
+    People’s Republic’
+  gender: F
   strong: true
   regulation_language: en
-  logical_id: '139354'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Tetiana Viktorivna PEREVERZEVA
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139353'
+  logical_id: '138254'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
@@ -54,13 +46,21 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Tatyana Viktorovna PEREVERZEVA
-  function: So-called ‘Deputy of the Chair of the Government’ of the so-called ‘Donetsk
-    People’s Republic’
-  gender: F
+- whole_name: Tatiana Viktorovna PEREVERZEVA
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '138254'
+  logical_id: '139354'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: Tetiana Viktorivna PEREVERZEVA
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139353'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

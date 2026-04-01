@@ -34,12 +34,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Należąca do Korpusu Strażników  Rewolucji Islamskiej (IRGC) baza operacyjna
-    Quds
-  name_language: PL
+- whole_name: Επιχειρησιακή βάση Quds του Στρατού των Φρουρών της Ισλαμικής Επανάστασης
+    (IRGC)
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '148683'
+  logical_id: '148661'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -98,17 +98,6 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Base operativa Quds del Corpo delle  guardie rivoluzionarie islamiche
-    (IRGC)
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '148599'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Operačná základňa Zboru islamských  revolučných gárd (IRGC) Quds
   name_language: SK
   strong: true
@@ -139,22 +128,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Επιχειρησιακή βάση Quds του Στρατού των Φρουρών της Ισλαμικής Επανάστασης
-    (IRGC)
-  name_language: EL
+- whole_name: Należąca do Korpusu Strażników  Rewolucji Islamskiej (IRGC) baza operacyjna
+    Quds
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '148661'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Den Islamiske Revolutionsgardes (IRGC's) operationelle base Quds
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '148769'
+  logical_id: '148683'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -181,6 +160,17 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Baza operațională «Quds» a Corpului  Gardienilor Revoluției Iraniene
+    (IRGC)
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '148739'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Islamo revoliucijos gvardijos (IRGC) Quds operacijų bazė
   name_language: LT
   strong: true
@@ -201,21 +191,22 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Operační základna Islámských revolučních gard (IRGC) Quds
-  name_language: CS
+- whole_name: Base operativa Quds del Corpo delle  guardie rivoluzionarie islamiche
+    (IRGC)
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '148813'
+  logical_id: '148599'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: operativna baza  Islamske revolucionarne garde Quds
-  name_language: SL
+- whole_name: Operační základna Islámských revolučních gard (IRGC) Quds
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '148857'
+  logical_id: '148813'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -241,12 +232,11 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Baza operațională «Quds» a Corpului  Gardienilor Revoluției Iraniene
-    (IRGC)
-  name_language: RO
+- whole_name: operativna baza  Islamske revolucionarne garde Quds
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '148739'
+  logical_id: '148857'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -258,6 +248,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148752'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Den Islamiske Revolutionsgardes (IRGC's) operationelle base Quds
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '148769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

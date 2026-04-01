@@ -16,10 +16,29 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Jund al-Khilafa
+- whole_name: ISIL-Tunisia Province
   strong: true
   regulation_language: en
-  logical_id: '133021'
+  logical_id: '133023'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-05'
+    number_title: 2022/5 (OJ L1)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.001.01.0009.01.ENG&toc=OJ%3AL%3A2022%3A001%3ATOC
+- whole_name: ISIL-Tunisia
+  strong: true
+  regulation_language: en
+  logical_id: '133024'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-01-05'
+    number_title: 2022/5 (OJ L1)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.001.01.0009.01.ENG&toc=OJ%3AL%3A2022%3A001%3ATOC
+- whole_name: جند الخلافة في تونس
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '133025'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-01-05'
@@ -34,10 +53,10 @@ name_aliases:
     publication_date: '2022-01-05'
     number_title: 2022/5 (OJ L1)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.001.01.0009.01.ENG&toc=OJ%3AL%3A2022%3A001%3ATOC
-- whole_name: ISIL-Tunisia Province
+- whole_name: Jund al-Khilafa
   strong: true
   regulation_language: en
-  logical_id: '133023'
+  logical_id: '133021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-01-05'
@@ -88,10 +107,10 @@ name_aliases:
     publication_date: '2022-01-05'
     number_title: 2022/5 (OJ L1)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.001.01.0009.01.ENG&toc=OJ%3AL%3A2022%3A001%3ATOC
-- whole_name: Daesh Tunisia
+- whole_name: Jund Al-Khilafah in Tunisia (JAK-T)
   strong: true
   regulation_language: en
-  logical_id: '133015'
+  logical_id: '133026'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-01-05'
@@ -106,29 +125,10 @@ name_aliases:
     publication_date: '2022-01-05'
     number_title: 2022/5 (OJ L1)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.001.01.0009.01.ENG&toc=OJ%3AL%3A2022%3A001%3ATOC
-- whole_name: ISIL-Tunisia
+- whole_name: Daesh Tunisia
   strong: true
   regulation_language: en
-  logical_id: '133024'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-05'
-    number_title: 2022/5 (OJ L1)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.001.01.0009.01.ENG&toc=OJ%3AL%3A2022%3A001%3ATOC
-- whole_name: جند الخلافة في تونس
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '133025'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-01-05'
-    number_title: 2022/5 (OJ L1)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.001.01.0009.01.ENG&toc=OJ%3AL%3A2022%3A001%3ATOC
-- whole_name: Jund Al-Khilafah in Tunisia (JAK-T)
-  strong: true
-  regulation_language: en
-  logical_id: '133026'
+  logical_id: '133015'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-01-05'

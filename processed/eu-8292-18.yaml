@@ -24,32 +24,11 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: JSC SUKHOI Company
-  function: a Russian aircraft manufacturer
-  name_language: EN
+- whole_name: Suchoj
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '140420'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: ПАО Компания „Сухой“
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140419'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Společnost Suchoj
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158429'
+  logical_id: '158553'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -65,11 +44,32 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Suchoj
-  name_language: SK
+- whole_name: Společnost Suchoj
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '158553'
+  logical_id: '158429'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: ПАО Компания „Сухой“
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140419'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: JSC SUKHOI Company
+  function: a Russian aircraft manufacturer
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '140420'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

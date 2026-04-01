@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Viktor Vasiljevitj ZOLOTOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '128071'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-02'
+    number_title: 2021/371 (OJ L71I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.071.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A071I%3ATOC
 - whole_name: Viktor Vasilievich ZOLOTOV
   function: Director of the Federal Service of National Guard Troops of the Russian
     Federation (Rosgvardia). Commander-in-Chief of the National Guard Troops of the
@@ -33,17 +44,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127747'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-02'
-    number_title: 2021/371 (OJ L71I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.071.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A071I%3ATOC
-- whole_name: Viktor Vasiljevitj ZOLOTOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '128071'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-02'

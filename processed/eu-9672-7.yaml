@@ -14,16 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oleg
-  middle_name: Evgenievich
-  last_name: BOCHAROV
-  whole_name: Oleg Evgenievich BOCHAROV
-  function: Deputy Minister of  Industry and Trade (since 2017)
+- whole_name: Oleg Jevgenjevitj BOTJAROV
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '149684'
+  logical_id: '151022'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -43,12 +39,16 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Oleg Jevgenjevitj BOTJAROV
+- first_name: Oleg
+  middle_name: Evgenievich
+  last_name: BOCHAROV
+  whole_name: Oleg Evgenievich BOCHAROV
+  function: Deputy Minister of  Industry and Trade (since 2017)
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151022'
+  logical_id: '149684'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

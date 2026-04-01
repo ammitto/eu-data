@@ -14,15 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Сергей
-  middle_name: Михайлович
-  last_name: БОЯРСКИЙ
-  whole_name: Сергей Михайлович БОЯРСКИЙ
-  gender: M
-  name_language: RU
+- whole_name: Sergej Michajlovitj BOJARSKIJ
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '134610'
+  logical_id: '143799'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -42,11 +38,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Sergej Michajlovitj BOJARSKIJ
-  name_language: SV
+- first_name: Сергей
+  middle_name: Михайлович
+  last_name: БОЯРСКИЙ
+  whole_name: Сергей Михайлович БОЯРСКИЙ
+  gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '143799'
+  logical_id: '134610'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

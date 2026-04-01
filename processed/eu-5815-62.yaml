@@ -28,15 +28,15 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Iгар
-  middle_name: Анатольевiч
-  last_name: ПЛЫШЭЎСКI
-  whole_name: Iгар Анатольевiч ПЛЫШЭЎСКI
+- first_name: Ihar
+  middle_name: Anatoljevitj
+  last_name: PLYSJEUSKI
+  whole_name: Ihar Anatoljevitj PLYSJEUSKI
   gender: M
-  name_language: BE
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '125559'
+  logical_id: '127953'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -58,20 +58,6 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Ihor
-  middle_name: Anatolievich
-  last_name: PLYSHEVSKIY
-  whole_name: Ihor Anatolievich PLYSHEVSKIY
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '125561'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Igor
   middle_name: Anatoljevitj
   last_name: PLYSJEVSKIJ
@@ -86,15 +72,29 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Ihar
-  middle_name: Anatoljevitj
-  last_name: PLYSJEUSKI
-  whole_name: Ihar Anatoljevitj PLYSJEUSKI
+- first_name: Ihor
+  middle_name: Anatolievich
+  last_name: PLYSHEVSKIY
+  whole_name: Ihor Anatolievich PLYSHEVSKIY
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '127953'
+  logical_id: '125561'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Iгар
+  middle_name: Анатольевiч
+  last_name: ПЛЫШЭЎСКI
+  whole_name: Iгар Анатольевiч ПЛЫШЭЎСКI
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '125559'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

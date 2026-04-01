@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Корпорация «ИРКУТ»
-  name_language: RU
+- whole_name: Korporacja Irkut S.A.
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '144525'
+  logical_id: '144685'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -35,11 +35,11 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: Korporacja Irkut S.A.
-  name_language: PL
+- whole_name: Корпорация «ИРКУТ»
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144685'
+  logical_id: '144525'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

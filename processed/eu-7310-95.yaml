@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Tatyana
-  middle_name: Alekseevna
-  last_name: KUSAYKO
-  whole_name: Tatyana Alekseevna KUSAYKO
-  function: Member of the State Duma
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '134979'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Татьяна
   middle_name: Алексеевна
   last_name: КУСАЙКО
@@ -48,6 +34,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144091'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Tatyana
+  middle_name: Alekseevna
+  last_name: KUSAYKO
+  whole_name: Tatyana Alekseevna KUSAYKO
+  function: Member of the State Duma
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '134979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

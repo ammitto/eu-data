@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: MOKSLO  IR GAMYBOS  ASOCIACIJA „STRELA“
-  name_language: LT
+- whole_name: ZRZESZENIE NAUKOWO-PRODUKCYJNE „STRELA”
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '147962'
+  logical_id: '147734'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -73,11 +73,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: ZRZESZENIE NAUKOWO-PRODUKCYJNE „STRELA”
-  name_language: PL
+- whole_name: MOKSLO  IR GAMYBOS  ASOCIACIJA „STRELA“
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '147734'
+  logical_id: '147962'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

@@ -14,12 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Zjanna Anatoljevna RJABTSEVA
+- first_name: Жанна
+  middle_name: Анатольевна
+  last_name: РЯБЦЕВА
+  whole_name: Жанна Анатольевна РЯБЦЕВА
   gender: F
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144026'
+  logical_id: '135214'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -39,15 +42,12 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Жанна
-  middle_name: Анатольевна
-  last_name: РЯБЦЕВА
-  whole_name: Жанна Анатольевна РЯБЦЕВА
+- whole_name: Zjanna Anatoljevna RJABTSEVA
   gender: F
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '135214'
+  logical_id: '144026'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

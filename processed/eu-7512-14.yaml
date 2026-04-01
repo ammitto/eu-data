@@ -14,6 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Igor Ivanovitj SETJIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '136203'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-28'
+    number_title: 2022/336 (OJ L58)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
+- whole_name: Igor Ivanovič SEČIN
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '136202'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-28'
+    number_title: 2022/336 (OJ L58)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
 - whole_name: Igor Ivanovich  SECHIN
   function: CEO of Rosneft, Russian  state oil company and one of the world's largest
     crude oil producers
@@ -31,28 +53,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136045'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-28'
-    number_title: 2022/336 (OJ L58)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
-- whole_name: Igor Ivanovič SEČIN
-  gender: M
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '136202'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-28'
-    number_title: 2022/336 (OJ L58)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
-- whole_name: Igor Ivanovitj SETJIN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '136203'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-28'

@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ured za  pozivanje na dobro i odvraćanje od zla
-  name_language: HR
+- whole_name: Ústredie pre  presadzovanie dobra a bránenie zlu
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '148885'
+  logical_id: '148864'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -34,21 +34,52 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Stožer za pozivanje na  dobro i odvraćanje od zla
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '148883'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Stožer za  promicanje vrlina i suzbijanje poroka
   name_language: HR
   strong: true
   regulation_language: en
   logical_id: '148884'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Ured za  pozivanje na dobro i odvraćanje od zla
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '148885'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Oficina Central para Ordenar el Bien y Prohibir el Mal
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '148690'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Oficina para  Ordenar el Bien y Prohibir el Mal
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '148691'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Oficina Central para la Promoción de la Virtud y la  Prevención del
+    Vicio
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '148692'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -110,37 +141,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148671'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Oficina Central para Ordenar el Bien y Prohibir el Mal
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '148690'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Oficina para  Ordenar el Bien y Prohibir el Mal
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '148691'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Oficina Central para la Promoción de la Virtud y la  Prevención del
-    Vicio
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '148692'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -295,11 +295,11 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Ústredie pre  presadzovanie dobra a bránenie zlu
-  name_language: SK
+- whole_name: Stožer za pozivanje na  dobro i odvraćanje od zla
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '148864'
+  logical_id: '148883'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -315,33 +315,31 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: az erény előmozdításával és a vétek megelőzésével  foglalkozó központ,
-  name_language: HU
+- whole_name: Ústředí pro prosazování  dobra a bránění zlu
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '148833'
+  logical_id: '148617'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: a jó parancsolatának és a gonosz tilalmának érvényesítésével foglalkozó
-    hivatal
-  name_language: HU
+- whole_name: högkvarteret för främjande av dygd  och förebyggande av osedlighet
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '148834'
+  logical_id: '148819'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: A jó parancsolatának és a gonosz tilalmának érvényesítésével foglalkozó
-    központ
-  name_language: HU
+- whole_name: högkvarteret för påbjudande av det goda och förbjudande av det onda
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '148835'
+  logical_id: '148820'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -398,36 +396,6 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Ústředí pro prosazování  dobra a bránění zlu
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '148617'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: högkvarteret för främjande av dygd  och förebyggande av osedlighet
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '148819'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: högkvarteret för påbjudande av det goda och förbjudande av det onda
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '148820'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Osrednji urad za predpisovanje dobrega in prepoved zla
   name_language: SL
   strong: true
@@ -443,6 +411,38 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148924'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: az erény előmozdításával és a vétek megelőzésével  foglalkozó központ,
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '148833'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: a jó parancsolatának és a gonosz tilalmának érvényesítésével foglalkozó
+    hivatal
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '148834'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: A jó parancsolatának és a gonosz tilalmának érvényesítésével foglalkozó
+    központ
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '148835'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

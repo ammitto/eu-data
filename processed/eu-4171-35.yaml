@@ -14,6 +14,69 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Empresa Unitária Estatal da República da Crimeia 'Portos marítimos da
+    Crimeia'
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '152495'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: "„Krími  Tengeri Kikötők”, a „Krími  Köztársaság” állami egységes  vállalata"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '152511'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Státní jednotný podnik Republiky  Krym »Crimean Sea Ports«‘ (Krymské  námořní
+    přístavy)
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152512'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: "‚Državno unitarno podjetje Republike Krim ‚Krimska morska pristanišča‘‘"
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '152539'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: "„Staatliches Einheitsunternehmen der Republik Krim ‚Seehandelshäfen
+    Krim‘“"
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '152402'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Državno unitarno poduzeće Republike Krima ‚Crimean Sea Ports’
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '152541'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: "”Krimin tasavallan omistama valtion  unitaarinen yritys ”Krimin merisatamat””"
   name_language: FI
   strong: true
@@ -44,21 +107,23 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Državno unitarno poduzeće Republike Krima ‚Crimean Sea Ports’
-  name_language: HR
+- whole_name: "„Państwowe  przedsiębiorstwo unitarne Republiki  Krymu »Krymskie Porty
+    Morskie«”"
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '152541'
+  logical_id: '152446'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Štátny unitárny podnik ‚Krymskej  republiky‘ ‚Krymské námorné  prístavy‘
-  name_language: SK
+- whole_name: "«Întreprinderea unitară de stat a  Republicii Crimeea „Porturile  maritime
+    ale Crimeei”»"
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '152540'
+  logical_id: '152445'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -107,22 +172,21 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "»Republikken Krims statsejede  virksomhed »Crimean Sea Ports»«"
-  name_language: DA
+- whole_name: Štátny unitárny podnik ‚Krymskej  republiky‘ ‚Krymské námorné  prístavy‘
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '152395'
+  logical_id: '152540'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "„Staatliches Einheitsunternehmen der Republik Krim ‚Seehandelshäfen
-    Krim‘“"
-  name_language: DE
+- whole_name: "»Republikken Krims statsejede  virksomhed »Crimean Sea Ports»«"
+  name_language: DA
   strong: true
   regulation_language: en
-  logical_id: '152402'
+  logical_id: '152395'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -134,70 +198,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152384'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "«Întreprinderea unitară de stat a  Republicii Crimeea „Porturile  maritime
-    ale Crimeei”»"
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '152445'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "„Państwowe  przedsiębiorstwo unitarne Republiki  Krymu »Krymskie Porty
-    Morskie«”"
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '152446'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Empresa Unitária Estatal da República da Crimeia 'Portos marítimos da
-    Crimeia'
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '152495'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "„Krími  Tengeri Kikötők”, a „Krími  Köztársaság” állami egységes  vállalata"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '152511'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Státní jednotný podnik Republiky  Krym »Crimean Sea Ports«‘ (Krymské  námořní
-    přístavy)
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152512'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "‚Državno unitarno podjetje Republike Krim ‚Krimska morska pristanišča‘‘"
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '152539'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

@@ -14,17 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Viktor Vladimirovich BABENKO
-  function: Mr. Babenko is Chairman of the Sverdlovsk Regional Council of Supporters
-    of the United Russia Party. Member of the Legislative Assembly of the Sverdlovsk
-    Region. Deputy Secretary of the Sverdlovsk Regional Branch of United Russia. Mr.
-    Babenko is a key regional politician from the Kremlin-aligned ruling party United
-    Russia in Sverdlovsk oblast.
-  gender: M
-  name_language: EN
+- whole_name: Viktor Vladimirovitj  BABENKO
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '141978'
+  logical_id: '142424'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -39,11 +33,17 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Viktor Vladimirovitj  BABENKO
-  name_language: SV
+- whole_name: Viktor Vladimirovich BABENKO
+  function: Mr. Babenko is Chairman of the Sverdlovsk Regional Council of Supporters
+    of the United Russia Party. Member of the Legislative Assembly of the Sverdlovsk
+    Region. Deputy Secretary of the Sverdlovsk Regional Branch of United Russia. Mr.
+    Babenko is a key regional politician from the Kremlin-aligned ruling party United
+    Russia in Sverdlovsk oblast.
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '142424'
+  logical_id: '141978'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

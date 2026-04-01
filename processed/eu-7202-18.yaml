@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Зариф
+  middle_name: Закирович
+  last_name: БАЙГУСКАРОВ
+  whole_name: Зариф Закирович БАЙГУСКАРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '134546'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - whole_name: Zarif Zakirovitj BAJGUSKAROV
   name_language: SV
   strong: true
@@ -33,20 +47,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '134547'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Зариф
-  middle_name: Закирович
-  last_name: БАЙГУСКАРОВ
-  whole_name: Зариф Закирович БАЙГУСКАРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '134546'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

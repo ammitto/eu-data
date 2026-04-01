@@ -34,11 +34,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Moviment Imperjali Russu
-  name_language: MT
+- whole_name: Movimento Imperial  Russo
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '148146'
+  logical_id: '147820'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Movimiento  Imperial Ruso
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '147788'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -49,16 +59,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147691'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Movimento Imperial  Russo
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '147820'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -94,6 +94,16 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Venäjän keisarillinen liike
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '148050'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Руското имперско движение
   name_language: BG
   strong: true
@@ -109,16 +119,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148045'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Venäjän keisarillinen liike
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '148050'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -192,11 +192,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Movimiento  Imperial Ruso
-  name_language: ES
+- whole_name: Moviment Imperjali Russu
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '147788'
+  logical_id: '148146'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

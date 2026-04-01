@@ -14,6 +14,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: OOO УК Татнефть-Нефтехим
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140445'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Management Company Tatneft-Neftekhim LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '140446'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: OOO ТАТШИНАУК
   name_language: RU
   strong: true
@@ -54,6 +74,16 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: administrationsselskab Tatneft-Neftekhim LLC
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '158552'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: správcovské společnosti Tatněfť-Něftěchim LLC
   name_language: CS
   strong: true
@@ -74,36 +104,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: administrationsselskab Tatneft-Neftekhim LLC
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '158552'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: OOO УК Татнефть-Нефтехим
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140445'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Management Company Tatneft-Neftekhim LLC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '140446'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 addresses:
 - street: Korpus AIK-24, Industrial zone Territory
   city: Nizhnekamsk
@@ -120,10 +120,10 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 identifications:
 - identification_type_code: other
-  number: '165101001'
-  country_iso2_code: '00'
+  number: '57243722'
+  country_iso2_code: RU
   regulation_language: en
-  logical_id: '158165'
+  logical_id: '158163'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -140,10 +140,10 @@ identifications:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - identification_type_code: other
-  number: '57243722'
-  country_iso2_code: RU
+  number: '165101001'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '158163'
+  logical_id: '158165'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

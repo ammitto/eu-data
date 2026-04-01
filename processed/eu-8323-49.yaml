@@ -23,20 +23,20 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: АО "Воентелеком"
-  name_language: RU
+- whole_name: VOYENTELEKOM
   strong: true
   regulation_language: en
-  logical_id: '140584'
+  logical_id: '140585'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: VOYENTELEKOM
+- whole_name: АО "Воентелеком"
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '140585'
+  logical_id: '140584'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

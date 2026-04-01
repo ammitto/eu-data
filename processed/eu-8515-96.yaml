@@ -33,14 +33,12 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Nikolaj
-  last_name: Velikdan
-  whole_name: Nikolaj Velikdan
+- whole_name: Nikolaj  Timofejevitj VELIKDA
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '164824'
+  logical_id: '142359'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -60,12 +58,14 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Nikolaj  Timofejevitj VELIKDA
+- first_name: Nikolaj
+  last_name: Velikdan
+  whole_name: Nikolaj Velikdan
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '142359'
+  logical_id: '164824'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

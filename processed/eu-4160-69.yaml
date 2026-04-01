@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: CHOE Kyong-song
+  function: Colonel General in the Korean People’s Army. Former member of the Central
+    Military Commission of the Workers’ Party of Korea
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '108624'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: CHOE Kyong song
   gender: M
   strong: true
@@ -29,19 +42,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142001'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: CHOE Kyong-song
-  function: Colonel General in the Korean People’s Army. Former member of the Central
-    Military Commission of the Workers’ Party of Korea
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '108624'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

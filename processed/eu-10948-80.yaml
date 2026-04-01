@@ -14,34 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aljaksandr
-  middle_name: Uladzimiravitj
-  last_name: DAKUTJYTS
-  whole_name: Aljaksandr Uladzimiravitj DAKUTJYTS
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160687'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Aleksandr
-  middle_name: Vladimirovitj
-  last_name: DOKUTJITS
-  whole_name: Aleksandr Vladimirovitj DOKUTJITS
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160688'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Аляксандр
   middle_name: Уладзіміравіч
   last_name: ДАКУЧЫЦ
@@ -51,20 +23,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159889'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Александр
-  middle_name: Владимирович
-  last_name: ДОКУЧИЦ
-  whole_name: Александр Владимирович ДОКУЧИЦ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159890'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -85,19 +43,6 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Aliaksandr
-  last_name: Dakučyc
-  whole_name: Aliaksandr Dakučyc
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160926'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Aliaksandr
   middle_name: Vladimirovich
   last_name: DAKUCHYTS
   whole_name: Aliaksandr Vladimirovich DAKUCHYTS
@@ -108,6 +53,33 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159892'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Александр
+  middle_name: Владимирович
+  last_name: ДОКУЧИЦ
+  whole_name: Александр Владимирович ДОКУЧИЦ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159890'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Aliaksandr
+  last_name: Dakučyc
+  whole_name: Aliaksandr Dakučyc
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160926'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -134,6 +106,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Aljaksandr
+  middle_name: Uladzimiravitj
+  last_name: DAKUTJYTS
+  whole_name: Aljaksandr Uladzimiravitj DAKUTJYTS
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160687'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Aleksandr
+  middle_name: Vladimirovitj
+  last_name: DOKUTJITS
+  whole_name: Aleksandr Vladimirovitj DOKUTJITS
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160688'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

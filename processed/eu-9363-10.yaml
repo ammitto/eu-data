@@ -63,21 +63,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: VOLGOGRADO MAŠINŲ GAMYBOS BENDROVĖ „VGTZ“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147956'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: CONSTRUCȚII DE  MAȘINI VOLGOGRAD  «VGTZ»
   name_language: RO
   strong: true
   regulation_language: en
   logical_id: '147867'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: VOLGOGRADO MAŠINŲ GAMYBOS BENDROVĖ „VGTZ“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147956'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

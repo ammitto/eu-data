@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ігар Віĸтаравіч  КУРЫЛОВІЧ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '129784'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Ihar Viktaravitj KURYLOVITJ
   gender: M
   name_language: SV
@@ -25,23 +36,23 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Igor Viktorovitj KURILOVITJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130656'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Игорь Викторович  КУРИЛОВИЧ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '129783'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Ігар Віĸтаравіч  КУРЫЛОВІЧ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '129784'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -64,17 +75,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '129785'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Igor Viktorovitj KURILOVITJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130656'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

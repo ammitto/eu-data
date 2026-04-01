@@ -14,43 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Anna
-  middle_name: Michajlovna
-  last_name: OSIPENKO
-  whole_name: Anna Michajlovna OSIPENKO
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157375'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Hanna
-  middle_name: Michajlauna
+  middle_name: Mikhailauna
   last_name: ASIPENKA
-  whole_name: Hanna Michajlauna ASIPENKA
+  whole_name: Hanna Mikhailauna ASIPENKA
+  function: Judge of the Court of Bobruisk District and Bobruisk
   gender: F
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '157376'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Hanna
-  middle_name: Michajlavna
-  last_name: ASIPIENKOVÁ
-  whole_name: Hanna Michajlavna ASIPIENKOVÁ
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157377'
+  logical_id: '157382'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -83,21 +56,6 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Hanna
-  middle_name: Mikhailauna
-  last_name: ASIPENKA
-  whole_name: Hanna Mikhailauna ASIPENKA
-  function: Judge of the Court of Bobruisk District and Bobruisk
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157382'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Анна
   middle_name: Михайловна
   last_name: ОСИПЕНКО
@@ -121,6 +79,48 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157381'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Hanna
+  middle_name: Michajlauna
+  last_name: ASIPENKA
+  whole_name: Hanna Michajlauna ASIPENKA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157376'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Anna
+  middle_name: Michajlovna
+  last_name: OSIPENKO
+  whole_name: Anna Michajlovna OSIPENKO
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157375'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Hanna
+  middle_name: Michajlavna
+  last_name: ASIPIENKOVÁ
+  whole_name: Hanna Michajlavna ASIPIENKOVÁ
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157377'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

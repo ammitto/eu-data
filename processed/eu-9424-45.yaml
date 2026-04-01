@@ -24,11 +24,10 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: "„Ruszics” Alkalmi Harci Kötelék"
-  name_language: HU
+- whole_name: DSHRG Rusich
   strong: true
   regulation_language: en
-  logical_id: '147856'
+  logical_id: '147376'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -90,16 +89,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Grupo Operativo  “Rusich”
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '147789'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: grupo de missão  Rusich
   name_language: PT
   strong: true
@@ -110,11 +99,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Оперативна група „Русич“
-  name_language: BG
+- whole_name: Grupo Operativo  “Rusich”
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '148028'
+  logical_id: '147789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -135,6 +124,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148049'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Оперативна група „Русич“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '148028'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -180,10 +179,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: DSHRG Rusich
+- whole_name: "„Ruszics” Alkalmi Harci Kötelék"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '147376'
+  logical_id: '147856'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

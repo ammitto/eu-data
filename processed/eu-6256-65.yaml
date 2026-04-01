@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: 리영길
+  gender: M
+  name_language: KO
+  strong: true
+  regulation_language: en
+  logical_id: '128256'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 - first_name: Yo’ng-kil
   last_name: RI
   whole_name: Yo’ng-kil RI
@@ -21,6 +32,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128258'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-06'
+    number_title: 2022/2374 (OJ L314)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
+- first_name: Yong Gi
+  last_name: RI
+  whole_name: Yong Gi RI
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '128259'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-06'
@@ -53,17 +76,6 @@ name_aliases:
     publication_date: '2022-12-06'
     number_title: 2022/2374 (OJ L314)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- whole_name: 리영길
-  gender: M
-  name_language: KO
-  strong: true
-  regulation_language: en
-  logical_id: '128256'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 - first_name: Yo’ng-kil
   last_name: YI
   whole_name: Yo’ng-kil YI
@@ -71,18 +83,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128257'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-06'
-    number_title: 2022/2374 (OJ L314)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- first_name: Yong Gi
-  last_name: RI
-  whole_name: Yong Gi RI
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '128259'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-06'

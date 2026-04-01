@@ -16,61 +16,55 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Russkiy Mir Foundation
+  function: "The “Russkiy Mir” Foundation was created, and has been financed, by the
+    Government of the Russian Federation. It has been used by \nthe Russian Federation
+    to advance its interests in the post-Soviet countries. Its official mandate is
+    to promote the Russian language and culture worldwide."
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '142733'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Nadácia Ruský svet
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '142798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Fundația Russkiy Mir
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '142799'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Fundação Russkiy Mir
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '142800'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Fundacja Russkij Mir
   name_language: PL
   strong: true
   regulation_language: en
   logical_id: '142801'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Fondu “Russkiy Mir”
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '152654'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Il-Fondazzjoni “Russkiy Mir”
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '152655'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Russkij Mir-säätiön
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '152606'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Russkij mir-stiftelsen
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '152607'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Fundación “Russkiy Mir”
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '152169'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -136,41 +130,11 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Sihtasutuse Russkiy Mir
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '152622'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Fondą „Russkiy Mir“
   name_language: LT
   strong: true
   regulation_language: en
   logical_id: '152623'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: ίδρυμα “Russkiy Mir”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '152434'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Nadace Ruský svět
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152525'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -186,50 +150,86 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Russkiy Mir Foundation
-  function: "The “Russkiy Mir” Foundation was created, and has been financed, by the
-    Government of the Russian Federation. It has been used by \nthe Russian Federation
-    to advance its interests in the post-Soviet countries. Its official mandate is
-    to promote the Russian language and culture worldwide."
-  name_language: EN
+- whole_name: Sihtasutuse Russkiy Mir
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '142733'
+  logical_id: '152622'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Nadácia Ruský svet
-  name_language: SK
+- whole_name: Fundación “Russkiy Mir”
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '142798'
+  logical_id: '152169'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Fundația Russkiy Mir
-  name_language: RO
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Russkij mir-stiftelsen
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '142799'
+  logical_id: '152607'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Fundação Russkiy Mir
-  name_language: PT
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Russkij Mir-säätiön
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '142800'
+  logical_id: '152606'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Il-Fondazzjoni “Russkiy Mir”
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '152655'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Fondu “Russkiy Mir”
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '152654'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Nadace Ruský svět
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152525'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: ίδρυμα “Russkiy Mir”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '152434'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 addresses:
 - street: Mosfilmovskaya Str. 40A
   city: Moscow

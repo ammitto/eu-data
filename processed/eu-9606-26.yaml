@@ -14,20 +14,20 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Dynasty International Company Limited
-  name_language: EN
+- whole_name: Dynasty Group of Companies
   strong: true
   regulation_language: en
-  logical_id: '149236'
+  logical_id: '149235'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Dynasty Group of Companies
+- whole_name: Dynasty International Company Limited
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '149235'
+  logical_id: '149236'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

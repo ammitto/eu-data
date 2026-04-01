@@ -14,15 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yuliya
-  middle_name: Vladimirovna
-  last_name: SARANOVA
-  whole_name: Yuliya Vladimirovna SARANOVA
-  function: Member of the State Duma
-  gender: F
+- whole_name: Julija Vladimirovna SARANOVA
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '134451'
+  logical_id: '143991'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -42,11 +38,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Julija Vladimirovna SARANOVA
-  name_language: SV
+- first_name: Yuliya
+  middle_name: Vladimirovna
+  last_name: SARANOVA
+  whole_name: Yuliya Vladimirovna SARANOVA
+  function: Member of the State Duma
+  gender: F
   strong: true
   regulation_language: en
-  logical_id: '143991'
+  logical_id: '134451'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

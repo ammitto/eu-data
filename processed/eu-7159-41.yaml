@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Muslim
-  middle_name: Barisovich
-  last_name: TATRIEV
-  whole_name: Muslim Barisovich TATRIEV
-  function: Member of the State Duma
+- first_name: Муслим
+  middle_name: Барисович
+  last_name: ТАТРИЕВ
+  whole_name: Муслим Барисович ТАТРИЕВ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '134375'
+  logical_id: '134374'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -38,15 +38,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Муслим
-  middle_name: Барисович
-  last_name: ТАТРИЕВ
-  whole_name: Муслим Барисович ТАТРИЕВ
+- first_name: Muslim
+  middle_name: Barisovich
+  last_name: TATRIEV
+  whole_name: Muslim Barisovich TATRIEV
+  function: Member of the State Duma
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '134374'
+  logical_id: '134375'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

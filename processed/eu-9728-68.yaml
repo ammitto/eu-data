@@ -14,51 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ogólnorosyjski Front Narodowy
-  name_language: PL
+- whole_name: Frente Popular Pan-Russa
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '151135'
+  logical_id: '151177'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Общоруски народен фронт
-  name_language: BG
+- whole_name: Gesamtrussische Volksfront
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '151273'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Viskrievijas Tautas fronte
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '151342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Összorosz Népfront
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '151167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Общероссийский народный фронт
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149961'
+  logical_id: '151093'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -83,21 +53,21 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Vseruska ljudska fronta
-  name_language: SL
+- whole_name: Общероссийский народный фронт
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151341'
+  logical_id: '149961'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Allryska  folkfronten
-  name_language: SV
+- whole_name: Front populaire panrusse
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '151272'
+  logical_id: '151106'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -163,31 +133,31 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Front populaire panrusse
-  name_language: FR
+- whole_name: Vseruska ljudska fronta
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '151106'
+  logical_id: '151341'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Gesamtrussische Volksfront
-  name_language: DE
+- whole_name: Viskrievijas Tautas fronte
+  name_language: LV
   strong: true
   regulation_language: en
-  logical_id: '151093'
+  logical_id: '151342'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Frente Popular Pan-Russa
-  name_language: PT
+- whole_name: Összorosz Népfront
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '151177'
+  logical_id: '151167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -208,6 +178,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151231'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Allryska  folkfronten
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151272'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Общоруски народен фронт
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '151273'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Ogólnorosyjski Front Narodowy
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '151135'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

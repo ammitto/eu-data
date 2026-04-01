@@ -15,15 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Denis
-  middle_name: Valerievich
-  last_name: TYURIN
-  whole_name: Denis Valerievich TYURIN
-  function: GRU intelligence officer
+  middle_name: Valerievič
+  last_name: ŤURIN
+  whole_name: Denis Valerievič ŤURIN
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '155816'
+  logical_id: '156642'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -56,20 +55,6 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Denis
-  middle_name: Valerievič
-  last_name: ŤURIN
-  whole_name: Denis Valerievič ŤURIN
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156642'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
 - first_name: Денис
   middle_name: Валерьевич
   last_name: ТЮРИН
@@ -79,6 +64,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155815'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- first_name: Denis
+  middle_name: Valerievich
+  last_name: TYURIN
+  whole_name: Denis Valerievich TYURIN
+  function: GRU intelligence officer
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155816'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

@@ -14,33 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Abdelhakim al-Kidali
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
 - whole_name: Abou Abdel Hamid Al Kidali
   gender: M
   strong: true
   regulation_language: en
   logical_id: '141406'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- first_name: Sidan Ag
-  last_name: HITTA
-  whole_name: Sidan Ag HITTA
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141412'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'
@@ -58,11 +36,22 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Abu 'Abd al-Hakim
+- whole_name: Abu Qarwani
+  strong: true
+  regulation_language: en
+  logical_id: '141408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- first_name: Sidan Ag
+  last_name: HITTA
+  whole_name: Sidan Ag HITTA
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '141410'
+  logical_id: '141412'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'
@@ -78,10 +67,21 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Abu Qarwani
+- whole_name: Abu 'Abd al-Hakim
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '141408'
+  logical_id: '141410'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Abu Abdelhakim al-Kidali
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141409'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'

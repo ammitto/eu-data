@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: АНО Диалог
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '155830'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
 - whole_name: ANO Dialog
   function: Russian non-profit organization created by the Moscow Department of Information
     and Technology (DIT)
@@ -26,16 +36,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: АНО Диалог
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '155830'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
 addresses:
 - street: st. Timura Frunze, d.11, p.1, BC Demidov
   city: Moscow

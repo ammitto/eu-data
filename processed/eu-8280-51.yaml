@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Kumpanija Limitata b’Ishma ‘Belarusian Potash Company’
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '151242'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-28'
-    number_title: 2023/419 (OJ L61)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
-- whole_name: Dioničko društvo „Belarusian Potash Company”
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '151243'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-28'
-    number_title: 2023/419 (OJ L61)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
-- whole_name: Avoin osakeyhtiö ”Belarusian Potash Company”
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '141164'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
 - whole_name: ОАО “Белорусская калийная компания”
   name_language: RU
   strong: true
@@ -54,11 +24,11 @@ name_aliases:
     publication_date: '2023-02-28'
     number_title: 2023/419 (OJ L61)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
-- whole_name: ААТ “Беларуская калiйная кампанiя”
-  name_language: BE
+- whole_name: Dioničko društvo „Belarusian Potash Company”
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '140356'
+  logical_id: '151243'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-28'
@@ -213,6 +183,36 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Avoin osakeyhtiö ”Belarusian Potash Company”
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '141164'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: ААТ “Беларуская калiйная кампанiя”
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '140356'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-28'
+    number_title: 2023/419 (OJ L61)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
+- whole_name: Kumpanija Limitata b’Ishma ‘Belarusian Potash Company’
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '151242'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-28'
+    number_title: 2023/419 (OJ L61)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
 addresses:
 - street: 35 Masherova Ave.
   city: Minsk

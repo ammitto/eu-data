@@ -15,19 +15,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Tong-chol
+- first_name: Tong-ch'o'l
   last_name: Kim
-  whole_name: Tong-chol Kim
+  whole_name: Tong-ch'o'l Kim
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '161788'
+  logical_id: '115004'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+    publication_date: '2018-01-09'
+    number_title: 2018/12 (OJ L4)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0012&from=EN
 - first_name: Tong Chol
   last_name: Kim
   whole_name: Tong Chol Kim
@@ -42,18 +41,19 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Tong-ch'o'l
+- first_name: Tong-chol
   last_name: Kim
-  whole_name: Tong-ch'o'l Kim
+  whole_name: Tong-chol Kim
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '115004'
+  logical_id: '161788'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2018-01-09'
-    number_title: 2018/12 (OJ L4)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0012&from=EN
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 citizenships:
 - country_iso2_code: KP
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF

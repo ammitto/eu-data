@@ -14,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Evgeniy
-  middle_name: Vladimirovich
-  last_name: BEKASOV
-  whole_name: Evgeniy Vladimirovich BEKASOV
-  function: Editor-in-chief of Rossiya 24 TV Channel
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150789'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Jevgenij Vladimirovitj BEKASOV
   gender: M
   name_language: SV
@@ -46,6 +31,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150788'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Evgeniy
+  middle_name: Vladimirovich
+  last_name: BEKASOV
+  whole_name: Evgeniy Vladimirovich BEKASOV
+  function: Editor-in-chief of Rossiya 24 TV Channel
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -15,14 +15,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Vitalij
-  middle_name: Mikalajevitj
-  last_name: JAFANAU
-  whole_name: Vitalij Mikalajevitj JAFANAU
+  last_name: Jefanov
+  whole_name: Vitalij Jefanov
   gender: M
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '160634'
+  logical_id: '160840'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -42,15 +41,26 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vitali
-  middle_name: Mikalaevich
-  last_name: YAFANAU
-  whole_name: Vitali Mikalaevich YAFANAU
+- first_name: Vitalij
+  last_name: Jefanov
+  whole_name: Vitalij Jefanov
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '159579'
+  logical_id: '160842'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Витали
+  last_name: Ефанов
+  whole_name: Витали Ефанов
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161224'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -69,42 +79,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Віталій
-  middle_name: Мікалаевіч
-  last_name: ЯФАНАЎ
-  whole_name: Віталій Мікалаевіч ЯФАНАЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '159577'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Виталий
-  middle_name: Николаевич
-  last_name: ЕФАНОВ
-  whole_name: Виталий Николаевич ЕФАНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159578'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Vitalij
-  last_name: Jefanov
-  whole_name: Vitalij Jefanov
+  middle_name: Mikalajevitj
+  last_name: JAFANAU
+  whole_name: Vitalij Mikalajevitj JAFANAU
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160842'
+  logical_id: '160634'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -127,26 +110,43 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Витали
-  last_name: Ефанов
-  whole_name: Витали Ефанов
-  name_language: BG
+- first_name: Vitali
+  middle_name: Mikalaevich
+  last_name: YAFANAU
+  whole_name: Vitali Mikalaevich YAFANAU
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161224'
+  logical_id: '159579'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vitalij
-  last_name: Jefanov
-  whole_name: Vitalij Jefanov
+- first_name: Виталий
+  middle_name: Николаевич
+  last_name: ЕФАНОВ
+  whole_name: Виталий Николаевич ЕФАНОВ
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160840'
+  logical_id: '159578'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Віталій
+  middle_name: Мікалаевіч
+  last_name: ЯФАНАЎ
+  whole_name: Віталій Мікалаевіч ЯФАНАЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '159577'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

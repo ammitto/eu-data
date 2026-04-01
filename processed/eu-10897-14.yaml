@@ -15,20 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Vasilij
-  middle_name: Mikalajevitj
-  last_name: HERASIMAU
-  whole_name: Vasilij Mikalajevitj HERASIMAU
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160632'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vasilij
   middle_name: Nikolajevitj
   last_name: GERASIMOV
   whole_name: Vasilij Nikolajevitj GERASIMOV
@@ -42,43 +28,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Васілій
-  middle_name: Мікалаевіч
-  last_name: ГЕРАСІМАЎ
-  whole_name: Васілій Мікалаевіч ГЕРАСІМАЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '159571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Василий
-  middle_name: Николаевич
-  last_name: ГЕРАСИМОВ
-  whole_name: Василий Николаевич ГЕРАСИМОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159572'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vasili
-  middle_name: Mikalaevich
+- first_name: Vasilij
+  middle_name: Mikalajevitj
   last_name: HERASIMAU
-  whole_name: Vasili Mikalaevich HERASIMAU
+  whole_name: Vasilij Mikalajevitj HERASIMAU
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159573'
+  logical_id: '160632'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -91,6 +49,45 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161223'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Vasilij
+  last_name: Gerasimov
+  whole_name: Vasilij Gerasimov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160839'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Vasilij
+  last_name: Herasimaŭ
+  whole_name: Vasilij Herasimaŭ
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160838'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Vasilij
+  last_name: Gerasimov
+  whole_name: Vasilij Gerasimov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160837'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -112,40 +109,43 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vasilij
-  last_name: Gerasimov
-  whole_name: Vasilij Gerasimov
+- first_name: Vasili
+  middle_name: Mikalaevich
+  last_name: HERASIMAU
+  whole_name: Vasili Mikalaevich HERASIMAU
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160839'
+  logical_id: '159573'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vasilij
-  last_name: Gerasimov
-  whole_name: Vasilij Gerasimov
+- first_name: Василий
+  middle_name: Николаевич
+  last_name: ГЕРАСИМОВ
+  whole_name: Василий Николаевич ГЕРАСИМОВ
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160837'
+  logical_id: '159572'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vasilij
-  last_name: Herasimaŭ
-  whole_name: Vasilij Herasimaŭ
+- first_name: Васілій
+  middle_name: Мікалаевіч
+  last_name: ГЕРАСІМАЎ
+  whole_name: Васілій Мікалаевіч ГЕРАСІМАЎ
   gender: M
-  name_language: CS
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '160838'
+  logical_id: '159571'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

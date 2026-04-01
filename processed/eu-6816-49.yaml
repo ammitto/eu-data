@@ -56,16 +56,6 @@ birthdates:
     number_title: 2023/2125 (OJ L10102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302125
 identifications:
-- identification_type_code: other
-  number: 6010302490003J
-  country_iso2_code: NI
-  regulation_language: en
-  logical_id: '133121'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-14'
-    number_title: 2022/1935 (OJ L268)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1935
 - identification_type_code: passport
   number: A00001109
   country_iso2_code: NI
@@ -76,3 +66,13 @@ identifications:
     publication_date: '2022-01-10'
     number_title: 2022/22 (OJ L5I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.005.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A005I%3ATOC
+- identification_type_code: other
+  number: 6010302490003J
+  country_iso2_code: NI
+  regulation_language: en
+  logical_id: '133121'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-14'
+    number_title: 2022/1935 (OJ L268)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1935

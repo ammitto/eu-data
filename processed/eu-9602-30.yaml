@@ -14,31 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Mianmari Katonai Beszerzési Parancsnokság
-  name_language: HU
+- whole_name: Urad glavnega intendanta v Mjanmaru/Burmi
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '150339'
+  logical_id: '150348'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Mjanmas Galvenā viceintendanta birojs
-  name_language: LV
+- whole_name: Oifig an Mháistir Ceathrún Ghinearálta i Maenmar
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '150343'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: kindralkortermeistri  büroo
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '150345'
+  logical_id: '150354'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -134,26 +124,6 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/378 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Urad glavnega intendanta v Mjanmaru/Burmi
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '150348'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
-- whole_name: Oifig an Mháistir Ceathrún Ghinearálta i Maenmar
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '150354'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/378 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
 - whole_name: Myanmarský úřad generálintendanta
   name_language: CS
   strong: true
@@ -189,6 +159,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150336'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Mianmari Katonai Beszerzési Parancsnokság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '150339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: Mjanmas Galvenā viceintendanta birojs
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '150343'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/378 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0378
+- whole_name: kindralkortermeistri  büroo
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '150345'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

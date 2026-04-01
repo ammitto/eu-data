@@ -14,16 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Celoruská televizní a rozhlasová společnost
-  name_language: CS
+- whole_name: ВГТРК
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '158446'
+  logical_id: '147225'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Viskrievijas Valsts televīzijas un radio apraides kompānija
   name_language: LV
   strong: true
@@ -34,21 +34,31 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Всероссиийская государственная телевизионная и радиовещательная компания
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147226'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: VGTRK
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '147227'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Összorosz Állami Televíziós és Rádiós Műsorszolgáltató Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '158445'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Celoruská televizní a rozhlasová společnost
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158446'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -136,31 +146,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: ВГТРК
+- whole_name: Всероссиийская государственная телевизионная и радиовещательная компания
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '147225'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Vseruska državna družba za  televizijo in radiofuzijo
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '158681'
+  logical_id: '147226'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Összorosz Állami Televíziós és Rádiós Műsorszolgáltató Vállalat
-  name_language: HU
+- whole_name: Vseruska državna družba za  televizijo in radiofuzijo
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '158445'
+  logical_id: '158681'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

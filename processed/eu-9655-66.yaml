@@ -25,20 +25,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Андрей
-  middle_name: Юрьевич
-  last_name: ПЕТРОВ
-  whole_name: Андрей Юрьевич ПЕТРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149578'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Andrey
   middle_name: Yuryevich
   last_name: PETROV
@@ -50,6 +36,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149579'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Андрей
+  middle_name: Юрьевич
+  last_name: ПЕТРОВ
+  whole_name: Андрей Юрьевич ПЕТРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149578'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -14,18 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrei
-  middle_name: Leonidovich
-  last_name: KOSTIN
-  whole_name: Andrei Leonidovich KOSTIN
-  function: |-
-    President of the VTB Bank Management Board; chairman of Board of Directors of the United Shipbuilding Corporation.
-    A member of the Supreme Council of the “United Russia” political party.
+- whole_name: Andrej Leonidovič KOSTIN
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '135291'
+  logical_id: '173933'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'
@@ -45,12 +39,18 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Andrej Leonidovič KOSTIN
+- first_name: Andrei
+  middle_name: Leonidovich
+  last_name: KOSTIN
+  whole_name: Andrei Leonidovich KOSTIN
+  function: |-
+    President of the VTB Bank Management Board; chairman of Board of Directors of the United Shipbuilding Corporation.
+    A member of the Supreme Council of the “United Russia” political party.
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173933'
+  logical_id: '135291'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

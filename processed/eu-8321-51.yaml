@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО Оборонэнерго
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140576'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Oboroneněrgo, a. s.
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158425'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: JSC OBORONENERGO
   function: Russian military power supplier
   name_language: EN
@@ -60,6 +40,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158551'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: АО Оборонэнерго
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140576'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Oboroneněrgo, a. s.
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158425'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

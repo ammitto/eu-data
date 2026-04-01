@@ -14,42 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Nikolay Dmitrievich PESKOV
+- whole_name: Nikolaj Dmitrijevitj PESKOV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '141347'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Nikolay Dmitrievich CHOLES
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141346'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Nikolay Dmitrievich CHOULZ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141345'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Николай Дмитриевич ПЕСКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '141344'
+  logical_id: '141373'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -66,12 +36,42 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Nikolaj Dmitrijevitj PESKOV
+- whole_name: Nikolay Dmitrievich PESKOV
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '141373'
+  logical_id: '141347'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Николай Дмитриевич ПЕСКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '141344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Nikolay Dmitrievich CHOULZ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141345'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Nikolay Dmitrievich CHOLES
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141346'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -105,21 +105,21 @@ birthdates:
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 identifications:
-- identification_type_code: id
-  number: '4516913332'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '141341'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - identification_type_code: passport
   number: '721123760'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '141342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- identification_type_code: id
+  number: '4516913332'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '141341'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

@@ -14,6 +14,48 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ludmila
+  middle_name: Stiepanovna
+  last_name: VASHCHENKO
+  whole_name: Ludmila Stiepanovna VASHCHENKO
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156727'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Людмила
+  middle_name: Степановна
+  last_name: ВАЩЕНКО
+  whole_name: Людмила Степановна ВАЩЕНКО
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156726'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Людміла
+  middle_name: Сцяпанаўна
+  last_name: ВАШЧАНКА
+  whole_name: Людміла Сцяпанаўна ВАШЧАНКА
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '156725'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Ljudmila
   last_name: Vaščanková
   whole_name: Ljudmila Vaščanková
@@ -62,6 +104,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157044'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Liudmila
+  last_name: Vashchanka
+  whole_name: Liudmila Vashchanka
+  gender: F
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '156869'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -147,14 +202,16 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Liudmila
-  last_name: Vashchanka
-  whole_name: Liudmila Vashchanka
+- first_name: Ludmila
+  middle_name: Stsiapanauna
+  last_name: VASHCHANKA
+  whole_name: Ludmila Stsiapanauna VASHCHANKA
+  function: judge of the Glubokoye District Court
   gender: F
-  name_language: ES
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156862'
+  logical_id: '156728'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -177,67 +234,10 @@ name_aliases:
   last_name: Vashchanka
   whole_name: Liudmila Vashchanka
   gender: F
-  name_language: NL
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '156869'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Ludmila
-  middle_name: Stsiapanauna
-  last_name: VASHCHANKA
-  whole_name: Ludmila Stsiapanauna VASHCHANKA
-  function: judge of the Glubokoye District Court
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156728'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Людміла
-  middle_name: Сцяпанаўна
-  last_name: ВАШЧАНКА
-  whole_name: Людміла Сцяпанаўна ВАШЧАНКА
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '156725'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Людмила
-  middle_name: Степановна
-  last_name: ВАЩЕНКО
-  whole_name: Людмила Степановна ВАЩЕНКО
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156726'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Ludmila
-  middle_name: Stiepanovna
-  last_name: VASHCHENKO
-  whole_name: Ludmila Stiepanovna VASHCHENKO
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156727'
+  logical_id: '156862'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

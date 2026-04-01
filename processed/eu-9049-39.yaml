@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Staatsverwaltungsrat
-  name_language: DE
+- whole_name: Κρατικό  Συμβούλιο  Διοίκησης (ΚΣΔ)
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '145568'
+  logical_id: '145562'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'
@@ -185,16 +185,6 @@ name_aliases:
     publication_date: '2022-11-08'
     number_title: 2022/2177 (OJ L286 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Κρατικό  Συμβούλιο  Διοίκησης (ΚΣΔ)
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '145562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
 - whole_name: Conseil d’administration de l’État
   name_language: FR
   strong: true
@@ -215,6 +205,26 @@ name_aliases:
     publication_date: '2022-11-08'
     number_title: 2022/2177 (OJ L286 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Conselho de  Administração  do Estado (CAE)
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '145565'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
+- whole_name: Staatsverwaltungsrat
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '145568'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-08'
+    number_title: 2022/2177 (OJ L286 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
 - whole_name: Consiliul  administrativ al  statului (CAS)
   name_language: RO
   strong: true
@@ -230,16 +240,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145566'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-08'
-    number_title: 2022/2177 (OJ L286 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2177
-- whole_name: Conselho de  Administração  do Estado (CAE)
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '145565'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-08'

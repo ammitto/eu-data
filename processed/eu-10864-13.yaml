@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Daria Fanavar Borhan Sharif
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159257'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-11'
-    number_title: 2023/2793 (OJ L11122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
-- whole_name: Saad Sazeh Faraz Sharif
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159258'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-11'
-    number_title: 2023/2793 (OJ L11122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
 - whole_name: Sadid Sazeh Parvaz Sharif
   name_language: EN
   strong: true
@@ -69,6 +49,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159253'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-11'
+    number_title: 2023/2793 (OJ L11122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
+- whole_name: Saad Sazeh Faraz Sharif
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159258'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-11'
+    number_title: 2023/2793 (OJ L11122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
+- whole_name: Daria Fanavar Borhan Sharif
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159257'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'

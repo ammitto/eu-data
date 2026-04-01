@@ -101,20 +101,20 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 identifications:
 - identification_type_code: fiscalcode
-  number: '271201003620'
+  number: '016154160136'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '157483'
+  logical_id: '157482'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - identification_type_code: fiscalcode
-  number: '016154160136'
+  number: '271201003620'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '157482'
+  logical_id: '157483'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

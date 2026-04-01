@@ -16,6 +16,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abu Mansoor Asim
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '125046'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 - whole_name: Noor Wali Mehsud
   function: Leader of Tehrik-e Taliban Pakistan (TTP)
   gender: M
@@ -24,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125047'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- whole_name: Abu Mansoor Asim
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '125046'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'

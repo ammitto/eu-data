@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Ribotos atsakomybės bendrovė (RAB) „Oskartour“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '135508'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - whole_name: ООО Оскартур
   strong: true
   regulation_language: en
@@ -27,16 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132121'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Ribotos atsakomybės bendrovė (RAB) „Oskartour“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '135508'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

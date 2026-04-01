@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Alexej
+  last_name: Labko
+  whole_name: Alexej Labko
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160830'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Aljaksej
   middle_name: Barysavitj
   last_name: LABKO
@@ -28,27 +41,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Aleksej
-  middle_name: Borisovitj
+- first_name: Aliaksei
+  middle_name: Borisovich
   last_name: LABKO
-  whole_name: Aleksej Borisovitj LABKO
+  whole_name: Aliaksei Borisovich LABKO
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160627'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Alexej
-  last_name: Labko
-  whole_name: Alexej Labko
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160828'
+  logical_id: '159550'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -62,33 +63,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160829'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Alexej
-  last_name: Labko
-  whole_name: Alexej Labko
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160830'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Аляксей
-  middle_name: Барысавіч
-  last_name: ЛАБКО
-  whole_name: Аляксей Барысавіч ЛАБКО
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '159547'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -109,15 +83,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Алексей
-  middle_name: Борисович
-  last_name: ЛАБКО
-  whole_name: Алексей Борисович ЛАБКО
+- first_name: Aleksej
+  middle_name: Borisovitj
+  last_name: LABKO
+  whole_name: Aleksej Borisovitj LABKO
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159548'
+  logical_id: '160627'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -137,15 +111,41 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Aliaksei
-  middle_name: Borisovich
-  last_name: LABKO
-  whole_name: Aliaksei Borisovich LABKO
+- first_name: Алексей
+  middle_name: Борисович
+  last_name: ЛАБКО
+  whole_name: Алексей Борисович ЛАБКО
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '159550'
+  logical_id: '159548'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Alexej
+  last_name: Labko
+  whole_name: Alexej Labko
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160828'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Аляксей
+  middle_name: Барысавіч
+  last_name: ЛАБКО
+  whole_name: Аляксей Барысавіч ЛАБКО
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '159547'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

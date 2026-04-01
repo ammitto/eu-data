@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Igor
+  last_name: Kosťukov
+  whole_name: Igor Kosťukov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '165546'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
 - first_name: Игорь
   middle_name: Олегович
   last_name: КОСТЮКОВ
@@ -23,19 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125793'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- first_name: Igor
-  last_name: Kostyukow
-  whole_name: Igor Kostyukow
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '165488'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -61,13 +61,13 @@ name_aliases:
     number_title: 2025/886 (OJ L202500886)
     publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
 - first_name: Igor
-  last_name: Kosťukov
-  whole_name: Igor Kosťukov
+  last_name: Kostyukow
+  whole_name: Igor Kostyukow
   gender: M
-  name_language: SK
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '165546'
+  logical_id: '165488'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'

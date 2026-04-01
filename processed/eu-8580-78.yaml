@@ -14,31 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: أبو شموط
-  name_language: AR
+- whole_name: Abu SHAMMOUT
   strong: true
   regulation_language: en
-  logical_id: '142838'
+  logical_id: '142861'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
     number_title: 2022/1274 (OJ L194)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
-- whole_name: هاني شموط
-  name_language: AR
+- whole_name: Abu Hani  SHAMOUT
   strong: true
   regulation_language: en
-  logical_id: '142837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1274 (OJ L194)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
-- whole_name: أبو هاني شموط
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '142839'
+  logical_id: '142862'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -61,19 +49,11 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1274 (OJ L194)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
-- whole_name: Abu Hani  SHAMOUT
+- whole_name: أبو هاني شموط
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '142862'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1274 (OJ L194)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
-- whole_name: Abu SHAMMOUT
-  strong: true
-  regulation_language: en
-  logical_id: '142861'
+  logical_id: '142839'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -83,6 +63,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142860'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1274 (OJ L194)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
+- whole_name: هاني شموط
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '142837'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1274 (OJ L194)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
+- whole_name: أبو شموط
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '142838'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

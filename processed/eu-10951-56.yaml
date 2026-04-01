@@ -14,15 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrej
-  middle_name: Anatoljevitj
+- first_name: Andrey
+  middle_name: Anatolyevich
   last_name: FROLENKOV
-  whole_name: Andrej Anatoljevitj FROLENKOV
+  whole_name: Andrey Anatolyevich FROLENKOV
+  function: Detachment Deputy Commander of the Mobile Special Duties Detachment (OMON)
   gender: M
-  name_language: SV
+  title: Colonel
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160690'
+  logical_id: '159912'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -42,30 +44,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Andrey
-  middle_name: Anatolyevich
-  last_name: FROLENKOV
-  whole_name: Andrey Anatolyevich FROLENKOV
-  function: Detachment Deputy Commander of the Mobile Special Duties Detachment (OMON)
-  gender: M
-  title: Colonel
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159912'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Andrej
-  last_name: Frolenkov
-  whole_name: Andrej Frolenkov
+  middle_name: Anatoljevitj
+  last_name: FROLENKOV
+  whole_name: Andrej Anatoljevitj FROLENKOV
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160929'
+  logical_id: '160690'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -79,6 +66,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160930'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Andrej
+  last_name: Frolenkov
+  whole_name: Andrej Frolenkov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160929'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

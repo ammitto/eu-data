@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Анатолий
-  middle_name: Дмитриевич
-  last_name: АРТАМОНОВ
-  whole_name: Анатолий Дмитриевич АРТАМОНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '137029'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Anatoly
   middle_name: Dmitrievich
   last_name: ARTAMONOV
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '137030'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Анатолий
+  middle_name: Дмитриевич
+  last_name: АРТАМОНОВ
+  whole_name: Анатолий Дмитриевич АРТАМОНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '137029'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

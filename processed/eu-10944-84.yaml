@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mkrtitj
-  middle_name: Okrojevitj
-  last_name: OKROJAN
-  whole_name: Mkrtitj Okrojevitj OKROJAN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160683'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Мкртич
   middle_name: Окроевич
   last_name: ОКРОЯН
@@ -57,14 +43,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Mkrtič
-  last_name: Okrojan
-  whole_name: Mkrtič Okrojan
+- first_name: Mkrtitj
+  middle_name: Okrojevitj
+  last_name: OKROJAN
+  whole_name: Mkrtitj Okrojevitj OKROJAN
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160920'
+  logical_id: '160683'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -78,6 +65,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160919'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Mkrtič
+  last_name: Okrojan
+  whole_name: Mkrtič Okrojan
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160920'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -28,19 +28,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- first_name: Tatiana
-  middle_name: Aleksandrovna
-  last_name: KOVALCHUK
-  whole_name: Tatiana Aleksandrovna KOVALCHUK
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '146920'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Татьяна
   middle_name: Александровна
   last_name: КОВАЛЬЧУК
@@ -50,6 +37,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146921'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Tatiana
+  middle_name: Aleksandrovna
+  last_name: KOVALCHUK
+  whole_name: Tatiana Aleksandrovna KOVALCHUK
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '146920'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

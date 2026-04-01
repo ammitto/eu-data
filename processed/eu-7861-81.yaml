@@ -14,20 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Elena
-  middle_name: Petrovna
-  last_name: TIMTŠENKO
-  whole_name: Elena Petrovna TIMTŠENKO
+- first_name: Jelena
+  last_name: Timčenková
+  whole_name: Jelena Timčenková
   gender: F
-  name_language: FI
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '158598'
+  logical_id: '152188'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Елена
   middle_name: Петровна
   last_name: ЕРМАКОВА
@@ -42,15 +41,15 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Jelena
-  middle_name: Petrovna
-  last_name: TIMTJENKO
-  whole_name: Jelena Petrovna TIMTJENKO
+- first_name: Елена
+  middle_name: Петровна
+  last_name: ТИМЧЕНКО
+  whole_name: Елена Петровна ТИМЧЕНКО
   gender: F
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '139286'
+  logical_id: '138065'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -70,61 +69,6 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Елена
-  middle_name: Петровна
-  last_name: ТИМЧЕНКО
-  whole_name: Елена Петровна ТИМЧЕНКО
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138065'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Elena
-  middle_name: Petrovna
-  last_name: YERMAKOVA
-  whole_name: Elena Petrovna YERMAKOVA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '138066'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Elena
-  middle_name: Petrovna
-  last_name: ERMAKOVA
-  whole_name: Elena Petrovna ERMAKOVA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '138067'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Jelena
-  last_name: Timčenková
-  whole_name: Jelena Timčenková
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152188'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Elena
   middle_name: Petrovna
   last_name: TIMČENKO
@@ -154,6 +98,34 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Elena
+  middle_name: Petrovna
+  last_name: ERMAKOVA
+  whole_name: Elena Petrovna ERMAKOVA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138067'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Elena
+  middle_name: Petrovna
+  last_name: YERMAKOVA
+  whole_name: Elena Petrovna YERMAKOVA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138066'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Jelena
   last_name: TIMČENKOVÁ
   whole_name: Jelena TIMČENKOVÁ
@@ -167,20 +139,48 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-citizenships:
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- first_name: Elena
+  middle_name: Petrovna
+  last_name: TIMTŠENKO
+  whole_name: Elena Petrovna TIMTŠENKO
+  gender: F
+  name_language: FI
+  strong: true
   regulation_language: en
-  logical_id: '138064'
+  logical_id: '158598'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Jelena
+  middle_name: Petrovna
+  last_name: TIMTJENKO
+  whole_name: Jelena Petrovna TIMTJENKO
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139286'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+citizenships:
+- country_iso2_code: FI
+  country_description: FINLAND
+  regulation_language: en
+  logical_id: '138063'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- country_iso2_code: FI
-  country_description: FINLAND
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '138063'
+  logical_id: '138064'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

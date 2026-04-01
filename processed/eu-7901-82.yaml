@@ -14,6 +14,37 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Наталья
+  middle_name: Юрьевна
+  last_name: НИКОНОРОВА
+  whole_name: Наталья Юрьевна НИКОНОРОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '138268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Natalya
+  middle_name: Yurevna
+  last_name: NIKONOROVA
+  whole_name: Natalya Yurevna NIKONOROVA
+  function: |-
+    Former so-called ‘Minister of Foreign Affairs’ of the so-called ‘Donetsk People’s Republic’.
+    Member of the Federation Council and its Committee on International Affairs and a Senator of the so-called “Donetsk People’s Republic”.
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138269'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Наталя
   middle_name: Юр’ївна
   last_name: НIКОНОРОВА
@@ -37,37 +68,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139360'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Natalya
-  middle_name: Yurevna
-  last_name: NIKONOROVA
-  whole_name: Natalya Yurevna NIKONOROVA
-  function: |-
-    Former so-called ‘Minister of Foreign Affairs’ of the so-called ‘Donetsk People’s Republic’.
-    Member of the Federation Council and its Committee on International Affairs and a Senator of the so-called “Donetsk People’s Republic”.
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '138269'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Наталья
-  middle_name: Юрьевна
-  last_name: НИКОНОРОВА
-  whole_name: Наталья Юрьевна НИКОНОРОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138268'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

@@ -14,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Сергей Владимирович  ЩЕРБАКОВ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '132274'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2193 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2193&from=EN
 - whole_name: Sergey  Vladimirovich  SHCHERBAKOV
   function: "Freelance \nemployee of the Russian GRU and Wagner group mercenary"
   gender: M
@@ -31,16 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132720'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2193 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2193&from=EN
-- whole_name: Сергей Владимирович  ЩЕРБАКОВ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '132274'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-13'

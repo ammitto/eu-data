@@ -15,14 +15,28 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Igor
-  middle_name: Leonidovič
-  last_name: KOLEDA
-  whole_name: Igor Leonidovič KOLEDA
+  middle_name: Leonidowicz
+  last_name: Koleda
+  whole_name: Igor Leonidowicz Koleda
   gender: M
-  name_language: SK
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '156103'
+  logical_id: '156100'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1499 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
+- first_name: Ihor
+  middle_name: Leonidovytj
+  last_name: KOLEDA
+  whole_name: Ihor Leonidovytj KOLEDA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156101'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -42,34 +56,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1499 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- first_name: Iгор
-  middle_name: Леонiдович
-  last_name: КОЛЕДА
-  whole_name: Iгор Леонiдович КОЛЕДА
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '155955'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1499 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- first_name: Igor
-  middle_name: Leonidowicz
-  last_name: Koleda
-  whole_name: Igor Leonidowicz Koleda
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156100'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1499 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
 - first_name: Igor
   middle_name: Leonidovitš
   last_name: KOLEDA
@@ -79,6 +65,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156104'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1499 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
+- first_name: Iгор
+  middle_name: Леонiдович
+  last_name: КОЛЕДА
+  whole_name: Iгор Леонiдович КОЛЕДА
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '155955'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -98,15 +98,15 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1499 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- first_name: Ihor
-  middle_name: Leonidovytj
+- first_name: Igor
+  middle_name: Leonidovič
   last_name: KOLEDA
-  whole_name: Ihor Leonidovytj KOLEDA
+  whole_name: Igor Leonidovič KOLEDA
   gender: M
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '156101'
+  logical_id: '156103'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

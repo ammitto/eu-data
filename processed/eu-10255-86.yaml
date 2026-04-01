@@ -14,14 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexandr
-  middle_name: Nikolajevič
-  last_name: ZACHARENKO
-  whole_name: Alexandr Nikolajevič ZACHARENKO
-  name_language: SK
+- first_name: Alexander
+  middle_name: Nikolaevich
+  last_name: ZAKHARENKO
+  whole_name: Alexander Nikolaevich ZAKHARENKO
+  function: |-
+    Director of the Department for Interaction with State Authorities and Work with the Regions of the State Corporation Roscosmos;
+    Deputy Chair of the Public Council of “Roscosmos”;
+    Secretary of the “working group special military operation” established per decree by President Putin
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '155289'
+  logical_id: '154222'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -41,19 +46,14 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Alexander
-  middle_name: Nikolaevich
-  last_name: ZAKHARENKO
-  whole_name: Alexander Nikolaevich ZAKHARENKO
-  function: |-
-    Director of the Department for Interaction with State Authorities and Work with the Regions of the State Corporation Roscosmos;
-    Deputy Chair of the Public Council of “Roscosmos”;
-    Secretary of the “working group special military operation” established per decree by President Putin
-  gender: M
-  name_language: EN
+- first_name: Alexandr
+  middle_name: Nikolajevič
+  last_name: ZACHARENKO
+  whole_name: Alexandr Nikolajevič ZACHARENKO
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '154222'
+  logical_id: '155289'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

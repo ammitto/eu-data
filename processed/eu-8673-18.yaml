@@ -14,31 +14,35 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Viktor Fedorovič JANUKOVIČ
-  gender: M
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '143360'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-04'
-    number_title: 2022/1354 (OJ L204I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.204.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A204I%3ATOC
 - first_name: Viktor
-  middle_name: Fedorovici
-  last_name: IANUKOVICI
-  whole_name: Viktor Fedorovici IANUKOVICI
+  middle_name: Fedorovych
+  last_name: YANUKOVYCH
+  whole_name: Viktor Fedorovych YANUKOVYCH
+  function: former president of Ukraine (2010-2014), leading businessperson
   gender: M
-  name_language: RO
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '143362'
+  logical_id: '143356'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Вiктор
+  middle_name: Федорович
+  last_name: Янукович
+  whole_name: Вiктор Федорович Янукович
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '143355'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-04'
+    number_title: 2022/1354 (OJ L204I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.204.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A204I%3ATOC
 - first_name: Viktor
   last_name: Ianoukovitch
   whole_name: Viktor Ianoukovitch
@@ -52,15 +56,14 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Viktor
-  middle_name: Fedorovytj
-  last_name: JANUKOVYTJ
-  whole_name: Viktor Fedorovytj JANUKOVYTJ
+- first_name: Wiktor
+  last_name: Janukowycz
+  whole_name: Wiktor Janukowycz
   gender: M
-  name_language: SV
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '143354'
+  logical_id: '158223'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -119,42 +122,39 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Viktor
-  middle_name: Fedorovych
-  last_name: YANUKOVYCH
-  whole_name: Viktor Fedorovych YANUKOVYCH
-  function: former president of Ukraine (2010-2014), leading businessperson
+  middle_name: Fedorovytj
+  last_name: JANUKOVYTJ
+  whole_name: Viktor Fedorovytj JANUKOVYTJ
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '143356'
+  logical_id: '143354'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Вiктор
-  middle_name: Федорович
-  last_name: Янукович
-  whole_name: Вiктор Федорович Янукович
+- whole_name: Viktor Fedorovič JANUKOVIČ
   gender: M
-  name_language: UK
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '143355'
+  logical_id: '143360'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-04'
     number_title: 2022/1354 (OJ L204I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.204.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A204I%3ATOC
-- first_name: Wiktor
-  last_name: Janukowycz
-  whole_name: Wiktor Janukowycz
+- first_name: Viktor
+  middle_name: Fedorovici
+  last_name: IANUKOVICI
+  whole_name: Viktor Fedorovici IANUKOVICI
   gender: M
-  name_language: PL
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '158223'
+  logical_id: '143362'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

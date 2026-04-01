@@ -15,22 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Bogdan
-  middle_name: Vasilyevich
-  last_name: STYOZHKA
-  whole_name: Bogdan Vasilyevich STYOZHKA
-  function: Chief of Staff of the Board of the Military Industrial Commission of the
-    Russian Federation
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159922'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Bogdan
   last_name: Styožka
   whole_name: Bogdan Styožka
   gender: M
@@ -38,6 +22,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160931'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Богдан
+  last_name: Стьожка
+  whole_name: Богдан Стьожка
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161246'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -57,20 +54,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Богдан
-  middle_name: Васильевич
-  last_name: СТИОЖКА
-  whole_name: Богдан Васильевич СТИОЖКА
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159921'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Bogdan
   last_name: Stjožka
   whole_name: Bogdan Stjožka
@@ -84,14 +67,31 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Богдан
-  last_name: Стьожка
-  whole_name: Богдан Стьожка
+- first_name: Bogdan
+  middle_name: Vasilyevich
+  last_name: STYOZHKA
+  whole_name: Bogdan Vasilyevich STYOZHKA
+  function: Chief of Staff of the Board of the Military Industrial Commission of the
+    Russian Federation
   gender: M
-  name_language: BG
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161246'
+  logical_id: '159922'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Богдан
+  middle_name: Васильевич
+  last_name: СТИОЖКА
+  whole_name: Богдан Васильевич СТИОЖКА
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159921'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

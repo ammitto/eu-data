@@ -58,13 +58,14 @@ name_aliases:
     number_title: 2022/260 (OJ L42I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:042I:FULL&from=EN
 - first_name: Oleg
-  last_name: Saľukov
-  whole_name: Oleg Saľukov
+  middle_name: Leonidovitj
+  last_name: SALJUKOV
+  whole_name: Oleg Leonidovitj SALJUKOV
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '158464'
+  logical_id: '135388'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -84,6 +85,19 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Oleg
+  last_name: Saľukov
+  whole_name: Oleg Saľukov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158464'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Oleg
   last_name: Saljukov
   whole_name: Oleg Saljukov
   gender: M
@@ -91,20 +105,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158320'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Oleg
-  middle_name: Leonidovitj
-  last_name: SALJUKOV
-  whole_name: Oleg Leonidovitj SALJUKOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '135388'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

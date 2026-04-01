@@ -34,26 +34,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ένοπλες δυνάμεις της  Ρωσικής  Ομοσπονδίας
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '147938'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: forces armées de la  Fédération de Russie
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147714'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Siły zbrojne Federacji  Rosyjskiej
   name_language: PL
   strong: true
@@ -64,11 +44,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Fuerzas Armadas de la Federación de Rusia
-  name_language: ES
+- whole_name: Strijdkrachten van de  Russische Federatie
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '147775'
+  logical_id: '147911'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ένοπλες δυνάμεις της  Ρωσικής  Ομοσπονδίας
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '147938'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -113,11 +103,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Strijdkrachten van de  Russische Federatie
-  name_language: NL
+- whole_name: forces armées de la  Fédération de Russie
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '147911'
+  logical_id: '147714'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -133,21 +123,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ryska  federationens försvarsmakt
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '147993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Въоръжените сили на Руската федерация
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '148017'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ryska  federationens försvarsmakt
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '147993'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -173,11 +163,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ozbrojené síly Ruské  federace
-  name_language: CS
+- whole_name: Fuerzas Armadas de la Federación de Rusia
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '147929'
+  logical_id: '147775'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -188,6 +178,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148135'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ozbrojené síly Ruské  federace
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '147929'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

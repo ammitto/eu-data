@@ -18,38 +18,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Fond verejnej diplomacie Alexandra Gorčakova
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '142776'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: The Alexander Gorchakov Public Diplomacy Fund
-  function: Russian public fund designed to support Russian compatriots in the post-Soviet
-    space through granting of funding to think tanks and non-governmental organisations
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '142713'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Фонд общественной  дипломатии Александра  Горчакова
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '142712'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Aleksandro Gorčiakovo visuomeninės diplomatijos fondas
   name_language: LT
   strong: true
@@ -105,6 +73,38 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142787'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Фонд общественной  дипломатии Александра  Горчакова
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '142712'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: The Alexander Gorchakov Public Diplomacy Fund
+  function: Russian public fund designed to support Russian compatriots in the post-Soviet
+    space through granting of funding to think tanks and non-governmental organisations
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '142713'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Fond verejnej diplomacie Alexandra Gorčakova
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '142776'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

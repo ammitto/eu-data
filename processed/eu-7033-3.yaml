@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Yury Vyacheslavovich AFONIN
+  function: Member of the State Duma
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '133868'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - whole_name: Jurij Vjatjeslavovitj AFONIN
   name_language: SV
   strong: true
@@ -30,17 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133887'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Yury Vyacheslavovich AFONIN
-  function: Member of the State Duma
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '133868'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

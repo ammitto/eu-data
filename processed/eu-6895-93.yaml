@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Nina Sergeevna  FAUSTOVA
+  function: Head of Sevastopol electoral commission
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '133339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/236 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
 - whole_name: Нина Сергеевна  ФАУСТОВА
   gender: F
   strong: true
@@ -30,17 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133828'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/236 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Nina Sergeevna  FAUSTOVA
-  function: Head of Sevastopol electoral commission
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '133339'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'

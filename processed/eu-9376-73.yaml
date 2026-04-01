@@ -77,16 +77,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: RESEARCH DESIGN BYURO “NOVATOR”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169905'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - whole_name: MOKSLINIŲ TYRIMŲ  PROJEKTAVIMO  BIURAS „NOVATOR“
   name_language: LT
   strong: true
@@ -102,6 +92,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169904'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: RESEARCH DESIGN BYURO “NOVATOR”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169905'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

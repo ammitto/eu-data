@@ -25,6 +25,16 @@ name_aliases:
     number_title: 2023/430 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
 identifications:
+- identification_type_code: fiscalcode
+  number: '7811636632'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '150300'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
 - identification_type_code: regnumber
   number: '1177847044066'
   country_iso2_code: RU
@@ -40,16 +50,6 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '150993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- identification_type_code: fiscalcode
-  number: '7811636632'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '150300'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -15,60 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Pavel
-  last_name: Prigožin
-  whole_name: Pavel Prigožin
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '158523'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Pavel
-  middle_name: Jevgenievič
-  last_name: PRIGOŽIN
-  whole_name: Pavel Jevgenievič PRIGOŽIN
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '152342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Pavel
-  last_name: Prigojine
-  whole_name: Pavel Prigojine
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '158190'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Павел
-  middle_name: Евгеньевич
-  last_name: ПРИГОЖИН
-  whole_name: Павел Евгеньевич ПРИГОЖИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140938'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Pavel
   middle_name: Evgenevich
   last_name: PRIGOZHIN
   whole_name: Pavel Evgenevich PRIGOZHIN
@@ -84,6 +30,34 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- first_name: Павел
+  middle_name: Евгеньевич
+  last_name: ПРИГОЖИН
+  whole_name: Павел Евгеньевич ПРИГОЖИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140938'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Pavel
+  middle_name: Jevgenievič
+  last_name: PRIGOŽIN
+  whole_name: Pavel Jevgenievič PRIGOŽIN
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '152342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Pavel
   last_name: Prigožin
   whole_name: Pavel Prigožin
@@ -97,6 +71,32 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Pavel
+  last_name: Prigožin
+  whole_name: Pavel Prigožin
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158523'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Pavel
+  last_name: Prigojine
+  whole_name: Pavel Prigojine
+  gender: M
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '158190'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

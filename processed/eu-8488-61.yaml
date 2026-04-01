@@ -14,12 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: محمد عصام شموط
+- first_name: Mohammed Issam
+  last_name: Shammout
+  whole_name: Mohammed Issam Shammout
   gender: M
-  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '141884'
+  logical_id: '141888'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-26'
+    number_title: 2023/1027 (OJ L139)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
+- first_name: Issam
+  last_name: SHAMMOUT
+  whole_name: Issam SHAMMOUT
+  function: Owner and chairman of the board of directors of the airline “Cham Wings”.
+    Head of the Shammout Group active in the automotive, steel, aviation, freight
+    forwarding, constructions, and real estate sectors.
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141889'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -61,28 +77,12 @@ name_aliases:
     publication_date: '2023-05-26'
     number_title: 2023/1027 (OJ L139)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
-- first_name: Mohammed Issam
-  last_name: Shammout
-  whole_name: Mohammed Issam Shammout
+- whole_name: محمد عصام شموط
   gender: M
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '141888'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-26'
-    number_title: 2023/1027 (OJ L139)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
-- first_name: Issam
-  last_name: SHAMMOUT
-  whole_name: Issam SHAMMOUT
-  function: Owner and chairman of the board of directors of the airline “Cham Wings”.
-    Head of the Shammout Group active in the automotive, steel, aviation, freight
-    forwarding, constructions, and real estate sectors.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141889'
+  logical_id: '141884'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sergey
-  middle_name: Nikolayevich
-  last_name: MURATOV
-  whole_name: Sergey Nikolayevich MURATOV
-  function: Member of the Federation Council
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '136962'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Сергей
   middle_name: Николаевич
   last_name: МУРАТОВ
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136961'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Sergey
+  middle_name: Nikolayevich
+  last_name: MURATOV
+  whole_name: Sergey Nikolayevich MURATOV
+  function: Member of the Federation Council
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '136962'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

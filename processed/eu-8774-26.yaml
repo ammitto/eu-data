@@ -15,6 +15,23 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Anton
+  middle_name: Robertovich
+  last_name: TITSKIY
+  whole_name: Anton Robertovich TITSKIY
+  function: |-
+    since January 2024 he has been the so-called “First Deputy Governor of the Zaporizhzhia Oblast”.
+    since July 2022 so-called “Minister of Youth Police of Zaporizhzhia Oblast”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '144361'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Anton
   middle_name: Robertovitj
   last_name: TITSKIJ
   whole_name: Anton Robertovitj TITSKIJ
@@ -42,23 +59,6 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Anton
-  middle_name: Robertovich
-  last_name: TITSKIY
-  whole_name: Anton Robertovich TITSKIY
-  function: |-
-    since January 2024 he has been the so-called “First Deputy Governor of the Zaporizhzhia Oblast”.
-    since July 2022 so-called “Minister of Youth Police of Zaporizhzhia Oblast”
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '144361'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

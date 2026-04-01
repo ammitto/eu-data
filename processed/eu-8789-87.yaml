@@ -19,6 +19,34 @@ name_aliases:
   last_name: RYZHKOV
   whole_name: Sergey Borisovich RYZHKOV
   gender: M
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '144663'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Sergej
+  middle_name: Borisovitj
+  last_name: RYZJKOV
+  whole_name: Sergej Borisovitj RYZJKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '144660'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Sergey
+  middle_name: Borisovich
+  last_name: RYZHKOV
+  whole_name: Sergey Borisovich RYZHKOV
+  gender: M
   name_language: NL
   strong: true
   regulation_language: en
@@ -66,34 +94,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144458'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Sergey
-  middle_name: Borisovich
-  last_name: RYZHKOV
-  whole_name: Sergey Borisovich RYZHKOV
-  gender: M
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '144663'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Sergej
-  middle_name: Borisovitj
-  last_name: RYZJKOV
-  whole_name: Sergej Borisovitj RYZJKOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '144660'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

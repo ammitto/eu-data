@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Nikolaj
-  middle_name: Petrovitj
-  last_name: TOKAREV
-  whole_name: Nikolaj Petrovitj TOKAREV
+- first_name: Николай
+  middle_name: Петрович
+  last_name: ТОКАРЕВ
+  whole_name: Николай Петрович ТОКАРЕВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '136205'
+  logical_id: '136049'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -39,16 +39,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Nikolay
-  middle_name: Petrovich
+- first_name: Nikolaj
+  middle_name: Petrovitj
   last_name: TOKAREV
-  whole_name: Nikolay Petrovich TOKAREV
-  function: CEO of Transneft, major Russian oil and gas company
+  whole_name: Nikolaj Petrovitj TOKAREV
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '136050'
+  logical_id: '136205'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -67,20 +66,6 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Николай
-  middle_name: Петрович
-  last_name: ТОКАРЕВ
-  whole_name: Николай Петрович ТОКАРЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136049'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Nikolaj
   last_name: Tokarev
   whole_name: Nikolaj Tokarev
@@ -89,6 +74,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164910'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Nikolay
+  middle_name: Petrovich
+  last_name: TOKAREV
+  whole_name: Nikolay Petrovich TOKAREV
+  function: CEO of Transneft, major Russian oil and gas company
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '136050'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

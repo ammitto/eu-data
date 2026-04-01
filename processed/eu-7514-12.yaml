@@ -14,33 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alisher
-  middle_name: Burkhanovich
-  last_name: USMONOV
-  whole_name: Alisher Burkhanovich USMONOV
-  gender: M
-  name_language: UZ
-  strong: true
-  regulation_language: en
-  logical_id: '136053'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Ališer
-  last_name: Usmanov
-  whole_name: Ališer Usmanov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '158469'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Ališer
   last_name: Usmanov
   whole_name: Ališer Usmanov
@@ -96,6 +69,33 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Alisher
+  middle_name: Burkhanovich
+  last_name: USMONOV
+  whole_name: Alisher Burkhanovich USMONOV
+  gender: M
+  name_language: UZ
+  strong: true
+  regulation_language: en
+  logical_id: '136053'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Ališer
+  last_name: Usmanov
+  whole_name: Ališer Usmanov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158469'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 birthdates:
 - birthdate: '1953-09-09'
   circa: false

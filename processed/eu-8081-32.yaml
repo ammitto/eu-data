@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: NOMOS Bank
-  name_language: EN
+- whole_name: Banco Otkritie FC
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '139098'
+  logical_id: '158290'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -35,11 +35,11 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: Banco Otkritie FC
-  name_language: PT
+- whole_name: NOMOS Bank
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158290'
+  logical_id: '139098'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -59,11 +59,11 @@ addresses:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 identifications:
-- identification_type_code: regnumber
-  number: '1027739019208'
-  country_iso2_code: RU
+- identification_type_code: other
+  number: JSNMRUMM
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '139653'
+  logical_id: '158160'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -79,11 +79,11 @@ identifications:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- identification_type_code: other
-  number: JSNMRUMM
-  country_iso2_code: '00'
+- identification_type_code: regnumber
+  number: '1027739019208'
+  country_iso2_code: RU
   regulation_language: en
-  logical_id: '158160'
+  logical_id: '139653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

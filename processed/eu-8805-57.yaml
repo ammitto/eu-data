@@ -15,11 +15,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC A.N. Ganyicsev Tudományos és Gyártási Szövetség “SPLAV”
-  name_language: HU
+- whole_name: JSC A. N. Ganichev Scientific and Production Association “SPLAV”
+  function: Russian weapons manufacturer
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '144769'
+  logical_id: '144536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Stowarzyszenie Naukowo-Produkcyjne JSC A.N. Ganichev »SPLAV«
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '144686'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: Asociación Científica y de Producción JSC A.N. Ganichev (“SPLAV”)
+  strong: true
+  regulation_language: en
+  logical_id: '144722'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -35,41 +55,21 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: Asociación Científica y de Producción JSC A.N. Ganichev (“SPLAV”)
-  strong: true
-  regulation_language: en
-  logical_id: '144722'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: Stowarzyszenie Naukowo-Produkcyjne JSC A.N. Ganichev »SPLAV«
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '144686'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: JSC A. N. Ganichev Scientific and Production Association “SPLAV”
-  function: Russian weapons manufacturer
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '144536'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: АО «Научно-производственное объединение «СПЛАВ» имени А. Н. Ганичева»
+- whole_name: АО НПО «Сплав»
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144535'
+  logical_id: '144533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: JSC A.N. Ganyicsev Tudományos és Gyártási Szövetség “SPLAV”
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '144769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -84,11 +84,11 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: АО НПО «Сплав»
+- whole_name: АО «Научно-производственное объединение «СПЛАВ» имени А. Н. Ганичева»
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144533'
+  logical_id: '144535'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

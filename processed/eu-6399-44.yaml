@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Сяргей
-  middle_name: Уладзiмiравiч
-  last_name: УШАКОЎ
-  whole_name: Сяргей Уладзiмiравiч УШАКОЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '130243'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Siarhej
   middle_name: Uladzimiravitj
   last_name: USJAKOU
@@ -42,15 +28,59 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Sergej
-  middle_name: Vladimirovitj
-  last_name: USJAKOV
-  whole_name: Sergej Vladimirovitj USJAKOV
+- first_name: Siarhei
+  middle_name: Uladzimiravich
+  last_name: USHAKOU
+  whole_name: Siarhei Uladzimiravich USHAKOU
+  function: Head and former Deputy Head of the Frunzensky District Police Department
+    of Minsk
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '130770'
+  logical_id: '130245'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Sergei
+  middle_name: Vladimirovich
+  last_name: USHAKOV
+  whole_name: Sergei Vladimirovich USHAKOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '130244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Сяргей
+  middle_name: Уладзiмiравiч
+  last_name: УШАКОЎ
+  whole_name: Сяргей Уладзiмiравiч УШАКОЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '130243'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Сергей
+  middle_name: Владимирович
+  last_name: УШАКОВ
+  whole_name: Сергей Владимирович УШАКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '130242'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -82,45 +112,15 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Сергей
-  middle_name: Владимирович
-  last_name: УШАКОВ
-  whole_name: Сергей Владимирович УШАКОВ
+- first_name: Sergej
+  middle_name: Vladimirovitj
+  last_name: USJAKOV
+  whole_name: Sergej Vladimirovitj USJAKOV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130242'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Sergei
-  middle_name: Vladimirovich
-  last_name: USHAKOV
-  whole_name: Sergei Vladimirovich USHAKOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '130244'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Siarhei
-  middle_name: Uladzimiravich
-  last_name: USHAKOU
-  whole_name: Siarhei Uladzimiravich USHAKOU
-  function: Head and former Deputy Head of the Frunzensky District Police Department
-    of Minsk
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '130245'
+  logical_id: '130770'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

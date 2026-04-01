@@ -14,27 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: حضرت نبی اکرم سپاه پاسداران انقلاب اسلامی
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '148510'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Регионален корпус Hazrat Nabi Akram на  Корпуса на гвардейците на ислямската  революция
-    (IRGC) в Kermanshah
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '148747'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Islamic Revolutionary Guard Corps (IRGC) Regional Corps Hazrat Nabi
     Akram in Kermanshah
   function: Islamic Revolutionary Guard Corps (IRGC) military unit
@@ -46,11 +25,33 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Islamiska revolutionsgardets regionala Hazrat Nabi Akram-styrkor i Kermanshah
-  name_language: SV
+- whole_name: islami revolutsioonilise kaardiväe (IRGC) piirkondlik üksus Hazrat  Nabi
+    Akram Kermānshāhi provintsis
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '148797'
+  logical_id: '148999'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: حضرت نبی اکرم سپاه پاسداران انقلاب اسلامی
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '148510'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
+    siły  Hazrat Nabi Akram prowincji Kermanszah
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '148678'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -100,6 +101,17 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Corps provincial "Hazrat Nabi Akram"  relevant du Corps des gardiens
+    de la  révolution islamique (IRGC) à Kermanshah
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '148635'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Regionálna jednotka Zboru islamských  revolučných gárd (IRGC) Hazrat
     Nabi  Akram v provincii Kermanšah
   name_language: SK
@@ -122,23 +134,33 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: islami revolutsioonilise kaardiväe (IRGC) piirkondlik üksus Hazrat  Nabi
-    Akram Kermānshāhi provintsis
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '148999'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Den Islamiske Revolutionsgardes (IRGC's)  regionale korps Hazrat Nabi
     Akram i Kermanshah
   name_language: DA
   strong: true
   regulation_language: en
   logical_id: '148765'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Регионален корпус Hazrat Nabi Akram на  Корпуса на гвардейците на ислямската  революция
+    (IRGC) в Kermanshah
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '148747'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Islamiska revolutionsgardets regionala Hazrat Nabi Akram-styrkor i Kermanshah
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '148797'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -155,12 +177,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
-    siły  Hazrat Nabi Akram prowincji Kermanszah
-  name_language: PL
+- whole_name: Corpul provincial «Hazrat Nabi Akram» al  Corpului Gardienilor Revoluției
+    Iraniene (IRGC) din provincia Kermanshah
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '148678'
+  logical_id: '148734'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -177,6 +199,17 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Islāma revolucionāro gvardu korpusa (IRGC) reģionālais korpuss Hazrat
+    Nabi  Akram, kas atrodas Kermanshah
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '148982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Regionalkorps „Hazrat Nabi Akram“ des Korps der Islamischen Revolutionsgarde
     (IRGC) in Kermanshah
   name_language: DE
@@ -188,12 +221,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Corps provincial "Hazrat Nabi Akram"  relevant du Corps des gardiens
-    de la  révolution islamique (IRGC) à Kermanshah
-  name_language: FR
+- whole_name: Regionální jednotka Islámských  revolučních gard (IRGC) Hazrat Nabi  Akram
+    v provincii Kermánšáh
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '148635'
+  logical_id: '148801'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -204,17 +237,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148842'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Regionální jednotka Islámských  revolučních gard (IRGC) Hazrat Nabi  Akram
-    v provincii Kermánšáh
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '148801'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -247,28 +269,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148610'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Corpul provincial «Hazrat Nabi Akram» al  Corpului Gardienilor Revoluției
-    Iraniene (IRGC) din provincia Kermanshah
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '148734'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Islāma revolucionāro gvardu korpusa (IRGC) reģionālais korpuss Hazrat
-    Nabi  Akram, kas atrodas Kermanshah
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '148982'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

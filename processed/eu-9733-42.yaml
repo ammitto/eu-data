@@ -14,89 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "„Дубненски  машиностроителен завод“  АД"
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '151279'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Dubnenský strojársky závod a. s.
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '151335'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Joint-stock company «Dubnensky machine-building plant» που πήρε το όνομά
-    της από τον N.P. Fedorov·
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '151289'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: АО ДМЗ ИМ. Н.П. ФЕДОРОВА
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150028'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Uzina de construcții de mașini Dubnensky SA
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151237'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Joint-stock company  „«Dubnensky  machine-building plant»  denumită
-    după N.P. Fedorov”;
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: aandelenvennootschap “Dubnensky machine-building  plant” genoemd naar
-    N.P.  Fedorov;
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '151200'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Zakłady Budowy Maszyn Dubnensky S.A.
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '151139'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Société par actions Dubnensky Machine-Building Plant
   name_language: FR
   strong: true
@@ -178,11 +95,94 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: АО ДМЗ ИМ. Н.П. ФЕДОРОВА
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150028'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Дубненский машиностроительный завод
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '150029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Dubnenský strojársky závod a. s.
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '151335'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Joint-stock company «Dubnensky machine-building plant» που πήρε το όνομά
+    της από τον N.P. Fedorov·
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '151289'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: "„Дубненски  машиностроителен завод“  АД"
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '151279'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Uzina de construcții de mașini Dubnensky SA
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151237'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Joint-stock company  „«Dubnensky  machine-building plant»  denumită
+    după N.P. Fedorov”;
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: aandelenvennootschap “Dubnensky machine-building  plant” genoemd naar
+    N.P.  Fedorov;
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151200'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Zakłady Budowy Maszyn Dubnensky S.A.
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '151139'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ренат
-  middle_name: Исмаилович
-  last_name: СУЛЕЙМАНОВ
-  whole_name: Ренат Исмаилович СУЛЕЙМАНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '133981'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - whole_name: Renat Ismailovitj SULEJMANOV
   name_language: SV
   strong: true
@@ -47,6 +33,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Ренат
+  middle_name: Исмаилович
+  last_name: СУЛЕЙМАНОВ
+  whole_name: Ренат Исмаилович СУЛЕЙМАНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '133981'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

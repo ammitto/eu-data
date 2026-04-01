@@ -14,37 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Empresa Pública Unitária  Federal ”Rossiya Segodnya  International Information  Agency"
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '151194'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Întreprinderea unitară a statului federal „Agenția  internațională de
-    informare «RossiyaSegodnya»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151261'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Staatsinformatieagentschap Rossiya Segodnya
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '151210'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: federalne państwowe przedsiębiorstwo unitarne „Rossiya Segodnya” Międzynarodowa
     Agencja Informacyjna
   name_language: PL
@@ -78,6 +47,17 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Întreprinderea unitară a statului federal „Agenția  internațională de
+    informare «RossiyaSegodnya»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151261'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Federal State Unitary Enterprise Rossiya Segodnya International Information
     Agency
   function: a Russian government-linked media group
@@ -85,6 +65,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Empresa Pública Unitária  Federal ”Rossiya Segodnya  International Information  Agency"
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '151194'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Staatsinformatieagentschap Rossiya Segodnya
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151210'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

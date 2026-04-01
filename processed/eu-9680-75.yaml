@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Алексей
+  middle_name: Александрович
+  last_name: УЧЕНОВ
+  whole_name: Алексей Александрович УЧЕНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149730'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Alexej
   last_name: Učenov
   whole_name: Alexej Učenov
@@ -22,6 +36,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Alexej
+  last_name: Učenov
+  whole_name: Alexej Učenov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158406'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -51,33 +78,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149731'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Алексей
-  middle_name: Александрович
-  last_name: УЧЕНОВ
-  whole_name: Алексей Александрович УЧЕНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149730'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Alexej
-  last_name: Učenov
-  whole_name: Alexej Učenov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158406'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

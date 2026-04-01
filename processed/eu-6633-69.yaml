@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Андрей
-  middle_name: Николаевич
-  last_name: ДОЛГОПОЛОВ
-  whole_name: Андрей Николаевич ДОЛГОПОЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '131571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Andrey
   middle_name: Nikolaevich
   last_name: DOLGOPOLOV
@@ -43,6 +29,17 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Andriej Nikołajewicz DOŁGOPOŁOW
+  gender: M
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '131627'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 - whole_name: Andrej Nikolajewitsch DOLGOPOLOW
   gender: M
   name_language: DE
@@ -65,17 +62,20 @@ name_aliases:
     publication_date: '2021-10-11'
     number_title: 2021/1791 (OJ L359I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
-- whole_name: Andriej Nikołajewicz DOŁGOPOŁOW
+- first_name: Андрей
+  middle_name: Николаевич
+  last_name: ДОЛГОПОЛОВ
+  whole_name: Андрей Николаевич ДОЛГОПОЛОВ
   gender: M
-  name_language: PL
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '131627'
+  logical_id: '131571'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 citizenships:
 - country_iso2_code: UA
   country_description: UKRAINE

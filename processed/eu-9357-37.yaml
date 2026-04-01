@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Единая Россия
-  name_language: RU
+- whole_name: Egyesült Oroszország
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '147078'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: United Russia
-  function: Russian political party chaired by former Russian president Dmitry Medvedev
-  strong: true
-  regulation_language: en
-  logical_id: '147079'
+  logical_id: '147825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -49,6 +39,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148093'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Единая Россия
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147078'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: United Russia
+  function: Russian political party chaired by former Russian president Dmitry Medvedev
+  strong: true
+  regulation_language: en
+  logical_id: '147079'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -109,16 +119,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147792'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Egyesült Oroszország
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '147825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -218,21 +218,21 @@ addresses:
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 identifications:
-- identification_type_code: fiscalcode
-  number: '7702330228'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '169879'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - identification_type_code: regnumber
   number: '1037739350934'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '169880'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- identification_type_code: fiscalcode
+  number: '7702330228'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '169879'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

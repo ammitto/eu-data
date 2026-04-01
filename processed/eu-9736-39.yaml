@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "„Зеленодолски завод“ АД"
-  name_language: BG
+- whole_name: Société par actions Bureau d’études de Zelenodolsk
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '151282'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Biroul de proiectare Zelenodolsk SA
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151240'
+  logical_id: '151114'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -44,11 +34,21 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société par actions Bureau d’études de Zelenodolsk
-  name_language: FR
+- whole_name: Biroul de proiectare Zelenodolsk SA
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '151114'
+  logical_id: '151240'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: "„Зеленодолски завод“ АД"
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '151282'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

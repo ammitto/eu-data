@@ -15,6 +15,20 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Irina
+  middle_name: Alexandrovna
+  last_name: TSELIKOVEC
+  whole_name: Irina Alexandrovna TSELIKOVEC
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '125579'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Irina
   middle_name: Aliaksandrauna
   last_name: TSELIKAVETS
   whole_name: Irina Aliaksandrauna TSELIKAVETS
@@ -24,20 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125578'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Iрына
-  middle_name: Аляксандраўна
-  last_name: ЦЭЛIКАВЕЦ
-  whole_name: Iрына Аляксандраўна ЦЭЛIКАВЕЦ
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '125577'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -57,15 +57,15 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Irina
-  middle_name: Alexandrovna
-  last_name: TSELIKOVEC
-  whole_name: Irina Alexandrovna TSELIKOVEC
+- first_name: Iрына
+  middle_name: Аляксандраўна
+  last_name: ЦЭЛIКАВЕЦ
+  whole_name: Iрына Аляксандраўна ЦЭЛIКАВЕЦ
   gender: F
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '125579'
+  logical_id: '125577'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

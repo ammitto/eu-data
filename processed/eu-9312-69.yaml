@@ -14,14 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Степан
-  last_name: Ковалчук
-  whole_name: Степан Ковалчук
+- first_name: Stepan
+  middle_name: Kirillovich
+  last_name: KOVALCHUK
+  whole_name: Stepan Kirillovich KOVALCHUK
+  function: "Senior Vice President for Media Strategy and Service Development at VK,
+    a social media network. \nIn September 2023, appointed as head of the “Social
+    Platforms and Media Content” business group."
   gender: M
-  name_language: BG
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '164769'
+  logical_id: '146916'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -54,18 +58,14 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Stepan
-  middle_name: Kirillovich
-  last_name: KOVALCHUK
-  whole_name: Stepan Kirillovich KOVALCHUK
-  function: "Senior Vice President for Media Strategy and Service Development at VK,
-    a social media network. \nIn September 2023, appointed as head of the “Social
-    Platforms and Media Content” business group."
+- first_name: Степан
+  last_name: Ковалчук
+  whole_name: Степан Ковалчук
   gender: M
-  name_language: EN
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '146916'
+  logical_id: '164769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

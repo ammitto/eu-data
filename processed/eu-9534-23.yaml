@@ -24,12 +24,11 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Регионален корпус Karbala на Корпуса на  гвардейците на ислямската революция
-    (IRGC) в Mazandaran
-  name_language: BG
+- whole_name: Den Islamiske Revolutionsgardes (IRGC's) regionale korps Karbala i Mazandaran
+  name_language: DA
   strong: true
   regulation_language: en
-  logical_id: '148749'
+  logical_id: '148767'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -40,6 +39,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148519'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
+    siły  Karbala prowincji Mazandaran
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '148680'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -84,6 +94,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148947'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Corps provincial "Karbala" relevant du  Corps des gardiens de la révolution  islamique
+    (IRGC) dans le Mazandaran
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '148637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -144,22 +165,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
-    siły  Karbala prowincji Mazandaran
-  name_language: PL
+- whole_name: Corpul provincial «Karbala» al Corpului  Gardienilor Revoluției Iraniene
+    (IRGC) din  provincia Mazandaran
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '148680'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Den Islamiske Revolutionsgardes (IRGC's) regionale korps Karbala i Mazandaran
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '148767'
+  logical_id: '148736'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -186,44 +197,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Corps provincial "Karbala" relevant du  Corps des gardiens de la révolution  islamique
-    (IRGC) dans le Mazandaran
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '148637'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Regionální jednotka Islámských  revolučních gard (IRGC) Karbala v provincii
     Mázandarán
   name_language: CS
   strong: true
   regulation_language: en
   logical_id: '148810'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: regionalna enota  Islamske revolucionarne garde Karbala v provinci Mazandaran
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '148854'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Islamilaisen vallankumous-kaartin (IRGC)  alueelliset Karbala-joukot
-    Mazandaranissa
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '148929'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -260,12 +239,33 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Corpul provincial «Karbala» al Corpului  Gardienilor Revoluției Iraniene
-    (IRGC) din  provincia Mazandaran
-  name_language: RO
+- whole_name: regionalna enota  Islamske revolucionarne garde Karbala v provinci Mazandaran
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '148736'
+  logical_id: '148854'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Islamilaisen vallankumous-kaartin (IRGC)  alueelliset Karbala-joukot
+    Mazandaranissa
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '148929'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Регионален корпус Karbala на Корпуса на  гвардейците на ислямската революция
+    (IRGC) в Mazandaran
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '148749'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

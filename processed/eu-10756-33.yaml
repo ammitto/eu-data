@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Viktor
-  middle_name: Viktorovitj
-  last_name: KRAPKO
-  whole_name: Viktor Viktorovitj KRAPKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157666'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-08'
-    number_title: 2023/1715 (OJ L221 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
 - first_name: Виктор
   middle_name: Викторович
   last_name: КРАПКО
@@ -37,6 +23,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157622'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-08'
+    number_title: 2023/1715 (OJ L221 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
+- first_name: Viktor
+  middle_name: Viktorovič
+  last_name: KRAPKO
+  whole_name: Viktor Viktorovič KRAPKO
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157675'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-08'
+    number_title: 2023/1715 (OJ L221 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
+- first_name: Viktor
+  middle_name: Viktorovitj
+  last_name: KRAPKO
+  whole_name: Viktor Viktorovitj KRAPKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157666'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'
@@ -53,20 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157623'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-08'
-    number_title: 2023/1715 (OJ L221 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
-- first_name: Viktor
-  middle_name: Viktorovič
-  last_name: KRAPKO
-  whole_name: Viktor Viktorovič KRAPKO
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157675'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'

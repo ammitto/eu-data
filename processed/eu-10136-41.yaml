@@ -15,14 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Denis
-  middle_name: Vladimirovitj
+  middle_name: Vladimirovič
   last_name: KOLESNIKOV
-  whole_name: Denis Vladimirovitj KOLESNIKOV
+  whole_name: Denis Vladimirovič KOLESNIKOV
   gender: M
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '153925'
+  logical_id: '153942'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'
@@ -60,14 +60,14 @@ name_aliases:
     number_title: 2023/1098 (OJ L145)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Denis
-  middle_name: Vladimirovič
+  middle_name: Vladimirovitj
   last_name: KOLESNIKOV
-  whole_name: Denis Vladimirovič KOLESNIKOV
+  whole_name: Denis Vladimirovitj KOLESNIKOV
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '153942'
+  logical_id: '153925'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

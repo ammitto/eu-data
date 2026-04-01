@@ -14,25 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mostafa
+- first_name: Sayyid Mostafa Agha
   last_name: MIRSALIM
-  whole_name: Mostafa MIRSALIM
-  function: member of the Iranian Parliament
+  whole_name: Sayyid Mostafa Agha MIRSALIM
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '148326'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: میرسلیم سید مستفا آقا
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '148321'
+  logical_id: '148323'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -49,13 +37,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- first_name: Sayyid Mostafa Agha
-  last_name: MIRSALIM
-  whole_name: Sayyid Mostafa Agha MIRSALIM
+- whole_name: میرسلیم سید مستفا آقا
   gender: M
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '148323'
+  logical_id: '148321'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -68,6 +55,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148324'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- first_name: Mostafa
+  last_name: MIRSALIM
+  whole_name: Mostafa MIRSALIM
+  function: member of the Iranian Parliament
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '148326'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

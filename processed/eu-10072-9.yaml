@@ -16,6 +16,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Maulawi Rajab Salahudin
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153247'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-04'
+    number_title: 2023/908 (OJ L116)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
 - first_name: Maulawi
   last_name: Rajab
   whole_name: Maulawi Rajab
@@ -25,16 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153248'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-04'
-    number_title: 2023/908 (OJ L116)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.116.01.0010.01.ENG&toc=OJ%3AL%3A2023%3A116%3ATOC
-- whole_name: Maulawi Rajab Salahudin
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153247'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-04'

@@ -14,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: محمدحسین سپهر
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '144886'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - first_name: Mohammad-Hossein
   last_name: SEPEHR
   whole_name: Mohammad-Hossein SEPEHR
@@ -23,16 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144887'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: محمدحسین سپهر
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '144886'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

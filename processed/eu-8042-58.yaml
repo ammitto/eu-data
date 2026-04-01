@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Poduzeće Arzamas Machine-Building Plant
-  name_language: HR
+- whole_name: Arzamas Gépgyár Rt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '158670'
+  logical_id: '158423'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -54,16 +54,16 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Arzamaska Fabryka  Maszyn SA
-  name_language: PL
+- whole_name: Arzamas-koneenrakennustehdas
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '139225'
+  logical_id: '152595'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Uzina de construcții de mașini Arzamas
   name_language: RO
   strong: true
@@ -84,31 +84,11 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Arzamas-koneenrakennustehdas
-  name_language: FI
+- whole_name: Poduzeće Arzamas Machine-Building Plant
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '152595'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Arzamas Gépgyár Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '158423'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: JSC Arzamas Machine-Building Plant
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '138941'
+  logical_id: '158670'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -124,6 +104,26 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: JSC Arzamas Machine-Building Plant
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138941'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Arzamaska Fabryka  Maszyn SA
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '139225'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 addresses:
 - street: Ulitsa 9 Maya, 2
   city: Arzamas
@@ -139,16 +139,6 @@ addresses:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 identifications:
-- identification_type_code: fiscalcode
-  number: '5243001767'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '151727'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - identification_type_code: regnumber
   number: '1025201335730'
   country_iso2_code: RU
@@ -159,3 +149,13 @@ identifications:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- identification_type_code: fiscalcode
+  number: '5243001767'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '151727'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571

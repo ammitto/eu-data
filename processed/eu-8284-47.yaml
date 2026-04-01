@@ -14,53 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Oткрытое акционерное общество “Гродненская табачная фабрика Неман”
-  strong: true
-  regulation_language: en
-  logical_id: '140379'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Societatea deschisă pe acțiuni «Grodno Tobacco Factory Neman»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '141210'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Open Joint-Stock Company “Grodno Tobacco Factory Neman”
-  strong: true
-  regulation_language: en
-  logical_id: '140381'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Адкрытае акцыянернае таварыства “Гродзенская тытунёвая фабрыка Нёман”
-  strong: true
-  regulation_language: en
-  logical_id: '140380'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Avoin osakeyhtiö ”Grodno Tobacco Factory Neman”
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '141209'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
 - whole_name: Отворено акционерно дружество „Grodno Tobacco Factory Neman“
   name_language: BG
   strong: true
@@ -76,6 +29,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141195'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Open Joint-Stock Company “Grodno Tobacco Factory Neman”
+  strong: true
+  regulation_language: en
+  logical_id: '140381'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -196,6 +158,44 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141208'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Avoin osakeyhtiö ”Grodno Tobacco Factory Neman”
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '141209'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Societatea deschisă pe acțiuni «Grodno Tobacco Factory Neman»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '141210'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Oткрытое акционерное общество “Гродненская табачная фабрика Неман”
+  strong: true
+  regulation_language: en
+  logical_id: '140379'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Адкрытае акцыянернае таварыства “Гродзенская тытунёвая фабрыка Нёман”
+  strong: true
+  regulation_language: en
+  logical_id: '140380'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

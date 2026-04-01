@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: عامرتيسير خيتي
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '152807'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - first_name: Amer Tayseer
   last_name: KHITI
   whole_name: Amer Tayseer KHITI
@@ -24,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152808'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: عامرتيسير خيتي
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '152807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

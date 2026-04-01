@@ -14,29 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohammed
-  middle_name: Abdel-Halim Hemaida
-  last_name: Saleh
-  whole_name: Mohammed Abdel-Halim Hemaida Saleh
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107696'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Faris Baluchistan
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107771'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 - whole_name: Muhammad Abd-al-Halim Humaydah
   name_language: EN
   strong: true
@@ -60,6 +37,29 @@ name_aliases:
     publication_date: '2016-03-04'
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Faris Baluchistan
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107771'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- first_name: Mohammed
+  middle_name: Abdel-Halim Hemaida
+  last_name: Saleh
+  whole_name: Mohammed Abdel-Halim Hemaida Saleh
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107696'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 citizenships:
 - country_iso2_code: EG
   country_description: EGYPT
@@ -71,22 +71,6 @@ citizenships:
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 birthdates:
-- birthdate: '1989-09-22'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 22
-  month_of_year: 9
-  year: 1989
-  city: Alexandria
-  country_iso2_code: EG
-  country_description: EGYPT
-  regulation_language: en
-  logical_id: '107768'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 - birthdate: '1988-09-22'
   circa: false
   calendar_type: GREGORIAN
@@ -98,6 +82,22 @@ birthdates:
   country_description: EGYPT
   regulation_language: en
   logical_id: '107769'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- birthdate: '1989-09-22'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 22
+  month_of_year: 9
+  year: 1989
+  city: Alexandria
+  country_iso2_code: EG
+  country_description: EGYPT
+  regulation_language: en
+  logical_id: '107768'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

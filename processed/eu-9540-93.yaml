@@ -14,23 +14,23 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
-    siły  Valiasr w prowincji Chuzestan
-  name_language: PL
+- whole_name: Επαρχιακό σώμα Valiasr του Στρατού των Φρουρών της Ισλαμικής Επανάστασης  (IRGC),
+    Khuzestan
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '148685'
+  logical_id: '148663'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Corpul provincial «Valiasr» al Corpului  Gardienilor Revoluției Iraniene
-    (IRGC) din Khuzestan
-  name_language: RO
+- whole_name: Регионален корпус Valiasr на Корпуса на  гвардейците на ислямската революция  (IRGC)
+    в Khuzestan
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '148741'
+  logical_id: '148754'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -80,17 +80,6 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Corpo regionale Valiasr del Corpo delle  guardie rivoluzionarie islamiche
-    (IRGC),  Khuzestan
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '148621'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Regionálna jednotka Zboru islamských  revolučných gárd (IRGC) Valiasr
     v provicii  Chúzistan
   name_language: SK
@@ -124,33 +113,12 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Επαρχιακό σώμα Valiasr του Στρατού των Φρουρών της Ισλαμικής Επανάστασης  (IRGC),
-    Khuzestan
-  name_language: EL
+- whole_name: Należące do Korpusu Strażników  Rewolucji Islamskiej (IRGC) regionalne
+    siły  Valiasr w prowincji Chuzestan
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '148663'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Регионален корпус Valiasr на Корпуса на  гвардейците на ислямската революция  (IRGC)
-    в Khuzestan
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '148754'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Den Islamiske Revolutionsgardes (IRGC's) regionale korps Valiasr i Khuzestan
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '148771'
+  logical_id: '148685'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -187,11 +155,32 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Corpul provincial «Valiasr» al Corpului  Gardienilor Revoluției Iraniene
+    (IRGC) din Khuzestan
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '148741'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Islamo revoliucijos gvardijos (IRGC) regioninis Valiasr korpusas Chuzestane
   name_language: LT
   strong: true
   regulation_language: en
   logical_id: '148974'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Den Islamiske Revolutionsgardes (IRGC's) regionale korps Valiasr i Khuzestan
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '148771'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -239,11 +228,32 @@ name_aliases:
     publication_date: '2023-01-23'
     number_title: 2023/152 (OJ L20 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Corpo regionale Valiasr del Corpo delle  guardie rivoluzionarie islamiche
+    (IRGC),  Khuzestan
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '148621'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
 - whole_name: Regionální jednotka Islámských  revolučních gard (IRGC) Valiasr v provincii  Chúzistán
   name_language: CS
   strong: true
   regulation_language: en
   logical_id: '148815'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-23'
+    number_title: 2023/152 (OJ L20 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
+- whole_name: Islamiska revolutionsgardets regionala Valiasr-styrkor i Khuzestan
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '148827'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'
@@ -255,16 +265,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148859'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-23'
-    number_title: 2023/152 (OJ L20 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0152
-- whole_name: Islamiska revolutionsgardets regionala Valiasr-styrkor i Khuzestan
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '148827'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-23'

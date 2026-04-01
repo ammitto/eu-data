@@ -14,21 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Brodogradilište More Shipyard
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '152555'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: MORE Werft
   name_language: DE
   strong: true
   regulation_language: en
   logical_id: '152405'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Stocznia  „Morze” SA
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '139231'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: Акционерное Общество Судостроительный Завод “Море”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '139127'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -44,11 +54,11 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Акционерное Общество Судостроительный Завод “Море”
-  name_language: RU
+- whole_name: Brodogradilište More Shipyard
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '139127'
+  logical_id: '152555'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -65,16 +75,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Stocznia  „Morze” SA
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '139231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 addresses:
 - street: Desantnikov 1, Primorskiy
   city: Fedosia
@@ -90,21 +90,21 @@ addresses:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 identifications:
-- identification_type_code: regnumber
-  number: '1199112021140'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '151740'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - identification_type_code: fiscalcode
   number: '9108124167'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '151741'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- identification_type_code: regnumber
+  number: '1199112021140'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '151740'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

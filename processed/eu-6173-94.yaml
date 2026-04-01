@@ -25,23 +25,23 @@ name_aliases:
     publication_date: '2021-03-02'
     number_title: 2021/371 (OJ L71I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.071.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A071I%3ATOC
-- whole_name: Igor Viktorovich KRASNOV
-  function: Prosecutor General of the Russian Federation
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '127742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-02'
-    number_title: 2021/371 (OJ L71I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.071.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A071I%3ATOC
 - whole_name: Игорь Викторович КРАСНОВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '127741'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-02'
+    number_title: 2021/371 (OJ L71I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.071.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A071I%3ATOC
+- whole_name: Igor Viktorovich KRASNOV
+  function: Prosecutor General of the Russian Federation
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '127742'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-02'

@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Planta de Automoción  de Bryansk
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '147759'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Automobilfabrik Bryansk
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '147658'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: AO Брянский автомобильный завод
   strong: true
   regulation_language: en
@@ -66,6 +46,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147113'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Planta de Automoción  de Bryansk
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '147759'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Automobilfabrik Bryansk
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '147658'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

@@ -14,12 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: حبیب الله اغا
+- whole_name: Maulvi Habibullah AGHA
   gender: M
-  name_language: PS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '155915'
+  logical_id: '155913'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1499 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
+- whole_name: Hadith Habibullah AGHA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155912'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -36,12 +47,12 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1499 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- whole_name: Maulvi Habibullah AGHA
+- whole_name: Sheikh Habibullah AGHA
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '155913'
+  logical_id: '155911'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -61,23 +72,12 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1499 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- whole_name: Sheikh Habibullah AGHA
+- whole_name: حبیب الله اغا
   gender: M
-  name_language: EN
+  name_language: PS
   strong: true
   regulation_language: en
-  logical_id: '155911'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1499 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- whole_name: Hadith Habibullah AGHA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155912'
+  logical_id: '155915'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
