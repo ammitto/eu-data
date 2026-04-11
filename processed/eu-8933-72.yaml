@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: حیدری سلمان
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '144906'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - first_name: Salman
   last_name: HEIDARI
   whole_name: Salman HEIDARI
@@ -33,6 +23,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144907'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: حیدری سلمان
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '144906'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

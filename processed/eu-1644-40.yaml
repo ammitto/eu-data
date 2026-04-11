@@ -15,6 +15,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Grupo de Industrias de Armamento
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '161973'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Groupe des industries de l'armement
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '8049'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-06-19'
+    number_title: 532/2010 (OJ L154)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:154:0005:0008:EN:PDF
 - whole_name: گروه صنایع تسلیحاتی
   name_language: FA
   strong: true
@@ -39,36 +59,6 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Groupe des industries de l'armement
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '8049'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-06-19'
-    number_title: 532/2010 (OJ L154)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:154:0005:0008:EN:PDF
-- whole_name: AIG
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '162176'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Grupo de Industrias de Armamento
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '161973'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Grupa Przemysłowa ds. Uzbrojenia
   name_language: PL
   strong: true
@@ -84,6 +74,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162013'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: AIG
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '162176'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

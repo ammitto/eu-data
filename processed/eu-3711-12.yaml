@@ -15,91 +15,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Sheikh Hassan
-  strong: true
-  regulation_language: en
-  logical_id: '7808'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
 - first_name: Hassan
-  middle_name: Tahir
-  last_name: Oais
-  whole_name: Hassan Tahir Oais
-  strong: true
-  regulation_language: en
-  logical_id: '7806'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- first_name: Mohammed
-  middle_name: Hassan
-  last_name: Ibrahim
-  whole_name: Mohammed Hassan Ibrahim
-  strong: true
-  regulation_language: en
-  logical_id: '7805'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- first_name: Aweys
-  middle_name: Hassan
-  last_name: Dahir
-  whole_name: Aweys Hassan Dahir
-  strong: true
-  regulation_language: en
-  logical_id: '7804'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- first_name: Sheikh Hassan
   middle_name: Dahir
-  last_name: Aweys
-  whole_name: Sheikh Hassan Dahir Aweys
+  last_name: Awes
+  whole_name: Hassan Dahir Awes
   strong: true
   regulation_language: en
-  logical_id: '7803'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- whole_name: Sheikh Aweys
-  strong: true
-  regulation_language: en
-  logical_id: '7802'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- first_name: Ahmed
-  middle_name: Dahir
-  last_name: Aweys
-  whole_name: Ahmed Dahir Aweys
-  strong: true
-  regulation_language: en
-  logical_id: '7801'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- first_name: Hassen
-  middle_name: Dahir
-  last_name: Aweyes
-  whole_name: Hassen Dahir Aweyes
-  strong: true
-  regulation_language: en
-  logical_id: '7800'
+  logical_id: '7798'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2010-04-27'
@@ -117,13 +39,94 @@ name_aliases:
     publication_date: '2010-04-27'
     number_title: 356/2010 (OJ L105)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- first_name: Hassan
+- first_name: Hassen
   middle_name: Dahir
-  last_name: Awes
-  whole_name: Hassan Dahir Awes
+  last_name: Aweyes
+  whole_name: Hassen Dahir Aweyes
   strong: true
   regulation_language: en
-  logical_id: '7798'
+  logical_id: '7800'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- first_name: Ahmed
+  middle_name: Dahir
+  last_name: Aweys
+  whole_name: Ahmed Dahir Aweys
+  strong: true
+  regulation_language: en
+  logical_id: '7801'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- whole_name: Sheikh Aweys
+  strong: true
+  regulation_language: en
+  logical_id: '7802'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- first_name: Sheikh Hassan
+  middle_name: Dahir
+  last_name: Aweys
+  whole_name: Sheikh Hassan Dahir Aweys
+  strong: true
+  regulation_language: en
+  logical_id: '7803'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- first_name: Aweys
+  middle_name: Hassan
+  last_name: Dahir
+  whole_name: Aweys Hassan Dahir
+  strong: true
+  regulation_language: en
+  logical_id: '7804'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- first_name: Mohammed
+  middle_name: Hassan
+  last_name: Ibrahim
+  whole_name: Mohammed Hassan Ibrahim
+  strong: true
+  regulation_language: en
+  logical_id: '7805'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- first_name: Hassan
+  middle_name: Tahir
+  last_name: Oais
+  whole_name: Hassan Tahir Oais
+  strong: true
+  regulation_language: en
+  logical_id: '7806'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- first_name: Hassan
+  middle_name: Tahir
+  last_name: Uways
+  whole_name: Hassan Tahir Uways
+  strong: true
+  regulation_language: en
+  logical_id: '7807'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2010-04-27'
@@ -164,13 +167,10 @@ name_aliases:
     publication_date: '2017-03-08'
     number_title: 2017/395 (OJ L60)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0395&from=EN
-- first_name: Hassan
-  middle_name: Tahir
-  last_name: Uways
-  whole_name: Hassan Tahir Uways
+- whole_name: Sheikh Hassan
   strong: true
   regulation_language: en
-  logical_id: '7807'
+  logical_id: '7808'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2010-04-27'

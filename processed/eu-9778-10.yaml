@@ -56,6 +56,20 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/430 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- first_name: Aleksandr
+  middle_name: Aleksandrovitj
+  last_name: IVANOV
+  whole_name: Aleksandr Aleksandrovitj IVANOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '150944'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - first_name: Alexandre
   middle_name: Alexandrovich
   last_name: IVANOV
@@ -71,14 +85,14 @@ name_aliases:
     number_title: 2023/2722 (OJ L05122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - first_name: Aleksandr
-  middle_name: Aleksandrovitj
+  middle_name: Alexandrovich
   last_name: IVANOV
-  whole_name: Aleksandr Aleksandrovitj IVANOV
+  whole_name: Aleksandr Alexandrovich IVANOV
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '150944'
+  logical_id: '159011'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-06'
@@ -92,20 +106,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159019'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- first_name: Aleksandr
-  middle_name: Alexandrovich
-  last_name: IVANOV
-  whole_name: Aleksandr Alexandrovich IVANOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159011'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-06'

@@ -27,6 +27,26 @@ name_aliases:
     publication_date: '2022-12-08'
     number_title: 2022/2397 (OJ L316-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
+- whole_name: Gaby Ruhinda
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146087'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-08'
+    number_title: 2022/2397 (OJ L316-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
+- whole_name: Gatokarakura
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '161588'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-22'
+    number_title: 2023/2905 (OJ L22122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302905
 - first_name: Protogène
   last_name: RUVUGAYIMIKORE
   whole_name: Protogène RUVUGAYIMIKORE
@@ -54,27 +74,35 @@ name_aliases:
     publication_date: '2022-12-08'
     number_title: 2022/2397 (OJ L316-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
-- whole_name: Gatokarakura
-  gender: M
-  strong: true
+birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1969
+  region: Gisenyi Prefecture
+  place: Karandaryi Cell, Mwiyanike Sector, Karago Commune
+  country_iso2_code: RW
+  country_description: RWANDA
   regulation_language: en
-  logical_id: '161588'
+  logical_id: '146084'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-22'
     number_title: 2023/2905 (OJ L22122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302905
-- whole_name: Gaby Ruhinda
-  gender: M
-  strong: true
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1968
+  region: Gisenyi Prefecture
+  place: Karandaryi Cell, Mwiyanike Sector, Karago Commune
+  country_iso2_code: RW
+  country_description: RWANDA
   regulation_language: en
-  logical_id: '146087'
+  logical_id: '146085'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-12-08'
-    number_title: 2022/2397 (OJ L316-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
-birthdates:
+    publication_date: '2023-12-22'
+    number_title: 2023/2905 (OJ L22122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302905
 - circa: false
   calendar_type: GREGORIAN
   year: 1970
@@ -84,19 +112,6 @@ birthdates:
   country_description: RWANDA
   regulation_language: en
   logical_id: '161587'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-22'
-    number_title: 2023/2905 (OJ L22122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302905
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1970
-  region: Nyabihu  District, Western Province
-  country_iso2_code: RW
-  country_description: RWANDA
-  regulation_language: en
-  logical_id: '161589'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-22'
@@ -130,27 +145,12 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302905
 - circa: false
   calendar_type: GREGORIAN
-  year: 1969
-  region: Gisenyi Prefecture
-  place: Karandaryi Cell, Mwiyanike Sector, Karago Commune
+  year: 1970
+  region: Nyabihu  District, Western Province
   country_iso2_code: RW
   country_description: RWANDA
   regulation_language: en
-  logical_id: '146084'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-22'
-    number_title: 2023/2905 (OJ L22122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302905
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1968
-  region: Gisenyi Prefecture
-  place: Karandaryi Cell, Mwiyanike Sector, Karago Commune
-  country_iso2_code: RW
-  country_description: RWANDA
-  regulation_language: en
-  logical_id: '146085'
+  logical_id: '161589'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-22'

@@ -14,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Галина Вікторівна ДАНИЛЬЧЕНКО
+- whole_name: Galina Viktorivna DANILCHENCKO
+  function: Appointed acting mayor of Melitopol by Russian occupation forces
   gender: F
-  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '140567'
+  logical_id: '140568'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -35,12 +35,12 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Galina Viktorivna DANILCHENCKO
-  function: Appointed acting mayor of Melitopol by Russian occupation forces
+- whole_name: Галина Вікторівна ДАНИЛЬЧЕНКО
   gender: F
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '140568'
+  logical_id: '140567'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

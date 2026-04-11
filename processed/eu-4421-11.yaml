@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yong Sik
-  last_name: Pak
-  whole_name: Yong Sik Pak
-  function: Former member of the Workers' Party of Korea Central Military Commission
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '116042'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - first_name: Yo’ng-sik
   last_name: Pak
   whole_name: Yo’ng-sik Pak
@@ -45,6 +32,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161785'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Yong Sik
+  last_name: Pak
+  whole_name: Yong Sik Pak
+  function: Former member of the Workers' Party of Korea Central Military Commission
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '116042'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

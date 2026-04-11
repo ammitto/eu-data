@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Roman Sergeevich CHUYKO
+  function: Mr. Chuyko is the head of the Regional Executive Committee of the All-Russian
+    People's Front and member of the regional Legislative Assembly in Tuymen Oblast.
+    Mr. Chuyko is a member of the Kremlin-aligned ruling party “United Russia”.
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '143318'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Роман Сергеевич ЧУЙКО
   strong: true
   regulation_language: en
@@ -28,19 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143316'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Roman Sergeevich CHUYKO
-  function: Mr. Chuyko is the head of the Regional Executive Committee of the All-Russian
-    People's Front and member of the regional Legislative Assembly in Tuymen Oblast.
-    Mr. Chuyko is a member of the Kremlin-aligned ruling party “United Russia”.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '143318'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

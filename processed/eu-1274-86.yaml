@@ -167,6 +167,16 @@ addresses:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- city: Zenica
+  country_iso2_code: BA
+  country_description: BOSNIA AND HERZEGOWINA
+  regulation_language: en
+  logical_id: '1333'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - street: 64 Potur mahala Street
   city: Travnik
   country_iso2_code: BA
@@ -178,13 +188,3 @@ addresses:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- city: Zenica
-  country_iso2_code: BA
-  country_description: BOSNIA AND HERZEGOWINA
-  regulation_language: en
-  logical_id: '1333'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF

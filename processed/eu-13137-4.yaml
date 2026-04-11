@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Юлия Сергеевна ПРОХОРОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175666'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - first_name: Yulia
   middle_name: Sergeevna
   last_name: PROKHOROVA
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175667'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Юлия Сергеевна ПРОХОРОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175666'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -66,19 +66,19 @@ birthdates:
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 addresses:
-- country_iso2_code: AE
-  country_description: UNITED ARAB EMIRATES
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '175662'
+  logical_id: '175663'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- country_iso2_code: AE
+  country_description: UNITED ARAB EMIRATES
   regulation_language: en
-  logical_id: '175663'
+  logical_id: '175662'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

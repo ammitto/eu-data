@@ -25,26 +25,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Kharrazi Industry
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158928'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Shahid Kharrazy Industries Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158927'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: صنایع شهید ستاری
   name_language: FA
   strong: true
@@ -60,6 +40,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161980'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Kharrazi Industry
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158928'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Shahid Kharrazy Industries Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158927'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

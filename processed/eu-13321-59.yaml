@@ -14,6 +14,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Адкрытае акцыянернае таварыства “ВІСТАН”
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '176830'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Vistan Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177200'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Открытое акционерное общество “ВИСТАН”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176829'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: Offene Aktiengesellschaft ‚VISTAN‘
   name_language: DE
   strong: true
@@ -38,26 +68,6 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Vistan Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177200'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: "»VISTAN« Nyilvánosan Működő Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177199'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: Open Joint Stock Company “VISTAN”
   name_language: EN
   strong: true
@@ -68,21 +78,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Открытое акционерное общество “ВИСТАН”
-  name_language: RU
+- whole_name: "»VISTAN« Nyilvánosan Működő Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '176829'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Адкрытае акцыянернае таварыства “ВІСТАН”
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '176830'
+  logical_id: '177199'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

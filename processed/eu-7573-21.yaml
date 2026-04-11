@@ -14,23 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Dmitrij Ivanovitj Surovitj
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '136430'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-02'
-    number_title: 2022/353 (OJ L66)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
 - whole_name: Дмитрий Иванович СУРОВИЧ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '136379'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-02'
+    number_title: 2022/353 (OJ L66)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
+- whole_name: Dmitrij Ivanovitj Surovitj
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '136430'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-02'

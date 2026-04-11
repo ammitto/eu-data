@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Nataliya
-  middle_name: Vladimirovna
-  last_name: POLUYANOVA
-  whole_name: Nataliya Vladimirovna POLUYANOVA
-  function: Member of the State Duma
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '135163'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Наталия
   middle_name: Владимировна
   last_name: ПОЛУЯНОВА
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135162'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Nataliya
+  middle_name: Vladimirovna
+  last_name: POLUYANOVA
+  whole_name: Nataliya Vladimirovna POLUYANOVA
+  function: Member of the State Duma
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '135163'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

@@ -15,30 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Oleg
-  middle_name: Valeryevich
+  middle_name: Valerjevitj
   last_name: KOVAL
-  whole_name: Oleg Valeryevich KOVAL
-  function: Deputy Chairman of the so-called “People’s Council” of the so-called “Luhansk
-    People’s Republic”
+  whole_name: Oleg Valerjevitj KOVAL
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '139095'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Олег
-  middle_name: Валерьевич
-  last_name: КОВАЛЬ
-  whole_name: Олег Валерьевич КОВАЛЬ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '139094'
+  logical_id: '139642'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -58,15 +42,31 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Oleg
-  middle_name: Valerjevitj
-  last_name: KOVAL
-  whole_name: Oleg Valerjevitj KOVAL
+- first_name: Олег
+  middle_name: Валерьевич
+  last_name: КОВАЛЬ
+  whole_name: Олег Валерьевич КОВАЛЬ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '139642'
+  logical_id: '139094'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Oleg
+  middle_name: Valeryevich
+  last_name: KOVAL
+  whole_name: Oleg Valeryevich KOVAL
+  function: Deputy Chairman of the so-called “People’s Council” of the so-called “Luhansk
+    People’s Republic”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '139095'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

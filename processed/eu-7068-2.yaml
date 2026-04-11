@@ -24,20 +24,6 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Mikhail
-  middle_name: Yurevich
-  last_name: AVDEYEV
-  whole_name: Mikhail Yurevich AVDEYEV
-  function: Member of the State Duma
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '134010'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Михаил
   middle_name: Юрьевич
   last_name: АВДЕЕВ
@@ -47,6 +33,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '134009'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Mikhail
+  middle_name: Yurevich
+  last_name: AVDEYEV
+  whole_name: Mikhail Yurevich AVDEYEV
+  function: Member of the State Duma
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '134010'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

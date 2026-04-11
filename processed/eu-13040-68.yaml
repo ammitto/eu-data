@@ -16,13 +16,14 @@ subject_type:
 name_aliases:
 - first_name: Alexey
   middle_name: Mikhaylovich
-  last_name: EFREMOV
-  whole_name: Alexey Mikhaylovich EFREMOV
+  last_name: YEFREMOV
+  whole_name: Alexey Mikhaylovich YEFREMOV
+  function: General Director of the UAP "Gidravlika"
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174890'
+  logical_id: '174892'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -41,14 +42,13 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - first_name: Alexey
   middle_name: Mikhaylovich
-  last_name: YEFREMOV
-  whole_name: Alexey Mikhaylovich YEFREMOV
-  function: General Director of the UAP "Gidravlika"
+  last_name: EFREMOV
+  whole_name: Alexey Mikhaylovich EFREMOV
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174892'
+  logical_id: '174890'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

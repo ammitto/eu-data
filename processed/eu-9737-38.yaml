@@ -14,6 +14,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Государственное Унитарное Предприятие Донецкой Народной Республики "Автодор"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150059'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: State Unitary Enterprise of the Donetsk People's Republic "Avtodor"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150060'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Avtodor
   function: a construction company subordinated to the “department of roads” of the
     “Ministry of transport” of the so-called “Donetsk People’s Republic”
@@ -25,16 +45,6 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: State Unitary Enterprise of the Donetsk People's Republic "Avtodor"
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150060'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Staatliches  Einheitsunternehmen der Volksrepublik Donezk „Avtodor“
   name_language: DE
   strong: true
@@ -50,16 +60,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151115'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Государственное Унитарное Предприятие Донецкой Народной Республики "Автодор"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150059'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -14,35 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Tyfun
-  strong: true
-  regulation_language: en
-  logical_id: '150106'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Research and production enterprise 'Kaluga instrument-making plant "Tyfun"'
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150105'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Kalugoje įsikūrusi prietaisų  gamykla „Typhoon JSC“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '151300'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Întreprinderea de cercetare și producție „Uzina  producătoare de instrumente  «Tyfun»
     din Kaluga
   name_language: RO
@@ -54,16 +25,16 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Uzina  producătoare de instrumente  Typhoon SA, cu sediul în  Kaluga
-  name_language: RO
+- whole_name: Kaluga-based Instrument-Making Plant Typhoon JSC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151249'
+  logical_id: '150108'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - whole_name: In Kaloega gebaseerd Instrument-Making Plant Typhoon JSC
   name_language: NL
   strong: true
@@ -125,16 +96,26 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Kaluga-based Instrument-Making Plant Typhoon JSC
-  name_language: EN
+- whole_name: Kalugoje įsikūrusi prietaisų  gamykla „Typhoon JSC“
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '150108'
+  logical_id: '151300'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Uzina  producătoare de instrumente  Typhoon SA, cu sediul în  Kaluga
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151249'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Typhoon
   strong: true
   regulation_language: en
@@ -160,6 +141,25 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150104'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Research and production enterprise 'Kaluga instrument-making plant "Tyfun"'
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150105'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Tyfun
+  strong: true
+  regulation_language: en
+  logical_id: '150106'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -14,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Dioničko društvo NPP Klass
-  name_language: HR
+- whole_name: JSC NPP “KLASS”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '155131'
+  logical_id: '154882'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Akciová společnost NPP Klass
-  name_language: CS
+- whole_name: Dioničko društvo NPP Klass
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '155109'
+  logical_id: '155131'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -54,11 +54,11 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: JSC NPP “KLASS”
-  name_language: EN
+- whole_name: Akciová společnost NPP Klass
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '154882'
+  logical_id: '155109'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

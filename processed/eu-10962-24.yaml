@@ -14,21 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: AGAT” MOSZKVAI KUTATÓINTÉZET RT.
-  name_language: HU
+- whole_name: sociedad anónima AGAT
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '160952'
+  logical_id: '160701'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: SOCIÉTÉ PAR ACTIONS “INSTITUT DE RECHERCHE DE MOSCOU— AGAT”
-  name_language: FR
+- whole_name: JSC “MOSCOW RESEARCH INSTITUTE ‘AGAT’”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160566'
+  logical_id: '159975'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: АО “МНИИ ‘Агат’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159972'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -64,11 +74,21 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima AGAT
-  name_language: ES
+- whole_name: SOCIÉTÉ PAR ACTIONS “INSTITUT DE RECHERCHE DE MOSCOU— AGAT”
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '160701'
+  logical_id: '160566'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: AGAT” MOSZKVAI KUTATÓINTÉZET RT.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160952'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -79,26 +99,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160953'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО “МНИИ ‘Агат’”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159972'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “MOSCOW RESEARCH INSTITUTE ‘AGAT’”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159975'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -119,21 +119,21 @@ addresses:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 identifications:
-- identification_type_code: fiscalcode
-  number: '5013044999'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '159971'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - identification_type_code: regnumber
   number: '1025001627012'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '159969'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- identification_type_code: fiscalcode
+  number: '5013044999'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '159971'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

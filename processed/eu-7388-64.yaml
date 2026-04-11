@@ -61,36 +61,36 @@ name_aliases:
   last_name: Solovyev
   whole_name: Vladimir Solovyev
   gender: M
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '152142'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Vladimir
-  last_name: Solovyev
-  whole_name: Vladimir Solovyev
-  gender: M
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '152141'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Vladimir
-  last_name: Solovyev
-  whole_name: Vladimir Solovyev
-  gender: M
   name_language: MT
   strong: true
   regulation_language: en
   logical_id: '152140'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Vladimir
+  last_name: Solovyev
+  whole_name: Vladimir Solovyev
+  gender: M
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '152143'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Vladimir
+  last_name: Solovyev
+  whole_name: Vladimir Solovyev
+  gender: M
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '152142'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -113,10 +113,10 @@ name_aliases:
   last_name: Solovyev
   whole_name: Vladimir Solovyev
   gender: M
-  name_language: RO
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '152143'
+  logical_id: '152141'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -131,32 +131,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152129'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Vladimir
-  last_name: Solovjov
-  whole_name: Vladimir Solovjov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152106'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Vladimir
-  last_name: Solovyev
-  whole_name: Vladimir Solovyev
-  gender: M
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '152136'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -196,6 +170,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152133'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Vladimir
+  last_name: Solovjov
+  whole_name: Vladimir Solovjov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152106'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Vladimir
+  last_name: Solovyev
+  whole_name: Vladimir Solovyev
+  gender: M
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '152136'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

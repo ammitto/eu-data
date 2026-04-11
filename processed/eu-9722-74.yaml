@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ramil Rachmatullovitj IBATULLIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151058'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Рамиль
   middle_name: Рахматуллович
   last_name: ИБАТУЛЛИН
@@ -45,17 +56,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Ramil Rachmatullovitj IBATULLIN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151058'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

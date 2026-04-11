@@ -14,23 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Світлана Анатоліївна КУМАНОВА
-  gender: F
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '138471'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - whole_name: Светлана Анатольевна КУМАНОВА
   gender: F
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '138472'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: Світлана Анатоліївна КУМАНОВА
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '138471'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

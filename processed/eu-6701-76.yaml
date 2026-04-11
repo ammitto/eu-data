@@ -14,22 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Igor Viacheslavovich LIUBOVITSKI
+- whole_name: Игорь  Вячеславович  ЛЮБОВИЦКИЙ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '132030'
+  logical_id: '132028'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Ihar Viachaslavavich LIUBAVITSKI
-  function: Judge at the Supreme Court of the Republic of Belarus
+- whole_name: Ihar Vjatjaslavavitj LJUBAVITSKI
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '132031'
+  logical_id: '132358'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -57,23 +58,22 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Игорь  Вячеславович  ЛЮБОВИЦКИЙ
+- whole_name: Igor Viacheslavovich LIUBOVITSKI
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '132028'
+  logical_id: '132030'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Ihar Vjatjaslavavitj LJUBAVITSKI
+- whole_name: Ihar Viachaslavavich LIUBAVITSKI
+  function: Judge at the Supreme Court of the Republic of Belarus
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '132358'
+  logical_id: '132031'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

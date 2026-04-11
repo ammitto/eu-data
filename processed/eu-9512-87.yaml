@@ -14,91 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ivan
-  middle_name: Ivanovitj
-  last_name: GOLOVATYJ
-  whole_name: Ivan Ivanovitj GOLOVATYJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '148493'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Ivan
-  middle_name: Ivanavich
-  last_name: GALAVATYI
-  whole_name: Ivan Ivanavich GALAVATYI
-  function: |-
-    Former Director-General of the Open Joint Stock Company “Belaruskali”, Chairman of the supervisory board of JSC Belarussian Potash Company, First Deputy Director of Nedra Nezhin
-
-    Member of the Standing Committee of the Council of the Republic of the National Assembly of the Republic of Belarus for Foreign Affairs and National Security
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '148494'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-25'
-    number_title: 2025/386 (OJ L25022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
-- whole_name: Ivan GALAVATIJ
-  gender: M
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '148491'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- first_name: Iван
-  middle_name: Iванавiч
-  last_name: ГАЛАВАТЫ
-  whole_name: Iван Iванавiч ГАЛАВАТЫ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '148496'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Ivan
-  middle_name: Ivanavitj
-  last_name: HALAVATY
-  whole_name: Ivan Ivanavitj HALAVATY
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '148492'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Ivan
-  middle_name: Ivanovich
-  last_name: GOLOVATY
-  whole_name: Ivan Ivanovich GOLOVATY
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '148495'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-28'
-    number_title: 2023/419 (OJ L61)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
 - first_name: Иван
   last_name: Галавати
   whole_name: Иван Галавати
@@ -124,6 +39,31 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Iван
+  middle_name: Iванавiч
+  last_name: ГАЛАВАТЫ
+  whole_name: Iван Iванавiч ГАЛАВАТЫ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '148496'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- whole_name: Ivan GALAVATIJ
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '148491'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
 - first_name: Иван
   middle_name: Иванович
   last_name: ГОЛОВАТЫЙ
@@ -133,6 +73,66 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148497'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Ivan
+  middle_name: Ivanovich
+  last_name: GOLOVATY
+  whole_name: Ivan Ivanovich GOLOVATY
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '148495'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-28'
+    number_title: 2023/419 (OJ L61)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
+- first_name: Ivan
+  middle_name: Ivanavich
+  last_name: GALAVATYI
+  whole_name: Ivan Ivanavich GALAVATYI
+  function: |-
+    Former Director-General of the Open Joint Stock Company “Belaruskali”, Chairman of the supervisory board of JSC Belarussian Potash Company, First Deputy Director of Nedra Nezhin
+
+    Member of the Standing Committee of the Council of the Republic of the National Assembly of the Republic of Belarus for Foreign Affairs and National Security
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '148494'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-25'
+    number_title: 2025/386 (OJ L25022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
+- first_name: Ivan
+  middle_name: Ivanovitj
+  last_name: GOLOVATYJ
+  whole_name: Ivan Ivanovitj GOLOVATYJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '148493'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Ivan
+  middle_name: Ivanavitj
+  last_name: HALAVATY
+  whole_name: Ivan Ivanavitj HALAVATY
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '148492'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

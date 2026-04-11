@@ -14,21 +14,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Maria Vladimirovna PUTINA
-  gender: F
+- whole_name: Marija Vladimirovna  PUTINA
   strong: true
   regulation_language: en
-  logical_id: '138075'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Мария Владимировна ВОРОНЦОВА
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '138072'
+  logical_id: '139290'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
@@ -44,22 +33,21 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Maria Vladimirovna VORONTSOVA
-  function: Co-owner of 20 % of the company Nomenko involved in Russia's largest private
-    investment project in healthcare with an estimated cost of 40 billion roubles
+- whole_name: Мария Владимировна ВОРОНЦОВА
   gender: F
   strong: true
   regulation_language: en
-  logical_id: '138076'
+  logical_id: '138072'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Marija Vladimirovna  PUTINA
+- whole_name: Maria FAASSEN
+  gender: F
   strong: true
   regulation_language: en
-  logical_id: '139290'
+  logical_id: '138073'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
@@ -75,11 +63,23 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Maria FAASSEN
+- whole_name: Maria Vladimirovna PUTINA
   gender: F
   strong: true
   regulation_language: en
-  logical_id: '138073'
+  logical_id: '138075'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: Maria Vladimirovna VORONTSOVA
+  function: Co-owner of 20 % of the company Nomenko involved in Russia's largest private
+    investment project in healthcare with an estimated cost of 40 billion roubles
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '138076'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

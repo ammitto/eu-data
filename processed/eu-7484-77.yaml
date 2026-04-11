@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Mikhail
+  middle_name: Sergeyevich
+  last_name: KIZEEV
+  whole_name: Mikhail Sergeyevich KIZEEV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158072'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Михаил
   middle_name: Владимирович
   last_name: КИЗЕЕВ
@@ -23,6 +37,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158071'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Michail
+  middle_name: Vladimirovitj
+  last_name: KIZEJEV
+  whole_name: Michail Vladimirovitj KIZEJEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '158597'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Michail
+  middle_name: Sergejevitj
+  last_name: KISELJOV
+  whole_name: Michail Sergejevitj KISELJOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '135990'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -43,34 +85,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Michail
-  middle_name: Sergejevitj
-  last_name: KISELJOV
-  whole_name: Michail Sergejevitj KISELJOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '135990'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Michail
-  middle_name: Vladimirovitj
-  last_name: KIZEJEV
-  whole_name: Michail Vladimirovitj KIZEJEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '158597'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Михаил
   middle_name: Сергеевич
   last_name: КИСЕЛЁВ
@@ -80,20 +94,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Mikhail
-  middle_name: Sergeyevich
-  last_name: KIZEEV
-  whole_name: Mikhail Sergeyevich KIZEEV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158072'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

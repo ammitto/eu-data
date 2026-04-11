@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Anatoly
-  middle_name: Zhamalovich
-  last_name: BIFOV
-  whole_name: Anatoly Zhamalovich BIFOV
-  function: Member of the State Duma
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '133926'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Aнатолий
   middle_name: Жамалович
   last_name: БИФОВ
@@ -47,6 +33,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143770'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Anatoly
+  middle_name: Zhamalovich
+  last_name: BIFOV
+  whole_name: Anatoly Zhamalovich BIFOV
+  function: Member of the State Duma
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '133926'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

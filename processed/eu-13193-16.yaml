@@ -44,6 +44,26 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Ταξιαρχία Suleiman Shah
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '176052'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Suleiman Shah Brigade
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176038'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
 - whole_name: Sulaiman Shah Brigád
   name_language: HU
   strong: true
@@ -54,21 +74,11 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Sultan Sulaiman Shah Brigád
-  name_language: HU
+- whole_name: Ταξιαρχία Sultan Sulaiman Shah
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '176051'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Brigada Sultan Sulaiman Shah
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '176046'
+  logical_id: '176053'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'
@@ -84,21 +94,11 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Ταξιαρχία Suleiman Shah
-  name_language: EL
+- whole_name: Sultan Sulaiman Shah Brigád
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '176052'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Ταξιαρχία Sultan Sulaiman Shah
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '176053'
+  logical_id: '176051'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'
@@ -118,11 +118,11 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Suleiman Shah Brigade
-  name_language: EN
+- whole_name: Brigada Sultan Sulaiman Shah
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '176038'
+  logical_id: '176046'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'

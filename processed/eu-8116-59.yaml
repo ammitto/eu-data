@@ -14,22 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: PAK Hwa-Song
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '139189'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-21'
-    number_title: 2022/659 (OJ L120)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.120.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A120%3ATOC
 - whole_name: PAK Hwa Song
   function: Co-founder of the CONGO ACONDE company
   gender: M
   strong: true
   regulation_language: en
   logical_id: '139190'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-21'
+    number_title: 2022/659 (OJ L120)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.120.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A120%3ATOC
+- whole_name: PAK Hwa-Song
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '139189'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-21'

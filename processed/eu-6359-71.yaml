@@ -14,11 +14,54 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Open Joint Stock Company “Minsk Automobile Works” - Management Company
-    of “BELAVTOMAZ” Holding
+- whole_name: De open vennootschap op aandelen “MAZ”
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '135477'
+  logical_id: '130819'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Usine automobile de Minsk
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '130818'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Offene Aktiengesellschaft ‚Minsk Automobile Works‘ Verwaltungsgesellschaft
+    der Holding ‚BELAVTOMAZ‘
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '135473'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Veřejná akciová společnost „Minsk Automobile Works“ - správcovská společnost
+    holdingu „BELAVTOMAZ“
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '135474'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Sociedad limitada por acciones abierta “Minsk Automobile Works” – Sociedad
+    gestora de participación de “BELAVTOMAZ”
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '135475'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -30,6 +73,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135476'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Open Joint Stock Company “Minsk Automobile Works” - Management Company
+    of “BELAVTOMAZ” Holding
+  strong: true
+  regulation_language: en
+  logical_id: '135477'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Otvoreno dioničko društvo „Minsk Automobile Works” – upravljačko društvo
+    holdinga „BELAVTOMAZ”
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '135478'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -123,17 +187,16 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Otvoreno dioničko društvo „Minsk Automobile Works” – upravljačko društvo
-    holdinga „BELAVTOMAZ”
-  name_language: HR
+- whole_name: Minskii Avtomobilni Zavod (MAZ)
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '135478'
+  logical_id: '130820'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: ОАО  "Минский автомобильный завод"
   name_language: RU
   strong: true
@@ -174,69 +237,6 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Usine automobile de Minsk
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '130818'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: De open vennootschap op aandelen “MAZ”
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '130819'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Minskii Avtomobilni Zavod (MAZ)
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '130820'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Offene Aktiengesellschaft ‚Minsk Automobile Works‘ Verwaltungsgesellschaft
-    der Holding ‚BELAVTOMAZ‘
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '135473'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Veřejná akciová společnost „Minsk Automobile Works“ - správcovská společnost
-    holdingu „BELAVTOMAZ“
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '135474'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Sociedad limitada por acciones abierta “Minsk Automobile Works” – Sociedad
-    gestora de participación de “BELAVTOMAZ”
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '135475'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 addresses:
 - street: Socialisticheskaya 2
   city: Minsk

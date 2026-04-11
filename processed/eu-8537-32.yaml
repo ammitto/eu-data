@@ -14,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Сбербанк
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '142067'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Sberbank
   function: Sberbank is a major financial institution in Russia.
   strong: true
   regulation_language: en
   logical_id: '142068'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Сбербанк
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '142067'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

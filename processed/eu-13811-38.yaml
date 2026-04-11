@@ -14,11 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Юрий Иванович ПРЕДКО
-  name_language: BE
+- whole_name: Yuriy Ivanovich PREDKO
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179670'
+  logical_id: '179671'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -37,11 +37,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2039 (OJ L202502039)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
-- whole_name: Yuriy Ivanovich PREDKO
-  name_language: EN
+- whole_name: Юрий Иванович ПРЕДКО
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '179671'
+  logical_id: '179670'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

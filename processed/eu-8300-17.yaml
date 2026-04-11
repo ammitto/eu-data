@@ -24,26 +24,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: JSC KRONSHTADT TEKHNOLOGII Group of Companies
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '140459'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Кронштадт-технологии группа компаний АО
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140458'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Όμιλος Εταιρειών JSC KRONSHTADT TEKHNOLOGII
   name_language: EL
   strong: true
@@ -59,6 +39,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152418'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Кронштадт-технологии группа компаний АО
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140458'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: JSC KRONSHTADT TEKHNOLOGII Group of Companies
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '140459'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

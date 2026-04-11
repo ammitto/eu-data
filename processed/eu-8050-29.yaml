@@ -14,11 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Állami Közlekedési Lízingvállalat Rt
-  name_language: HU
+- whole_name: Państwowa Transportowa Spółka Leasingowa
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '164746'
+  logical_id: '139238'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: sociedad anónima GTLK
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '164734'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -34,11 +44,11 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: sociedad anónima GTLK
-  name_language: ES
+- whole_name: Állami Közlekedési Lízingvállalat Rt
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '164734'
+  logical_id: '164746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -54,37 +64,6 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: JSC GTLK
-  function: a Russian state-owned enterprise overseen by the Russian Ministry of Transportation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '138972'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Valsts transporta nomas uzņēmums
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '139224'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Państwowa Transportowa Spółka Leasingowa
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '139238'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: State Transport Leasing Company
   name_language: EN
   strong: true
@@ -95,16 +74,16 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Štátna dopravná nájomná spoločnosť
-  name_language: SK
+- whole_name: Държавно транспортно лизингово дружество
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '139239'
+  logical_id: '152392'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - whole_name: državna prevozna lizinška družba
   name_language: SL
   strong: true
@@ -115,11 +94,32 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Държавно транспортно лизингово дружество
-  name_language: BG
+- whole_name: Štátna dopravná nájomná spoločnosť
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '152392'
+  logical_id: '139239'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Valsts transporta nomas uzņēmums
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '139224'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: JSC GTLK
+  function: a Russian state-owned enterprise overseen by the Russian Ministry of Transportation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138972'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

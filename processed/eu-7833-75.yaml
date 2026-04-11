@@ -14,13 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Andrey Valerievich RYUMIN
-  function: Executive Director of Rosseti PJSC (formerly, until August 2014, known
-    as Russian Grids), Chairman of Board
+- whole_name: Andrej Valerijevitj RJUMIN
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '137919'
+  logical_id: '137917'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-15'
@@ -37,12 +36,13 @@ name_aliases:
     publication_date: '2022-03-15'
     number_title: 2022/427 (OJ L87I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
-- whole_name: Andrej Valerijevitj RJUMIN
+- whole_name: Andrey Valerievich RYUMIN
+  function: Executive Director of Rosseti PJSC (formerly, until August 2014, known
+    as Russian Grids), Chairman of Board
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '137917'
+  logical_id: '137919'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-15'

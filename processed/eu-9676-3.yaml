@@ -14,35 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Екатерина
-  middle_name: Геннадьевна
-  last_name: ПРИЕЗЖЕВА
-  whole_name: Екатерина Геннадьевна ПРИЕЗЖЕВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149705'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Ekaterina
-  middle_name: Gennadievna
-  last_name: PRIEZZHEVA
-  whole_name: Ekaterina Gennadievna PRIEZZHEVA
-  function: Deputy Minister of Industry and Trade (since 2023)
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149706'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Jekaterina
   last_name: Prijezževová
   whole_name: Jekaterina Prijezževová
@@ -69,12 +40,41 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Екатерина
+  middle_name: Геннадьевна
+  last_name: ПРИЕЗЖЕВА
+  whole_name: Екатерина Геннадьевна ПРИЕЗЖЕВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149705'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Jekaterina Gennadjevna PRIJEZZJEVA
   gender: F
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '151026'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Ekaterina
+  middle_name: Gennadievna
+  last_name: PRIEZZHEVA
+  whole_name: Ekaterina Gennadievna PRIEZZHEVA
+  function: Deputy Minister of Industry and Trade (since 2023)
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149706'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -16,17 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Izo
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161319'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/291 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400291
 - first_name: Johnson
   last_name: ANDRE
   whole_name: Johnson ANDRE
@@ -36,6 +25,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161320'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/291 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400291
+- whole_name: Izo
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161319'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'

@@ -15,13 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Mohsen
-  last_name: BARMAHANI
-  whole_name: Mohsen BARMAHANI
+  last_name: BORMAHANI
+  whole_name: Mohsen BORMAHANI
+  function: Deputy Director of Islamic Republic of Iran Broadcasting (IRIB)
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152092'
+  logical_id: '146409'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-03'
@@ -39,14 +40,13 @@ name_aliases:
     number_title: 2022/2428 (OJ L318I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
 - first_name: Mohsen
-  last_name: BORMAHANI
-  whole_name: Mohsen BORMAHANI
-  function: Deputy Director of Islamic Republic of Iran Broadcasting (IRIB)
+  last_name: BARMAHANI
+  whole_name: Mohsen BARMAHANI
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '146409'
+  logical_id: '152092'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-03'

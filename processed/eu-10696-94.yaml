@@ -14,50 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vadim
-  middle_name: Franzevich
-  last_name: GIGIN
-  whole_name: Vadim Franzevich GIGIN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157301'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Vadzim
-  middle_name: Frantzavich
-  last_name: GIGIN
-  whole_name: Vadzim Frantzavich GIGIN
-  function: "Director of the National Library of Belarus; \nformer Head of the Belarus
-    governmental society “Knowledge”, and \nDean of the Faculty of Philosophy and
-    Social Sciences of the Belarus State University, \ncandidate of Historical Science"
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157302'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Vadzim
-  last_name: HIHIN
-  whole_name: Vadzim HIHIN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157300'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Вадим
   middle_name: Францевич
   last_name: ГИГИН
@@ -100,6 +56,46 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Vadzim
+  middle_name: Francavič
+  last_name: GIGIN
+  whole_name: Vadzim Francavič GIGIN
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157295'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Vadzim
+  last_name: HIHIN
+  whole_name: Vadzim HIHIN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157300'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Vadim
+  middle_name: Franzevich
+  last_name: GIGIN
+  whole_name: Vadim Franzevich GIGIN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157301'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Vadim
   middle_name: Frantsevitj
   last_name: GIGIN
@@ -115,13 +111,17 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Vadzim
-  middle_name: Francavič
+  middle_name: Frantzavich
   last_name: GIGIN
-  whole_name: Vadzim Francavič GIGIN
-  name_language: SK
+  whole_name: Vadzim Frantzavich GIGIN
+  function: "Director of the National Library of Belarus; \nformer Head of the Belarus
+    governmental society “Knowledge”, and \nDean of the Faculty of Philosophy and
+    Social Sciences of the Belarus State University, \ncandidate of Historical Science"
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '157295'
+  logical_id: '157302'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

@@ -14,6 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Mikhail
+  middle_name: Vladimirovich
+  last_name: RAZVOZHAEV
+  whole_name: Mikhail Vladimirovich RAZVOZHAEV
+  function: So-called “Governor” of the illegally annexed City of Sevastopol. Member
+    of the Presidium of the State Council of the Russian Federation since 21 December
+    2020.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '121774'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Mychajlo
   middle_name: Volodymyrovytj
   last_name: RAZVOZJAJEV
@@ -28,29 +45,15 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Михайло
-  middle_name: Володимирович
-  last_name: РАЗВОЖАЄВ
-  whole_name: Михайло Володимирович РАЗВОЖАЄВ
+- first_name: Michail
+  middle_name: Vladimirovitj
+  last_name: RAZVOZJAJEV
+  whole_name: Michail Vladimirovitj RAZVOZJAJEV
   gender: M
-  name_language: UK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '121771'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Mykhailo
-  middle_name: Volodymyrovich
-  last_name: RAZVOZHAEV
-  whole_name: Mykhailo Volodymyrovich RAZVOZHAEV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '121772'
+  logical_id: '128367'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -70,32 +73,29 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Mikhail
-  middle_name: Vladimirovich
+- first_name: Mykhailo
+  middle_name: Volodymyrovich
   last_name: RAZVOZHAEV
-  whole_name: Mikhail Vladimirovich RAZVOZHAEV
-  function: So-called “Governor” of the illegally annexed City of Sevastopol. Member
-    of the Presidium of the State Council of the Russian Federation since 21 December
-    2020.
+  whole_name: Mykhailo Volodymyrovich RAZVOZHAEV
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '121774'
+  logical_id: '121772'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Michail
-  middle_name: Vladimirovitj
-  last_name: RAZVOZJAJEV
-  whole_name: Michail Vladimirovitj RAZVOZJAJEV
+- first_name: Михайло
+  middle_name: Володимирович
+  last_name: РАЗВОЖАЄВ
+  whole_name: Михайло Володимирович РАЗВОЖАЄВ
   gender: M
-  name_language: SV
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '128367'
+  logical_id: '121771'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

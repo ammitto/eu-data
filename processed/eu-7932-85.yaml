@@ -14,17 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yuriy
-  middle_name: Anatolievich
-  last_name: DEGTYAREV
-  whole_name: Yuriy Anatolievich DEGTYAREV
-  function: Former so-called ‘Minister of Natural Resources and Environmental Security’
-    of the so-called ‘Luhansk People's Republic’
+- first_name: Юрий
+  middle_name: Анатольевич
+  last_name: ДЕГТЯРЕВ
+  whole_name: Юрий Анатольевич ДЕГТЯРЕВ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '138411'
+  logical_id: '138410'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -41,15 +39,17 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Юрий
-  middle_name: Анатольевич
-  last_name: ДЕГТЯРЕВ
-  whole_name: Юрий Анатольевич ДЕГТЯРЕВ
+- first_name: Yuriy
+  middle_name: Anatolievich
+  last_name: DEGTYAREV
+  whole_name: Yuriy Anatolievich DEGTYAREV
+  function: Former so-called ‘Minister of Natural Resources and Environmental Security’
+    of the so-called ‘Luhansk People's Republic’
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '138410'
+  logical_id: '138411'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: علی چهارمحالی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '150371'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
 - first_name: Ali
   last_name: CHEHARMAHALI
   whole_name: Ali CHEHARMAHALI
@@ -35,6 +24,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149461'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: علی چهارمحالی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '150371'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

@@ -26,17 +26,6 @@ name_aliases:
     publication_date: '2025-04-28'
     number_title: 2025/817 (OJ L202500817)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500817
-- whole_name: Evrazia — Autonome nichtgewerbliche Organisation zur Förderung der internationalen
-    Zusammenarbeit
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '170265'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-14'
-    number_title: 2024/2700 (OJ L14102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
 - whole_name: Evrazia Organizzazzjoni awtonoma mhux kummerċjali għall-promozzjoni
     tal-kooperazzjoni internazzjonali
   name_language: MT
@@ -158,6 +147,17 @@ name_aliases:
     publication_date: '2024-10-14'
     number_title: 2024/2700 (OJ L14102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
+- whole_name: Evrazia — Autonome nichtgewerbliche Organisation zur Förderung der internationalen
+    Zusammenarbeit
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '170265'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-14'
+    number_title: 2024/2700 (OJ L14102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
 addresses:
 - street: Krasnoproletarskaya Street 7, office 4/P
   city: Moscow
@@ -172,21 +172,21 @@ addresses:
     number_title: 2024/2700 (OJ L14102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
 identifications:
-- identification_type_code: fiscalcode
-  number: '9707028663'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '170207'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-14'
-    number_title: 2024/2700 (OJ L14102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
 - identification_type_code: other
   number: '770701001'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '170206'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-14'
+    number_title: 2024/2700 (OJ L14102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
+- identification_type_code: fiscalcode
+  number: '9707028663'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '170207'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'

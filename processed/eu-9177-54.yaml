@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Tatyana
-  middle_name: Vasilievna
-  last_name: SOLOMATINA
-  whole_name: Tatyana Vasilievna SOLOMATINA
-  function: member of the State Duma
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '146346'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Татьяна
   middle_name: Васильевна
   last_name: СОЛОМАТИНА
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146345'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Tatyana
+  middle_name: Vasilievna
+  last_name: SOLOMATINA
+  whole_name: Tatyana Vasilievna SOLOMATINA
+  function: member of the State Duma
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '146346'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

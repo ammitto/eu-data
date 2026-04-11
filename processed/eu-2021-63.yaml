@@ -25,16 +25,6 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: SBIC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159397'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Shahid Babaie Industrial Complex
   name_language: EN
   strong: true
@@ -45,21 +35,21 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Shaheed Babaie Industries
+- whole_name: SBIC
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159401'
+  logical_id: '159397'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Shahid Babaii Industries
+- whole_name: Shahid Babaie Industries Complex
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159400'
+  logical_id: '159398'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -75,11 +65,21 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Shahid Babaie Industries Complex
+- whole_name: Shahid Babaii Industries
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159398'
+  logical_id: '159400'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Shaheed Babaie Industries
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159401'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

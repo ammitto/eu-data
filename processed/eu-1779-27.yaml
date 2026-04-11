@@ -17,76 +17,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Special Industries
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159449'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Specialioji chemijos,biologijos ir branduolinė pramonė
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '162126'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Special Industries Division
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159451'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Special Industries Section
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159452'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Department 154
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159453'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Ministry of Defense Special Industrial Groups
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159454'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Ministry of Defense Special Industries Organization
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159455'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: SIG
   name_language: EN
   strong: true
@@ -97,11 +27,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Organization of Special Industries; Special Group
-  name_language: EN
+- whole_name: Specialioji chemijos,biologijos ir branduolinė pramonė
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '159457'
+  logical_id: '162126'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -147,11 +77,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Special Industry Group
+- whole_name: Organization of Special Industries; Special Group
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159450'
+  logical_id: '159457'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -187,6 +117,76 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: MIDSPGIC Co
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159446'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Special Chemical, Biological and Nuclear Industries
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159447'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Organization of Special Industry
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159448'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Special Industries
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159449'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Special Industry Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159450'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Special Industries Division
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159451'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Special Industries Section
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159452'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Special Industries Group
   name_language: EN
   strong: true
@@ -217,31 +217,41 @@ name_aliases:
     publication_date: '2007-04-24'
     number_title: 2007/242/EC (OJ L106)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: MIDSPGIC Co
+- whole_name: Department 154
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159446'
+  logical_id: '159453'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Special Chemical, Biological and Nuclear Industries
+- whole_name: Ministry of Defense Special Industrial Groups
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159447'
+  logical_id: '159454'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Organization of Special Industry
+- whole_name: Ministry of Defense Special Industries Organization
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159448'
+  logical_id: '159455'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: gruppo delle industrie speciali del ministero della  difesa
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '161977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -282,16 +292,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162005'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: gruppo delle industrie speciali del ministero della  difesa
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '161977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

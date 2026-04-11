@@ -15,6 +15,35 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: АО НПО «Сплав»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '144533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: JSC NPO “Splav”
+  strong: true
+  regulation_language: en
+  logical_id: '144534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: АО «Научно-производственное объединение «СПЛАВ» имени А. Н. Ганичева»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '144535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - whole_name: JSC A. N. Ganichev Scientific and Production Association “SPLAV”
   function: Russian weapons manufacturer
   name_language: EN
@@ -55,40 +84,11 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: АО НПО «Сплав»
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '144533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - whole_name: JSC A.N. Ganyicsev Tudományos és Gyártási Szövetség “SPLAV”
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '144769'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: JSC NPO “Splav”
-  strong: true
-  regulation_language: en
-  logical_id: '144534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: АО «Научно-производственное объединение «СПЛАВ» имени А. Н. Ганичева»
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '144535'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

@@ -15,20 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Jevgenij
-  middle_name: Grigorjevitj
-  last_name: KAPSJUK
-  whole_name: Jevgenij Grigorjevitj KAPSJUK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '152032'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Jevgenij
   last_name: Kapšuk
   whole_name: Jevgenij Kapšuk
   gender: M
@@ -41,18 +27,15 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Evgeniy
-  middle_name: Grigorievitch
-  last_name: KAPSHUK
-  whole_name: Evgeniy Grigorievitch KAPSHUK
-  function: "Commander of the Missile Pre-Planning unit at the Main Computing Centre
-    of the General Staff (GVC) of Russia’s Armed Forces General \nStaff"
+- first_name: Jevgenij
+  middle_name: Grigorjevitj
+  last_name: KAPSJUK
+  whole_name: Jevgenij Grigorjevitj KAPSJUK
   gender: M
-  title: Colonel
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '146887'
+  logical_id: '152032'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
@@ -67,6 +50,23 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146886'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Evgeniy
+  middle_name: Grigorievitch
+  last_name: KAPSHUK
+  whole_name: Evgeniy Grigorievitch KAPSHUK
+  function: "Commander of the Missile Pre-Planning unit at the Main Computing Centre
+    of the General Staff (GVC) of Russia’s Armed Forces General \nStaff"
+  gender: M
+  title: Colonel
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '146887'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

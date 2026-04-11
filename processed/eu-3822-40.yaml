@@ -15,6 +15,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Hussein
+  last_name: Makhluf
+  whole_name: Hussein Makhluf
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110109'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Hussein
   last_name: MAKHLOUF
   whole_name: Hussein MAKHLOUF
   function: |-
@@ -41,19 +54,6 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- first_name: Hussein
-  last_name: Makhluf
-  whole_name: Hussein Makhluf
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110109'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 birthdates:
 - circa: false
   calendar_type: GREGORIAN

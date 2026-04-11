@@ -14,11 +14,53 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: General Radio Frequency Centre  GRFC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175825'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Federal State Unitary Enterprise “Main Radio Frequency Centre”
+  title: Federal agency
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175826'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - whole_name: ФГУП “ГРЧЦ”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '175823'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Centrul General de Frecvențe Radio
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '175831'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Федеральное Государственное Унитарное Предприятие “Главный Радиочастотный
+    Центр”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175824'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -40,48 +82,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175832'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Centrul General de Frecvențe Radio
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '175831'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Federal State Unitary Enterprise “Main Radio Frequency Centre”
-  title: Federal agency
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175826'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: General Radio Frequency Centre  GRFC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175825'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Федеральное Государственное Унитарное Предприятие “Главный Радиочастотный
-    Центр”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175824'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: KB helicópteros não tripulados
-  name_language: PT
+- whole_name: ООО КБ Беспилотныйе вертолеты
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177178'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: KB śmigłowce bezzałogowe
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '177179'
+  logical_id: '176807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -42,26 +32,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176810'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: КБ Безпилотни хеликоптери
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '177181'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: KB Pilóta Nélküli Helikopterek
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177180'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -87,11 +57,41 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: ООО КБ Беспилотныйе вертолеты
-  name_language: RU
+- whole_name: КБ Безпилотни хеликоптери
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '176807'
+  logical_id: '177181'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: KB Pilóta Nélküli Helikopterek
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177180'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: KB śmigłowce bezzałogowe
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '177179'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: KB helicópteros não tripulados
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177178'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

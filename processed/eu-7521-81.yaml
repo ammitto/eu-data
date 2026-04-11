@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Dmitrij Nikolajevič Černišenko
-  gender: M
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '136215'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-28'
-    number_title: 2022/336 (OJ L58)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
 - whole_name: Dmitry Nikolaevich  CHERNYSHENKO
   function: Deputy Prime  Minister of Russia for Tourism, Sport,  Culture and Communications;
     Member of the Board of Directors of Russian Railways
@@ -42,6 +31,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136082'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-28'
+    number_title: 2022/336 (OJ L58)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
+- whole_name: Dmitrij Nikolajevič Černišenko
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '136215'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-28'

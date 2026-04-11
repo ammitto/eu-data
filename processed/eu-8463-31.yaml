@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Константин
+  middle_name: Владимирович
+  last_name: ИВАЩЕНКО
+  whole_name: Константин Владимирович ИВАЩЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '141742'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Костянтин
   middle_name: Володимирович
   last_name: IВАЩЕНКО
@@ -28,6 +42,34 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Konstantin
+  last_name: Ivaščenko
+  whole_name: Konstantin Ivaščenko
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158526'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Konstantin
+  middle_name: Vladimirovich
+  last_name: IVASHCHENKO
+  whole_name: Konstantin Vladimirovich IVASHCHENKO
+  function: Former so-called "mayor of Mariupol" (6 April 2022-January 2023)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '141743'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Konstantin
   last_name: Ivaščenko
   whole_name: Konstantin Ivaščenko
@@ -55,48 +97,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Константин
-  middle_name: Владимирович
-  last_name: ИВАЩЕНКО
-  whole_name: Константин Владимирович ИВАЩЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '141742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Konstantin
-  middle_name: Vladimirovich
-  last_name: IVASHCHENKO
-  whole_name: Konstantin Vladimirovich IVASHCHENKO
-  function: Former so-called "mayor of Mariupol" (6 April 2022-January 2023)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '141743'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Konstantin
-  last_name: Ivaščenko
-  whole_name: Konstantin Ivaščenko
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158526'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 citizenships:
 - country_iso2_code: UA
   country_description: UKRAINE

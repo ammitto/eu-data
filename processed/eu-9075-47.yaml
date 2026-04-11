@@ -29,17 +29,6 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2231 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
-- whole_name: حسین نجات
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '145706'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2231 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 - first_name: Mohammad-Hossein
   last_name: ZIBAYINEJAD
   whole_name: Mohammad-Hossein ZIBAYINEJAD
@@ -47,6 +36,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145707'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2231 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
+- whole_name: حسین نجات
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '145706'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

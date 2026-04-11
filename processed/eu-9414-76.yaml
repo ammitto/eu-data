@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Элеонора
+  middle_name: Михайловна
+  last_name: ФЕДОРЕНКО
+  whole_name: Элеонора Михайловна ФЕДОРЕНКО
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147306'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Eleonora
   middle_name: Mikhailovna
   last_name: FEDORENKO
@@ -24,20 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147307'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- first_name: Элеонора
-  middle_name: Михайловна
-  last_name: ФЕДОРЕНКО
-  whole_name: Элеонора Михайловна ФЕДОРЕНКО
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147306'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

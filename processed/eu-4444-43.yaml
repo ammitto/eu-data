@@ -34,23 +34,23 @@ name_aliases:
     number_title: 2018/548 (OJ L91)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0548&from=EN
 addresses:
-- street: Kalrimgil 2-dong, Mangyongdae-guyok
-  city: Pyongyang
-  country_iso2_code: KP
-  country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
-  regulation_language: en
-  logical_id: '116350'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 - street: Saemaul 2-dong, Pyongchon-guyok
   city: Pyongyang
   country_iso2_code: KP
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '116349'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- street: Kalrimgil 2-dong, Mangyongdae-guyok
+  city: Pyongyang
+  country_iso2_code: KP
+  country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
+  regulation_language: en
+  logical_id: '116350'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'

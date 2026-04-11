@@ -15,33 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Dzmitryj
-  middle_name: Vitaľevič
-  last_name: BUBENČYK
-  whole_name: Dzmitryj Vitaľevič BUBENČYK
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157364'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Dzmitrij
-  last_name: Bubenčik
-  whole_name: Dzmitrij Bubenčik
-  gender: M
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '157363'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Dzmitryj
   last_name: Bubenčyk
   whole_name: Dzmitryj Bubenčyk
   gender: M
@@ -110,15 +83,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Dmitriy
-  middle_name: Vitalievich
-  last_name: BUBENCHIK
-  whole_name: Dmitriy Vitalievich BUBENCHIK
+- first_name: Dzmitryj
+  middle_name: Vitaľevič
+  last_name: BUBENČYK
+  whole_name: Dzmitryj Vitaľevič BUBENČYK
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '157370'
+  logical_id: '157364'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -134,6 +107,33 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157371'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Dmitriy
+  middle_name: Vitalievich
+  last_name: BUBENCHIK
+  whole_name: Dmitriy Vitalievich BUBENCHIK
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157370'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Dzmitrij
+  last_name: Bubenčik
+  whole_name: Dzmitrij Bubenčik
+  gender: M
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '157363'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

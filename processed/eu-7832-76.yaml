@@ -14,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Александр Александрович Михеев
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '137911'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-15'
-    number_title: 2022/427 (OJ L87I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
-- whole_name: Александр Михеев
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '173944'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - whole_name: Alexander Michiv
   gender: M
   name_language: CS
@@ -47,13 +25,12 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: Alexander Alexandrovich MIKHEEV
-  function: CEO of the JSC Rosoboronexport
+- whole_name: Александр Михеев
   gender: M
-  name_language: EN
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '137913'
+  logical_id: '173944'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'
@@ -65,6 +42,29 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173945'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: Александр Александрович Михеев
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '137911'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-15'
+    number_title: 2022/427 (OJ L87I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
+- whole_name: Alexander Alexandrovich MIKHEEV
+  function: CEO of the JSC Rosoboronexport
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '137913'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

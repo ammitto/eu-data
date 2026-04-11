@@ -14,24 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Viktor
-  middle_name: Leonidovich
-  last_name: YEVTUKHOV
-  whole_name: Viktor Leonidovich YEVTUKHOV
-  function: Head of Presidential Department of the Russian Federation on State Policy
-    in the Field of the Military-Industrial Complex (MIC); former Deputy Minister
-    of Industry and Trade (2012-2024); former State Secretary of Ministry of Industry
-    and Trade (2014-2024)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149726'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - whole_name: Viktor Leonidovitj JEVTUCHOV
   gender: M
   name_language: SV
@@ -57,6 +39,24 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Viktor
+  middle_name: Leonidovich
+  last_name: YEVTUKHOV
+  whole_name: Viktor Leonidovich YEVTUKHOV
+  function: Head of Presidential Department of the Russian Federation on State Policy
+    in the Field of the Military-Industrial Complex (MIC); former Deputy Minister
+    of Industry and Trade (2012-2024); former State Secretary of Ministry of Industry
+    and Trade (2014-2024)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149726'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

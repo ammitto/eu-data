@@ -14,11 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Vitalij Aleksin
-  name_language: SL
+- whole_name: Виталий Алексеевич ОЛЕКСИН
+  gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '141055'
+  logical_id: '140616'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Vitaliy Alexeevich OLEKSIN
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '140618'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -34,11 +45,11 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Vitalij Aleksejevitj OLEKSIN
-  name_language: SV
+- whole_name: Vitalij Aleksin
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '141053'
+  logical_id: '141055'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -56,16 +67,6 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Vitaliy Alexeevich OLEKSIN
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '140618'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
 - whole_name: Віталь Аляксеевіч АЛЯКСІН
   gender: M
   name_language: BE
@@ -77,12 +78,11 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Виталий Алексеевич ОЛЕКСИН
-  gender: M
-  name_language: RU
+- whole_name: Vitalij Aleksejevitj OLEKSIN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '140616'
+  logical_id: '141053'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

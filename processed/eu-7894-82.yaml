@@ -14,14 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aleksei Alexandrovich DIKIY
-  function: Former so-called ‘Minister of Internal Affairs’ of the so-called ‘Donetsk
-    People's Republic’
+- whole_name: Олексiй Олександрович ДIКIЙ
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '138235'
+  logical_id: '138233'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'
@@ -38,12 +36,14 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: Олексiй Олександрович ДIКIЙ
+- whole_name: Aleksei Alexandrovich DIKIY
+  function: Former so-called ‘Minister of Internal Affairs’ of the so-called ‘Donetsk
+    People's Republic’
   gender: M
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '138233'
+  logical_id: '138235'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

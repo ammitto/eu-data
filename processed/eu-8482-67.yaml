@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Мария
-  middle_name: Алексеевна
-  last_name: ЛЬВОВА-БЕЛОВА
-  whole_name: Мария Алексеевна ЛЬВОВА-БЕЛОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '141847'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Marija
   middle_name: Aleksejevna
   last_name: LVOVA-BELOVA
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142383'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Мария
+  middle_name: Алексеевна
+  last_name: ЛЬВОВА-БЕЛОВА
+  whole_name: Мария Алексеевна ЛЬВОВА-БЕЛОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '141847'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

@@ -14,17 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Milosh
-  middle_name: Eduardovich
-  last_name: WAGNER
-  whole_name: Milosh Eduardovich WAGNER
-  function: Deputy Head of the Russian Federal Service for Supervision of Communications
-    Information Technology and Mass Media (Roskomnadzor)
+- whole_name: Milosj Eduardovitj VAGNER
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '150794'
+  logical_id: '151180'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -41,12 +36,17 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Milosj Eduardovitj VAGNER
+- first_name: Milosh
+  middle_name: Eduardovich
+  last_name: WAGNER
+  whole_name: Milosh Eduardovich WAGNER
+  function: Deputy Head of the Russian Federal Service for Supervision of Communications
+    Information Technology and Mass Media (Roskomnadzor)
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151180'
+  logical_id: '150794'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

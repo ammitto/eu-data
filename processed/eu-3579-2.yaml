@@ -14,43 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Bin Khalid Fahd Bin Adballah
+- whole_name: Bin Khalid Fahd Bin Abdallah
   gender: M
-  name_language: FR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161419'
+  logical_id: '291'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- whole_name: Wadood Khalid Adbul
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '161420'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- whole_name: Wadood Khalid Abdul
+    publication_date: '2024-01-16'
+    number_title: 2024/329 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
+- whole_name: Ali Salem
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '293'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-19'
-    number_title: 2022/1230 (OJ L190)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.190.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A190%3ATOC
-- whole_name: Henin Ashraf Refaat Nabith
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '292'
+  logical_id: '290'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-19'
@@ -69,44 +48,49 @@ name_aliases:
     publication_date: '2024-01-16'
     number_title: 2024/329 (OJ L16012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
-- whole_name: Ali Salem
+- whole_name: Henin Ashraf Refaat Nabith
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '290'
+  logical_id: '292'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-19'
     number_title: 2022/1230 (OJ L190)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.190.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A190%3ATOC
-- whole_name: Bin Khalid Fahd Bin Abdallah
+- whole_name: Wadood Khalid Adbul
   gender: M
-  name_language: EN
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '291'
+  logical_id: '161420'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/329 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
-birthdates:
-- birthdate: '1964-03-01'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 1
-  month_of_year: 3
-  year: 1964
-  city: "-"
-  country_iso2_code: PK
-  country_description: PAKISTAN
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- whole_name: Bin Khalid Fahd Bin Adballah
+  gender: M
+  name_language: FR
+  strong: true
   regulation_language: en
-  logical_id: '184'
+  logical_id: '161419'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2005-11-30'
-    number_title: 2005/848/EC (OJ L314)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:314:0046:0047:EN:PDF
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- whole_name: Wadood Khalid Abdul
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '293'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-19'
+    number_title: 2022/1230 (OJ L190)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.190.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A190%3ATOC
+birthdates:
 - birthdate: '1965-04-14'
   circa: false
   calendar_type: GREGORIAN
@@ -118,6 +102,22 @@ birthdates:
   country_description: PAKISTAN
   regulation_language: en
   logical_id: '183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-11-30'
+    number_title: 2005/848/EC (OJ L314)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:314:0046:0047:EN:PDF
+- birthdate: '1964-03-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 3
+  year: 1964
+  city: "-"
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '184'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-11-30'

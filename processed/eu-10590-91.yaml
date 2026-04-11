@@ -27,20 +27,6 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Раман
-  middle_name: Іванавіч
-  last_name: БІЗЮК
-  whole_name: Раман Іванавіч БІЗЮК
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '156426'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Raman
   middle_name: Ivanavitj
   last_name: BIZIUK
@@ -64,6 +50,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156902'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Raman
+  middle_name: Ivanovič
+  last_name: BIZIUK
+  whole_name: Raman Ivanovič BIZIUK
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156974'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -112,15 +112,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Raman
-  middle_name: Ivanovič
-  last_name: BIZIUK
-  whole_name: Raman Ivanovič BIZIUK
+- first_name: Раман
+  middle_name: Іванавіч
+  last_name: БІЗЮК
+  whole_name: Раман Іванавіч БІЗЮК
   gender: M
-  name_language: SK
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '156974'
+  logical_id: '156426'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

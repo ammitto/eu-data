@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Сергей
-  middle_name: Юрьевич
-  last_name: ПАНТЕЛЕЕВ
-  whole_name: Сергей Юрьевич ПАНТЕЛЕЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '155809'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
 - first_name: Sergey
   middle_name: Yurievich
   last_name: PANTELEEV
@@ -38,6 +24,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155810'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- first_name: Sergej
+  last_name: Pantelejev
+  whole_name: Sergej Pantelejev
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156630'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -59,19 +58,6 @@ name_aliases:
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
 - first_name: Sergej
-  last_name: Pantelejev
-  whole_name: Sergej Pantelejev
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156630'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Sergej
   middle_name: Jurievič
   last_name: PANTELEJEV
   whole_name: Sergej Jurievič PANTELEJEV
@@ -80,6 +66,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156641'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- first_name: Сергей
+  middle_name: Юрьевич
+  last_name: ПАНТЕЛЕЕВ
+  whole_name: Сергей Юрьевич ПАНТЕЛЕЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '155809'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

@@ -34,6 +34,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC “Elektrotyaga”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174990'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: AO “Electrotyaga”
   name_language: RU
   strong: true
@@ -59,16 +69,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “Elektrotyaga”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174990'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -101,6 +101,16 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
+- identification_type_code: other
+  number: '780501001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174986'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '7805230257'
   country_iso2_code: RU
@@ -126,16 +136,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174989'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: other
-  number: '780501001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174986'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -24,11 +24,11 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- whole_name: Адкрытае акцыянернае таварыства “Беларуськалій“
-  name_language: BE
+- whole_name: "„Belaruskali” nyilvánosan működő részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '140304'
+  logical_id: '164171'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -185,21 +185,11 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: OJSC Belaruskali
-  name_language: EN
+- whole_name: Адкрытае акцыянернае таварыства “Беларуськалій“
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '164153'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- whole_name: "„Belaruskali” nyilvánosan működő részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '164171'
+  logical_id: '140304'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -210,6 +200,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164178'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- whole_name: OJSC Belaruskali
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '164153'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

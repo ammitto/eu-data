@@ -25,15 +25,25 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Irina
-  middle_name: Leonidovna
-  last_name: MAIKO
-  whole_name: Irina Leonidovna MAIKO
+- whole_name: Ирина Леонидовна  МАЙКО
   gender: F
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '170845'
+  logical_id: '172186'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Iryna
+  last_name: Majko
+  whole_name: Iryna Majko
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '172185'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -54,25 +64,15 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- whole_name: Ирина Леонидовна  МАЙКО
+- first_name: Irina
+  middle_name: Leonidovna
+  last_name: MAIKO
+  whole_name: Irina Leonidovna MAIKO
   gender: F
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172186'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Iryna
-  last_name: Majko
-  whole_name: Iryna Majko
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '172185'
+  logical_id: '170845'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

@@ -14,19 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: BAH AG MOUSSA
+- whole_name: Ag Mossa
   strong: true
   regulation_language: en
-  logical_id: '120838'
+  logical_id: '120837'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-08-20'
     number_title: 2019/1353 (OJ L217)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
-- whole_name: Ag Mossa
+- whole_name: BAH AG MOUSSA
   strong: true
   regulation_language: en
-  logical_id: '120837'
+  logical_id: '120838'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-08-20'
@@ -52,6 +52,21 @@ citizenships:
     number_title: 2019/1353 (OJ L217)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
 birthdates:
+- birthdate: '1952-12-31'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 31
+  month_of_year: 12
+  year: 1952
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '120867'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-08-27'
+    number_title: 2019/1375 (OJ L223)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1375&from=EN
 - birthdate: '1958-01-01'
   circa: false
   calendar_type: GREGORIAN
@@ -77,21 +92,6 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '120866'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-08-27'
-    number_title: 2019/1375 (OJ L223)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1375&from=EN
-- birthdate: '1952-12-31'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 31
-  month_of_year: 12
-  year: 1952
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '120867'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-08-27'

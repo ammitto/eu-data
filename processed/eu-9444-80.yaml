@@ -39,21 +39,6 @@ citizenships:
     number_title: 2022/2429 (OJ L318I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
 birthdates:
-- birthdate: '1972-02-20'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 20
-  month_of_year: 2
-  year: 1972
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '147508'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2429 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
 - birthdate: '1965-08-07'
   circa: false
   calendar_type: GREGORIAN
@@ -64,6 +49,21 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '147509'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2429 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- birthdate: '1972-02-20'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 20
+  month_of_year: 2
+  year: 1972
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '147508'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'

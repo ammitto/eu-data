@@ -24,27 +24,6 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- first_name: Asidan Ag
-  last_name: Hitta
-  whole_name: Asidan Ag Hitta
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141411'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Abu Qarwani
-  strong: true
-  regulation_language: en
-  logical_id: '141408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
 - first_name: Sidan Ag
   last_name: HITTA
   whole_name: Sidan Ag HITTA
@@ -57,11 +36,13 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Al Qaïrawani
+- first_name: Asidan Ag
+  last_name: Hitta
+  whole_name: Asidan Ag Hitta
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '141407'
+  logical_id: '141411'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'
@@ -82,6 +63,25 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141409'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Abu Qarwani
+  strong: true
+  regulation_language: en
+  logical_id: '141408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Al Qaïrawani
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141407'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'

@@ -14,6 +14,64 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ihor
+  middle_name: Anatolievich
+  last_name: PLYSHEVSKIY
+  whole_name: Ihor Anatolievich PLYSHEVSKIY
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '125561'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Igor
+  middle_name: Anatoljevitj
+  last_name: PLYSJEVSKIJ
+  whole_name: Igor Anatoljevitj PLYSJEVSKIJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '127952'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Igar
+  middle_name: Anatolievich
+  last_name: PLYSHEUSKI
+  whole_name: Igar Anatolievich PLYSHEUSKI
+  function: "Managing Director of OOO Bergia Group,  \nformer Member of the Central
+    Electoral Commission (CEC)"
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '125560'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Iгар
+  middle_name: Анатольевiч
+  last_name: ПЛЫШЭЎСКI
+  whole_name: Iгар Анатольевiч ПЛЫШЭЎСКI
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '125559'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Игорь
   middle_name: Анатольевич
   last_name: ПЛЫШЕВСКИЙ
@@ -37,64 +95,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127953'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Igar
-  middle_name: Anatolievich
-  last_name: PLYSHEUSKI
-  whole_name: Igar Anatolievich PLYSHEUSKI
-  function: "Managing Director of OOO Bergia Group,  \nformer Member of the Central
-    Electoral Commission (CEC)"
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '125560'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Igor
-  middle_name: Anatoljevitj
-  last_name: PLYSJEVSKIJ
-  whole_name: Igor Anatoljevitj PLYSJEVSKIJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127952'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Ihor
-  middle_name: Anatolievich
-  last_name: PLYSHEVSKIY
-  whole_name: Ihor Anatolievich PLYSHEVSKIY
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '125561'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Iгар
-  middle_name: Анатольевiч
-  last_name: ПЛЫШЭЎСКI
-  whole_name: Iгар Анатольевiч ПЛЫШЭЎСКI
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '125559'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

@@ -14,29 +14,29 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aleksej
-  middle_name: Sergejevitj
+- first_name: Oleksiy
+  middle_name: Sergiyovich
   last_name: SELIVANOV
-  whole_name: Aleksej Sergejevitj SELIVANOV
+  whole_name: Oleksiy Sergiyovich SELIVANOV
   gender: M
-  name_language: SV
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '144617'
+  logical_id: '144329'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Oleksij
-  middle_name: Serhijovytj
-  last_name: SELIVANOV
-  whole_name: Oleksij Serhijovytj SELIVANOV
+- first_name: Алексей
+  middle_name: Сергеевич
+  last_name: СЕЛИВАНОВ
+  whole_name: Алексей Сергеевич СЕЛИВАНОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144616'
+  logical_id: '144330'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -57,29 +57,29 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Алексей
-  middle_name: Сергеевич
-  last_name: СЕЛИВАНОВ
-  whole_name: Алексей Сергеевич СЕЛИВАНОВ
+- first_name: Oleksij
+  middle_name: Serhijovytj
+  last_name: SELIVANOV
+  whole_name: Oleksij Serhijovytj SELIVANOV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144330'
+  logical_id: '144616'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Oleksiy
-  middle_name: Sergiyovich
+- first_name: Aleksej
+  middle_name: Sergejevitj
   last_name: SELIVANOV
-  whole_name: Oleksiy Sergiyovich SELIVANOV
+  whole_name: Aleksej Sergejevitj SELIVANOV
   gender: M
-  name_language: UK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144329'
+  logical_id: '144617'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

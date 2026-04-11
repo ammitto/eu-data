@@ -85,23 +85,23 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: سيف أبو بكر
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176028'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
 - whole_name: سيف بولاد
   gender: M
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '176029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: سيف أبو بكر
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176028'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'

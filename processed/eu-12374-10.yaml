@@ -14,14 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ferdens
-  last_name: TILUS
-  whole_name: Ferdens TILUS
-  function: Kokorat San Ras gang leader
+- whole_name: Jeneral Meyè
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '170700'
+  logical_id: '170697'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -37,21 +34,24 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3138 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403138
-- whole_name: Jeneral Meyè
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '170697'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3138 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403138
 - whole_name: General Meyer
   gender: M
   strong: true
   regulation_language: en
   logical_id: '170699'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3138 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403138
+- first_name: Ferdens
+  last_name: TILUS
+  whole_name: Ferdens TILUS
+  function: Kokorat San Ras gang leader
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '170700'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

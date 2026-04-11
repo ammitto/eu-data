@@ -14,6 +14,34 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Дзмітрый
+  middle_name: Анатольевіч
+  last_name: МІХАЛАП
+  whole_name: Дзмітрый Анатольевіч МІХАЛАП
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '136314'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Дмитрий
+  middle_name: Анатольевич
+  last_name: МИХОЛАП
+  whole_name: Дмитрий Анатольевич МИХОЛАП
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136315'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Dmitry
   middle_name: Anatolievich
   last_name: MIHOLAP
@@ -32,47 +60,6 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Дмитрий
-  middle_name: Анатольевич
-  last_name: МИХОЛАП
-  whole_name: Дмитрий Анатольевич МИХОЛАП
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136315'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Дзмітрый
-  middle_name: Анатольевіч
-  last_name: МІХАЛАП
-  whole_name: Дзмітрый Анатольевіч МІХАЛАП
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '136314'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Dmitrij
-  last_name: Micholap
-  whole_name: Dmitrij Micholap
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '173937'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Dmitrij
   last_name: Miholap
   whole_name: Dmitrij Miholap
@@ -81,6 +68,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173936'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- first_name: Dmitrij
+  last_name: Micholap
+  whole_name: Dmitrij Micholap
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '173937'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

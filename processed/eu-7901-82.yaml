@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Наталя
+  middle_name: Юр’ївна
+  last_name: НIКОНОРОВА
+  whole_name: Наталя Юр’ївна НIКОНОРОВА
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '138267'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Наталья
   middle_name: Юрьевна
   last_name: НИКОНОРОВА
@@ -40,20 +54,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138269'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Наталя
-  middle_name: Юр’ївна
-  last_name: НIКОНОРОВА
-  whole_name: Наталя Юр’ївна НIКОНОРОВА
-  gender: F
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '138267'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

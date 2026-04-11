@@ -16,25 +16,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yusuf
-  last_name: Ajeeb
-  whole_name: Yusuf Ajeeb
-  function: Brigadier General; Doctor; Head of Security Office, Scientific Studies
-    and Research Centre (SSRC)
+- whole_name: يوسف عجيب
   gender: M
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '115964'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Yousef Ajeeb
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '115963'
+  logical_id: '161340'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -50,12 +37,11 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: يوسف عجيب
+- whole_name: Yousef Ajeeb
   gender: M
-  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '161340'
+  logical_id: '115963'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -66,6 +52,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- first_name: Yusuf
+  last_name: Ajeeb
+  whole_name: Yusuf Ajeeb
+  function: Brigadier General; Doctor; Head of Security Office, Scientific Studies
+    and Research Centre (SSRC)
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '115964'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

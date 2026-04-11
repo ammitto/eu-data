@@ -52,12 +52,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1964
+  year: 1963
   city: Dehloran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '145738'
+  logical_id: '145739'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -65,12 +65,12 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 - circa: false
   calendar_type: GREGORIAN
-  year: 1963
+  year: 1964
   city: Dehloran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '145739'
+  logical_id: '145738'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

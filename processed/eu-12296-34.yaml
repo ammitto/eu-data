@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Compañía de Transporte Marítimo de la  República Islámica de Irán
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '170481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-25'
-    number_title: 2025/1548 (OJ L202501548)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
 - whole_name: Корабна компания на Ислямска република Иран
   name_language: BG
   strong: true
@@ -66,31 +56,31 @@ name_aliases:
     publication_date: '2024-11-18'
     number_title: 2024/2896 (OJ L18112024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402896
-- whole_name: Linie Żeglugowe Islamskiej Republiki Iranu
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '170482'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-25'
-    number_title: 2025/1548 (OJ L202501548)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
-- whole_name: Az Iráni Iszlám Köztársaság Tengerhajózási Társasága
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '170483'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-25'
-    number_title: 2025/1548 (OJ L202501548)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
 - whole_name: Ναυτιλιακές γραμμές της  Ισλαμικής Δημοκρατίας  του Ιράν
   name_language: EL
   strong: true
   regulation_language: en
   logical_id: '177956'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-25'
+    number_title: 2025/1548 (OJ L202501548)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
+- whole_name: Compañía de Transporte Marítimo de la  República Islámica de Irán
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '170481'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-25'
+    number_title: 2025/1548 (OJ L202501548)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
+- whole_name: Linie Żeglugowe Islamskiej Republiki Iranu
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '170482'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-25'
@@ -116,6 +106,26 @@ name_aliases:
     publication_date: '2025-07-25'
     number_title: 2025/1548 (OJ L202501548)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
+- whole_name: Compania de transport  maritim a Republicii  Islamice a Iranului
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177953'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-25'
+    number_title: 2025/1548 (OJ L202501548)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
+- whole_name: Az Iráni Iszlám Köztársaság Tengerhajózási Társasága
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '170483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-25'
+    number_title: 2025/1548 (OJ L202501548)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
 - whole_name: Lodní linky Íránské islámské republiky
   name_language: CS
   strong: true
@@ -131,16 +141,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-25'
-    number_title: 2025/1548 (OJ L202501548)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
-- whole_name: Compania de transport  maritim a Republicii  Islamice a Iranului
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '177953'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-25'

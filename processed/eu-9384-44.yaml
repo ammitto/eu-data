@@ -34,31 +34,20 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Votkinsk Machine Building Plant
+  strong: true
+  regulation_language: en
+  logical_id: '147216'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Votkinsk Gépgyár
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '147843'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Воткинский завод
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147215'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Planta de Fabricación de Maquinaria de Votkinsk
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '147771'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -84,10 +73,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Votkinsk Machine Building Plant
+- whole_name: Planta de Fabricación de Maquinaria de Votkinsk
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '147216'
+  logical_id: '147771'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Воткинский завод
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147215'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

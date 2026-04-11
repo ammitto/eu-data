@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Михаил Фридман
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '173935'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Михаил
   middle_name: Маратович
   last_name: ФРИДМАН
@@ -67,17 +78,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158471'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: Михаил Фридман
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '173935'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

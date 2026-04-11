@@ -28,33 +28,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Natalia
-  last_name: Serguninová
-  whole_name: Natalia Serguninová
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156035'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Natalja
-  middle_name: Aleksejevna
-  last_name: SERGUNINA
-  whole_name: Natalja Aleksejevna SERGUNINA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156050'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Наталья
   middle_name: Алексеевна
   last_name: СЕРГУНИНА
@@ -80,6 +53,33 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155541'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Natalja
+  middle_name: Aleksejevna
+  last_name: SERGUNINA
+  whole_name: Natalja Aleksejevna SERGUNINA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156050'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Natalia
+  last_name: Serguninová
+  whole_name: Natalia Serguninová
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156035'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

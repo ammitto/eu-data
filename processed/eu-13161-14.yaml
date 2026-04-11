@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Олеся Анатольевна МЕНДЕЛЕЕВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175841'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/958 (OJ L202500958)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
 - whole_name: Olesya Anatoleyevna MENDELEYEVA
   function: Olesya Mendeleyeva is a judge of the Meshchansky Court of Moscow. She
     sentenced Alexei Gorinov, local activist and municipal deputy, to 7 years imprisonment
@@ -37,6 +26,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175842'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/958 (OJ L202500958)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
+- whole_name: Олеся Анатольевна МЕНДЕЛЕЕВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175841'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

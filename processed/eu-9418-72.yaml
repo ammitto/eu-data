@@ -24,14 +24,10 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- first_name: Viktor
-  middle_name: Yuriiovych
-  last_name: ANOSOV
-  whole_name: Viktor Yuriiovych ANOSOV
-  gender: M
+- whole_name: "'the Nose'"
   strong: true
   regulation_language: en
-  logical_id: '147339'
+  logical_id: '147651'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -51,6 +47,19 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Viktor
+  middle_name: Yuriiovych
+  last_name: ANOSOV
+  whole_name: Viktor Yuriiovych ANOSOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '147339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Виктор
   middle_name: Юрьевич
   last_name: АНОСОВ
@@ -65,29 +74,20 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: "'the Nose'"
-  strong: true
-  regulation_language: en
-  logical_id: '147651'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 citizenships:
-- country_iso2_code: UA
-  country_description: UKRAINE
-  regulation_language: en
-  logical_id: '147333'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '147332'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '147333'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -112,10 +112,10 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 identifications:
 - identification_type_code: passport
-  number: ES662458
+  number: ES301083
   country_iso2_code: UA
   regulation_language: en
-  logical_id: '147336'
+  logical_id: '147335'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -132,10 +132,10 @@ identifications:
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - identification_type_code: passport
-  number: ES301083
+  number: ES662458
   country_iso2_code: UA
   regulation_language: en
-  logical_id: '147335'
+  logical_id: '147336'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

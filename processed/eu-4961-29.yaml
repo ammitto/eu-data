@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Mohammed Nazer JAMAL EDDIN
+  function: Co‐founder and majority shareholder of Apex Development and Projects LLC
+    and founder of A’ayan Company for Projects and Equipment. In May 2019, he created
+    “Trillium Private JSC”, a company involved in the trade of building materials
+    and electrical products.
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '124100'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 - whole_name: Mohammed Jamal Eddine
   gender: M
   strong: true
@@ -50,20 +64,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '140740'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- whole_name: Mohammed Nazer JAMAL EDDIN
-  function: Co‐founder and majority shareholder of Apex Development and Projects LLC
-    and founder of A’ayan Company for Projects and Equipment. In May 2019, he created
-    “Trillium Private JSC”, a company involved in the trade of building materials
-    and electrical products.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '124100'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'

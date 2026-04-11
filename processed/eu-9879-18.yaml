@@ -14,72 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Societatea  publică pe acțiuni „Uzina  Krasnogorsk denumită după  S.A.
-    Zvereva”
-  name_language: RO
+- whole_name: javno dioničko društvo Postrojenje Krasnogarsk nazvano po S.A. Zverevoj
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '151270'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: PJSC »Krasnogorsk Plant«, navngivet efter »S.A. Zvereva«
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '151271'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: PJSC “Krasnogorsk Plant named after S.A. Zvereva”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150834'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: KMZ “Zenit”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150833'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: ПАО Красногорский завод им. С.А. Зверева
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150832'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: КМЗ “Зенит”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150831'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société publique par actions "Usine de Krasnogorsk du nom de S.A. Zvereva"
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151132'
+  logical_id: '151328'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -105,16 +44,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: javno dioničko društvo Postrojenje Krasnogarsk nazvano po S.A. Zverevoj
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '151328'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: PJSC "Krasnogorsk Plant  designada em honra de S.A.  Zvereva"
   name_language: PT
   strong: true
@@ -130,6 +59,77 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151352'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Société publique par actions "Usine de Krasnogorsk du nom de S.A. Zvereva"
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151132'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Societatea  publică pe acțiuni „Uzina  Krasnogorsk denumită după  S.A.
+    Zvereva”
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151270'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: PJSC “Krasnogorsk Plant named after S.A. Zvereva”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150834'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: PJSC »Krasnogorsk Plant«, navngivet efter »S.A. Zvereva«
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '151271'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: КМЗ “Зенит”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150831'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: ПАО Красногорский завод им. С.А. Зверева
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150832'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: KMZ “Zenit”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150833'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

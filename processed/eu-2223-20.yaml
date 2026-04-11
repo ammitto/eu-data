@@ -14,65 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Armed Forces Geographical Organisation
-  strong: true
-  regulation_language: en
-  logical_id: '6594'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-07-30'
-    number_title: 2021/1242 (OJ L272)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
-- whole_name: Географска организация на въоръжените сили
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '6595'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Organización geográfica de las fuerzas armadas
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '6596'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Útvar ozbrojených sil pro geografii
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '6597'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Organisation géographique des forces armées
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '6598'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Asevoimien maantieteellinen organisaatio
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '6605'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
 - whole_name: Organizzazjoni Ġeografika tal-Forzi Armati
   name_language: HU
   strong: true
@@ -128,6 +69,65 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6599'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Armed Forces Geographical Organisation
+  strong: true
+  regulation_language: en
+  logical_id: '6594'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-07-30'
+    number_title: 2021/1242 (OJ L272)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.272.01.0004.01.ENG&toc=OJ%3AL%3A2021%3A272%3ATOC
+- whole_name: Географска организация на въоръжените сили
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '6595'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Organización geográfica de las fuerzas armadas
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '6596'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Útvar ozbrojených sil pro geografii
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '6597'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Organisation géographique des forces armées
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '6598'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Asevoimien maantieteellinen organisaatio
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '6605'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-24'

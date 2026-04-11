@@ -14,11 +14,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: DJANG Tchoul-hy
+- whole_name: 장철희
   gender: F
   strong: true
   regulation_language: en
-  logical_id: '117810'
+  logical_id: '141954'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: DJANG Tcheul Hy
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '116472'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
@@ -29,6 +39,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '117813'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: DJANG Cheul-hy
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '117812'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: DJANG Chol-hy
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '117811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
@@ -64,41 +94,11 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: DJANG Cheul-hy
+- whole_name: DJANG Tchoul-hy
   gender: F
   strong: true
   regulation_language: en
-  logical_id: '117812'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: 장철희
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '141954'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: DJANG Tcheul Hy
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '116472'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: DJANG Chol-hy
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '117811'
+  logical_id: '117810'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

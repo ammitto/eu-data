@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Nina
+  middle_name: Alexandrovna
+  last_name: OSTANINA
+  whole_name: Nina Alexandrovna OSTANINA
+  function: Member of the State Duma
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '134014'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - whole_name: Nina Aleksandrovna OSTANINA
   name_language: SV
   strong: true
@@ -33,20 +47,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '134013'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Nina
-  middle_name: Alexandrovna
-  last_name: OSTANINA
-  whole_name: Nina Alexandrovna OSTANINA
-  function: Member of the State Duma
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '134014'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

@@ -14,6 +14,76 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: پژوهشگاه علوم انتظامی و مطالعات اجتماعی فراجا
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '150376'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Policijas zinātnes un sociālo pētījumu institūts
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '150417'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Police Science and Social Studies Institute
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '149515'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Wissenschafts- und Sozialkundeinstitut der Polizei
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '150377'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Instituto de Ciências Policiais e Estudos Sociais
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '150392'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Institut des sciences et des études sociales dans le domaine policier
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '150381'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: Instytut Nauk Policyjnych i Studiów Społecznych
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '150384'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
 - whole_name: Ινστιτούτο αστυνομικών και κοινωνικών ερευνών
   name_language: EL
   strong: true
@@ -109,76 +179,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150414'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Policijas zinātnes un sociālo pētījumu institūts
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '150417'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Institut des sciences et des études sociales dans le domaine policier
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '150381'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Instytut Nauk Policyjnych i Studiów Społecznych
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '150384'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Instituto de Ciências Policiais e Estudos Sociais
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '150392'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Police Science and Social Studies Institute
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149515'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: پژوهشگاه علوم انتظامی و مطالعات اجتماعی فراجا
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '150376'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- whole_name: Wissenschafts- und Sozialkundeinstitut der Polizei
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '150377'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

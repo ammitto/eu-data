@@ -28,20 +28,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Eduard
-  middle_name: Anatoljevitj
-  last_name: LYSENKO
-  whole_name: Eduard Anatoljevitj LYSENKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156049'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Едуард
   last_name: Лисенко
   whole_name: Едуард Лисенко
@@ -50,20 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156031'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Эдуард
-  middle_name: Анатольевич
-  last_name: ЛЫСЕНКО
-  whole_name: Эдуард Анатольевич ЛЫСЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '155534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -80,6 +52,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Eduard
+  middle_name: Anatoljevitj
+  last_name: LYSENKO
+  whole_name: Eduard Anatoljevitj LYSENKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156049'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Эдуард
+  middle_name: Анатольевич
+  last_name: ЛЫСЕНКО
+  whole_name: Эдуард Анатольевич ЛЫСЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '155534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

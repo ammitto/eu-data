@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Banco Otkritie FC
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '158290'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Otkritie FC Bank
   function: a Russian bank
   name_language: EN
@@ -45,6 +35,16 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Banco Otkritie FC
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '158290'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 addresses:
 - street: D. 2, str. 4, ul. Letnikovskaya
   city: Moscow
@@ -59,11 +59,11 @@ addresses:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 identifications:
-- identification_type_code: other
-  number: JSNMRUMM
-  country_iso2_code: '00'
+- identification_type_code: regnumber
+  number: '1027739019208'
+  country_iso2_code: RU
   regulation_language: en
-  logical_id: '158160'
+  logical_id: '139653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -79,11 +79,11 @@ identifications:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- identification_type_code: regnumber
-  number: '1027739019208'
-  country_iso2_code: RU
+- identification_type_code: other
+  number: JSNMRUMM
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '139653'
+  logical_id: '158160'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

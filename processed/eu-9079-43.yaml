@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: احمد شفاهی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '145725'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2231 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 - first_name: Ahmad
   last_name: SHAFAI
   whole_name: Ahmad SHAFAI
@@ -47,6 +36,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145727'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2231 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
+- whole_name: احمد شفاهی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '145725'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

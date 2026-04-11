@@ -15,13 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Matvej
-  last_name: Lybavin
-  whole_name: Matvej Lybavin
+  middle_name: Andrejevitj
+  last_name: LYBAVIN
+  whole_name: Matvej Andrejevitj LYBAVIN
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '157543'
+  logical_id: '157487'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
@@ -41,14 +42,13 @@ name_aliases:
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Matvej
-  middle_name: Andrejevitj
-  last_name: LYBAVIN
-  whole_name: Matvej Andrejevitj LYBAVIN
+  last_name: Lybavin
+  whole_name: Matvej Lybavin
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '157487'
+  logical_id: '157543'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

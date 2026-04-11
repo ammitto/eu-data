@@ -17,81 +17,6 @@ subject_type:
 name_aliases:
 - first_name: Sergey
   middle_name: Yurevich
-  last_name: IGNATOV
-  whole_name: Sergey Yurevich IGNATOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Сергей
-  middle_name: Юрьевич
-  last_name: ИГНАТОВ
-  whole_name: Сергей Юрьевич ИГНАТОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '18534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Sergey
-  middle_name: Yurevich
-  last_name: KUZOVLEV
-  whole_name: Sergey Yurevich KUZOVLEV
-  function: "Commander of the Moscow Military District (since May 2024).\nFormer Commander
-    of the Russian Southern Military District. Former Chief of Staff and  former First
-    Deputy Commander of the Russian Southern Military District. \nFormer so-called
-    Commander in Chief of the People’s Militia of the \"Luhansk People’s Republic\".
-    \nFormer Commander of 8th Army of the Russian Armed Force."
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '108158'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Сергей
-  middle_name: Юрьевич
-  last_name: ТAMБOB
-  whole_name: Сергей Юрьевич ТAMБOB
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '115865'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Сергей
-  middle_name: Юрьевич
-  last_name: КУЗОВЛЕВ
-  whole_name: Сергей Юрьевич КУЗОВЛЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '115866'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Sergey
-  middle_name: Yurevich
   last_name: TAMBOV
   whole_name: Sergey Yurevich TAMBOV
   gender: M
@@ -141,6 +66,81 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '137445'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Сергей
+  middle_name: Юрьевич
+  last_name: ТAMБOB
+  whole_name: Сергей Юрьевич ТAMБOB
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '115865'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Sergey
+  middle_name: Yurevich
+  last_name: IGNATOV
+  whole_name: Sergey Yurevich IGNATOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Сергей
+  middle_name: Юрьевич
+  last_name: ИГНАТОВ
+  whole_name: Сергей Юрьевич ИГНАТОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '18534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Sergey
+  middle_name: Yurevich
+  last_name: KUZOVLEV
+  whole_name: Sergey Yurevich KUZOVLEV
+  function: "Commander of the Moscow Military District (since May 2024).\nFormer Commander
+    of the Russian Southern Military District. Former Chief of Staff and  former First
+    Deputy Commander of the Russian Southern Military District. \nFormer so-called
+    Commander in Chief of the People’s Militia of the \"Luhansk People’s Republic\".
+    \nFormer Commander of 8th Army of the Russian Armed Force."
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '108158'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Сергей
+  middle_name: Юрьевич
+  last_name: КУЗОВЛЕВ
+  whole_name: Сергей Юрьевич КУЗОВЛЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '115866'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

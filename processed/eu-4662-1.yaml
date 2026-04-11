@@ -14,15 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ПАО Мостотрест
-  strong: true
-  regulation_language: en
-  logical_id: '117769'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-07-31'
-    number_title: 2018/1072 (OJ L194)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.194.01.0027.01.ENG&toc=OJ:L:2018:194:TOC
 - whole_name: PJSC Mostotrest
   strong: true
   regulation_language: en
@@ -52,6 +43,15 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: ПАО Мостотрест
+  strong: true
+  regulation_language: en
+  logical_id: '117769'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-07-31'
+    number_title: 2018/1072 (OJ L194)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.194.01.0027.01.ENG&toc=OJ:L:2018:194:TOC
 addresses:
 - street: 6 Barklaya street, Bld. 5
   city: Moscow

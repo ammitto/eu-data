@@ -15,6 +15,33 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Michail
+  last_name: Nejmovič
+  whole_name: Michail Nejmovič
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156040'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Michail
+  middle_name: Aleksejevitj
+  last_name: Nejmovich
+  whole_name: Michail Aleksejevitj Nejmovich
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156056'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Michail
   middle_name: Alexejevič
   last_name: NAIMOVIČ
   whole_name: Michail Alexejevič NAIMOVIČ
@@ -53,33 +80,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Michail
-  middle_name: Aleksejevitj
-  last_name: Nejmovich
-  whole_name: Michail Aleksejevitj Nejmovich
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156056'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Michail
-  last_name: Nejmovič
-  whole_name: Michail Nejmovič
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156040'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

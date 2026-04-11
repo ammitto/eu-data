@@ -14,25 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: صنایع هوایی قدس
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '145442'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Qods Aeronautics Industries
-  strong: true
-  regulation_language: en
-  logical_id: '145443'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2229 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
 - whole_name: Družba Qods Aviation Industries
   name_language: SL
   strong: true
@@ -53,21 +34,30 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2229 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Indústrias de Aviação Qods
-  name_language: PT
+- whole_name: Industriji tal-Avjazzjoni Qods
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '145954'
+  logical_id: '145949'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
     number_title: 2022/2229 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Въздухоплавателни индустрии Qods
-  name_language: BG
+- whole_name: صنایع هوایی قدس
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '145968'
+  logical_id: '145442'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Qods Aeronautics Industries
+  strong: true
+  regulation_language: en
+  logical_id: '145443'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -93,11 +83,21 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2229 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Industriji tal-Avjazzjoni Qods
-  name_language: MT
+- whole_name: Indústrias de Aviação Qods
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '145949'
+  logical_id: '145954'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2229 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
+- whole_name: Indústrias Aeronáuticas Qods
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '145953'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -113,11 +113,11 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2229 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- whole_name: Indústrias Aeronáuticas Qods
-  name_language: PT
+- whole_name: Въздухоплавателни индустрии Qods
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '145953'
+  logical_id: '145968'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Олександр
-  middle_name: Вiкторович
-  last_name: МАЛЬКОВ
-  whole_name: Олександр Вiкторович МАЛЬКОВ
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '138486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Александр
   middle_name: Викторович
   last_name: МАЛЬКОВ
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138487'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Aleksandr
+  middle_name: Viktorovitj
+  last_name: MALKOV
+  whole_name: Aleksandr Viktorovitj MALKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139439'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -59,15 +59,15 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Aleksandr
-  middle_name: Viktorovitj
-  last_name: MALKOV
-  whole_name: Aleksandr Viktorovitj MALKOV
+- first_name: Олександр
+  middle_name: Вiкторович
+  last_name: МАЛЬКОВ
+  whole_name: Олександр Вiкторович МАЛЬКОВ
   gender: M
-  name_language: SV
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '139439'
+  logical_id: '138486'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Kaveh Vágószerszám-gyártó Vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '169723'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: Abzar Boresh Kaveh Co
   name_language: EN
   strong: true
@@ -66,12 +56,23 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Kaveh Vágószerszám-gyártó Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '169723'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 addresses:
-- city: Mashad
+- street: Moqan St.
+  city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '1429'
+  logical_id: '1431'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -100,12 +101,11 @@ addresses:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- street: Moqan St.
-  city: Tehran
+- city: Mashad
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '1431'
+  logical_id: '1429'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

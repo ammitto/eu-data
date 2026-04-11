@@ -14,10 +14,51 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Агат-электромеханический завод
+- whole_name: Open vennootschap op aandelen AGAT electromechanical Plant
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '126894'
+  logical_id: '127791'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- whole_name: Fábrica eletromecânica AGAT OJSC
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '127790'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- whole_name: zakłady elektromechaniczne AGAT OJSC
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '127788'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- whole_name: Elektromehaanikatehas AGAT OJSC
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '127787'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- whole_name: Elektromehanski zavod OJSC
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '127782'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'
@@ -35,51 +76,10 @@ name_aliases:
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Elektromehanski zavod OJSC
-  name_language: SL
+- whole_name: Агат-электромеханический завод
   strong: true
   regulation_language: en
-  logical_id: '127782'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Elektromehaanikatehas AGAT OJSC
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '127787'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: zakłady elektromechaniczne AGAT OJSC
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '127788'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Fábrica eletromecânica AGAT OJSC
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '127790'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Open vennootschap op aandelen AGAT electromechanical Plant
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '127791'
+  logical_id: '126894'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'

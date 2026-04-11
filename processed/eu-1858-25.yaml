@@ -15,6 +15,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Shahid Sayyade Shirazi Industries
+  function: missile producer
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '8022'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Shahid Sayyed Shirazi Ind.
   name_language: EN
   strong: true
@@ -35,52 +46,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Shahid Sayyade Shirazi Industries
-  function: missile producer
+- whole_name: Shaheed Sayad Shirazee ammunition industries
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '8022'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Shahid Sayyad Shirazi Industries
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '162184'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Sayyad Shirazi Industries
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159386'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Sayad Shirazi
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159385'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Sayad Shirazi industries
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159384'
+  logical_id: '159382'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -96,11 +66,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Shaheed Sayad Shirazee ammunition industries
+- whole_name: Sayad Shirazi industries
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159382'
+  logical_id: '159384'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -116,6 +86,36 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Sayyad Shirazi Industries
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159386'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Shahid Sayyad Shirazi Industries
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '162184'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Sayad Shirazi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159385'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
 - street: Pasdaran St.
   city: Tehran

@@ -14,6 +14,31 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Oleksandr Serhiyovych KHODAKOVSKYI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '143736'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- first_name: Александр
+  middle_name: Сергеевич
+  last_name: ХОДАКОВСКИЙ
+  whole_name: Александр Сергеевич ХОДАКОВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '17902'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Alexander
   last_name: KHODAKOVSKY
   whole_name: Alexander KHODAKOVSKY
@@ -33,15 +58,15 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Александр
-  middle_name: Сергеевич
-  last_name: ХОДАКОВСКИЙ
-  whole_name: Александр Сергеевич ХОДАКОВСКИЙ
+- first_name: Олександр
+  middle_name: Сергійович
+  last_name: ХОДАКОВСЬКИЙ
+  whole_name: Олександр Сергійович ХОДАКОВСЬКИЙ
   gender: M
-  name_language: RU
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '17902'
+  logical_id: '18687'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -67,31 +92,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18686'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Олександр
-  middle_name: Сергійович
-  last_name: ХОДАКОВСЬКИЙ
-  whole_name: Олександр Сергійович ХОДАКОВСЬКИЙ
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '18687'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Oleksandr Serhiyovych KHODAKOVSKYI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '143736'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

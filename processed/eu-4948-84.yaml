@@ -80,19 +80,6 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Husám
-  last_name: al-Katardží
-  whole_name: Husám al-Katardží
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '166998'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Hussam
   last_name: AL QATIRJI
   whole_name: Hussam AL QATIRJI
@@ -150,6 +137,19 @@ name_aliases:
     publication_date: '2019-01-21'
     number_title: 2019/85 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0085&from=EN
+- first_name: Husám
+  last_name: al-Katardží
+  whole_name: Husám al-Katardží
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '166998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Hossam Ahmed
   last_name: al-Katerji
   whole_name: Hossam Ahmed al-Katerji

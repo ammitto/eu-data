@@ -15,36 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Gharargahe Sazandegi Khatam Alanbia Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158842'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Garagahe Sazandegi Ghaem
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158843'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Gharargah Ghaem
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Gharagahe Sazandegi Ghaem
   function: construction company
   name_language: EN
@@ -56,11 +26,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: قرارگاه سازندگی قائم
-  name_language: FA
+- whole_name: Gharargah Ghaem
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158841'
+  logical_id: '158837'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -91,6 +61,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158840'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: قرارگاه سازندگی قائم
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '158841'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Gharargahe Sazandegi Khatam Alanbia Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158842'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Garagahe Sazandegi Ghaem
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158843'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

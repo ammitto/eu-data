@@ -25,10 +25,11 @@ name_aliases:
     publication_date: '2021-04-06'
     number_title: 2021/559 (OJ L115I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
-- whole_name: Ibrahim Afghan
+- whole_name: Abukar Ali Adan
+  function: Deputy leader of Al-Shabaab
   strong: true
   regulation_language: en
-  logical_id: '129172'
+  logical_id: '129174'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-06'
@@ -43,29 +44,16 @@ name_aliases:
     publication_date: '2021-04-06'
     number_title: 2021/559 (OJ L115I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
-- whole_name: Abukar Ali Adan
-  function: Deputy leader of Al-Shabaab
+- whole_name: Ibrahim Afghan
   strong: true
   regulation_language: en
-  logical_id: '129174'
+  logical_id: '129172'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-06'
     number_title: 2021/559 (OJ L115I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1973
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '129168'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-06'
-    number_title: 2021/559 (OJ L115I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
 - circa: false
   calendar_type: GREGORIAN
   year: 1972
@@ -85,6 +73,18 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '129169'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-06'
+    number_title: 2021/559 (OJ L115I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1973
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '129168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-06'

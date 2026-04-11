@@ -28,6 +28,32 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Andrej
+  last_name: Lukjanovič
+  whole_name: Andrej Lukjanovič
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164814'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Andrej
+  last_name: LUKJANOVITJ
+  whole_name: Andrej LUKJANOVITJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '136000'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Andrei
   middle_name: Yulyanovich
   last_name: LUKYANOVICH
@@ -46,19 +72,6 @@ name_aliases:
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Andrej
-  last_name: LUKJANOVITJ
-  whole_name: Andrej LUKJANOVITJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '136000'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Andrej
   last_name: Lukianovič
   whole_name: Andrej Lukianovič
   gender: M
@@ -71,19 +84,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Andrej
-  last_name: Lukjanovič
-  whole_name: Andrej Lukjanovič
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164814'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

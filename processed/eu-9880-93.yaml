@@ -24,31 +24,31 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Sociedade por ações "Shvabe"
-  name_language: PT
+- whole_name: Cuideachta comhstoic ‘Shvabe’
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '151081'
+  logical_id: '151076'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: societatea pe acțiuni „Shvabe”
-  name_language: RO
+- whole_name: Joint Stock Company “Shvabe”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151080'
+  logical_id: '150841'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Aktieselskab »Shvabe«
-  name_language: DA
+- whole_name: Société par actions "Shvabe"
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '151079'
+  logical_id: '151077'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -64,21 +64,31 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: АО "ШВАБЕ"
-  name_language: RU
+- whole_name: Aktieselskab »Shvabe«
+  name_language: DA
   strong: true
   regulation_language: en
-  logical_id: '150838'
+  logical_id: '151079'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société par actions "Shvabe"
-  name_language: FR
+- whole_name: societatea pe acțiuni „Shvabe”
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '151133'
+  logical_id: '151080'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Sociedade por ações "Shvabe"
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '151081'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -114,11 +124,21 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Cuideachta comhstoic ‘Shvabe’
-  name_language: GA
+- whole_name: Συμμετοχική εταιρεία  «Shvabe»
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '151076'
+  logical_id: '151293'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Société par actions "Shvabe"
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151133'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -134,11 +154,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société par actions "Shvabe"
-  name_language: FR
+- whole_name: АО "ШВАБЕ"
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151077'
+  logical_id: '150838'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -149,26 +169,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150839'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Συμμετοχική εταιρεία  «Shvabe»
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '151293'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Joint Stock Company “Shvabe”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150841'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

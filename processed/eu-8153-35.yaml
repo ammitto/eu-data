@@ -15,46 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jewgienij
-  last_name: Prigożyn
-  whole_name: Jewgienij Prigożyn
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '158227'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Евгений
-  middle_name: Викторович
-  last_name: ПРИГОЖИН
-  whole_name: Евгений Викторович ПРИГОЖИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '139818'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-21'
-    number_title: 2022/658 (OJ L120)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0658
-- first_name: Jevgenij
-  last_name: Prigožin
-  whole_name: Jevgenij Prigožin
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158322'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Yevgeniy
   middle_name: Viktorovich
   last_name: PRIGOZHIN
@@ -91,6 +51,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158184'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Евгений
+  middle_name: Викторович
+  last_name: ПРИГОЖИН
+  whole_name: Евгений Викторович ПРИГОЖИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '139818'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-21'
+    number_title: 2022/658 (OJ L120)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0658
+- first_name: Jewgienij
+  last_name: Prigożyn
+  whole_name: Jewgienij Prigożyn
+  gender: M
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '158227'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Jevgenij
+  last_name: Prigožin
+  whole_name: Jevgenij Prigožin
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158322'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

@@ -14,13 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ho Gyu
+- first_name: Ho Kyu
   last_name: KIM
-  whole_name: Ho Gyu KIM
+  whole_name: Ho Kyu KIM
+  function: |-
+    Representative for Korea Ryonbong General Corporation (Ryonbong)
+    Deputy Consul at DPRK Consulate General in Nakhodka, Russian Federation
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '147417'
+  logical_id: '147419'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -37,16 +40,13 @@ name_aliases:
     publication_date: '2022-12-12'
     number_title: 2022/2429 (OJ L318I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- first_name: Ho Kyu
+- first_name: Ho Gyu
   last_name: KIM
-  whole_name: Ho Kyu KIM
-  function: |-
-    Representative for Korea Ryonbong General Corporation (Ryonbong)
-    Deputy Consul at DPRK Consulate General in Nakhodka, Russian Federation
+  whole_name: Ho Gyu KIM
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '147419'
+  logical_id: '147417'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'

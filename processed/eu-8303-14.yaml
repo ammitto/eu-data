@@ -14,6 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Sergey Nikolaevich BORISENKO
+  function: Major of the 64th Separate Motorized Rifle Brigade of the 35th Combined
+    Arms Army of the Russian Federation
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '140483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Сергей Николаевич БОРИСЕНКО
   name_language: RU
   strong: true
@@ -29,18 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141193'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Sergey Nikolaevich BORISENKO
-  function: Major of the 64th Separate Motorized Rifle Brigade of the 35th Combined
-    Arms Army of the Russian Federation
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '140483'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -84,20 +84,20 @@ identifications:
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - identification_type_code: other
-  number: У-268030
+  number: '3127462'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '140480'
+  logical_id: '140479'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - identification_type_code: other
-  number: '3127462'
+  number: У-268030
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '140479'
+  logical_id: '140480'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

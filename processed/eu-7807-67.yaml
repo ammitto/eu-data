@@ -14,11 +14,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Роснефть-Аэро
-  name_language: RU
+- whole_name: RN AERO
   strong: true
   regulation_language: en
-  logical_id: '137871'
+  logical_id: '137716'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-15'
@@ -33,10 +32,11 @@ name_aliases:
     publication_date: '2022-03-15'
     number_title: 2022/427 (OJ L87I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
-- whole_name: RN AERO
+- whole_name: Роснефть-Аэро
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '137716'
+  logical_id: '137871'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-15'
@@ -53,18 +53,6 @@ name_aliases:
     number_title: 2022/427 (OJ L87I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
 addresses:
-- street: Schipok street 18
-  city: Moscow
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '115093'
-  regulation_language: en
-  logical_id: '151699'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - street: 15, Malaya Kaluzhskaya Str.
   city: Moscow
   country_iso2_code: RU
@@ -77,22 +65,34 @@ addresses:
     publication_date: '2022-03-15'
     number_title: 2022/427 (OJ L87I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
-identifications:
-- identification_type_code: regnumber
-  number: '1087746656711'
-  country_iso2_code: '00'
+- street: Schipok street 18
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '115093'
   regulation_language: en
-  logical_id: '151701'
+  logical_id: '151699'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+identifications:
 - identification_type_code: fiscalcode
   number: '7705843041'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '151700'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- identification_type_code: regnumber
+  number: '1087746656711'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '151701'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

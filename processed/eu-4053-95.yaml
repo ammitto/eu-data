@@ -32,11 +32,11 @@ name_aliases:
     publication_date: '2019-03-15'
     number_title: 2019/408 (OJ L73)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0408&from=EN
-- whole_name: Verejné hnutie „Slobodný Donbas“
-  name_language: SK
+- whole_name: Veřejné hnutí „Free Donbass“
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '137618'
+  logical_id: '137600'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'
@@ -55,56 +55,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18429'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: Δημόσιο κίνημα “Ελεύθερο Ντονμπάς”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '137596'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: Rahvaliikumine „Free Donbass“
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '137597'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: Öffentliche Bewegung „Freies Donbass“
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '137598'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: Folkebevægelsen »Frit Donbass«
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '137599'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: Veřejné hnutí „Free Donbass“
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '137600'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'
@@ -275,6 +225,56 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '137617'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: Verejné hnutie „Slobodný Donbas“
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '137618'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: Δημόσιο κίνημα “Ελεύθερο Ντονμπάς”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '137596'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: Rahvaliikumine „Free Donbass“
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '137597'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: Öffentliche Bewegung „Freies Donbass“
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '137598'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: Folkebevægelsen »Frit Donbass«
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '137599'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'

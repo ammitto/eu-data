@@ -14,16 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Viachaslau
-  middle_name: Uladzimiravich
-  last_name: YELISEENKA
-  whole_name: Viachaslau Uladzimiravich YELISEENKA
-  function: Judge of Dokshitsy District Court
+- first_name: Vjatjeslav
+  middle_name: Vladimirovitj
+  last_name: JELISEJENKO
+  whole_name: Vjatjeslav Vladimirovitj JELISEJENKO
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '157406'
+  logical_id: '157399'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -38,34 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157400'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Vyacheslav
-  middle_name: Vladimirovich
-  last_name: ELISEENKO
-  whole_name: Vyacheslav Vladimirovich ELISEENKO
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157405'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Vjatjeslav
-  middle_name: Vladimirovitj
-  last_name: JELISEJENKO
-  whole_name: Vjatjeslav Vladimirovitj JELISEJENKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157399'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -112,6 +83,21 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Viachaslau
+  middle_name: Uladzimiravich
+  last_name: YELISEENKA
+  whole_name: Viachaslau Uladzimiravich YELISEENKA
+  function: Judge of Dokshitsy District Court
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157406'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Вячеслав
   middle_name: Владимирович
   last_name: ЕЛИСЕЕНКО
@@ -121,6 +107,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157404'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Vyacheslav
+  middle_name: Vladimirovich
+  last_name: ELISEENKO
+  whole_name: Vyacheslav Vladimirovich ELISEENKO
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157405'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

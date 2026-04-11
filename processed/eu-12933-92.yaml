@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: NTEGRAL (societatea care  gestionează holdingul  «INTEGRAL»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '174279'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: JSC “INTEGRAL” —  sociedade gestora da  holding “INTEGRAL
   name_language: PT
   strong: true
@@ -24,11 +34,21 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: NTEGRAL (societatea care  gestionează holdingul  «INTEGRAL»
-  name_language: RO
+- whole_name: JSC “INTEGRAL” – the  management company  of the holding “INTEGRAL
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174279'
+  logical_id: '174294'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: JSC »INTEGRAL« –  spółka zarządzająca  holdingiem »INTEGRAL
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '174281'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -151,26 +171,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174293'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: JSC “INTEGRAL” – the  management company  of the holding “INTEGRAL
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174294'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: JSC »INTEGRAL« –  spółka zarządzająca  holdingiem »INTEGRAL
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '174281'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

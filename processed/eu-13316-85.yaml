@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: empresa pública unitária para o comércio externo “Belvneshpromservice”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177168'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: State-owned Foreign Trade Unitary Enterprise Belvneshpromservice
   function: State-owned Foreign Trade Unitary Enterprise Belvneshpromservice was established
     in order to promote Belarusian defence products in foreign markets. It specialises
@@ -70,16 +80,6 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Държавно външнотърговско унитарно предприятие Белвнешпромсервис
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '177166'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: Det statligt ägda Foreign Trade Unitary Enterprise Belvneshpromservice
   name_language: SV
   strong: true
@@ -130,11 +130,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: empresa pública unitária para o comércio externo “Belvneshpromservice”
-  name_language: PT
+- whole_name: Държавно външнотърговско унитарно предприятие Белвнешпромсервис
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '177168'
+  logical_id: '177166'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

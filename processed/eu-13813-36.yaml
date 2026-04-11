@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Navitron - Korlátolt Felelősségű  Társaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '179685'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: ООО НТЛАБ-СК
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179686'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Общество с Ограниченной  Ответственностью - НТЛАБ-СК
   name_language: RU
   strong: true
@@ -54,6 +34,26 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: NTLAB-SK LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179689'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Navitron - Korlátolt Felelősségű  Társaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '179685'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Limited Liability Company - Navitron
   function: A Russian company operating in the Russian high-tech sector. It develops
     and tests satellite navigation chips for use in the military industry
@@ -66,11 +66,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: NTLAB-SK LLC
+- whole_name: Limited Liability Company  NTLAB-SK
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179689'
+  logical_id: '179690'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -96,11 +96,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Limited Liability Company  NTLAB-SK
-  name_language: EN
+- whole_name: ООО НТЛАБ-СК
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179690'
+  logical_id: '179686'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -119,6 +119,16 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
+- identification_type_code: taxid
+  number: '7710495287'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '179684'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: other
   number: '773501001'
   country_iso2_code: RU
@@ -134,16 +144,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179682'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- identification_type_code: taxid
-  number: '7710495287'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '179684'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

@@ -14,10 +14,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Islamic State’s Hind Province (ISHP)
+- whole_name: IS-Wilayat al-Hind
   strong: true
   regulation_language: en
-  logical_id: '133303'
+  logical_id: '133302'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'
@@ -43,15 +43,6 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: Da’esh - Wilayat al-Hind
-  strong: true
-  regulation_language: en
-  logical_id: '133301'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/235 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
 - whole_name: Da’esh - Hind Province
   strong: true
   regulation_language: en
@@ -65,6 +56,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133304'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/235 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
+- whole_name: Islamic State’s Hind Province (ISHP)
+  strong: true
+  regulation_language: en
+  logical_id: '133303'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'
@@ -400,10 +400,10 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/235 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- whole_name: IS-Wilayat al-Hind
+- whole_name: Da’esh - Wilayat al-Hind
   strong: true
   regulation_language: en
-  logical_id: '133302'
+  logical_id: '133301'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-21'

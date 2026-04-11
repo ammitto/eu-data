@@ -14,31 +14,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Joseph Nganzole Olikwa
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146102'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-08'
-    number_title: 2022/2397 (OJ L316-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
-- whole_name: Joseph Ngadjole
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146103'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-08'
-    number_title: 2022/2397 (OJ L316-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
 - whole_name: Colonel Tipi Ziro Ziro
   gender: M
   strong: true
   regulation_language: en
   logical_id: '146104'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-08'
+    number_title: 2022/2397 (OJ L316-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
+- whole_name: Joseph Nganzole Olikwa
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146102'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-08'
@@ -59,6 +49,16 @@ name_aliases:
     publication_date: '2024-12-09'
     number_title: 2024/3107 (OJ L10122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403107
+- whole_name: Joseph Ngadjole
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146103'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-08'
+    number_title: 2022/2397 (OJ L316-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2397
 citizenships:
 - country_iso2_code: CD
   country_description: CONGO, Democratic Republic of (was Zaire)

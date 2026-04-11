@@ -16,24 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Muti al-Hamzi
-  strong: true
-  regulation_language: en
-  logical_id: '145225'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-24'
-    number_title: 2022/2034 (OJ L274I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.274.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A274I%3ATOC
-- whole_name: Ahmed Ali al-Hamzi
-  strong: true
-  regulation_language: en
-  logical_id: '145226'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-24'
-    number_title: 2022/2034 (OJ L274I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.274.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A274I%3ATOC
 - whole_name: Ahmad 'Ali Ahsan al-Hamzi
   strong: true
   regulation_language: en
@@ -66,6 +48,24 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145230'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-24'
+    number_title: 2022/2034 (OJ L274I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.274.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A274I%3ATOC
+- whole_name: Ahmed Ali al-Hamzi
+  strong: true
+  regulation_language: en
+  logical_id: '145226'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-24'
+    number_title: 2022/2034 (OJ L274I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.274.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A274I%3ATOC
+- whole_name: Muti al-Hamzi
+  strong: true
+  regulation_language: en
+  logical_id: '145225'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-24'

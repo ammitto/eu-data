@@ -14,6 +14,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: JSC Research and Industrial Concern “Machine Engineering Technologies”
+    - JSC RIC TECMASH
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '139132'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - whole_name: Koncern  Badawczo-Przemysłowy  „Technologie Inżynierii Maszyn”
   name_language: PL
   strong: true
@@ -24,6 +35,16 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: "„Техмаш“"
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '152391'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Холдинговая компания АО “Научно-производственный концерн ‘Технологии
     машиностроения’”
   name_language: RU
@@ -35,11 +56,11 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Koncernas „Tecmash“
-  name_language: LT
+- whole_name: Koncern Tecmash
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '152621'
+  logical_id: '152556'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -56,51 +77,30 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Koncern Tecmash
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152517'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: "„Техмаш“"
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '152391'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: JSC Research and Industrial Concern “Machine Engineering Technologies”
-    - JSC RIC TECMASH
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '139132'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Koncern Tecmash
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '152556'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Koncern Tecmash
   name_language: SL
   strong: true
   regulation_language: en
   logical_id: '152557'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Koncernas „Tecmash“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '152621'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Koncern Tecmash
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152517'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

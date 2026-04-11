@@ -15,6 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Mouneer ADANOV
+  strong: true
+  regulation_language: en
+  logical_id: '17236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: Monir ADANOV
   strong: true
   regulation_language: en
@@ -42,20 +51,20 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Adanof
-  name_language: EN
+- whole_name: Mounir ADANOV
   strong: true
   regulation_language: en
-  logical_id: '109700'
+  logical_id: '17235'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mouneer ADANOV
+- whole_name: Adnuf
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '17236'
+  logical_id: '109701'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -72,11 +81,11 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Adnuf
+- whole_name: Adanof
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '109701'
+  logical_id: '109700'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -95,15 +104,6 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1094 (OJ L202501094)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501094
-- whole_name: Mounir ADANOV
-  strong: true
-  regulation_language: en
-  logical_id: '17235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 birthdates:
 - circa: false
   calendar_type: GREGORIAN

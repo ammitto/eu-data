@@ -14,11 +14,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Акционерное общество Научно Производственное Предприятие “Военные Технологии”
-  name_language: RU
+- whole_name: JSC NPP “Military Technologies”
   strong: true
   regulation_language: en
-  logical_id: '177070'
+  logical_id: '177072'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -33,10 +32,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC NPP “Military Technologies”
+- whole_name: Акционерное общество Научно Производственное Предприятие “Военные Технологии”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177072'
+  logical_id: '177070'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

@@ -28,32 +28,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Dmitrij
-  middle_name: Jurievitj
-  last_name: NOZJKIN
-  whole_name: Dmitrij Jurievitj NOZJKIN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156051'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Dmitrij
-  last_name: Nožkin
-  whole_name: Dmitrij Nožkin
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156036'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Дмитрий
   middle_name: Юрьевич
   last_name: НОЖКИН
@@ -78,6 +52,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155546'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Dmitrij
+  middle_name: Jurievitj
+  last_name: NOZJKIN
+  whole_name: Dmitrij Jurievitj NOZJKIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156051'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Dmitrij
+  last_name: Nožkin
+  whole_name: Dmitrij Nožkin
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156036'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

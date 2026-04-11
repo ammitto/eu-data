@@ -15,6 +15,20 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Vladimir
+  middle_name: Michajlovitj
+  last_name: BOGDANOV
+  whole_name: Vladimir Michajlovitj BOGDANOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '145987'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Vladimir
   middle_name: Mikhaylovich
   last_name: BOGDANOV
   whole_name: Vladimir Mikhaylovich BOGDANOV
@@ -24,20 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145411'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
-- first_name: Vladimir
-  middle_name: Michajlovitj
-  last_name: BOGDANOV
-  whole_name: Vladimir Michajlovitj BOGDANOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '145987'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

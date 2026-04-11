@@ -15,14 +15,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ilja
-  middle_name: Pavlovitj
-  last_name: KOZLOV
-  whole_name: Ilja Pavlovitj KOZLOV
+  last_name: Kozlov
+  whole_name: Ilja Kozlov
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '153928'
+  logical_id: '153936'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'
@@ -57,6 +56,20 @@ name_aliases:
     publication_date: '2023-06-05'
     number_title: 2023/1098 (OJ L145)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Ilja
+  middle_name: Pavlovitj
+  last_name: KOZLOV
+  whole_name: Ilja Pavlovitj KOZLOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '153928'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Iľja
   middle_name: Pavlovič
   last_name: KOZLOV
@@ -66,19 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153945'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Ilja
-  last_name: Kozlov
-  whole_name: Ilja Kozlov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '153936'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

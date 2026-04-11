@@ -25,11 +25,73 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: PCI Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158910'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Parcsini Vegyipari Vállalat
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '169661'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Tionscail  Ceimiceán Parchin
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '169660'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Parchin Chemical  Factories Chemical Industries Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158908'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: PCF Chemical Industries Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158907'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: صنایع شیمیایی پارچین
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '158906'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Parchin Chemical Industries (PCI)
+  function: Parchin Chemical Industries (PCI) produces ammunition, explosives and
+    solid propellants for rockets and missiles
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5202'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
@@ -115,91 +177,7 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: PCI Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158910'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Tionscail  Ceimiceán Parchin
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '169660'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Parchin Chemical  Factories Chemical Industries Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158908'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: PCF Chemical Industries Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158907'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: صنایع شیمیایی پارچین
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '158906'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Parchin Chemical Industries (PCI)
-  function: Parchin Chemical Industries (PCI) produces ammunition, explosives and
-    solid propellants for rockets and missiles
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5202'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 addresses:
-- street: Pasdaran Square
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '158924'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- street: 2nd Floor, Sanam Bldg., 3rd Floor, Sanam Bldg., Nobonyad Square,
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '158923'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - street: Khavaran  Road Km 30-35, Parchin Special Road
   city: Varamin, Parchin
   country_iso2_code: IR
@@ -240,6 +218,28 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '158919'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- street: Pasdaran Square
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '158924'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- street: 2nd Floor, Sanam Bldg., 3rd Floor, Sanam Bldg., Nobonyad Square,
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '158923'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

@@ -14,47 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Irina
-  middle_name: Vladimirovna
-  last_name: PODKOVYROVA
-  whole_name: Irina Vladimirovna PODKOVYROVA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156720'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Iryna
-  last_name: Padkavyravová
-  whole_name: Iryna Padkavyravová
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '157016'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Iryna
-  middle_name: Uladzimiravna
-  last_name: PADKAVYRAVOVÁ
-  whole_name: Iryna Uladzimiravna PADKAVYRAVOVÁ
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157015'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Ірына
   middle_name: Уладзіміраўна
   last_name: ПАДКАВЫРАВА
@@ -84,6 +43,20 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Iryna
+  middle_name: Uladzimiravna
+  last_name: PADKAVYRAVOVÁ
+  whole_name: Iryna Uladzimiravna PADKAVYRAVOVÁ
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157015'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Iryna
   middle_name: Uladzimirauna
   last_name: PADKAVYRAVA
   whole_name: Iryna Uladzimirauna PADKAVYRAVA
@@ -93,6 +66,33 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156721'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Iryna
+  last_name: Padkavyravová
+  whole_name: Iryna Padkavyravová
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '157016'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Irina
+  middle_name: Vladimirovna
+  last_name: PODKOVYROVA
+  whole_name: Irina Vladimirovna PODKOVYROVA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156720'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

@@ -14,11 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Gasasira
+- first_name: Jean Pierre
+  last_name: NIRAGIRE
+  whole_name: Jean Pierre NIRAGIRE
+  function: Commander of the Special Forces Unit of the Rwandese Defence Forces (RDF)
+    that is active in Northern Kivu, DR Congo since May 2022
   gender: M
+  title: Captain
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156595'
+  logical_id: '156597'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -37,17 +43,11 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1564 (OJ L190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
-- first_name: Jean Pierre
-  last_name: NIRAGIRE
-  whole_name: Jean Pierre NIRAGIRE
-  function: Commander of the Special Forces Unit of the Rwandese Defence Forces (RDF)
-    that is active in Northern Kivu, DR Congo since May 2022
+- whole_name: Gasasira
   gender: M
-  title: Captain
-  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156597'
+  logical_id: '156595'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

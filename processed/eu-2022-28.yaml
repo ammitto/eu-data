@@ -15,21 +15,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Instituto Makin
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '161985'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Makin company
+- whole_name: Makin Institute
+  function: engineering company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158820'
+  logical_id: '7996'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -45,12 +36,21 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Makin Institute
-  function: engineering company
+- whole_name: Makin company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '7996'
+  logical_id: '158820'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Instituto Makin
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '161985'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

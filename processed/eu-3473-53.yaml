@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: احمدرضا رادان
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '164868'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-05'
+    number_title: 2024/1033 (OJ L05042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
 - first_name: Ahmad-Reza
   last_name: RADAN
   whole_name: Ahmad-Reza RADAN
@@ -27,17 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '11955'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-05'
-    number_title: 2024/1033 (OJ L05042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
-- whole_name: احمدرضا رادان
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '164868'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-05'

@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Rice Shipping
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178716'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1980 (OJ L202501980)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 - whole_name: E-Sail
   function: Transports sensitive cargo linked to Iran’s nuclear and ballistic missile
     programmes.
@@ -32,6 +22,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '178718'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1980 (OJ L202501980)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
+- whole_name: E-Sail Shipping Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178717'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1980 (OJ L202501980)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
+- whole_name: Rice Shipping
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178716'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -52,16 +62,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '178714'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1980 (OJ L202501980)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- whole_name: E-Sail Shipping Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178717'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

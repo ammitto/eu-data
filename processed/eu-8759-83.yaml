@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yulia
-  middle_name: Dmitrievna
-  last_name: CHICHERINA
-  whole_name: Yulia Dmitrievna CHICHERINA
-  function: Russian singer
+- first_name: Julija
+  middle_name: Dmitrijevna
+  last_name: TJITJERINA
+  whole_name: Julija Dmitrijevna TJITJERINA
   gender: F
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144422'
+  logical_id: '144648'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -42,15 +42,15 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Julija
-  middle_name: Dmitrijevna
-  last_name: TJITJERINA
-  whole_name: Julija Dmitrijevna TJITJERINA
+- first_name: Yulia
+  middle_name: Dmitrievna
+  last_name: CHICHERINA
+  whole_name: Yulia Dmitrievna CHICHERINA
+  function: Russian singer
   gender: F
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144648'
+  logical_id: '144422'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

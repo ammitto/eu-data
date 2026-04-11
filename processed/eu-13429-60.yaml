@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Елена Леонидовна ЖУРАВЛËВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '177584'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1438 (OJ L202501438)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501438
 - whole_name: Elena Leonidovna ZHURAVLEVA
   gender: F
   title: Judge of the Moscow City Court
@@ -32,6 +21,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177585'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1438 (OJ L202501438)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501438
+- whole_name: Елена Леонидовна ЖУРАВЛËВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '177584'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

@@ -15,19 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Sergej
-  last_name: Iljin
-  whole_name: Sergej Iljin
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '157542'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Sergej
   middle_name: Vladimirovitj
   last_name: ILJIN
   whole_name: Sergej Vladimirovitj ILJIN
@@ -36,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157481'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Сергей
+  middle_name: Владимирович
+  last_name: ИЛЬИН
+  whole_name: Сергей Владимирович ИЛЬИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146779'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
@@ -58,6 +59,19 @@ name_aliases:
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Sergej
+  last_name: Iljin
+  whole_name: Sergej Iljin
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '157542'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Сергей
   last_name: Илин
   whole_name: Сергей Илин
@@ -66,20 +80,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157522'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Сергей
-  middle_name: Владимирович
-  last_name: ИЛЬИН
-  whole_name: Сергей Владимирович ИЛЬИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146779'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

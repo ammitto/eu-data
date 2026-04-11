@@ -14,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Артем Павлович МАРЧЕВСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175693'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Артем Павлович МАРЧЕВСЬКИЙ
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '175694'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - first_name: Artěm
   middle_name: Pavlovič
   last_name: MARČEVSKIJ
@@ -59,6 +37,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175696'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Артем Павлович МАРЧЕВСЬКИЙ
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '175694'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Артем Павлович МАРЧЕВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175693'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -14,13 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Amir Ali Haji
-  last_name: ZADEH
-  whole_name: Amir Ali Haji ZADEH
+- first_name: Amir Ali
+  last_name: HAJIZADEH
+  whole_name: Amir Ali HAJIZADEH
+  function: Commander of the Islamic Revolutionary Guard Corps - Aerospace Force
   gender: M
+  title: Brigadier-General
   strong: true
   regulation_language: en
-  logical_id: '145434'
+  logical_id: '145435'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -37,15 +39,13 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2229 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2229
-- first_name: Amir Ali
-  last_name: HAJIZADEH
-  whole_name: Amir Ali HAJIZADEH
-  function: Commander of the Islamic Revolutionary Guard Corps - Aerospace Force
+- first_name: Amir Ali Haji
+  last_name: ZADEH
+  whole_name: Amir Ali Haji ZADEH
   gender: M
-  title: Brigadier-General
   strong: true
   regulation_language: en
-  logical_id: '145435'
+  logical_id: '145434'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

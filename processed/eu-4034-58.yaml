@@ -34,26 +34,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Așa-numita «Republică Populară  Luhansk»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '152437'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Den såkaldte »Folkerepublikken  Luhansk«
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '152393'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Sogenannte „Volksrepublik Luhansk“
   name_language: DE
   strong: true
@@ -143,6 +123,16 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Den såkaldte »Folkerepublikken  Luhansk«
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '152393'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Αποκαλούμενη “Λαϊκή Δημοκρατία του Λουγκάνσκ”
   name_language: EL
   strong: true
@@ -208,6 +198,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152436'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Așa-numita «Republică Populară  Luhansk»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '152437'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

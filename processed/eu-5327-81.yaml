@@ -14,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Kateryna
-  middle_name: Borysivna
-  last_name: ALTABAEVA
-  whole_name: Kateryna Borysivna ALTABAEVA
-  function: Member of the Federation Council of the Russian Federation
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '121738'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Екатерина
   middle_name: Борисовна
   last_name: АЛТАБАЕВА
@@ -39,6 +24,47 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '121739'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Jekaterina
+  middle_name: Borisovna
+  last_name: ALTABAJEVA
+  whole_name: Jekaterina Borisovna ALTABAJEVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '158593'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Kateryna
+  middle_name: Borysivna
+  last_name: ALTABAJEVA
+  whole_name: Kateryna Borysivna ALTABAJEVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '158592'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Ekaterina
+  last_name: Altabajevová
+  whole_name: Ekaterina Altabajevová
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158313'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -61,14 +87,16 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Ekaterina
-  last_name: Altabajevová
-  whole_name: Ekaterina Altabajevová
+- first_name: Kateryna
+  middle_name: Borysivna
+  last_name: ALTABAEVA
+  whole_name: Kateryna Borysivna ALTABAEVA
+  function: Member of the Federation Council of the Russian Federation
   gender: F
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158313'
+  logical_id: '121738'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -84,34 +112,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '121737'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Kateryna
-  middle_name: Borysivna
-  last_name: ALTABAJEVA
-  whole_name: Kateryna Borysivna ALTABAJEVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '158592'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Jekaterina
-  middle_name: Borisovna
-  last_name: ALTABAJEVA
-  whole_name: Jekaterina Borisovna ALTABAJEVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '158593'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

@@ -17,71 +17,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Nattvargarna
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '152603'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Noční vlci MC
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152523'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Мотоклуб „Нощни вълци“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '142775'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Natulvene MC
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '142774'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Nocne Wilki
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '158240'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Éjszakai Farkasok motoros klub
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '142773'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: club de motards “Les loups de la nuit”
   name_language: FR
   strong: true
   regulation_language: en
   logical_id: '158211'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Nocne Wilki
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '158240'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -130,6 +80,56 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Éjszakai Farkasok motoros klub
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '142773'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Natulvene MC
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '142774'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Мотоклуб „Нощни вълци“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '142775'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Noční vlci MC
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152523'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Nattvargarna
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '152603'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 addresses:
 - street: Nizhniye Mnevniki,  110, Bike Centre
   city: Moscow

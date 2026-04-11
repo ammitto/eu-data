@@ -15,15 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Rawafid Damascus Private Joint Stock Company
-  strong: true
-  regulation_language: en
-  logical_id: '119337'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-01-21'
-    number_title: 2019/85 (OJ L18 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0085&from=EN
 - whole_name: Rawafid Tributary Damascus Private Joint Stock Company
   strong: true
   regulation_language: en
@@ -46,6 +37,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '119340'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-01-21'
+    number_title: 2019/85 (OJ L18 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0085&from=EN
+- whole_name: Rawafid Damascus Private Joint Stock Company
+  strong: true
+  regulation_language: en
+  logical_id: '119337'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-01-21'

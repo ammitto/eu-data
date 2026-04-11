@@ -14,14 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohammed Khaled
-  last_name: al-Zubedi
-  whole_name: Mohammed Khaled al-Zubedi
+- first_name: Khalid
+  last_name: al-Zubaidi
+  whole_name: Khalid al-Zubaidi
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '119329'
+  logical_id: '119326'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -47,45 +47,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '119327'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khalid
-  last_name: Zubedi
-  whole_name: Khalid Zubedi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119323'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khalid
-  last_name: al-Zubedi
-  whole_name: Khalid al-Zubedi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119325'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khalid
-  last_name: Zubaidi
-  whole_name: Khalid Zubaidi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119324'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -143,14 +104,53 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Khalid
-  last_name: al-Zubaidi
-  whole_name: Khalid al-Zubaidi
+- first_name: Mohammed Khaled
+  last_name: al-Zubedi
+  whole_name: Mohammed Khaled al-Zubedi
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '119326'
+  logical_id: '119329'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khalid
+  last_name: al-Zubedi
+  whole_name: Khalid al-Zubedi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khalid
+  last_name: Zubaidi
+  whole_name: Khalid Zubaidi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119324'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khalid
+  last_name: Zubedi
+  whole_name: Khalid Zubedi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119323'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -208,34 +208,6 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: خالد الزبيدي
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '124826'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- first_name: Khaled
-  last_name: AL-ZUBAIDI
-  whole_name: Khaled AL-ZUBAIDI
-  function: Co-owner of Zubaidi and Qalei LLC, Director of Agar Investment Company,
-    General Manager of Al Zubaidi company and Al Zubaidi & Al Taweet Contracting Company,
-    Director and Owner of Zubaidi Development Company, and co-owner of Enjaz Investment
-    Company. President of the Syrian-Algerian Business Council.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119334'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Mohammed Khaled
   last_name: al-Zubaidi
   whole_name: Mohammed Khaled al-Zubaidi
@@ -288,6 +260,34 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Khaled
+  last_name: AL-ZUBAIDI
+  whole_name: Khaled AL-ZUBAIDI
+  function: Co-owner of Zubaidi and Qalei LLC, Director of Agar Investment Company,
+    General Manager of Al Zubaidi company and Al Zubaidi & Al Taweet Contracting Company,
+    Director and Owner of Zubaidi Development Company, and co-owner of Enjaz Investment
+    Company. President of the Syrian-Algerian Business Council.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119334'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: خالد الزبيدي
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124826'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 citizenships:
 - country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC

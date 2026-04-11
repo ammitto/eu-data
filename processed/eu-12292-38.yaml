@@ -27,17 +27,6 @@ name_aliases:
     publication_date: '2025-07-25'
     number_title: 2025/1548 (OJ L202501548)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
-- whole_name: محمدرضا مدرس خیابانی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '170465'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-11-18'
-    number_title: 2024/2896 (OJ L18112024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402896
 - first_name: Mohammad Reza
   last_name: KHIABANI
   whole_name: Mohammad Reza KHIABANI
@@ -53,6 +42,17 @@ name_aliases:
     publication_date: '2025-07-25'
     number_title: 2025/1548 (OJ L202501548)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501548
+- whole_name: محمدرضا مدرس خیابانی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '170465'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-11-18'
+    number_title: 2024/2896 (OJ L18112024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402896
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

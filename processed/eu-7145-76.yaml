@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vyacheslav
-  middle_name: Vasilevich
-  last_name: FOMICHEV
-  whole_name: Vyacheslav Vasilevich FOMICHEV
-  function: Member of the State Duma
+- first_name: Вячеслав
+  middle_name: Васильевич
+  last_name: ФОМИЧЁВ
+  whole_name: Вячеслав Васильевич ФОМИЧЁВ
   gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '134319'
+  logical_id: '134318'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -38,15 +38,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Вячеслав
-  middle_name: Васильевич
-  last_name: ФОМИЧЁВ
-  whole_name: Вячеслав Васильевич ФОМИЧЁВ
+- first_name: Vyacheslav
+  middle_name: Vasilevich
+  last_name: FOMICHEV
+  whole_name: Vyacheslav Vasilevich FOMICHEV
+  function: Member of the State Duma
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '134318'
+  logical_id: '134319'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

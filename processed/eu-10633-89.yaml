@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Евгений
+  last_name: ПУСТОВОЙ
+  whole_name: Евгений ПУСТОВОЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156691'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Jevgenij
   last_name: PUSTOVOJ
   whole_name: Jevgenij PUSTOVOJ
@@ -27,6 +40,19 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Jauhen
+  last_name: PUSTAVY
+  whole_name: Jauhen PUSTAVY
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156928'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Jaŭhen
   last_name: Pustavy
   whole_name: Jaŭhen Pustavy
@@ -35,6 +61,45 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157008'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Yevgeniy
+  last_name: PUSTOVOY
+  whole_name: Yevgeniy PUSTOVOY
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156692'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Jugen
+  last_name: Pustavi
+  whole_name: Jugen Pustavi
+  gender: M
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '157034'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Yauhen
+  last_name: PUSTAVY
+  whole_name: Yauhen PUSTAVY
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156693'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -64,71 +129,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156690'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Евгений
-  last_name: ПУСТОВОЙ
-  whole_name: Евгений ПУСТОВОЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156691'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Jugen
-  last_name: Pustavi
-  whole_name: Jugen Pustavi
-  gender: M
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '157034'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Jauhen
-  last_name: PUSTAVY
-  whole_name: Jauhen PUSTAVY
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156928'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Yevgeniy
-  last_name: PUSTOVOY
-  whole_name: Yevgeniy PUSTOVOY
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156692'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Yauhen
-  last_name: PUSTAVY
-  whole_name: Yauhen PUSTAVY
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156693'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

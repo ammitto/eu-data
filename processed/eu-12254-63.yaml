@@ -14,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Cuideachta Comhstoic “103 Armored Repair Plant”
-  name_language: GA
+- whole_name: "»103. sz. Páncélozottjármű-javító Üzem« Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '170214'
+  logical_id: '170215'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Joint-Stock Company “103 Armored repair plant”
-  name_language: EL
+- whole_name: Cuideachta Comhstoic “103 Armored Repair Plant”
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '170213'
+  logical_id: '170214'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -76,11 +76,11 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: "»103. sz. Páncélozottjármű-javító Üzem« Részvénytársaság"
-  name_language: HU
+- whole_name: Joint-Stock Company “103 Armored repair plant”
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '170215'
+  logical_id: '170213'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

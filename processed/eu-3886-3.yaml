@@ -17,30 +17,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abu
-  middle_name: Zayd Umar
-  last_name: DORDA
-  whole_name: Abu Zayd Umar DORDA
-  function: Director, External Security Organisation. Head of external intelligence
-    agency.
-  strong: true
-  regulation_language: en
-  logical_id: '8986'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-20'
-    number_title: 1103/2014 (OJ L301)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0002&from=EN
-- whole_name: ABÚ ZAJD UMAR DÚRDA
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '143588'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1502 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.235.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A235%3ATOC
 - whole_name: Dorda Abuzed OE
   strong: true
   regulation_language: en
@@ -59,6 +35,30 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1502 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.235.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A235%3ATOC
+- whole_name: ABÚ ZAJD UMAR DÚRDA
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '143588'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1502 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.235.01.0004.01.ENG&toc=OJ%3AL%3A2022%3A235%3ATOC
+- first_name: Abu
+  middle_name: Zayd Umar
+  last_name: DORDA
+  whole_name: Abu Zayd Umar DORDA
+  function: Director, External Security Organisation. Head of external intelligence
+    agency.
+  strong: true
+  regulation_language: en
+  logical_id: '8986'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-20'
+    number_title: 1103/2014 (OJ L301)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0002&from=EN
 birthdates:
 - birthdate: '1944-04-04'
   circa: false

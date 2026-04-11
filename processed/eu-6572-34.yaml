@@ -15,19 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Rosario María
-  last_name: MURILLO DE ORTEGA
-  whole_name: Rosario María MURILLO DE ORTEGA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '131211'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-10'
-    number_title: 2023/2125 (OJ L10102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302125
-- first_name: Rosario María
   last_name: MURILLO ZAMBRANA
   whole_name: Rosario María MURILLO ZAMBRANA
   function: Vice President of Nicaragua, First Lady of Nicaragua and a leader of the
@@ -37,6 +24,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '131212'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-10'
+    number_title: 2023/2125 (OJ L10102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302125
+- first_name: Rosario María
+  last_name: MURILLO DE ORTEGA
+  whole_name: Rosario María MURILLO DE ORTEGA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '131211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-10'

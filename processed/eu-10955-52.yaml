@@ -14,6 +14,35 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Альона
+  middle_name: Андріївна
+  last_name: ТРОКАЙ
+  whole_name: Альона Андріївна ТРОКАЙ
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '159934'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Alyona
+  middle_name: Andriivna
+  last_name: TROKAI
+  whole_name: Alyona Andriivna TROKAI
+  function: Leader of the “Movement of the First” in the Zaporizhzhia region
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159935'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Aljona
   last_name: Trokajová
   whole_name: Aljona Trokajová
@@ -49,35 +78,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160935'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Альона
-  middle_name: Андріївна
-  last_name: ТРОКАЙ
-  whole_name: Альона Андріївна ТРОКАЙ
-  gender: F
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '159934'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Alyona
-  middle_name: Andriivna
-  last_name: TROKAI
-  whole_name: Alyona Andriivna TROKAI
-  function: Leader of the “Movement of the First” in the Zaporizhzhia region
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159935'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

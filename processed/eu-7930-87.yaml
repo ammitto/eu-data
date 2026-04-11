@@ -14,17 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Maxim
+- first_name: Maksimum
   middle_name: Alekseevich
   last_name: PROTASOV
-  whole_name: Maxim Alekseevich PROTASOV
-  function: Former so-called ‘Minister of Construction and Housing and Communal Services’
-    of the so-called ‘Luhansk People's Republic’
+  whole_name: Maksimum Alekseevich PROTASOV
   gender: M
-  name_language: EN
+  name_language: DA
   strong: true
   regulation_language: en
-  logical_id: '138403'
+  logical_id: '164756'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -44,26 +42,28 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Maxim
+  middle_name: Alekseevich
+  last_name: PROTASOV
+  whole_name: Maxim Alekseevich PROTASOV
+  function: Former so-called ‘Minister of Construction and Housing and Communal Services’
+    of the so-called ‘Luhansk People's Republic’
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138403'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - whole_name: Maksim Aleksejevitj PROTASOV
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '139406'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Maksimum
-  middle_name: Alekseevich
-  last_name: PROTASOV
-  whole_name: Maksimum Alekseevich PROTASOV
-  gender: M
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '164756'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

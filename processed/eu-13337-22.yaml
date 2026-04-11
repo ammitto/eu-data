@@ -14,20 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mohammad Hossein SHAMKHANI
-  strong: true
-  regulation_language: en
-  logical_id: '176949'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: شمخانی حسین
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '176950'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Mohammad Hossein SHAMKHANI
+  strong: true
+  regulation_language: en
+  logical_id: '176949'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

@@ -36,21 +36,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Rah Sahel Institute
+- whole_name: Rah Sahel est.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158827'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Rah Sahel Co
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158826'
+  logical_id: '158824'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -66,11 +56,21 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Rah Sahel est.
+- whole_name: Rah Sahel Co
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158824'
+  logical_id: '158826'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Rah Sahel Institute
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158827'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

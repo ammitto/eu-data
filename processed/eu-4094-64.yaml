@@ -14,16 +14,38 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Armata tal-Poplu Korean
-  name_language: MT
+- whole_name: Koreanische  Volksarmee
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '143019'
+  logical_id: '143027'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: 조선인민군
+  strong: true
+  regulation_language: en
+  logical_id: '141950'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Korean People's Army
+  function: The Korean People’s Army includes the Strategic Force (previously Strategic
+    Rocket Force), which controls the DPRK’s nuclear and conventional strategic missile
+    units. The Strategic Rocket Force has been listed by the United Nations Security
+    Council Resolution 2356 (2017).
+  strong: true
+  regulation_language: en
+  logical_id: '114586'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3152 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403152
 - whole_name: Koreas Folkehær
   name_language: DA
   strong: true
@@ -84,48 +106,6 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Korejská lidová armáda
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '143062'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Armata Populară Coreeană
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '143058'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Korean People's Army
-  function: The Korean People’s Army includes the Strategic Force (previously Strategic
-    Rocket Force), which controls the DPRK’s nuclear and conventional strategic missile
-    units. The Strategic Rocket Force has been listed by the United Nations Security
-    Council Resolution 2356 (2017).
-  strong: true
-  regulation_language: en
-  logical_id: '114586'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3152 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403152
-- whole_name: 조선인민군
-  strong: true
-  regulation_language: en
-  logical_id: '141950'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: Armée populaire  coréenne
   name_language: FR
   strong: true
@@ -176,21 +156,21 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Koreaans  Volksleger
-  name_language: NL
+- whole_name: Armata tal-Poplu Korean
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '143026'
+  logical_id: '143019'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Koreanische  Volksarmee
-  name_language: DE
+- whole_name: Koreaans  Volksleger
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '143027'
+  logical_id: '143026'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
@@ -251,6 +231,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143055'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Armata Populară Coreeană
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '143058'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Korejská lidová armáda
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '143062'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

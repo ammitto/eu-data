@@ -14,23 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Igor Anatoljevitj MARSJALOV
+- whole_name: Ihar Anatoljevitj MARSJALAU
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '132369'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Игорь  Анатольевич  МАРШАЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '132069'
+  logical_id: '132370'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -42,17 +31,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132070'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Ihar Anatoljevitj MARSJALAU
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '132370'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -76,6 +54,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132072'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Игорь  Анатольевич  МАРШАЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '132069'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Igor Anatoljevitj MARSJALOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '132369'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -110,23 +110,23 @@ birthdates:
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 addresses:
-- street: 15 Shchukina St.
-  city: Minsk
-  country_iso2_code: BY
-  country_description: BELARUS
-  regulation_language: en
-  logical_id: '132066'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - street: 43A Franciska St., apt. 41
   city: Minsk
   country_iso2_code: BY
   country_description: BELARUS
   regulation_language: en
   logical_id: '132065'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- street: 15 Shchukina St.
+  city: Minsk
+  country_iso2_code: BY
+  country_description: BELARUS
+  regulation_language: en
+  logical_id: '132066'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

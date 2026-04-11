@@ -14,11 +14,41 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Star Sapphire Group of Companies
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159321'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-11'
+    number_title: 2023/2789 (OJ L11122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302789
 - whole_name: Grupul de societăți Star Sapphire
   name_language: RO
   strong: true
   regulation_language: en
   logical_id: '159326'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-11'
+    number_title: 2023/2789 (OJ L11122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302789
+- whole_name: bendrovių grupė „Star Sapphire“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '159328'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-11'
+    number_title: 2023/2789 (OJ L11122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302789
+- whole_name: Skupina spoločností Star Sapphire Group of Companies
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '159327'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'
@@ -39,36 +69,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159329'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-11'
-    number_title: 2023/2789 (OJ L11122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302789
-- whole_name: bendrovių grupė „Star Sapphire“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '159328'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-11'
-    number_title: 2023/2789 (OJ L11122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302789
-- whole_name: Star Sapphire Group of Companies
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159321'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-11'
-    number_title: 2023/2789 (OJ L11122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302789
-- whole_name: Skupina spoločností Star Sapphire Group of Companies
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '159327'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'

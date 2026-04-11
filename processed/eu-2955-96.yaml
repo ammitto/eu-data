@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Юрий Леонидович СИВАКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '108863'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 - whole_name: Yuri Leonidovich SIVAKOV
   gender: M
   name_language: EN
@@ -58,17 +47,6 @@ name_aliases:
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Юрый Леанідавіч СІВАКАЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '108864'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 - whole_name: Juryj Leanidavitj SIVAKOU
   gender: M
   name_language: SV
@@ -80,32 +58,25 @@ name_aliases:
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Yuri Leanidavich SIVAKOU
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '128151'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Юрый Леанідавіч СІВАКОЎ
+- whole_name: Юрый Леанідавіч СІВАКАЎ
   gender: M
   name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '128152'
+  logical_id: '108864'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Yuri Leanidavich SIVAKAU
+- whole_name: Iury Leanidavich SIVAKAU
+  function: former Minister of Internal Affairs; former Deputy Head of the Presidential
+    Administration
   gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '128153'
+  logical_id: '108323'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'
@@ -122,14 +93,43 @@ name_aliases:
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Iury Leanidavich SIVAKAU
-  function: former Minister of Internal Affairs; former Deputy Head of the Presidential
-    Administration
+- whole_name: Yuri Leanidavich SIVAKAU
   gender: M
-  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '108323'
+  logical_id: '128153'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- whole_name: Юрый Леанідавіч СІВАКОЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '128152'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- whole_name: Yuri Leanidavich SIVAKOU
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '128151'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- whole_name: Юрий Леонидович СИВАКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '108863'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'

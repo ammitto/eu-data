@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: 신규남
-  gender: M
-  name_language: KO
-  strong: true
-  regulation_language: en
-  logical_id: '142124'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3152 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403152
 - whole_name: SIN Kyu-Nam
   function: Director in the reinsurance department of Korea National Insurance Corporation
     (KNIC) based in the headquarters in Pyongyang and former authorised representative
@@ -45,6 +34,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '112462'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3152 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403152
+- whole_name: 신규남
+  gender: M
+  name_language: KO
+  strong: true
+  regulation_language: en
+  logical_id: '142124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

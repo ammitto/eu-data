@@ -14,33 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Galina
-  middle_name: Jevgenjevna
-  last_name: PUMPJANSKAJA
-  whole_name: Galina Jevgenjevna PUMPJANSKAJA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '137343'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Galina
-  last_name: Pumpjanskaja
-  whole_name: Galina Pumpjanskaja
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152177'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Галина
   middle_name: Евгеньевна
   last_name: ПУМПЯНСКАЯ
@@ -55,32 +28,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Galina
-  last_name: Pumpianskaja
-  whole_name: Galina Pumpianskaja
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '169987'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Galina
-  last_name: Pumpianská
-  whole_name: Galina Pumpianská
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '152208'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Galina
   middle_name: Evgenyevna
   last_name: PUMPYANSKAYA
@@ -109,6 +56,59 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Galina
+  middle_name: Jevgenjevna
+  last_name: PUMPJANSKAJA
+  whole_name: Galina Jevgenjevna PUMPJANSKAJA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137343'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Galina
+  last_name: Pumpjanskaja
+  whole_name: Galina Pumpjanskaja
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152177'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Galina
+  last_name: Pumpianskaja
+  whole_name: Galina Pumpianskaja
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169987'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Galina
+  last_name: Pumpianská
+  whole_name: Galina Pumpianská
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '152208'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

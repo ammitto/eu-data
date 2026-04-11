@@ -15,6 +15,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Aleh
+  last_name: Miščanka
+  whole_name: Aleh Miščanka
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160823'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Aleh
   middle_name: Ryhoravitj
   last_name: MISJTJANKA
   whole_name: Aleh Ryhoravitj MISJTJANKA
@@ -43,6 +56,19 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Oleg
+  last_name: Miščenko
+  whole_name: Oleg Miščenko
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160822'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Oleg
   middle_name: Grigorievich
   last_name: MISHCHENKO
   whole_name: Oleg Grigorievich MISHCHENKO
@@ -57,29 +83,14 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Aleh
-  middle_name: Ryhoravich
-  last_name: MISHCHANKA
-  whole_name: Aleh Ryhoravich MISHCHANKA
+- first_name: Oleg
+  last_name: Miščenko
+  whole_name: Oleg Miščenko
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '159534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Олег
-  middle_name: Григорьевич
-  last_name: МИЩЕНКО
-  whole_name: Олег Григорьевич МИЩЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159533'
+  logical_id: '160824'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -99,40 +110,29 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Oleg
-  last_name: Miščenko
-  whole_name: Oleg Miščenko
+- first_name: Олег
+  middle_name: Григорьевич
+  last_name: МИЩЕНКО
+  whole_name: Олег Григорьевич МИЩЕНКО
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160824'
+  logical_id: '159533'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Aleh
-  last_name: Miščanka
-  whole_name: Aleh Miščanka
+  middle_name: Ryhoravich
+  last_name: MISHCHANKA
+  whole_name: Aleh Ryhoravich MISHCHANKA
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160823'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Oleg
-  last_name: Miščenko
-  whole_name: Oleg Miščenko
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160822'
+  logical_id: '159534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

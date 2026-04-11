@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Stanislav Sergeyevich CHEMEZOV
+  function: Stanislav Sergeyevich Chemezov is the son of Sergei Chemezov, a member
+    of the Supreme Council of ‘United Russia’ and chairman of the Rostec conglomerate,
+    the leading Russian state‐controlled defence and industrial manufacturing corporation.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '141785'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Stanislav Sergejevitj TJEMEZOV
   name_language: SV
   strong: true
@@ -28,20 +42,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141784'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Stanislav Sergeyevich CHEMEZOV
-  function: Stanislav Sergeyevich Chemezov is the son of Sergei Chemezov, a member
-    of the Supreme Council of ‘United Russia’ and chairman of the Rostec conglomerate,
-    the leading Russian state‐controlled defence and industrial manufacturing corporation.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '141785'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

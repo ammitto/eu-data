@@ -14,11 +14,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: dokárska spoločnosť AVLITA
-  name_language: SK
+- whole_name: AVLITA Stevedoring Company
+  function: "AVLITA Stevedoring Company provides services related to loading grain
+    onto ships in the port of Sevastopol in Crimea, which was \nillegally annexed
+    by Russia. It is documented in numerous reports that it has been involved in loading
+    onto ships grain which was stolen \nfrom the farmers and the Ukrainian state on
+    ..."
   strong: true
   regulation_language: en
-  logical_id: '142769'
+  logical_id: '142697'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -34,15 +38,11 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: AVLITA Stevedoring Company
-  function: "AVLITA Stevedoring Company provides services related to loading grain
-    onto ships in the port of Sevastopol in Crimea, which was \nillegally annexed
-    by Russia. It is documented in numerous reports that it has been involved in loading
-    onto ships grain which was stolen \nfrom the farmers and the Ukrainian state on
-    ..."
+- whole_name: dokárska spoločnosť AVLITA
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '142697'
+  logical_id: '142769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

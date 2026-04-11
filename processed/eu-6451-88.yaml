@@ -25,33 +25,23 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Viktor Gennadievich  KHRENIN
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Віктар Генадзевіч  ХРЭНІН
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '130485'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Viktar Henadzevitj CHRENIN
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '130797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Виктор  Геннадиевич  ХРЕНИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '130484'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -69,12 +59,22 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Виктор  Геннадиевич  ХРЕНИН
+- whole_name: Viktor Gennadievich  KHRENIN
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '130484'
+  logical_id: '130486'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Віктар Генадзевіч  ХРЭНІН
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '130485'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

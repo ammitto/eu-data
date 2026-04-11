@@ -14,26 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hafiz
-  middle_name: Muhammad
+- first_name: Hafez
+  middle_name: Mohammad
   last_name: Saeed
-  whole_name: Hafiz Muhammad Saeed
+  whole_name: Hafez Mohammad Saeed
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6990'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- whole_name: Hafiz Muhammad
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6991'
+  logical_id: '6994'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'
@@ -77,6 +66,31 @@ name_aliases:
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 - first_name: Hafiz
+  middle_name: Muhammad
+  last_name: Saeed
+  whole_name: Hafiz Muhammad Saeed
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6990'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
+- whole_name: Hafiz Muhammad
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6991'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
+- first_name: Hafiz
   last_name: Saeed
   whole_name: Hafiz Saeed
   gender: M
@@ -95,20 +109,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- first_name: Hafez
-  middle_name: Mohammad
-  last_name: Saeed
-  whole_name: Hafez Mohammad Saeed
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6994'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'

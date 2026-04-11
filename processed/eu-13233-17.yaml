@@ -14,6 +14,27 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Rusijos Federacijos Gynybos ministerijos 27-asis mokslinis centras
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '176350'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
+- whole_name: Az Oroszországi Föderáció Védelmi Minisztériumának 27. sz. Tudományos
+    Központja
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '176351'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
 - whole_name: Is-27 Ċentru Xjentifiku tal-Ministeru għad-Difiża tal-Federazzjoni Russa
   name_language: MT
   strong: true
@@ -90,12 +111,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: Az Oroszországi Föderáció Védelmi Minisztériumának 27. sz. Tudományos
-    Központja
-  name_language: HU
+- whole_name: 27o centro scientifico del ministero della Difesa
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '176351'
+  logical_id: '176349'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -112,21 +132,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: 27o centro scientifico del ministero della Difesa
-  name_language: IT
+- whole_name: 27ú Lárionad Eolaíochta de chuid Aireacht Cosanta Chónaidhm na Rúise
+  name_language: GL
   strong: true
   regulation_language: en
-  logical_id: '176349'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: Rusijos Federacijos Gynybos ministerijos 27-asis mokslinis centras
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '176350'
+  logical_id: '176347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -137,16 +147,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176348'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: 27ú Lárionad Eolaíochta de chuid Aireacht Cosanta Chónaidhm na Rúise
-  name_language: GL
-  strong: true
-  regulation_language: en
-  logical_id: '176347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -14,39 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ihar Ivanavitj BUZOUSKI
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127914'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Igor Ivanovitj BUZOVSKIJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127913'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Ihar Ivanavich BUZOUSKI
-  function: Deputy Minister of Information
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '126325'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-11-06'
-    number_title: 2020/1648 (OJ L370I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2020.370.01.0001.01.ENG&toc=OJ%3AL%3A2020%3A370I%3ATOC
 - whole_name: Igor Ivanovich BUZOVSKI
   gender: M
   strong: true
@@ -79,6 +46,39 @@ name_aliases:
     publication_date: '2020-11-06'
     number_title: 2020/1648 (OJ L370I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2020.370.01.0001.01.ENG&toc=OJ%3AL%3A2020%3A370I%3ATOC
+- whole_name: Ihar Ivanavich BUZOUSKI
+  function: Deputy Minister of Information
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '126325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-11-06'
+    number_title: 2020/1648 (OJ L370I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2020.370.01.0001.01.ENG&toc=OJ%3AL%3A2020%3A370I%3ATOC
+- whole_name: Ihar Ivanavitj BUZOUSKI
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '127914'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- whole_name: Igor Ivanovitj BUZOVSKIJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '127913'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 birthdates:
 - birthdate: '1972-07-10'
   circa: false

@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jurij
-  middle_name: Pavlovitj
-  last_name: JUROV
-  whole_name: Jurij Pavlovitj JUROV
+- first_name: Юрий
+  middle_name: Павлович
+  last_name: ЮРОВ
+  whole_name: Юрий Павлович ЮРОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '139636'
+  logical_id: '139067'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -44,15 +44,15 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Юрий
-  middle_name: Павлович
-  last_name: ЮРОВ
-  whole_name: Юрий Павлович ЮРОВ
+- first_name: Jurij
+  middle_name: Pavlovitj
+  last_name: JUROV
+  whole_name: Jurij Pavlovitj JUROV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '139067'
+  logical_id: '139636'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

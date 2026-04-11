@@ -14,15 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Munir Al-Kubaysi
-  strong: true
-  regulation_language: en
-  logical_id: '3127'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 979/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
 - whole_name: Muneer Al-Kubaisi
   strong: true
   regulation_language: en
@@ -32,15 +23,15 @@ name_aliases:
     publication_date: '2004-05-15'
     number_title: 979/2004 (OJ L180)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
-- whole_name: Munir A Mamduh Awad
+- whole_name: Munir Al Qubaysi
   strong: true
   regulation_language: en
-  logical_id: '3130'
+  logical_id: '3126'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2004-06-10'
-    number_title: 1086/2004 (OJ L207)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:207:0010:0012:EN:PDF
+    publication_date: '2004-05-15'
+    number_title: 979/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
 - whole_name: Munir Awad
   strong: true
   regulation_language: en
@@ -50,10 +41,19 @@ name_aliases:
     publication_date: '2004-06-10'
     number_title: 1086/2004 (OJ L207)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:207:0010:0012:EN:PDF
-- whole_name: Munir Al Qubaysi
+- whole_name: Munir A Mamduh Awad
   strong: true
   regulation_language: en
-  logical_id: '3126'
+  logical_id: '3130'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-06-10'
+    number_title: 1086/2004 (OJ L207)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:207:0010:0012:EN:PDF
+- whole_name: Munir Al-Kubaysi
+  strong: true
+  regulation_language: en
+  logical_id: '3127'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-05-15'

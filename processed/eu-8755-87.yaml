@@ -29,20 +29,6 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Борис
-  middle_name: Яковлевич
-  last_name: РАПОПОРТ
-  whole_name: Борис Яковлевич РАПОПОРТ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '144319'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Boris
   middle_name: Jakovlevitj
   last_name: RAPOPORT
@@ -52,6 +38,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- first_name: Борис
+  middle_name: Яковлевич
+  last_name: РАПОПОРТ
+  whole_name: Борис Яковлевич РАПОПОРТ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '144319'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

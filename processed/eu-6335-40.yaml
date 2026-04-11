@@ -14,34 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Anastasija Vasiljeuna ATJALAVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130661'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Anastasia Vasileuna  ACHALAVA
   function: "Judge at the Leninsky \nDistrict Court in Minsk"
   gender: F
   strong: true
   regulation_language: en
   logical_id: '129800'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Анастасия  Васильевна  АЧАЛОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '129797'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -58,11 +36,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Anastasia Vasilievna  ACHALOVA
+- whole_name: Анастасия  Васильевна  АЧАЛОВА
   gender: F
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '129799'
+  logical_id: '129797'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -74,6 +53,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130660'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Anastasija Vasiljeuna ATJALAVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130661'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Anastasia Vasilievna  ACHALOVA
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '129799'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

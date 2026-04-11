@@ -14,76 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Vrhovni svet za kulturno revolucijo
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '151930'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-20'
-    number_title: 2023/645 (OJ L80 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
-- whole_name: Ylin kulttuurivallankumousneuvosto
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '151931'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-20'
-    number_title: 2023/645 (OJ L80 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
-- whole_name: A Kulturális Forradalom Legfelsőbb Tanácsa
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '151932'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-20'
-    number_title: 2023/645 (OJ L80 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
-- whole_name: Kultūrinės revoliucijos aukščiausioji taryba
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '151933'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-20'
-    number_title: 2023/645 (OJ L80 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
-- whole_name: Kultūras revolūcijas augstākā padome
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '151934'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-20'
-    number_title: 2023/645 (OJ L80 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
-- whole_name: Kultuurirevolutsiooni ülemnõukogu
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '151935'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-20'
-    number_title: 2023/645 (OJ L80 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
-- whole_name: Hoge Raad voor de Culturele Revolutie
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '151922'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-20'
-    number_title: 2023/645 (OJ L80 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
 - whole_name: det högsta kulturrevolutionsrådet
   name_language: SV
   strong: true
@@ -144,6 +74,76 @@ name_aliases:
     publication_date: '2023-03-20'
     number_title: 2023/645 (OJ L80 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
+- whole_name: Vrhovno vijeće kulturne revolucije
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '151929'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-20'
+    number_title: 2023/645 (OJ L80 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
+- whole_name: Vrhovni svet za kulturno revolucijo
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '151930'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-20'
+    number_title: 2023/645 (OJ L80 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
+- whole_name: Ylin kulttuurivallankumousneuvosto
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '151931'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-20'
+    number_title: 2023/645 (OJ L80 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
+- whole_name: A Kulturális Forradalom Legfelsőbb Tanácsa
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '151932'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-20'
+    number_title: 2023/645 (OJ L80 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
+- whole_name: Kultūrinės revoliucijos aukščiausioji taryba
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '151933'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-20'
+    number_title: 2023/645 (OJ L80 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
+- whole_name: Kultūras revolūcijas augstākā padome
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '151934'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-20'
+    number_title: 2023/645 (OJ L80 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
+- whole_name: Kultuurirevolutsiooni ülemnõukogu
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '151935'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-20'
+    number_title: 2023/645 (OJ L80 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
 - whole_name: il-Kunsill Suprem tar-Revoluzzjoni Kulturali
   name_language: MT
   strong: true
@@ -154,11 +154,11 @@ name_aliases:
     publication_date: '2023-03-20'
     number_title: 2023/645 (OJ L80 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
-- whole_name: Vrhovno vijeće kulturne revolucije
-  name_language: HR
+- whole_name: Hoge Raad voor de Culturele Revolutie
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '151929'
+  logical_id: '151922'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-20'

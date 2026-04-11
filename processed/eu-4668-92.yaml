@@ -14,36 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: AKTSIONERNOE OBSHCHESTVO VAD
-  name_language: EN
+- whole_name: Společnost CJSC VAD
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '117801'
+  logical_id: '158419'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: CJSC VAD
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '117802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Javna delniška družba VAD
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '152543'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: AKCIONERNOE OBŠČESTVO VAD
   name_language: SL
   strong: true
@@ -54,11 +34,21 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Společnost CJSC VAD
-  name_language: CS
+- whole_name: CJSC VAD
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158419'
+  logical_id: '117802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: AKTSIONERNOE OBSHCHESTVO VAD
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '117801'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -74,6 +64,16 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Javna delniška družba VAD
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '152543'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 addresses:
 - street: 122, Grazhdanskiy Prospect, suite 5, Liter A
   city: St. Petersburg
@@ -101,21 +101,21 @@ addresses:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 identifications:
-- identification_type_code: fiscalcode
-  number: '7802059185'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '117798'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-07-31'
-    number_title: 2018/1072 (OJ L194)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.194.01.0027.01.ENG&toc=OJ:L:2018:194:TOC
 - identification_type_code: regnumber
   number: '1037804006811'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '117799'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-07-31'
+    number_title: 2018/1072 (OJ L194)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.194.01.0027.01.ENG&toc=OJ:L:2018:194:TOC
+- identification_type_code: fiscalcode
+  number: '7802059185'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '117798'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-07-31'

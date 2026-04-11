@@ -14,11 +14,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: κεντρική εκλογική επιτροπή (ΚΕΕ) της Ρωσικής Ομοσπονδίας
-  name_language: EL
+- whole_name: Central Election Commission (CEC)
+  function: Russian state body responsible for organizing elections and referendums
+    for the Russian Federation
   strong: true
   regulation_language: en
-  logical_id: '144674'
+  logical_id: '144587'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -44,42 +45,11 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: Central Election Commission (CEC)
-  function: Russian state body responsible for organizing elections and referendums
-    for the Russian Federation
+- whole_name: zentrale Wahlkommission der Russischen Föderation
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '144587'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: Russiske Føderations centrale valgkommission
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '144673'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: Централната избирателна комисия (ЦИК) на Руската федерация
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '144672'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: Comissão Central de Eleições da Federação da Rússia
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '144681'
+  logical_id: '144665'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -105,11 +75,71 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: Централната избирателна комисия (ЦИК) на Руската федерация
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '144672'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: Russiske Føderations centrale valgkommission
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '144673'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: κεντρική εκλογική επιτροπή (ΚΕΕ) της Ρωσικής Ομοσπονδίας
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '144674'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: Centralna volilna komisija Ruske federacije
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '144707'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - whole_name: Venemaa Föderatsiooni keskvalimiskomisjon
   name_language: ET
   strong: true
   regulation_language: en
   logical_id: '144676'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: Comissão Central de Eleições da Federação da Rússia
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '144681'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: Commission électorale centrale (CEC) de la Fédération de Russie
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '144770'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -210,36 +240,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144706'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: Centralna volilna komisija Ruske federacije
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '144707'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: zentrale Wahlkommission der Russischen Föderation
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '144665'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: Commission électorale centrale (CEC) de la Fédération de Russie
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '144770'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

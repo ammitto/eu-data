@@ -15,20 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Manouchehr
-  last_name: AMANOLLAHI
-  whole_name: Manouchehr AMANOLLAHI
-  function: Commander of the Law Enforcement Forces of the Islamic Republic of Iran
-    (LEF) in the province of Chaharmahal and Bakhtiari.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145690'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2231 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
-- first_name: Manouchehr
   last_name: AMANOLLAHI BAHARVAND
   whole_name: Manouchehr AMANOLLAHI BAHARVAND
   gender: M
@@ -51,6 +37,20 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2231 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
+- first_name: Manouchehr
+  last_name: AMANOLLAHI
+  whole_name: Manouchehr AMANOLLAHI
+  function: Commander of the Law Enforcement Forces of the Islamic Republic of Iran
+    (LEF) in the province of Chaharmahal and Bakhtiari.
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145690'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2231 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
@@ -65,12 +65,12 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   month_of_year: 3
-  year: 1965
+  year: 1966
   city: Khorramabad
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '145686'
+  logical_id: '145685'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -79,12 +79,12 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   month_of_year: 3
-  year: 1966
+  year: 1965
   city: Khorramabad
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '145685'
+  logical_id: '145686'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

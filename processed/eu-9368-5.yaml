@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ZRZESZENIE NAUKOWO-PRODUKCYJNE „STRELA”
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '147734'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: ASOCIAȚIA  ȘTIINȚIFICĂ ȘI DE  PRODUCȚIE «STRELA»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '147871'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: "»STRELA«  TUDOMÁNYOS ÉS  GYÁRTÁSI  SZÖVETSÉG  ÁLLAMI  RÉSZVÉNYTÁRSAS"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '147836'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ "СТРЕЛА"
   name_language: RU
   strong: true
@@ -63,6 +33,45 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: SCIENTIFIC AND PRODUCTION ASSOCIATION „STRELA“
+  strong: true
+  regulation_language: en
+  logical_id: '147135'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: "»STRELA«  TUDOMÁNYOS ÉS  GYÁRTÁSI  SZÖVETSÉG  ÁLLAMI  RÉSZVÉNYTÁRSAS"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '147836'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: ASSOCIAÇÃO CIENTÍFICA E DE PRODUÇÃO  "STRELA"
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '147803'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: ZRZESZENIE NAUKOWO-PRODUKCYJNE „STRELA”
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '147734'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: ASSOCIATION  SCIENTIFIQUE ET  DE PRODUCTION  "STRELA"
   name_language: FR
   strong: true
@@ -73,11 +82,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: MOKSLO  IR GAMYBOS  ASOCIACIJA „STRELA“
-  name_language: LT
+- whole_name: ASOCIAȚIA  ȘTIINȚIFICĂ ȘI DE  PRODUCȚIE «STRELA»
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '147962'
+  logical_id: '147871'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -93,20 +102,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: SCIENTIFIC AND PRODUCTION ASSOCIATION „STRELA“
+- whole_name: MOKSLO  IR GAMYBOS  ASOCIACIJA „STRELA“
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '147135'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: ASSOCIAÇÃO CIENTÍFICA E DE PRODUÇÃO  "STRELA"
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '147803'
+  logical_id: '147962'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

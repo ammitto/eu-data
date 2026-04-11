@@ -15,14 +15,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Jurij
-  middle_name: Alexandrovič
-  last_name: FOMIN
-  whole_name: Jurij Alexandrovič FOMIN
+  last_name: Fomin
+  whole_name: Jurij Fomin
   gender: M
-  name_language: SK
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '156067'
+  logical_id: '156037'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -42,29 +41,15 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Yuri
-  middle_name: Alexandrovich
-  last_name: FOMIN
-  whole_name: Yuri Alexandrovich FOMIN
-  function: Deputy head of IK-6 prison in Melekhovo, Vladimir Region
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155551'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Jurij
-  last_name: Fomin
-  whole_name: Jurij Fomin
+  middle_name: Alexandrovič
+  last_name: FOMIN
+  whole_name: Jurij Alexandrovič FOMIN
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '156037'
+  logical_id: '156067'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -79,6 +64,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155550'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Yuri
+  middle_name: Alexandrovich
+  last_name: FOMIN
+  whole_name: Yuri Alexandrovich FOMIN
+  function: Deputy head of IK-6 prison in Melekhovo, Vladimir Region
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155551'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

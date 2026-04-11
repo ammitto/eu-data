@@ -24,12 +24,12 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Société par actions ouverte “MINSK  ELECTROTECHNICAL PLANT NAMED AFTER
-    V. I.  KOZLOV”
-  name_language: FR
+- whole_name: Offene Aktiengesellschaft  ‚MINSK ELECTROTECHNICAL PLANT NAMED AFTER
+    V. I. KOZLOV‘
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '156797'
+  logical_id: '156789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -68,12 +68,12 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Offene Aktiengesellschaft  ‚MINSK ELECTROTECHNICAL PLANT NAMED AFTER
-    V. I. KOZLOV‘
-  name_language: DE
+- whole_name: Openbare aandelenvennootschap “MINSK  ELECTROTECHNICAL PLANT NAMED AFTER
+    V. I. KOZLOV”
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '156789'
+  logical_id: '156815'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -137,6 +137,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156833'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Société par actions ouverte “MINSK  ELECTROTECHNICAL PLANT NAMED AFTER
+    V. I.  KOZLOV”
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '156797'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -212,17 +223,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156814'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Openbare aandelenvennootschap “MINSK  ELECTROTECHNICAL PLANT NAMED AFTER
-    V. I. KOZLOV”
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '156815'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

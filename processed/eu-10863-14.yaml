@@ -45,13 +45,13 @@ name_aliases:
     number_title: 2023/2793 (OJ L11122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
 addresses:
-- street: No 47, East 18th Street, Farhang Boulevard, Sa’adat Abad
-  city: Tehran
+- street: Unit 2, First Floor, EX35, Number 2, Exhibition Industrial Town
+  region: Kish Island
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
-  zip_code: '1997857976'
+  zip_code: '7941659854'
   regulation_language: en
-  logical_id: '159248'
+  logical_id: '159249'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'
@@ -81,6 +81,18 @@ addresses:
     publication_date: '2023-12-11'
     number_title: 2023/2793 (OJ L11122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
+- street: No 47, East 18th Street, Farhang Boulevard, Sa’adat Abad
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  zip_code: '1997857976'
+  regulation_language: en
+  logical_id: '159248'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-11'
+    number_title: 2023/2793 (OJ L11122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
 - street: Unit 19, Fifth Floor, Yas Building, Number 116, Sheikh Fazlollah Highway,
     Teimuri Blvd, before Sharif University Metro Station
   city: Tehran
@@ -89,18 +101,6 @@ addresses:
   zip_code: '1459994450'
   regulation_language: en
   logical_id: '159243'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-11'
-    number_title: 2023/2793 (OJ L11122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
-- street: Unit 2, First Floor, EX35, Number 2, Exhibition Industrial Town
-  region: Kish Island
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  zip_code: '7941659854'
-  regulation_language: en
-  logical_id: '159249'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'

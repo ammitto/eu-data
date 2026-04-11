@@ -16,12 +16,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Shihab al Muhajir
+- whole_name: Shihab Mahajar
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '132932'
+  logical_id: '132929'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
@@ -49,23 +49,12 @@ name_aliases:
     publication_date: '2024-05-06'
     number_title: 2024/1301 (OJ L06052014)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: Shihab Mahajar
+- whole_name: Shihab al Muhajir
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '132929'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-06'
-    number_title: 2024/1301 (OJ L06052014)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: Shahab Mohajir
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '132934'
+  logical_id: '132932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
@@ -82,24 +71,23 @@ name_aliases:
     publication_date: '2024-05-06'
     number_title: 2024/1301 (OJ L06052014)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: Shahab Muhajer
+- whole_name: Shahab Mohajir
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '132935'
+  logical_id: '132934'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
     number_title: 2024/1301 (OJ L06052014)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: Shahab al Muhajir
+- whole_name: ثناء اللہ غفاری
   gender: M
-  title: Dr.
-  name_language: EN
+  name_language: PS
   strong: true
   regulation_language: en
-  logical_id: '132936'
+  logical_id: '132938'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
@@ -120,12 +108,24 @@ name_aliases:
     publication_date: '2024-05-06'
     number_title: 2024/1301 (OJ L06052014)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: ثناء اللہ غفاری
+- whole_name: Shahab al Muhajir
   gender: M
-  name_language: PS
+  title: Dr.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '132938'
+  logical_id: '132936'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-06'
+    number_title: 2024/1301 (OJ L06052014)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
+- whole_name: Shahab Muhajer
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '132935'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'

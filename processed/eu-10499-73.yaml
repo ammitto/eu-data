@@ -14,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Agencja Projektów Społecznych
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156606'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Agenția de Inginerie Socială
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '156608'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Агенция за социално проектиране
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '156613'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: АСП
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '156614'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
 - whole_name: Social Design Agency
   function: Russian IT company
   name_language: EN
@@ -65,21 +25,11 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Agentura pro sociální design
-  name_language: CS
+- whole_name: Agentsvo Sotsialnogo Proektirovania
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156632'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Ghníomhaireacht um Dhearadh Sóisialta
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '156645'
+  logical_id: '155819'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -95,11 +45,61 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Agentsvo Sotsialnogo Proektirovania
-  name_language: EN
+- whole_name: Agencja Projektów Społecznych
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '155819'
+  logical_id: '156606'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: Ghníomhaireacht um Dhearadh Sóisialta
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '156645'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: Agentura pro sociální design
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156632'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: АСП
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '156614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: Агенция за социално проектиране
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '156613'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: Agenția de Inginerie Socială
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '156608'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

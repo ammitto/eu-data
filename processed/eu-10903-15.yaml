@@ -14,29 +14,29 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Viachaslau
-  middle_name: Yevgenievich
-  last_name: RASSALAI
-  whole_name: Viachaslau Yevgenievich RASSALAI
+- first_name: Vjatjaslau
+  middle_name: Jauhenjevitj
+  last_name: RASSALAJ
+  whole_name: Vjatjaslau Jauhenjevitj RASSALAJ
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159620'
+  logical_id: '160642'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Вячеслав
-  middle_name: Евгеньевич
-  last_name: РОССОЛАЙ
-  whole_name: Вячеслав Евгеньевич РОССОЛАЙ
+- first_name: Vjatjeslav
+  middle_name: Jevgenjevitj
+  last_name: ROSSOLAJ
+  whole_name: Vjatjeslav Jevgenjevitj ROSSOLAJ
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159619'
+  logical_id: '160643'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -56,27 +56,29 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vjačaslau
-  last_name: Rassalaj
-  whole_name: Vjačaslau Rassalaj
+- first_name: Вячеслав
+  middle_name: Евгеньевич
+  last_name: РОССОЛАЙ
+  whole_name: Вячеслав Евгеньевич РОССОЛАЙ
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160852'
+  logical_id: '159619'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vjačeslav
-  last_name: Rossolaj
-  whole_name: Vjačeslav Rossolaj
+- first_name: Viachaslau
+  middle_name: Yevgenievich
+  last_name: RASSALAI
+  whole_name: Viachaslau Yevgenievich RASSALAI
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160853'
+  logical_id: '159620'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -90,20 +92,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160854'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vjatjaslau
-  middle_name: Jauhenjevitj
-  last_name: RASSALAJ
-  whole_name: Vjatjaslau Jauhenjevitj RASSALAJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160642'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -125,15 +113,27 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vjatjeslav
-  middle_name: Jevgenjevitj
-  last_name: ROSSOLAJ
-  whole_name: Vjatjeslav Jevgenjevitj ROSSOLAJ
+- first_name: Vjačeslav
+  last_name: Rossolaj
+  whole_name: Vjačeslav Rossolaj
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160643'
+  logical_id: '160853'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Vjačaslau
+  last_name: Rassalaj
+  whole_name: Vjačaslau Rassalaj
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160852'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -14,11 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mahir Suleiman
+- first_name: Maher
+  last_name: Sulaiman
+  whole_name: Maher Sulaiman
+  function: Doctor; Director of the Higher Institute for Applied Sciences and Technology
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '115967'
+  logical_id: '115969'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -34,14 +37,11 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- first_name: Maher
-  last_name: Sulaiman
-  whole_name: Maher Sulaiman
-  function: Doctor; Director of the Higher Institute for Applied Sciences and Technology
+- whole_name: Mahir Suleiman
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '115969'
+  logical_id: '115967'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

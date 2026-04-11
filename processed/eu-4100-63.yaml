@@ -204,36 +204,6 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: Odbor pre muničný  priemysel
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '161800'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: Odbor strojárskeho priemyslu
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '161801'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: Odbor dodávok pre vojenský priemysel
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '161802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - whole_name: Departamento da Indústria de Munições
   name_language: PT
   strong: true
@@ -259,6 +229,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161769'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Odbor pre muničný  priemysel
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '161800'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Odbor strojárskeho priemyslu
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '161801'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Odbor dodávok pre vojenský priemysel
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '161802'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Gaisa un Kosmosa telpas nozares uzņēmumu organizācija
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '5533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
 - whole_name: Aerospace Industries Organisation
   function: Aerospace Industries Organisation (AIO) is a subsidiary of the EU-listed
     Iran’s Ministry of Defense for Armed Forces Logistics (MODAFL) in charge of overseeing
@@ -144,6 +134,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '5523'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Gaisa un Kosmosa telpas nozares uzņēmumu organizācija
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '5533'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-04-24'

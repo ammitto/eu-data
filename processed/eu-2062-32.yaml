@@ -15,21 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Hara Institute
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158805'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Hara Company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '7989'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Hara Institute
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158805'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

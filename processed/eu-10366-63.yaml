@@ -14,41 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad anónima Factory “Copier”
-  name_language: ES
+- whole_name: Copier JSC -tehdas
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '154980'
+  logical_id: '155125'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Spoločnosť “Copier” JSC
-  name_language: SK
+- whole_name: Závod „Copier“
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '155179'
+  logical_id: '155095'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: АКЦИОНЕРНОЕ ОБЩЕСТВО “ЗАВОД ‘КОПИР’”
-  name_language: RU
+- whole_name: fábrica "Copier" JSC
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '154784'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Factory “Copier” JSC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '154785'
+  logical_id: '155022'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -64,21 +54,21 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: fabriek “Copier” JSC
-  name_language: NL
+- whole_name: Factory “Copier” JSC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '154981'
+  logical_id: '154785'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Závod „Copier“
-  name_language: CS
+- whole_name: Usine "Copier" S.A.
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '155095'
+  logical_id: '154910'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -104,6 +94,36 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: АКЦИОНЕРНОЕ ОБЩЕСТВО “ЗАВОД ‘КОПИР’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '154784'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: sociedad anónima Factory “Copier”
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '154980'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: fabriek “Copier” JSC
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '154981'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - whole_name: Tovarna ,Copier‘ JSC
   name_language: SL
   strong: true
@@ -114,31 +134,11 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: fábrica "Copier" JSC
-  name_language: PT
+- whole_name: Spoločnosť “Copier” JSC
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '155022'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Copier JSC -tehdas
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '155125'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Usine "Copier" S.A.
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '154910'
+  logical_id: '155179'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

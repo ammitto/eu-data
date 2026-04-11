@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: 王君正
+  gender: M
+  name_language: ZH
+  strong: true
+  regulation_language: en
+  logical_id: '128234'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 - first_name: Junzheng
   last_name: WANG
   whole_name: Junzheng WANG
@@ -50,17 +61,6 @@ name_aliases:
     publication_date: '2024-12-03'
     number_title: 2024/2999 (OJ L03122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402999
-- whole_name: 王君正
-  gender: M
-  name_language: ZH
-  strong: true
-  regulation_language: en
-  logical_id: '128234'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 citizenships:
 - country_iso2_code: CN
   country_description: CHINA

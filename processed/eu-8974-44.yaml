@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Centro de  Investigação das Indústrias de  Aviação Shahed
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '145208'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-20'
+    number_title: 2022/1985 (OJ L272 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
 - whole_name: صنایع هوایی شاهد
   name_language: FA
   strong: true
@@ -24,21 +34,11 @@ name_aliases:
     publication_date: '2022-10-20'
     number_title: 2022/1985 (OJ L272 I)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
-- whole_name: مرکز تحقیقات صنایع هوایی شاهد
-  name_language: FA
+- whole_name: Centrul de cercetare al Shahed  Aviation Industries
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '145204'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-20'
-    number_title: 2022/1985 (OJ L272 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
-- whole_name: Shahed Aviation  Industries Kutatóközpont
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '145211'
+  logical_id: '145210'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-20'
@@ -65,31 +65,31 @@ name_aliases:
     publication_date: '2022-10-20'
     number_title: 2022/1985 (OJ L272 I)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
+- whole_name: مرکز تحقیقات صنایع هوایی شاهد
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '145204'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-20'
+    number_title: 2022/1985 (OJ L272 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
+- whole_name: Shahed Aviation  Industries Kutatóközpont
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '145211'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-20'
+    number_title: 2022/1985 (OJ L272 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
 - whole_name: Indústrias de Aviação Shahed
   name_language: PT
   strong: true
   regulation_language: en
   logical_id: '145209'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-20'
-    number_title: 2022/1985 (OJ L272 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
-- whole_name: Centrul de cercetare al Shahed  Aviation Industries
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '145210'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-20'
-    number_title: 2022/1985 (OJ L272 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1985
-- whole_name: Centro de  Investigação das Indústrias de  Aviação Shahed
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '145208'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-20'

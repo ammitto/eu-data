@@ -14,35 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Cheikh ould Mohamed Salec
-  last_name: OULD ABED
-  whole_name: Cheikh ould Mohamed Salec OULD ABED
+- first_name: Hamza
+  last_name: NITRIK
+  whole_name: Hamza NITRIK
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '141419'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- first_name: Salem ould
-  last_name: BREIHMATT
-  whole_name: Salem ould BREIHMATT
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141420'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- whole_name: Abu Hamza al-Shanqiti
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141418'
+  logical_id: '141415'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'
@@ -68,23 +46,45 @@ name_aliases:
     publication_date: '2022-06-20'
     number_title: 2022/949 (OJ L164 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
-- first_name: Hamza
-  last_name: NITRIK
-  whole_name: Hamza NITRIK
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141415'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-20'
-    number_title: 2022/949 (OJ L164 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
 - whole_name: Abu Hamza al-Chinguetti
   gender: M
   strong: true
   regulation_language: en
   logical_id: '141414'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- whole_name: Abu Hamza al-Shanqiti
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141418'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- first_name: Cheikh ould Mohamed Salec
+  last_name: OULD ABED
+  whole_name: Cheikh ould Mohamed Salec OULD ABED
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141419'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-20'
+    number_title: 2022/949 (OJ L164 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
+- first_name: Salem ould
+  last_name: BREIHMATT
+  whole_name: Salem ould BREIHMATT
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141420'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'
@@ -103,11 +103,11 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1984
+  year: 1978
   country_iso2_code: MR
   country_description: MAURITANIA
   regulation_language: en
-  logical_id: '141422'
+  logical_id: '141421'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'
@@ -115,11 +115,11 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0949
 - circa: false
   calendar_type: GREGORIAN
-  year: 1978
+  year: 1984
   country_iso2_code: MR
   country_description: MAURITANIA
   regulation_language: en
-  logical_id: '141421'
+  logical_id: '141422'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-20'

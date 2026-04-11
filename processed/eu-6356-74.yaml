@@ -14,11 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Olga Nikolaevna  CHEMODANOVA
+- whole_name: Olga Nikolajevna TJEMODANOVA
   gender: F
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '129950'
+  logical_id: '130702'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -35,17 +36,20 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Olga Nikolajevna TJEMODANOVA
+- whole_name: Volha Mikalaeuna  CHAMADANAVA
+  function: Former Press Secretary of the Ministry of Internal Affairs of Belarus;
+    Head of the Main Directorate for Ideology and Youth of the Minsk City Executive
+    Committee
   gender: F
-  name_language: SV
+  title: Colonel
   strong: true
   regulation_language: en
-  logical_id: '130702'
+  logical_id: '129951'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - whole_name: Ольга Николаевна  ЧЕМОДАНОВА
   gender: F
   name_language: RU
@@ -68,20 +72,16 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Volha Mikalaeuna  CHAMADANAVA
-  function: Former Press Secretary of the Ministry of Internal Affairs of Belarus;
-    Head of the Main Directorate for Ideology and Youth of the Minsk City Executive
-    Committee
+- whole_name: Olga Nikolaevna  CHEMODANOVA
   gender: F
-  title: Colonel
   strong: true
   regulation_language: en
-  logical_id: '129951'
+  logical_id: '129950'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

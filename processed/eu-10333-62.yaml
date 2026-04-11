@@ -14,16 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dmitriy
-  middle_name: Aleksandrovich
-  last_name: PANTUS
-  whole_name: Dmitriy Aleksandrovich PANTUS
-  function: Chairman of the State Authority for Military Industry of  Belarus
+- first_name: Дмитрий
+  middle_name: Александрович
+  last_name: ПАНТУС
+  whole_name: Дмитрий Александрович ПАНТУС
   gender: M
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '154573'
+  logical_id: '154570'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -43,15 +42,30 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Дмитрий
-  middle_name: Александрович
-  last_name: ПАНТУС
-  whole_name: Дмитрий Александрович ПАНТУС
+- first_name: Dmitriy
+  middle_name: Aleksandrovich
+  last_name: PANTUS
+  whole_name: Dmitriy Aleksandrovich PANTUS
+  function: Chairman of the State Authority for Military Industry of  Belarus
   gender: M
-  name_language: BE
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '154570'
+  logical_id: '154573'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- first_name: Дзмітрый
+  middle_name: Аляксандравіч
+  last_name: ПАНТУС
+  whole_name: Дзмітрый Аляксандравіч ПАНТУС
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '154571'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -80,20 +94,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155248'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Дзмітрый
-  middle_name: Аляксандравіч
-  last_name: ПАНТУС
-  whole_name: Дзмітрый Аляксандравіч ПАНТУС
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '154571'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

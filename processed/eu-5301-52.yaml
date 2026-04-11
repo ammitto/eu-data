@@ -14,12 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Sergej Andrejevitj DANILENKO
+- first_name: Сергей
+  middle_name: Андреевич
+  last_name: ДАНИЛЕНКО
+  whole_name: Сергей Андреевич ДАНИЛЕНКО
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '137459'
+  logical_id: '121789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'
@@ -39,14 +41,12 @@ name_aliases:
     publication_date: '2022-03-11'
     number_title: 2022/408 (OJ L84)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- first_name: Сергей
-  middle_name: Андреевич
-  last_name: ДАНИЛЕНКО
-  whole_name: Сергей Андреевич ДАНИЛЕНКО
+- whole_name: Sergej Andrejevitj DANILENKO
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '121789'
+  logical_id: '137459'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'

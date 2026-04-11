@@ -14,17 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Empresa unitária de investigação e produção “Scientific and Technical
-    Center ‘LEMT’ BelOMO”
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '177189'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: Науково-виробниче унітарне підприємство “Науково-технічний центр ‘ЛЕМТ’
     БєлОМО”
   name_language: RU
@@ -47,23 +36,34 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: badawczo-produkcyjne przedsiębiorstwo unitarne »Centrum Naukowo-Techniczne
-    ‘LEMT’ BelOMO«
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '177190'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: A BelOMO Kutatási és Termelési Központosított Vállalat »’LEMT’ Tudományos
     és Műszaki Központja«
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '177191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Empresa unitária de investigação e produção “Scientific and Technical
+    Center ‘LEMT’ BelOMO”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177189'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: badawczo-produkcyjne przedsiębiorstwo unitarne »Centrum Naukowo-Techniczne
+    ‘LEMT’ BelOMO«
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '177190'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

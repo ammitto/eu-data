@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Anzhelika
-  middle_name: Egorovna
-  last_name: GLAZKOVA
-  whole_name: Anzhelika Egorovna GLAZKOVA
-  function: Member of the State Duma
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '133914'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Анжелика
   middle_name: Егоровна
   last_name: ГЛАЗКОВА
@@ -47,6 +33,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143834'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Anzhelika
+  middle_name: Egorovna
+  last_name: GLAZKOVA
+  whole_name: Anzhelika Egorovna GLAZKOVA
+  function: Member of the State Duma
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '133914'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

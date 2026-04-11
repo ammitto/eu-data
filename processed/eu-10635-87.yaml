@@ -14,33 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrej
-  last_name: Tarasevič
-  whole_name: Andrej Tarasevič
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '157012'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Andrej
-  middle_name: Ramanavič
-  last_name: TARASEVIČ
-  whole_name: Andrej Ramanavič TARASEVIČ
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157011'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Andrei
   middle_name: Ramanavich
   last_name: TARASEVICH
@@ -51,6 +24,61 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156707'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Andrei
+  middle_name: Romanovich
+  last_name: TARASEVICH
+  whole_name: Andrei Romanovich TARASEVICH
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156706'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Андрей
+  middle_name: Романович
+  last_name: ТАРАСЕВИЧ
+  whole_name: Андрей Романович ТАРАСЕВИЧ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156705'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Андрэй
+  middle_name: Раманавіч
+  last_name: ТАРАСЕВІЧ
+  whole_name: Андрэй Раманавіч ТАРАСЕВІЧ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '156704'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Andrej
+  last_name: Tarasevič
+  whole_name: Andrej Tarasevič
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '157012'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -84,43 +112,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Андрэй
-  middle_name: Раманавіч
-  last_name: ТАРАСЕВІЧ
-  whole_name: Андрэй Раманавіч ТАРАСЕВІЧ
+- first_name: Andrej
+  middle_name: Ramanavič
+  last_name: TARASEVIČ
+  whole_name: Andrej Ramanavič TARASEVIČ
   gender: M
-  name_language: BE
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '156704'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Андрей
-  middle_name: Романович
-  last_name: ТАРАСЕВИЧ
-  whole_name: Андрей Романович ТАРАСЕВИЧ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156705'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Andrei
-  middle_name: Romanovich
-  last_name: TARASEVICH
-  whole_name: Andrei Romanovich TARASEVICH
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156706'
+  logical_id: '157011'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

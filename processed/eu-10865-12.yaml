@@ -34,21 +34,11 @@ name_aliases:
     publication_date: '2023-12-11'
     number_title: 2023/2793 (OJ L11122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
-- whole_name: Sarmad Electronic Sepahan
-  name_language: EN
+- whole_name: Société Sarmad Electronic Sepahan
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '159264'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-11'
-    number_title: 2023/2793 (OJ L11122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
-- whole_name: Sarmad Electronics
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159265'
+  logical_id: '159283'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'
@@ -64,11 +54,21 @@ name_aliases:
     publication_date: '2023-12-11'
     number_title: 2023/2793 (OJ L11122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
-- whole_name: Société Sarmad Electronic Sepahan
-  name_language: FR
+- whole_name: Sarmad Electronics
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159283'
+  logical_id: '159265'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-11'
+    number_title: 2023/2793 (OJ L11122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302793
+- whole_name: Sarmad Electronic Sepahan
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159264'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-11'

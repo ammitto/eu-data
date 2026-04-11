@@ -14,31 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Limited Liability Company “Rukhservomotor”
+- whole_name: TAA Ruchservamator
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176838'
+  logical_id: '176840'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: TAA Рухсерваматор
-  name_language: BE
+- whole_name: OOO Ruchservomotor
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: OOO Рухсервомотор
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176836'
+  logical_id: '176841'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -59,11 +49,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: OOO Ruchservomotor
-  name_language: EN
+- whole_name: "»Rukhservomotor« Korlátolt Felelősségű Társaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '176841'
+  logical_id: '177202'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -79,31 +69,41 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: OOO Рухсервомотор
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176836'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: TAA Рухсерваматор
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '176837'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Limited Liability Company “Rukhservomotor”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176838'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
 - whole_name: OOO Rukhservomotor
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '176839'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: TAA Ruchservamator
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176840'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: "»Rukhservomotor« Korlátolt Felelősségű Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177202'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

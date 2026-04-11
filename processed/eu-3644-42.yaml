@@ -14,24 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sergey
-  middle_name: Pavlovych
-  last_name: TSEKOV
-  whole_name: Sergey Pavlovych TSEKOV
-  function: Vice Speaker of the Verkhovna Rada of Crimea; former member of the Federation
-    Council of the Russian Federation from the so-called “Republic of Crimea”. He
-    is currently First Deputy Chairman of the State Council of the so-called “Republic
-    of Crimea”
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17693'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Сергей
   middle_name: Павлович
   last_name: ЦЕКОВ
@@ -87,6 +69,24 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Sergey
+  middle_name: Pavlovych
+  last_name: TSEKOV
+  whole_name: Sergey Pavlovych TSEKOV
+  function: Vice Speaker of the Verkhovna Rada of Crimea; former member of the Federation
+    Council of the Russian Federation from the so-called “Republic of Crimea”. He
+    is currently First Deputy Chairman of the State Council of the so-called “Republic
+    of Crimea”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '17693'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - first_name: Sergej
   last_name: Cekov
   whole_name: Sergej Cekov
@@ -114,22 +114,6 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 birthdates:
-- birthdate: '1953-08-28'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 28
-  month_of_year: 8
-  year: 1953
-  city: Simferopol
-  country_iso2_code: UA
-  country_description: UKRAINE
-  regulation_language: en
-  logical_id: '122833'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - birthdate: '1953-09-28'
   circa: false
   calendar_type: GREGORIAN
@@ -141,6 +125,22 @@ birthdates:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '122834'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- birthdate: '1953-08-28'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 28
+  month_of_year: 8
+  year: 1953
+  city: Simferopol
+  country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '122833'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

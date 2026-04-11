@@ -14,33 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Nikolaj Dmitrijevitj PESKOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '141373'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Николай Дмитриевич ЧОУЛЗ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '141343'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: Nikolay Dmitrievich PESKOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -72,6 +51,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141346'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Nikolay Dmitrievich PESKOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141347'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Nikolaj Dmitrijevitj PESKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '141373'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

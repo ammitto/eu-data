@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Augustin Ryarasa Migabo
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173885'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2065(OJ L202402065)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
 - whole_name: Augustin MIGABO
   function: Deputy Commander of the Special Force Command of the Rwanda Defence Force
     (RDF)
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173886'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2065(OJ L202402065)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
+- whole_name: Augustin Ryarasa Migabo
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173885'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

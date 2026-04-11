@@ -14,11 +14,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: 26165-ös katonai egység
+- whole_name: Az Oroszországi Föderáció fegyveres erői vezérkara Főigazgatóságának
+    (GU/GRU) 85. Különleges Szolgálati Főközpontja (GTsSS)
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '165495'
+  logical_id: '165496'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -30,16 +31,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165523'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: militaire eenheid 26165
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '165499'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -94,66 +85,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165487'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: military unit 26165
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165221'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Strontium
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165461'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Pawn Storm
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165462'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Sofacy Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165463'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Fancy Bear
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '165464'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: vojenská jednotka 26165
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '165549'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -349,12 +280,81 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Az Oroszországi Föderáció fegyveres erői vezérkara Főigazgatóságának
-    (GU/GRU) 85. Különleges Szolgálati Főközpontja (GTsSS)
+- whole_name: militaire eenheid 26165
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '165499'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: military unit 26165
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165221'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Strontium
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165461'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Pawn Storm
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165462'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Sofacy Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165463'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Fancy Bear
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '165464'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: 26165-ös katonai egység
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '165496'
+  logical_id: '165495'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: vojenská jednotka 26165
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '165549'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -386,6 +386,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165518'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: 85-и Главен център за специални услуги (ГЦСУ) към Главното управление
+    на Генералния щаб на Въоръжените сили на Руската федерация (ГУ/ГРУ)
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '165519'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -514,17 +525,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165492'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: 85-и Главен център за специални услуги (ГЦСУ) към Главното управление
-    на Генералния щаб на Въоръжените сили на Руската федерация (ГУ/ГРУ)
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '165519'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'

@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: MACHINE BUILDING COMPANY “VITYAZ” S.A
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '169970'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - whole_name: COMPAÑÍA DE FABRICACIÓN DE MAQUINARIA  “VITYAZ”
   name_language: ES
   strong: true
@@ -49,6 +39,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169896'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: MACHINE BUILDING COMPANY “VITYAZ” S.A
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '169970'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

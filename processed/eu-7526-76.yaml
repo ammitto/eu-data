@@ -14,11 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ольга Владимировна СКАБЕЕВА
+- whole_name: Olga Vladimirovna Skabejeva
   gender: F
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '136102'
+  logical_id: '136225'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-28'
@@ -37,23 +38,22 @@ name_aliases:
     publication_date: '2022-02-28'
     number_title: 2022/336 (OJ L58)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
+- whole_name: Ольга Владимировна СКАБЕЕВА
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '136102'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-28'
+    number_title: 2022/336 (OJ L58)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
 - whole_name: Olga Vladimirovna SKABEJEVA
   gender: F
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '136226'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-28'
-    number_title: 2022/336 (OJ L58)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
-- whole_name: Olga Vladimirovna Skabejeva
-  gender: F
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '136225'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-28'

@@ -14,27 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Iran Saffron Company
-  function: Acting on behalf of Yasa Part.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '8174'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Iran  Saffron
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169678'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: Iran Safron
   name_language: EN
   strong: true
@@ -80,6 +59,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169683'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Iran Saffron Company
+  function: Acting on behalf of Yasa Part.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '8174'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Iran  Saffron
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169678'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

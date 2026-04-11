@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Madžíd
-  last_name: Chansárí
-  whole_name: Madžíd Chansárí
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '169623'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-28'
-    number_title: 2025/1559 (OJ L202501559)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501559
 - first_name: Majid
   last_name: KHANSARI
   whole_name: Majid KHANSARI
@@ -39,6 +26,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14800'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-28'
+    number_title: 2025/1559 (OJ L202501559)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501559
+- first_name: Madžíd
+  last_name: Chansárí
+  whole_name: Madžíd Chansárí
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '169623'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-28'

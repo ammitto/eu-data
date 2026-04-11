@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Na’im Jasem
+  last_name: SULEIMAN
+  whole_name: Na’im Jasem SULEIMAN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '17366'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - whole_name: نعيم جاسم سليمان
   gender: M
   name_language: AR
@@ -53,14 +66,14 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Na’im Jasem
+- first_name: Naeem Jasem
   last_name: SULEIMAN
-  whole_name: Na’im Jasem SULEIMAN
+  whole_name: Naeem Jasem SULEIMAN
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '17366'
+  logical_id: '17360'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -87,19 +100,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17364'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Naeem Jasem
-  last_name: SULEIMAN
-  whole_name: Naeem Jasem SULEIMAN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17360'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Igor Olegovitj SJTJOGOLEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '135995'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/332 (OJ L53)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
 - first_name: Igor
   middle_name: Olegovich
   last_name: SHCHYOGOLEV
@@ -44,17 +55,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Igor Olegovitj SJTJOGOLEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '135995'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/332 (OJ L53)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.053.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A053%3ATOC
 birthdates:
 - birthdate: '1965-11-10'
   circa: false

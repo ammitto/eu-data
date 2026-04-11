@@ -14,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad anónima Ural Plant of Transport Mechanical Engineering
-  name_language: ES
+- whole_name: JSC URAL PLANT OF TRANSPORT MECHANICAL ENGINEERING
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160705'
+  logical_id: '159997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: S.A. USINE D’INGÉNIERIE MÉCANIQUE DES TRANSPORTS DE L’OURAL
-  name_language: FR
+- whole_name: Uralský závod dopravního strojírenství, a. s.
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160570'
+  logical_id: '160961'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -64,21 +64,21 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: URÁLI KÖZLEKEDÉSI GÉPGYÁR RT.
-  name_language: HU
+- whole_name: Uraltransmaš
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160963'
+  logical_id: '160960'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC URAL PLANT OF TRANSPORT MECHANICAL ENGINEERING
-  name_language: EN
+- whole_name: sociedad anónima Ural Plant of Transport Mechanical Engineering
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '159997'
+  logical_id: '160705'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -94,21 +94,21 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Uraltransmaš
-  name_language: CS
+- whole_name: URÁLI KÖZLEKEDÉSI GÉPGYÁR RT.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '160960'
+  logical_id: '160963'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Uralský závod dopravního strojírenství, a. s.
-  name_language: CS
+- whole_name: S.A. USINE D’INGÉNIERIE MÉCANIQUE DES TRANSPORTS DE L’OURAL
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '160961'
+  logical_id: '160570'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
