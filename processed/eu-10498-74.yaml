@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Денис
+  middle_name: Валерьевич
+  last_name: ТЮРИН
+  whole_name: Денис Валерьевич ТЮРИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '155815'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
 - first_name: Denis
   middle_name: Valerievich
   last_name: TYURIN
@@ -44,19 +58,6 @@ name_aliases:
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
 - first_name: Denis
-  last_name: Ťurin
-  whole_name: Denis Ťurin
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156631'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Denis
   middle_name: Valerievič
   last_name: ŤURIN
   whole_name: Denis Valerievič ŤURIN
@@ -70,15 +71,14 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Денис
-  middle_name: Валерьевич
-  last_name: ТЮРИН
-  whole_name: Денис Валерьевич ТЮРИН
+- first_name: Denis
+  last_name: Ťurin
+  whole_name: Denis Ťurin
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '155815'
+  logical_id: '156631'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

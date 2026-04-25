@@ -17,17 +17,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abdul Ghaffar
-  last_name: Qureshi
-  whole_name: Abdul Ghaffar Qureshi
-  strong: true
-  regulation_language: en
-  logical_id: '5978'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - whole_name: Abdul Ghafar Qurishi Abdul Ghani
   function: Repatriation Attaché Taliban ‘Embassy’ Islamabad, Pakistan.
   title: Maulavi
@@ -39,6 +28,17 @@ name_aliases:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- first_name: Abdul Ghaffar
+  last_name: Qureshi
+  whole_name: Abdul Ghaffar Qureshi
+  strong: true
+  regulation_language: en
+  logical_id: '5978'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -52,12 +52,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1967
+  year: 1970
   city: Turshut village, Warduj District, Takhar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1821'
+  logical_id: '1820'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -65,12 +65,12 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  year: 1970
+  year: 1967
   city: Turshut village, Warduj District, Takhar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1820'
+  logical_id: '1821'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -89,21 +89,21 @@ addresses:
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 identifications:
-- identification_type_code: id
-  number: '55130'
-  country_iso2_code: AF
-  regulation_language: en
-  logical_id: '770'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - identification_type_code: passport
   number: D 000933
   country_iso2_code: AF
   regulation_language: en
   logical_id: '781'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- identification_type_code: id
+  number: '55130'
+  country_iso2_code: AF
+  regulation_language: en
+  logical_id: '770'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Salomon
-  last_name: TOKOLONGA
-  whole_name: Salomon TOKOLONGA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156591'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1564 (OJ L190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
 - first_name: Simon
   last_name: TOKOLONGA
   whole_name: Simon TOKOLONGA
@@ -37,6 +24,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156592'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1564 (OJ L190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
+- first_name: Salomon
+  last_name: TOKOLONGA
+  whole_name: Salomon TOKOLONGA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156591'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

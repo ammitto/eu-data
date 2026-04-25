@@ -14,24 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abdul Manan
-  last_name: Agha
-  whole_name: Abdul Manan Agha
-  title: Haji
+- whole_name: Saiyid Abd al-Man
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '1213'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Abdul Manan
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '1214'
+  logical_id: '17520'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -47,21 +34,34 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Saiyid Abd al-Man
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17520'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - whole_name: Abdul Man’am Saiyid
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '1215'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Abdul Manan
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '1214'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- first_name: Abdul Manan
+  last_name: Agha
+  whole_name: Abdul Manan Agha
+  title: Haji
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '1213'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

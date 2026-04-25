@@ -27,17 +27,20 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Julija Aleksandrovna BELECHOVA
+- first_name: Юлия
+  middle_name: Александровна
+  last_name: БЕЛЕХОВА
+  whole_name: Юлия Александровна БЕЛЕХОВА
   gender: F
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151172'
+  logical_id: '150737'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Yulia
   middle_name: Alexandrovna
   last_name: BELEKHOVA
@@ -57,20 +60,17 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Юлия
-  middle_name: Александровна
-  last_name: БЕЛЕХОВА
-  whole_name: Юлия Александровна БЕЛЕХОВА
+- whole_name: Julija Aleksandrovna BELECHOVA
   gender: F
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '150737'
+  logical_id: '151172'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

@@ -15,23 +15,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Mubarak
-  middle_name: Mishkhis Sanad
-  last_name: Al-Bathali
-  whole_name: Mubarak Mishkhis Sanad Al-Bathali
+  middle_name: Mushakhas Sanad
+  last_name: Mubarak Al-Bathali
+  whole_name: Mubarak Mushakhas Sanad Mubarak Al-Bathali
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6143'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Abu Abdulrahman
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '7732'
+  logical_id: '6142'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -48,13 +38,13 @@ name_aliases:
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - first_name: Mubarak
-  middle_name: Mushakhas Sanad
-  last_name: Mubarak Al-Bathali
-  whole_name: Mubarak Mushakhas Sanad Mubarak Al-Bathali
+  middle_name: Mishkhis Sanad
+  last_name: Al-Bathali
+  whole_name: Mubarak Mishkhis Sanad Al-Bathali
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6142'
+  logical_id: '6143'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -83,14 +73,14 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Mobarak
-  middle_name: Meshkhas Sanad
-  last_name: Al-Bthaly
-  whole_name: Mobarak Meshkhas Sanad Al-Bthaly
+- first_name: Mubarak
+  middle_name: Mishkhas Sanad
+  last_name: Al-Bathali
+  whole_name: Mubarak Mishkhas Sanad Al-Bathali
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6147'
+  logical_id: '6145'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -109,14 +99,24 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Mubarak
-  middle_name: Mishkhas Sanad
-  last_name: Al-Bathali
-  whole_name: Mubarak Mishkhas Sanad Al-Bathali
+- first_name: Mobarak
+  middle_name: Meshkhas Sanad
+  last_name: Al-Bthaly
+  whole_name: Mobarak Meshkhas Sanad Al-Bthaly
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6145'
+  logical_id: '6147'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Abu Abdulrahman
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '7732'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -161,16 +161,6 @@ addresses:
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 identifications:
-- identification_type_code: passport
-  number: '002955916'
-  country_iso2_code: KW
-  regulation_language: en
-  logical_id: '433'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-02-09'
-    number_title: 110/2010 (OJ L36)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
 - identification_type_code: id
   number: '26112240061'
   country_iso2_code: KW
@@ -191,3 +181,13 @@ identifications:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- identification_type_code: passport
+  number: '002955916'
+  country_iso2_code: KW
+  regulation_language: en
+  logical_id: '433'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-02-09'
+    number_title: 110/2010 (OJ L36)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF

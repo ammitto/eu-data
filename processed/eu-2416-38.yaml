@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: عبد الفتاح قدسية
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '124383'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - first_name: Abd al-Fatah
   last_name: QUDSIYAH
   whole_name: Abd al-Fatah QUDSIYAH
@@ -42,6 +31,17 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: عبد الفتاح قدسية
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124383'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 birthdates:
 - birthdate: '1953-02-04'
   circa: false

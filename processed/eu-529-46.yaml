@@ -24,44 +24,6 @@ name_aliases:
     publication_date: '2008-04-25'
     number_title: 374/2008 (OJ L113)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:113:0015:0020:EN:PDF
-- whole_name: Ozbrojená islamská skupina
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '6344'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-04-25'
-    number_title: 374/2008 (OJ L113)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:113:0015:0020:EN:PDF
-- whole_name: Armed Islamic Group
-  strong: true
-  regulation_language: en
-  logical_id: '987'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Въоръжена ислямска група
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '6341'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-04-25'
-    number_title: 374/2008 (OJ L113)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:113:0015:0020:EN:PDF
-- whole_name: Groupe Islamique Armé
-  strong: true
-  regulation_language: en
-  logical_id: '990'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-18'
-    number_title: 34/2012 (OJ L15)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
 - whole_name: Grupp Islamiku Armat
   name_language: MT
   strong: true
@@ -72,15 +34,16 @@ name_aliases:
     publication_date: '2008-04-25'
     number_title: 374/2008 (OJ L113)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:113:0015:0020:EN:PDF
-- whole_name: Al Jamm'ah Al Islamiah Al-Musallah
+- whole_name: Въоръжена ислямска група
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '989'
+  logical_id: '6341'
   regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+  - regulation_type: amendment
+    publication_date: '2008-04-25'
+    number_title: 374/2008 (OJ L113)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:113:0015:0020:EN:PDF
 - whole_name: Groupe islamique armé
   name_language: FR
   strong: true
@@ -121,10 +84,47 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Ozbrojená islamská skupina
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '6344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-04-25'
+    number_title: 374/2008 (OJ L113)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:113:0015:0020:EN:PDF
 - whole_name: GIA
   strong: true
   regulation_language: en
   logical_id: '988'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Groupe Islamique Armé
+  strong: true
+  regulation_language: en
+  logical_id: '990'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-18'
+    number_title: 34/2012 (OJ L15)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
+- whole_name: Al Jamm'ah Al Islamiah Al-Musallah
+  strong: true
+  regulation_language: en
+  logical_id: '989'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Armed Islamic Group
+  strong: true
+  regulation_language: en
+  logical_id: '987'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'

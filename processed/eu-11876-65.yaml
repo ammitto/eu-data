@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО Илиадис
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '167667'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-28'
-    number_title: 2024/1842 (OJ L28062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401842
 - whole_name: JSC ILIADIS
   function: a company based in Russia
   name_language: EN
@@ -35,21 +25,31 @@ name_aliases:
     publication_date: '2024-06-28'
     number_title: 2024/1842 (OJ L28062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401842
-- whole_name: sociedad anónima Iliadis
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '167757'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-28'
-    number_title: 2024/1842 (OJ L28062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401842
 - whole_name: ILIADIS Rt.
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '167763'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-28'
+    number_title: 2024/1842 (OJ L28062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401842
+- whole_name: АО Илиадис
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '167667'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-28'
+    number_title: 2024/1842 (OJ L28062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401842
+- whole_name: sociedad anónima Iliadis
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '167757'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-28'

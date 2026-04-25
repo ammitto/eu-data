@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Komunistička partija Filipina
-  name_language: HR
+- whole_name: Filippiinien kommunistinen puolue
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '123189'
+  logical_id: '123169'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-01-14'
@@ -34,106 +34,6 @@ name_aliases:
     publication_date: '2023-07-21'
     number_title: 2023/1505 (OJ L184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Páirtí Cumannach na nOileán Filipíneach
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '123191'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Nouvelle armée du peuple
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '123192'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: NPA, Philippines
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '351'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: New People's Army
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '456'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Communist Party of the Philippines
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '4282'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Nya folkarmén
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '123166'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Filippinernas kommunistparti
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '123167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Uusi kansanarmeija
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '123168'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Filippiinien kommunistinen puolue
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '123169'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Nova ljudska vojska
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '123170'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
 - whole_name: Komunistična stranka Filipinov
   name_language: SL
   strong: true
@@ -224,96 +124,46 @@ name_aliases:
     publication_date: '2020-01-14'
     number_title: 2020/19 (OJ L8I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: l-Armata l-Ġdida tal-Poplu
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '123180'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Il-Partit Komunista tal-Filippini
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '123181'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Fülöp-szigeteki Kommunista Párt
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '123182'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Új Néphadsereg
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '123183'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Naująją liaudies armiją
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '123184'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Filipinų komunistų partija
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '123185'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Nuovo esercito popolare
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '123186'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Partito comunista delle Filippine
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '123187'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Nova narodna vojska
+- whole_name: Komunistička partija Filipina
   name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '123188'
+  logical_id: '123189'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Arm Nua an Phobail - APN
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '123190'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Páirtí Cumannach na nOileán Filipíneach
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '123191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Nouvelle armée du peuple
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '123192'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
 - whole_name: Parti communiste des Philippines
   name_language: FR
   strong: true
@@ -454,6 +304,156 @@ name_aliases:
     publication_date: '2020-01-14'
     number_title: 2020/19 (OJ L8I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: NPA, Philippines
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '351'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: New People's Army
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '456'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Communist Party of the Philippines
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '4282'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Nya folkarmén
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '123166'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Filippinernas kommunistparti
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '123167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Uusi kansanarmeija
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '123168'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: l-Armata l-Ġdida tal-Poplu
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '123180'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Il-Partit Komunista tal-Filippini
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '123181'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Fülöp-szigeteki Kommunista Párt
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '123182'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Új Néphadsereg
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '123183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Naująją liaudies armiją
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '123184'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Filipinų komunistų partija
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '123185'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Nuovo esercito popolare
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '123186'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Partito comunista delle Filippine
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '123187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Nova narodna vojska
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '123188'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
 - whole_name: Nieuw Volksleger
   name_language: NL
   strong: true
@@ -464,11 +464,11 @@ name_aliases:
     publication_date: '2023-07-21'
     number_title: 2023/1505 (OJ L184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Arm Nua an Phobail - APN
-  name_language: GA
+- whole_name: Nova ljudska vojska
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '123190'
+  logical_id: '123170'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-01-14'

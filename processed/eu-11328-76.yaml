@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Azia Shipping Company LLC
-  name_language: EN
+- whole_name: Azia Hajózási Társaság
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '163125'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: sociedad de responsabilidad limitada Azia Shipping Company
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '163911'
+  logical_id: '163951'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -54,26 +44,6 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Azia Hajózási Társaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163951'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Asia Hajózási Vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163950'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Asia Shipping Company
   name_language: EN
   strong: true
@@ -89,6 +59,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163124'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Azia Shipping Company LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163125'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: sociedad de responsabilidad limitada Azia Shipping Company
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '163911'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Asia Hajózási Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163950'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -14,16 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Nikolai
-  middle_name: Vladimirovich
-  last_name: KLEIN
-  whole_name: Nikolai Vladimirovich KLEIN
-  function: Director of JSC MZIK
+- whole_name: Николай Владимирович КЛЕЙН
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '162999'
+  logical_id: '162997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -43,12 +39,16 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Nikolaj Klejn
+- first_name: Nikolai
+  middle_name: Vladimirovich
+  last_name: KLEIN
+  whole_name: Nikolai Vladimirovich KLEIN
+  function: Director of JSC MZIK
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163718'
+  logical_id: '162999'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -65,12 +65,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Николай Владимирович КЛЕЙН
+- whole_name: Nikolaj Klejn
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '162997'
+  logical_id: '163718'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

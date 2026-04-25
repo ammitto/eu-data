@@ -17,6 +17,19 @@ subject_type:
 name_aliases:
 - first_name: Floribert
   middle_name: Ngabu
+  last_name: Ndjabu
+  whole_name: Floribert Ngabu Ndjabu
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110788'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
+- first_name: Floribert
+  middle_name: Ngabu
   last_name: Njabu
   whole_name: Floribert Ngabu Njabu
   gender: M
@@ -40,20 +53,22 @@ name_aliases:
     number_title: 1824/2005 (OJ L294)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:294:0003:0004:EN:PDF
 - first_name: Floribert
-  last_name: Ngabu
-  whole_name: Floribert Ngabu
+  last_name: Ndjabu
+  whole_name: Floribert Ndjabu
   strong: true
   regulation_language: en
-  logical_id: '4333'
+  logical_id: '4332'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-11-10'
     number_title: 1824/2005 (OJ L294)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:294:0003:0004:EN:PDF
-- whole_name: Ndjabu
+- first_name: Floribert
+  last_name: Ngabu
+  whole_name: Floribert Ngabu
   strong: true
   regulation_language: en
-  logical_id: '4334'
+  logical_id: '4333'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-11-10'
@@ -69,25 +84,10 @@ name_aliases:
     publication_date: '2017-02-07'
     number_title: 2017/199 (OJ L32)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
-- first_name: Floribert
-  middle_name: Ngabu
-  last_name: Ndjabu
-  whole_name: Floribert Ngabu Ndjabu
-  name_language: EN
+- whole_name: Ndjabu
   strong: true
   regulation_language: en
-  logical_id: '110788'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
-- first_name: Floribert
-  last_name: Ndjabu
-  whole_name: Floribert Ndjabu
-  strong: true
-  regulation_language: en
-  logical_id: '4332'
+  logical_id: '4334'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-11-10'

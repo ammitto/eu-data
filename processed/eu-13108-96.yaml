@@ -14,44 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Fábrica de Tratores de Rodas de Minsk
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '175487'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: MZKT Nyrt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175488'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: ОАО “МЗКТ”
-  strong: true
-  regulation_language: en
-  logical_id: '175489'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: ААТ “МЗКЦ”
-  strong: true
-  regulation_language: en
-  logical_id: '175490'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: MZKT OJSC
   strong: true
   regulation_language: en
@@ -75,6 +37,25 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: ААТ “Мінскі завод колавых цягачоў”
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '175493'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: ОАО “МЗКТ”
+  strong: true
+  regulation_language: en
+  logical_id: '175489'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: ОАО “Минский завод колёсных тягачей”
   name_language: RU
   strong: true
@@ -85,11 +66,30 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: ААТ “Мінскі завод колавых цягачоў”
-  name_language: BE
+- whole_name: MZKT Nyrt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175493'
+  logical_id: '175488'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Fábrica de Tratores de Rodas de Minsk
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '175487'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: ААТ “МЗКЦ”
+  strong: true
+  regulation_language: en
+  logical_id: '175490'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

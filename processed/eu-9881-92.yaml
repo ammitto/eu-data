@@ -14,17 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АКЦИОНЕРНОЕ ОБЩЕСТВО “НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГАЗОРАЗРЯДНЫХ
-    ПРИБОРОВ ‘ПЛАЗМА’”
-  name_language: RU
+- whole_name: AO Plasma
+  function: developer and manufacturer of plasma electronics products in Russia, including
+    gas lasers and systems based on them, information display tools (plasma panels
+    and monitors based on them and other devices), gas-discharge switching devices,
+    and industrial ceramics.
+  title: 'Type of entity: State corporation'
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '150845'
+  logical_id: '150848'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - whole_name: АО “Плазма”
   name_language: RU
   strong: true
@@ -45,21 +49,17 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: AO Plasma
-  function: developer and manufacturer of plasma electronics products in Russia, including
-    gas lasers and systems based on them, information display tools (plasma panels
-    and monitors based on them and other devices), gas-discharge switching devices,
-    and industrial ceramics.
-  title: 'Type of entity: State corporation'
-  name_language: EN
+- whole_name: АКЦИОНЕРНОЕ ОБЩЕСТВО “НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ГАЗОРАЗРЯДНЫХ
+    ПРИБОРОВ ‘ПЛАЗМА’”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '150848'
+  logical_id: '150845'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Plasma SA
   name_language: RO
   strong: true

@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Valerij
-  last_name: Zacharov
-  whole_name: Valerij Zacharov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '159021'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - first_name: Валери
   last_name: Захаров
   whole_name: Валери Захаров
@@ -35,6 +22,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159026'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- first_name: Valerij
+  middle_name: Nikolajevitj
+  last_name: ZAKHAROV
+  whole_name: Valerij Nikolajevitj ZAKHAROV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '132726'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-06'
@@ -86,14 +87,13 @@ name_aliases:
     number_title: 2023/2722 (OJ L05122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - first_name: Valerij
-  middle_name: Nikolajevitj
-  last_name: ZAKHAROV
-  whole_name: Valerij Nikolajevitj ZAKHAROV
+  last_name: Zacharov
+  whole_name: Valerij Zacharov
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '132726'
+  logical_id: '159021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-06'

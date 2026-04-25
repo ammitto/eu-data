@@ -48,21 +48,21 @@ addresses:
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 identifications:
-- identification_type_code: fiscalcode
-  number: '7708619320'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '173901'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - identification_type_code: other
   number: '1067759884598'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '173902'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- identification_type_code: fiscalcode
+  number: '7708619320'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '173901'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

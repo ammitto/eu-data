@@ -111,20 +111,20 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.085.01.0016.01.ENG&toc=OJ:L:2019:085:TOC
 addresses:
 - region: Afghanistan/Pakistan border region
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
+  country_iso2_code: PK
+  country_description: PAKISTAN
   regulation_language: en
-  logical_id: '119816'
+  logical_id: '119817'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-03-27'
     number_title: 2019/507 (OJ L85)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.085.01.0016.01.ENG&toc=OJ:L:2019:085:TOC
 - region: Afghanistan/Pakistan border region
-  country_iso2_code: PK
-  country_description: PAKISTAN
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '119817'
+  logical_id: '119816'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-03-27'

@@ -18,6 +18,29 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Odnorukiy
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106755'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- first_name: Akhmed
+  middle_name: Rajapovich
+  last_name: Chataev
+  whole_name: Akhmed Rajapovich Chataev
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106759'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - whole_name: Elmir Sene
   name_language: EN
   strong: true
@@ -43,29 +66,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106758'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- first_name: Akhmed
-  middle_name: Rajapovich
-  last_name: Chataev
-  whole_name: Akhmed Rajapovich Chataev
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106759'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: Odnorukiy
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106755'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -100,19 +100,19 @@ birthdates:
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 addresses:
-- country_iso2_code: IQ
-  country_description: IRAQ
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '106751'
+  logical_id: '106752'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: IQ
+  country_description: IRAQ
   regulation_language: en
-  logical_id: '106752'
+  logical_id: '106751'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

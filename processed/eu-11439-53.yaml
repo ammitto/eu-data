@@ -15,34 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Михаил
-  middle_name: Юриевич
-  last_name: Птицин
-  whole_name: Михаил Юриевич Птицин
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164581'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Michail
-  middle_name: Jurievič
-  last_name: Pticyn
-  whole_name: Michail Jurievič Pticyn
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164699'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Михаил
   middle_name: Юрьевич
   last_name: ПТИЦЫН
   whole_name: Михаил Юрьевич ПТИЦЫН
@@ -71,6 +43,20 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Михаил
+  middle_name: Юриевич
+  last_name: Птицин
+  whole_name: Михаил Юриевич Птицин
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '164581'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Michail
   middle_name: Jurjevič
   last_name: Pticyn
@@ -80,6 +66,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164624'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Michail
+  middle_name: Jurievič
+  last_name: Pticyn
+  whole_name: Michail Jurievič Pticyn
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '164699'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

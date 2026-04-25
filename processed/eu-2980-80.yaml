@@ -93,22 +93,6 @@ birthdates:
   day_of_month: 19
   month_of_year: 11
   year: 1956
-  city: Bogomol
-  country_iso2_code: MD
-  country_description: MOLDOVA, REPUBLIC OF
-  regulation_language: en
-  logical_id: '122831'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- birthdate: '1956-11-19'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 19
-  month_of_year: 11
-  year: 1956
   region: Slobozia Regio
   place: Vladimirovka
   country_iso2_code: MD
@@ -133,6 +117,22 @@ birthdates:
   country_description: MOLDOVA, REPUBLIC OF
   regulation_language: en
   logical_id: '158021'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- birthdate: '1956-11-19'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 19
+  month_of_year: 11
+  year: 1956
+  city: Bogomol
+  country_iso2_code: MD
+  country_description: MOLDOVA, REPUBLIC OF
+  regulation_language: en
+  logical_id: '122831'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

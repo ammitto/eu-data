@@ -14,37 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»M.A. Kartsevről elnevezett, Számítástechnikai Rendszerekkel Foglalkozó
-    Tudo-mányos Kutatóintézet« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173425'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC “NIIVK IM. M.A. KARTSEV”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172663'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Naukowy instytut badań nad układami komputerowymi im. M. A. Karcewa
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '173353'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Institutul de Cercetare Științifică pentru Complexe Computaționale denumit
     după M.A. Karțev
   name_language: RO
@@ -56,34 +25,43 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Akcinė bendrovė Scientific Research Institute of Computing Complexes
-    Named After M. A. Kartsev
-  name_language: LT
+- whole_name: "»M.A. Kartsevről elnevezett, Szá-mítástechnikai Rendszerekkel Foglalkozó
+    Tudományos Kuta-tóintézet« Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173462'
+  logical_id: '173426'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: dioničko društvo Scientific Research Institute of Computing Complexes
-    Named After M.A. Kartsev
-  name_language: HR
+- whole_name: АО “НИИВК ИМ. М.А. КАРЦЕВА”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '173463'
+  logical_id: '172661'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Dioničko društvo Scientific Re-search Institute of Computing Complexes
-    Named After M.A. Kartsev
-  name_language: HR
+- whole_name: НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ВЫЧИСЛИТЕЛЬНЫХ КОМПЛЕКСОВ ИМ. М.А.
+    КАРЦЕВА
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '173464'
+  logical_id: '172662'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: JSC “NIIVK IM. M.A. KARTSEV”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172663'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -126,33 +104,55 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»M.A. Kartsevről elnevezett, Szá-mítástechnikai Rendszerekkel Foglalkozó
-    Tudományos Kuta-tóintézet« Részvénytársaság"
+- whole_name: Naukowy instytut badań nad układami komputerowymi im. M. A. Karcewa
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '173353'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»M.A. Kartsevről elnevezett, Számítástechnikai Rendszerekkel Foglalkozó
+    Tudo-mányos Kutatóintézet« Rt."
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173426'
+  logical_id: '173425'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ВЫЧИСЛИТЕЛЬНЫХ КОМПЛЕКСОВ ИМ. М.А.
-    КАРЦЕВА
-  name_language: RU
+- whole_name: Dioničko društvo Scientific Re-search Institute of Computing Complexes
+    Named After M.A. Kartsev
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '172662'
+  logical_id: '173464'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: АО “НИИВК ИМ. М.А. КАРЦЕВА”
-  name_language: RU
+- whole_name: Akcinė bendrovė Scientific Research Institute of Computing Complexes
+    Named After M. A. Kartsev
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '172661'
+  logical_id: '173462'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: dioničko društvo Scientific Research Institute of Computing Complexes
+    Named After M.A. Kartsev
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '173463'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

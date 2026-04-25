@@ -14,46 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hussam Muhammad
-  last_name: al-Katerji
-  whole_name: Hussam Muhammad al-Katerji
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119234'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Hussam
-  last_name: AL-QATARJI
-  whole_name: Hussam AL-QATARJI
-  function: CEO of Katerji Group (a.k.a. Al-Qatarji, Al Qatarji Company/Qatirji Company/Khatirji
-    Group/Katerji International Group)
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '119235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Hossam Mohammed
-  last_name: al-Katerji
-  whole_name: Hossam Mohammed al-Katerji
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '119233'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Hossam Muhammad
   last_name: al-Katerji
   whole_name: Hossam Muhammad al-Katerji
@@ -67,14 +27,27 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Hussam Mohammed
+- first_name: Husám
+  last_name: al-Katardží
+  whole_name: Husám al-Katardží
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '166998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Hossam Ahmed
   last_name: al-Katerji
-  whole_name: Hussam Mohammed al-Katerji
+  whole_name: Hossam Ahmed al-Katerji
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '119231'
+  logical_id: '166984'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -137,27 +110,54 @@ name_aliases:
     publication_date: '2019-01-21'
     number_title: 2019/85 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0085&from=EN
-- first_name: Husám
-  last_name: al-Katardží
-  whole_name: Husám al-Katardží
+- first_name: Hussam
+  last_name: AL-QATARJI
+  whole_name: Hussam AL-QATARJI
+  function: CEO of Katerji Group (a.k.a. Al-Qatarji, Al Qatarji Company/Qatirji Company/Khatirji
+    Group/Katerji International Group)
   gender: M
-  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '166998'
+  logical_id: '119235'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Hossam Ahmed
+- first_name: Hussam Muhammad
   last_name: al-Katerji
-  whole_name: Hossam Ahmed al-Katerji
+  whole_name: Hussam Muhammad al-Katerji
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '166984'
+  logical_id: '119234'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Hossam Mohammed
+  last_name: al-Katerji
+  whole_name: Hossam Mohammed al-Katerji
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119233'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Hussam Mohammed
+  last_name: al-Katerji
+  whole_name: Hussam Mohammed al-Katerji
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '119231'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

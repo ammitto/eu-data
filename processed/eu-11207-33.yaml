@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Alexandr Zverev
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164062'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Александр Юрьевич ЗВЕРЕВ
   gender: M
   name_language: RU
@@ -45,6 +34,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162416'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Alexandr Zverev
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164062'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

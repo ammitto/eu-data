@@ -14,34 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aljaksandr Tkačou
+- whole_name: Aliaksandr  Genadzevich  TKACHOU
+  function: Member of the Central Election Commission
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174030'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Александр Геннадьевич ТКАЧЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174031'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Аляксандр Генадзьевіч ТКАЧОЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '174032'
+  logical_id: '174034'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -58,24 +37,34 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Aliaksandr  Genadzevich  TKACHOU
-  function: Member of the Central Election Commission
+- whole_name: Аляксандр Генадзьевіч ТКАЧОЎ
   gender: M
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '174034'
+  logical_id: '174032'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Aljaksandr Tkatšou
+- whole_name: Александр Геннадьевич ТКАЧЕВ
   gender: M
-  name_language: FI
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174028'
+  logical_id: '174031'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Aljaksandr Tkačou
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '174030'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -87,6 +76,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Aljaksandr Tkatšou
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '174028'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

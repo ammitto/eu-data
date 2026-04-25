@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dmitrij
-  middle_name: Jevgenjevitj
-  last_name: SJUGAJEV
-  whole_name: Dmitrij Jevgenjevitj SJUGAJEV
+- first_name: Дмитрий
+  middle_name: Евгеньевич
+  last_name: ШУГАЕВ
+  whole_name: Дмитрий Евгеньевич ШУГАЕВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144658'
+  logical_id: '144488'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -43,15 +43,15 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Дмитрий
-  middle_name: Евгеньевич
-  last_name: ШУГАЕВ
-  whole_name: Дмитрий Евгеньевич ШУГАЕВ
+- first_name: Dmitrij
+  middle_name: Jevgenjevitj
+  last_name: SJUGAJEV
+  whole_name: Dmitrij Jevgenjevitj SJUGAJEV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144488'
+  logical_id: '144658'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Alexandr
+  last_name: Lozickij
+  whole_name: Alexandr Lozickij
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152109'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Александр
   last_name: ЛОЗИЦКИЙ
   whole_name: Александр ЛОЗИЦКИЙ
@@ -62,19 +75,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152130'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Alexandr
-  last_name: Lozickij
-  whole_name: Alexandr Lozickij
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152109'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

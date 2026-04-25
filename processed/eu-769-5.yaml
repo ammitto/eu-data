@@ -17,6 +17,69 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Spen Zrae
+  strong: true
+  regulation_language: en
+  logical_id: '111225'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- whole_name: Mullah Naeem Barech
+  strong: true
+  regulation_language: en
+  logical_id: '111226'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- whole_name: Gul Mohammad Kamran
+  strong: true
+  regulation_language: en
+  logical_id: '16851'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-04'
+    number_title: 1139/2012 (OJ L332)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF
+- whole_name: Naim Berich
+  strong: true
+  regulation_language: en
+  logical_id: '16056'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Mawlawi Gul Mohammad
+  strong: true
+  regulation_language: en
+  logical_id: '15983'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-05-17'
+    number_title: 451/2013 (OJ L133)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:133:0001:0004:EN:PDF
+- whole_name: Haji Ghul Mohammad
+  strong: true
+  regulation_language: en
+  logical_id: '15982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Gul Mohammad
+  strong: true
+  regulation_language: en
+  logical_id: '15981'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - first_name: Mohammad
   middle_name: Naim Barich
   last_name: Khudaidad
@@ -40,51 +103,6 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Gul Mohammad Kamran
-  strong: true
-  regulation_language: en
-  logical_id: '16851'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-04'
-    number_title: 1139/2012 (OJ L332)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF
-- whole_name: Naim Berich
-  strong: true
-  regulation_language: en
-  logical_id: '16056'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Mullah Naeem Barech
-  strong: true
-  regulation_language: en
-  logical_id: '111226'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Spen Zrae
-  strong: true
-  regulation_language: en
-  logical_id: '111225'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Mawlawi Gul Mohammad
-  strong: true
-  regulation_language: en
-  logical_id: '15983'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-05-17'
-    number_title: 451/2013 (OJ L133)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:133:0001:0004:EN:PDF
 - whole_name: Mullah Naimullah
   strong: true
   regulation_language: en
@@ -157,24 +175,6 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Gul Mohammad
-  strong: true
-  regulation_language: en
-  logical_id: '15981'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Haji Ghul Mohammad
-  strong: true
-  regulation_language: en
-  logical_id: '15982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -202,11 +202,24 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1975
-  city: Darvishan, Garmsir District, Helmand Province
+  city: Laki village, Garmsir District, Helmand Province, Afghanistan
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1804'
+  logical_id: '1802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1975
+  city: Lakhi village, Hazarjuft Area, Garmsir District, Helmand Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '1801'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -228,24 +241,11 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1975
-  city: Laki village, Garmsir District, Helmand Province, Afghanistan
+  city: Darvishan, Garmsir District, Helmand Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1975
-  city: Lakhi village, Hazarjuft Area, Garmsir District, Helmand Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1801'
+  logical_id: '1804'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'

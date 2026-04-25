@@ -37,23 +37,23 @@ name_aliases:
     number_title: 2025/1480 (OJ L202501480)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
 addresses:
-- street: Office 320, Emarat Atrium Building,  Business Bay
-  city: Dudai
-  country_iso2_code: AE
-  country_description: UNITED ARAB EMIRATES
-  regulation_language: en
-  logical_id: '177940'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-18'
-    number_title: 2025/1480 (OJ L202501480)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
 - street: Blok 9, Kafory
   city: Khartoum
   country_iso2_code: SD
   country_description: SUDAN
   regulation_language: en
   logical_id: '177941'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-18'
+    number_title: 2025/1480 (OJ L202501480)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
+- street: Office 320, Emarat Atrium Building,  Business Bay
+  city: Dudai
+  country_iso2_code: AE
+  country_description: UNITED ARAB EMIRATES
+  regulation_language: en
+  logical_id: '177940'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-18'

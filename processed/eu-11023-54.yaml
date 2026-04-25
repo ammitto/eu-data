@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: groupe RSB
-  name_language: FR
+- whole_name: Grupo RSB
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '160601'
+  logical_id: '160771'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -74,11 +74,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Grupo RSB
-  name_language: ES
+- whole_name: groupe RSB
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '160771'
+  logical_id: '160601'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

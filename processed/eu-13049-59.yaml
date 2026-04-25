@@ -14,21 +14,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Instituto de investigação de instrumentação espacial
-  name_language: PT
+- whole_name: Акционерно дружество „Научно-изследователски институт по космическо
+    приборостроене“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '175256'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Űrműszerészeti Kutatóintézet Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175257'
+  logical_id: '175259'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -44,22 +35,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Акционерно дружество „Научно-изследователски институт по космическо
-    приборостроене“
-  name_language: BG
+- whole_name: Űrműszerészeti Kutatóintézet Rt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175259'
+  logical_id: '175257'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: AO "НИИ КП"
-  name_language: RU
+- whole_name: Instituto de investigação de instrumentação espacial
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '174950'
+  logical_id: '175256'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -76,12 +66,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Акционерное общество “Научно-Исследовательский Институт Космического
-    Приборостроения”
+- whole_name: AO "НИИ КП"
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174952'
+  logical_id: '174950'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -92,6 +81,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174951'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Акционерное общество “Научно-Исследовательский Институт Космического
+    Приборостроения”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174952'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -110,21 +110,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: fiscalcode
-  number: '7722488005'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174948'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1207700173581'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174949'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
+  number: '7722488005'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174948'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

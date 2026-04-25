@@ -14,56 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC “VPO ‘Tochmash’”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160077'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: "„Vlagyimiri »Tochmash« Termelőtársaság” RT."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160989'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО “Владимирское Производственное Объединение ‘Точмаш’”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '160076'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima VPO Tochmash
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160715'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: "„VPO »Tochmash«” Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160988'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: S.A. “VPO Tochmash”
   name_language: FR
   strong: true
@@ -74,21 +24,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО “ВПО ‘Точмаш’”
-  name_language: RU
+- whole_name: société par actions “Association de production de Vladimir (VPO) — Tochmash”
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '160075'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “Vladimir Production Association ‘Tochmash’”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160078'
+  logical_id: '160586'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -104,11 +44,71 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: société par actions “Association de production de Vladimir (VPO) — Tochmash”
-  name_language: FR
+- whole_name: "„VPO »Tochmash«” Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '160586'
+  logical_id: '160988'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: АО “Владимирское Производственное Объединение ‘Точмаш’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160076'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JSC “Vladimir Production Association ‘Tochmash’”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160078'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JSC “VPO ‘Tochmash’”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160077'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: sociedad anónima VPO Tochmash
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160715'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: АО “ВПО ‘Точмаш’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160075'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: "„Vlagyimiri »Tochmash« Termelőtársaság” RT."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160989'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

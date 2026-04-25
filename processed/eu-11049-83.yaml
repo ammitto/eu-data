@@ -24,26 +24,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: LLC “AK MICROTECH”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160505'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: LLC AKM, OOO, "AK MICROTECH"
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '161204'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: AK MICROTECH Kft.
   name_language: HU
   strong: true
@@ -54,11 +34,31 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: LLC “AK MICROTECH”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160505'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: AKM, OOO,  “AK MICROTECH”
   name_language: LT
   strong: true
   regulation_language: en
   logical_id: '161205'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: LLC AKM, OOO, "AK MICROTECH"
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '161204'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

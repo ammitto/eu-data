@@ -15,14 +15,15 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Oleg
-  middle_name: Michajlovitj
+  middle_name: Mikhaylovich
   last_name: GAZMANOV
-  whole_name: Oleg Michajlovitj GAZMANOV
+  whole_name: Oleg Mikhaylovich GAZMANOV
+  function: Russian musician, member of the Public Council of the Ministry of Defense
+    of the Russian Federation
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144657'
+  logical_id: '144484'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -43,15 +44,14 @@ name_aliases:
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Oleg
-  middle_name: Mikhaylovich
+  middle_name: Michajlovitj
   last_name: GAZMANOV
-  whole_name: Oleg Mikhaylovich GAZMANOV
-  function: Russian musician, member of the Public Council of the Ministry of Defense
-    of the Russian Federation
+  whole_name: Oleg Michajlovitj GAZMANOV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144484'
+  logical_id: '144657'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

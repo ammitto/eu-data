@@ -14,27 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad anónima pública Rostvertol
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '163892'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: A B.N. Slyusarról Elnevezett „Rostvertol” Rosztovi Helikoptergyártó
-    Komplexum Állami Részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '164015'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: PJSC Rostvertol
   name_language: RU
   strong: true
@@ -66,6 +45,16 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Rosvestol
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '162656'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Rostov Helicopter Production Complex Public Joint-Stock Company "Rostvertol"
     Named After B.N. Slyusar PJSC
   name_language: EN
@@ -77,11 +66,22 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Rosvestol
-  name_language: EN
+- whole_name: sociedad anónima pública Rostvertol
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '162656'
+  logical_id: '163892'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: A B.N. Slyusarról Elnevezett „Rostvertol” Rosztovi Helikoptergyártó
+    Komplexum Állami Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '164015'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

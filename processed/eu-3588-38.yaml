@@ -16,13 +16,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Салман
-  last_name: Булгарский
-  whole_name: Салман Булгарский
+- first_name: Ayrat
+  last_name: Nasimovich Vakhitov
+  whole_name: Ayrat Nasimovich Vakhitov
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '109267'
+  logical_id: '109270'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-09'
@@ -40,6 +40,18 @@ name_aliases:
     publication_date: '2016-08-09'
     number_title: 2016/1347 (OJ L 214)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1347&from=EN
+- first_name: Салман
+  last_name: Булгарский
+  whole_name: Салман Булгарский
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109267'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-09'
+    number_title: 2016/1347 (OJ L 214)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1347&from=EN
 - first_name: Айрат
   last_name: Насимович Вахитов
   whole_name: Айрат Насимович Вахитов
@@ -47,18 +59,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '109269'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-09'
-    number_title: 2016/1347 (OJ L 214)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1347&from=EN
-- first_name: Ayrat
-  last_name: Nasimovich Vakhitov
-  whole_name: Ayrat Nasimovich Vakhitov
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109270'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-09'

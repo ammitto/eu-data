@@ -14,19 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Adam
+- first_name: Aly
+  middle_name: Soliman Massoud
+  last_name: Abdul Sayed
+  whole_name: Aly Soliman Massoud Abdul Sayed
   strong: true
   regulation_language: en
-  logical_id: '5629'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-06-30'
-    number_title: 760/2007 (OJ L172)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:172:0050:0051:EN:PDF
-- whole_name: Mohamed Osman
-  strong: true
-  regulation_language: en
-  logical_id: '5628'
+  logical_id: '5626'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-06-30'
@@ -41,13 +35,19 @@ name_aliases:
     publication_date: '2007-06-30'
     number_title: 760/2007 (OJ L172)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:172:0050:0051:EN:PDF
-- first_name: Aly
-  middle_name: Soliman Massoud
-  last_name: Abdul Sayed
-  whole_name: Aly Soliman Massoud Abdul Sayed
+- whole_name: Mohamed Osman
   strong: true
   regulation_language: en
-  logical_id: '5626'
+  logical_id: '5628'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-06-30'
+    number_title: 760/2007 (OJ L172)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:172:0050:0051:EN:PDF
+- whole_name: Adam
+  strong: true
+  regulation_language: en
+  logical_id: '5629'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-06-30'

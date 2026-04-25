@@ -15,6 +15,53 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Al-Qaida din Peninsula Arabia de Sud
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '7686'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Al-Qaida din Yemen
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '7687'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
+- whole_name: Ansar al-Shari’a
+  strong: true
+  regulation_language: en
+  logical_id: '16466'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-10-12'
+    number_title: 933/2012 (OJ L278)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:278:0011:0012:EN:PDF
+- whole_name: AAS
+  strong: true
+  regulation_language: en
+  logical_id: '16467'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-10-12'
+    number_title: 933/2012 (OJ L278)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:278:0011:0012:EN:PDF
+- whole_name: Al-Qaida in the Arabian Peninsula
+  strong: true
+  regulation_language: en
+  logical_id: '7486'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-01-26'
+    number_title: 70/2010 (OJ L20)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
 - whole_name: AQAP
   strong: true
   regulation_language: en
@@ -478,67 +525,20 @@ name_aliases:
     publication_date: '2010-01-26'
     number_title: 70/2010 (OJ L20)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida din Peninsula Arabia de Sud
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '7686'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Al-Qaida din Yemen
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '7687'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
-- whole_name: Ansar al-Shari’a
-  strong: true
-  regulation_language: en
-  logical_id: '16466'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-10-12'
-    number_title: 933/2012 (OJ L278)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:278:0011:0012:EN:PDF
-- whole_name: AAS
-  strong: true
-  regulation_language: en
-  logical_id: '16467'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-10-12'
-    number_title: 933/2012 (OJ L278)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:278:0011:0012:EN:PDF
-- whole_name: Al-Qaida in the Arabian Peninsula
-  strong: true
-  regulation_language: en
-  logical_id: '7486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-01-26'
-    number_title: 70/2010 (OJ L20)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:020:0001:0002:EN:PDF
 addresses:
-- country_iso2_code: YE
-  country_description: YEMEN
+- country_iso2_code: SA
+  country_description: SAUDI ARABIA
   regulation_language: en
-  logical_id: '105953'
+  logical_id: '105952'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-14'
     number_title: 2015/1390 (OJ L215)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_215_R_0003&from=EN
-- country_iso2_code: SA
-  country_description: SAUDI ARABIA
+- country_iso2_code: YE
+  country_description: YEMEN
   regulation_language: en
-  logical_id: '105952'
+  logical_id: '105953'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-08-14'

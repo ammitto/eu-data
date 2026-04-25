@@ -14,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Алла Викторовна ПОЛЯКОВА
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '143522'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-01'
+    number_title: 2022/1446 (OJ L227I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1446
 - first_name: Alla
   middle_name: Viktorovna
   last_name: POLYAKOVA
@@ -23,16 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143446'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-01'
-    number_title: 2022/1446 (OJ L227I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1446
-- whole_name: Алла Викторовна ПОЛЯКОВА
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '143522'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-01'

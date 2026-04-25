@@ -35,12 +35,11 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Federal State Budgetary Enterprise “Sanatorium ‘Nizhnyaya Oreanda’”
-    of the Administration of the President of the Russian Federation
-  name_language: EN
+- whole_name: varasema nimega Resort „Nizhnyaya Oreanda“
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '108165'
+  logical_id: '128474'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
@@ -125,6 +124,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128442'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: ar a dtugtaí Resort ‘Nizhnyaya Oreanda’
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '128475'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
@@ -455,26 +464,6 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: varasema nimega Resort „Nizhnyaya Oreanda“
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '128474'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: ar a dtugtaí Resort ‘Nizhnyaya Oreanda’
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '128475'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: Resort “Nizhnyaya Oreanda”
   strong: true
   regulation_language: en
@@ -488,6 +477,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18028'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Federal State Budgetary Enterprise “Sanatorium ‘Nizhnyaya Oreanda’”
+    of the Administration of the President of the Russian Federation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '108165'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'

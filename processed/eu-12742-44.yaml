@@ -14,12 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Сергій Олександрович КАРЯКIН
+- first_name: Sergey
+  middle_name: Alexandrovich
+  last_name: KARYAKIN
+  whole_name: Sergey Alexandrovich KARYAKIN
+  function: |-
+    Senator of the Federation Council from the illegally annexed “Republic of
+    Crimea”
   gender: M
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172874'
+  logical_id: '172876'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -36,18 +42,12 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- first_name: Sergey
-  middle_name: Alexandrovich
-  last_name: KARYAKIN
-  whole_name: Sergey Alexandrovich KARYAKIN
-  function: |-
-    Senator of the Federation Council from the illegally annexed “Republic of
-    Crimea”
+- whole_name: Сергій Олександрович КАРЯКIН
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '172876'
+  logical_id: '172874'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

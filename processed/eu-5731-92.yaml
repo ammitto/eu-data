@@ -66,17 +66,6 @@ name_aliases:
     publication_date: '2012-03-23'
     number_title: 253/2012 (OJ L84)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- first_name: Zaffer
-  last_name: Iqbal
-  whole_name: Zaffer Iqbal
-  strong: true
-  regulation_language: en
-  logical_id: '125235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
 - first_name: Zafar
   last_name: Iqbal
   whole_name: Zafar Iqbal
@@ -84,6 +73,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- first_name: Zaffer
+  last_name: Iqbal
+  whole_name: Zaffer Iqbal
+  strong: true
+  regulation_language: en
+  logical_id: '125235'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'
@@ -128,21 +128,21 @@ identifications:
     publication_date: '2012-03-23'
     number_title: 253/2012 (OJ L84)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
-- identification_type_code: id
-  number: 35202-4135948-7
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '125242'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-23'
-    number_title: 253/2012 (OJ L84)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
 - identification_type_code: passport
   number: DG5149481
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '125243'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-23'
+    number_title: 253/2012 (OJ L84)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:084:0023:0025:EN:PDF
+- identification_type_code: id
+  number: 35202-4135948-7
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '125242'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-23'

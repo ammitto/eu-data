@@ -25,15 +25,6 @@ name_aliases:
     publication_date: '2012-01-24'
     number_title: 54/2012 (OJ L19)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:019:0001:0005:EN:PDF
-- whole_name: Tidewater Middle East Co.
-  strong: true
-  regulation_language: en
-  logical_id: '15172'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-24'
-    number_title: 54/2012 (OJ L19)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:019:0001:0005:EN:PDF
 - whole_name: Faraz Royal Qeshm Company LLC
   strong: true
   regulation_language: en
@@ -43,6 +34,15 @@ name_aliases:
     publication_date: '2012-12-22'
     number_title: 1264/2012 (OJ L356)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:356:0055:0060:en:PDF
+- whole_name: Tidewater Middle East Co.
+  strong: true
+  regulation_language: en
+  logical_id: '15172'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-24'
+    number_title: 54/2012 (OJ L19)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:019:0001:0005:EN:PDF
 addresses:
 - street: No. 84, Vozara St.,
   city: Tehran

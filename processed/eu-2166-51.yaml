@@ -14,11 +14,30 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Αεροπο-ρική δύναμη IRGC
-  name_language: EL
+- whole_name: IRGC Air Force
   strong: true
   regulation_language: en
-  logical_id: '6623'
+  logical_id: '6619'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: IRGC:n ilmavoimat
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '6634'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Fuerza Aérea de los Guardianes de la Revolución
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '6621'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-24'
@@ -29,6 +48,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6622'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Αεροπο-ρική δύναμη IRGC
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '6623'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-24'
+    number_title: 2008/475/EC (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
+- whole_name: Forces aériennes du Corps des gardiens de la révolution islamique
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '6624'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-24'
@@ -124,50 +163,11 @@ name_aliases:
     publication_date: '2008-06-24'
     number_title: 2008/475/EC (OJ L163)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: IRGC:n ilmavoimat
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '6634'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: IRGC Air Force
-  strong: true
-  regulation_language: en
-  logical_id: '6619'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
 - whole_name: Военновъздушни сили на Корпуса на гвардейците на иранската революция
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '6620'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Fuerza Aérea de los Guardianes de la Revolución
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '6621'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-24'
-    number_title: 2008/475/EC (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:163:0029:0033:EN:PDF
-- whole_name: Forces aériennes du Corps des gardiens de la révolution islamique
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '6624'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-24'

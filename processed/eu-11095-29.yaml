@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Ajmac multi activities company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161657'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-22'
+    number_title: 2024/384 (OJ L22012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
 - whole_name: Al Junaid Multi Activities Co Ltd
   function: a Sudanese holding company
   name_language: EN
@@ -35,34 +45,24 @@ name_aliases:
     publication_date: '2024-01-22'
     number_title: 2024/384 (OJ L22012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
-- whole_name: Ajmac multi activities company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161657'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-22'
-    number_title: 2024/384 (OJ L22012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
 addresses:
-- street: Street 3 Khartoum Block 17 Alryad
-  city: Khartoum
-  country_iso2_code: SD
-  country_description: SUDAN
-  regulation_language: en
-  logical_id: '161653'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-22'
-    number_title: 2024/384 (OJ L22012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
 - street: Industrial Area 13
   city: Sharjah
   country_iso2_code: AE
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '161655'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-22'
+    number_title: 2024/384 (OJ L22012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
+- street: Street 3 Khartoum Block 17 Alryad
+  city: Khartoum
+  country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '161653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-22'

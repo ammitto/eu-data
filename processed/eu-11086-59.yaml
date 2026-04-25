@@ -14,25 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mousa
-  last_name: DUDIN
-  whole_name: Mousa DUDIN
+- first_name: Musa Muhammad Salim
+  last_name: DOUDIN
+  whole_name: Musa Muhammad Salim DOUDIN
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '161546'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-01-19'
-    number_title: 2024/386 (OJ L19012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
-- first_name: Musa
-  last_name: DUDIN
-  whole_name: Musa DUDIN
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '161545'
+  logical_id: '161543'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-01-19'
@@ -50,13 +38,50 @@ name_aliases:
     publication_date: '2024-01-19'
     number_title: 2024/386 (OJ L19012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
-- first_name: Musa Muhammad Salim
-  last_name: DOUDIN
-  whole_name: Musa Muhammad Salim DOUDIN
+- first_name: Musa
+  last_name: DUDIN
+  whole_name: Musa DUDIN
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '161543'
+  logical_id: '161545'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-01-19'
+    number_title: 2024/386 (OJ L19012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
+- first_name: Mousa
+  last_name: DUDIN
+  whole_name: Mousa DUDIN
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '161546'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-01-19'
+    number_title: 2024/386 (OJ L19012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
+- first_name: Mousa
+  last_name: DOUDIN
+  whole_name: Mousa DOUDIN
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '161547'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-01-19'
+    number_title: 2024/386 (OJ L19012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
+- first_name: Musa Muhammad Salim
+  last_name: DUDIN
+  whole_name: Musa Muhammad Salim DUDIN
+  function: Member of Hamas political bureau
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '161548'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-01-19'
@@ -103,31 +128,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161539'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-01-19'
-    number_title: 2024/386 (OJ L19012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
-- first_name: Musa Muhammad Salim
-  last_name: DUDIN
-  whole_name: Musa Muhammad Salim DUDIN
-  function: Member of Hamas political bureau
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '161548'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-01-19'
-    number_title: 2024/386 (OJ L19012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400386
-- first_name: Mousa
-  last_name: DOUDIN
-  whole_name: Mousa DOUDIN
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '161547'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-01-19'

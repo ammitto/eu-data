@@ -14,17 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oksana
-  middle_name: Gennadyevna
-  last_name: LUGANTSEVA
-  whole_name: Oksana Gennadyevna LUGANTSEVA
-  function: Chief of Staff of the regional branch of Yunarmiya within the so-called
-    Luhansk People’s Republic
+- whole_name: Оксана  Геннадіївна Луганцева
   gender: F
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '179244'
+  logical_id: '179242'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -41,12 +36,17 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Оксана  Геннадіївна Луганцева
+- first_name: Oksana
+  middle_name: Gennadyevna
+  last_name: LUGANTSEVA
+  whole_name: Oksana Gennadyevna LUGANTSEVA
+  function: Chief of Staff of the regional branch of Yunarmiya within the so-called
+    Luhansk People’s Republic
   gender: F
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179242'
+  logical_id: '179244'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

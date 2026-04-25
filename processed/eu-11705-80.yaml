@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Марина
+  middle_name: Вениаминовна
+  last_name: ГАРТУНГ
+  whole_name: Марина Вениаминовна ГАРТУНГ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166510'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Marina
   last_name: HARTUNG
   whole_name: Marina HARTUNG
@@ -38,20 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166512'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Марина
-  middle_name: Вениаминовна
-  last_name: ГАРТУНГ
-  whole_name: Марина Вениаминовна ГАРТУНГ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166510'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

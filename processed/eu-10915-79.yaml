@@ -15,14 +15,42 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Oleg
-  middle_name: Leonidovitj
-  last_name: CHOROCHORDIN
-  whole_name: Oleg Leonidovitj CHOROCHORDIN
+  middle_name: Leonidovich
+  last_name: KHOROKHORDIN
+  whole_name: Oleg Leonidovich KHOROKHORDIN
+  function: former Head of the Altai Republic
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160657'
+  logical_id: '159695'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- first_name: Oleg
+  last_name: Chorochordin
+  whole_name: Oleg Chorochordin
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160873'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Олег
+  middle_name: Леонидович
+  last_name: ХОРОХОРДИН
+  whole_name: Олег Леонидович ХОРОХОРДИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159694'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -42,42 +70,14 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Oleg
-  middle_name: Leonidovich
-  last_name: KHOROKHORDIN
-  whole_name: Oleg Leonidovich KHOROKHORDIN
-  function: former Head of the Altai Republic
+  middle_name: Leonidovitj
+  last_name: CHOROCHORDIN
+  whole_name: Oleg Leonidovitj CHOROCHORDIN
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159695'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Олег
-  middle_name: Леонидович
-  last_name: ХОРОХОРДИН
-  whole_name: Олег Леонидович ХОРОХОРДИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159694'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Oleg
-  last_name: Chorochordin
-  whole_name: Oleg Chorochordin
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160873'
+  logical_id: '160657'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

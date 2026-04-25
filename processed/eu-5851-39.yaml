@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Дмитрий
-  middle_name: Сергеевич
-  last_name: БАДИН
-  whole_name: Дмитрий Сергеевич БАДИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '125788'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
 - first_name: Dmitry
   middle_name: Sergeyevich
   last_name: BADIN
@@ -53,6 +39,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165545'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- first_name: Дмитрий
+  middle_name: Сергеевич
+  last_name: БАДИН
+  whole_name: Дмитрий Сергеевич БАДИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '125788'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'

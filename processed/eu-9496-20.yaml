@@ -124,16 +124,6 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.019.01.0092.01.ENG&toc=OJ%3AL%3A2023%3A019%3ATOC
 identifications:
 - identification_type_code: id
-  number: '34454009709'
-  country_iso2_code: PK
-  regulation_language: en
-  logical_id: '148783'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-20'
-    number_title: 2023/140 (OJ L19)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.019.01.0092.01.ENG&toc=OJ%3AL%3A2023%3A019%3ATOC
-- identification_type_code: id
   number: '6110111883885'
   country_iso2_code: PK
   regulation_language: en
@@ -158,6 +148,16 @@ identifications:
   country_iso2_code: PK
   regulation_language: en
   logical_id: '148786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-20'
+    number_title: 2023/140 (OJ L19)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.019.01.0092.01.ENG&toc=OJ%3AL%3A2023%3A019%3ATOC
+- identification_type_code: id
+  number: '34454009709'
+  country_iso2_code: PK
+  regulation_language: en
+  logical_id: '148783'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-20'

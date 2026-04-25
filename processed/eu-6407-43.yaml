@@ -14,50 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Zjanna Vladimirovna BATURITSKAJA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Zjana Uladzimirauna BATURYTSKAJA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130743'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Жанна Владимировна БАТУРИЦКАЯ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '130302'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Жана  Уладзіміраўна  БАТУРЫЦКАЯ
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '130303'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Zhana Uladzimirauna BATURYTSKAIA
   function: "Head of the Directorate of \nSentence Enforcement of \nthe Penal Correction
     \nDepartment of the \nMinistry of Internal \nAffairs"
@@ -75,6 +31,50 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130304'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Жана  Уладзіміраўна  БАТУРЫЦКАЯ
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '130303'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Жанна Владимировна БАТУРИЦКАЯ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '130302'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Zjanna Vladimirovna BATURITSKAJA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130742'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Zjana Uladzimirauna BATURYTSKAJA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130743'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

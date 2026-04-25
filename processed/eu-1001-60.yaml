@@ -14,6 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Yasin Mahmud Mochtar
+  strong: true
+  regulation_language: en
+  logical_id: '2319'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-01-16'
+    number_title: 2015/64 (OJ L11)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:011:FULL&from=EN
 - whole_name: Abdul Hadi Yasin
   strong: true
   regulation_language: en
@@ -68,10 +77,19 @@ name_aliases:
     publication_date: '2003-09-13'
     number_title: 1607/2003 (OJ L229)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:229:0019:0021:EN:PDF
-- whole_name: Yasin Mahmud Mochtar
+- whole_name: Salim Yasin
   strong: true
   regulation_language: en
-  logical_id: '2319'
+  logical_id: '2318'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-09-13'
+    number_title: 1607/2003 (OJ L229)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:229:0019:0021:EN:PDF
+- whole_name: Yassin Sywal
+  strong: true
+  regulation_language: en
+  logical_id: '18469'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-01-16'
@@ -86,24 +104,6 @@ name_aliases:
     publication_date: '2015-01-16'
     number_title: 2015/64 (OJ L11)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:011:FULL&from=EN
-- whole_name: Yassin Sywal
-  strong: true
-  regulation_language: en
-  logical_id: '18469'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-01-16'
-    number_title: 2015/64 (OJ L11)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:011:FULL&from=EN
-- whole_name: Salim Yasin
-  strong: true
-  regulation_language: en
-  logical_id: '2318'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-09-13'
-    number_title: 1607/2003 (OJ L229)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:229:0019:0021:EN:PDF
 - first_name: Yassin
   last_name: Syawal
   whole_name: Yassin Syawal

@@ -39,19 +39,19 @@ name_aliases:
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 citizenships:
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: LB
+  country_description: LEBANON
   regulation_language: en
-  logical_id: '152842'
+  logical_id: '152841'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- country_iso2_code: LB
-  country_description: LEBANON
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '152841'
+  logical_id: '152842'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

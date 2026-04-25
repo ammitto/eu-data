@@ -16,12 +16,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Muhammad
-  middle_name: Yunis Ahmad
-  last_name: Al-Badrani
-  whole_name: Muhammad Yunis Ahmad Al-Badrani
+  middle_name: Yunis
+  last_name: Ahmad
+  whole_name: Muhammad Yunis Ahmad
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '4162'
+  logical_id: '4159'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-07-09'
@@ -34,19 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4163'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-07-09'
-    number_title: 1087/2005 (OJ L177)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:177:0032:0033:EN:PDF
-- first_name: Muhammad
-  middle_name: Yunis
-  last_name: Ahmad
-  whole_name: Muhammad Yunis Ahmad
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '4159'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-07-09'
@@ -71,6 +59,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4161'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-07-09'
+    number_title: 1087/2005 (OJ L177)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:177:0032:0033:EN:PDF
+- first_name: Muhammad
+  middle_name: Yunis Ahmad
+  last_name: Al-Badrani
+  whole_name: Muhammad Yunis Ahmad Al-Badrani
+  strong: true
+  regulation_language: en
+  logical_id: '4162'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-07-09'

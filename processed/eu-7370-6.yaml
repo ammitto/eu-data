@@ -30,28 +30,28 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Sergej
-  middle_name: Kuzjugetovitj
-  last_name: SJOJGU
-  whole_name: Sergej Kuzjugetovitj SJOJGU
+- first_name: Сергей
+  middle_name: Кужугетович
+  last_name: ШОЙГУ
+  whole_name: Сергей Кужугетович ШОЙГУ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '135373'
+  logical_id: '135222'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Serguei
-  last_name: Choïgou
-  whole_name: Serguei Choïgou
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Serghei
+  last_name: Shoigu
+  whole_name: Serghei Shoigu
   gender: M
-  name_language: FR
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '158182'
+  logical_id: '158462'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -71,6 +71,20 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Sergej
+  middle_name: Kuzjugetovitj
+  last_name: SJOJGU
+  whole_name: Sergej Kuzjugetovitj SJOJGU
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '135373'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Sergej
   last_name: Šojgu
   whole_name: Sergej Šojgu
   gender: M
@@ -83,33 +97,19 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Serghei
-  last_name: Shoigu
-  whole_name: Serghei Shoigu
+- first_name: Serguei
+  last_name: Choïgou
+  whole_name: Serguei Choïgou
   gender: M
-  name_language: RO
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '158462'
+  logical_id: '158182'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Сергей
-  middle_name: Кужугетович
-  last_name: ШОЙГУ
-  whole_name: Сергей Кужугетович ШОЙГУ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '135222'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

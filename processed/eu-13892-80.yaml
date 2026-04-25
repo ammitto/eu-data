@@ -18,12 +18,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Алексей Николаевич ПИКИН
+- whole_name: Aleksei Nikolaevich PIKIN
+  function: Deputy Head of the Directorate of the Russian Federal Penal Enforcement
+    Service for the “Republic of Crimea and the City of Sevastopol”
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '180026'
+  logical_id: '180028'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-05'
@@ -40,14 +42,12 @@ name_aliases:
     publication_date: '2025-09-05'
     number_title: 2025/1789 (OJ L202501789)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501789
-- whole_name: Aleksei Nikolaevich PIKIN
-  function: Deputy Head of the Directorate of the Russian Federal Penal Enforcement
-    Service for the “Republic of Crimea and the City of Sevastopol”
+- whole_name: Алексей Николаевич ПИКИН
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '180028'
+  logical_id: '180026'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-05'

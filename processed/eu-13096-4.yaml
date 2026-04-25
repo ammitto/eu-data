@@ -23,19 +23,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “FOZ”
+- whole_name: Joint Stock Company “Feodosia Optical Plant”
+  function: JSC “Feodosia Optical Plant” is a producer of optical and optoelectronic
+    devices. It also produces components (including sight-guidance devices and rangefinders)
+    used in military equipment, such as appliances that are part of the 1A40 and 1A40-1
+    rangefinder sights, which are installed on T-72 tanks used by the Russian military.
+  title: Joint Stock Company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175379'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “Feodosia Optical Plant”
-  strong: true
-  regulation_language: en
-  logical_id: '175380'
+  logical_id: '175382'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -51,16 +48,29 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Joint Stock Company “Feodosia Optical Plant”
-  function: JSC “Feodosia Optical Plant” is a producer of optical and optoelectronic
-    devices. It also produces components (including sight-guidance devices and rangefinders)
-    used in military equipment, such as appliances that are part of the 1A40 and 1A40-1
-    rangefinder sights, which are installed on T-72 tanks used by the Russian military.
-  title: Joint Stock Company
-  name_language: EN
+- whole_name: JSC “Feodosia Optical Plant”
   strong: true
   regulation_language: en
-  logical_id: '175382'
+  logical_id: '175380'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC “FOZ”
+  strong: true
+  regulation_language: en
+  logical_id: '175379'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Feodosia Optical Plant« Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175377'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -81,16 +91,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175375'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Feodosia Optical Plant« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175377'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

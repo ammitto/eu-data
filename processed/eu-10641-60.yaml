@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Антон
-  middle_name: Владимирович
-  last_name: КОЛЯГО
-  whole_name: Антон Владимирович КОЛЯГО
+- first_name: Anton
+  middle_name: Vladimirovitj
+  last_name: KOLJAGO
+  whole_name: Anton Vladimirovitj KOLJAGO
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '156747'
+  logical_id: '156940'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -37,24 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156748'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Anton
-  middle_name: Uladzimiravich
-  last_name: KALYAGA
-  whole_name: Anton Uladzimiravich KALYAGA
-  function: Chief investigator - investigator for particularly important cases of
-    the Main Directorate for the Investigation of Crimes in the Sphere of Organized
-    Crime and Corruption of the Central Apparatus of the InvestigativeCommittee, Major
-    of Justice
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156749'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -88,14 +70,18 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Anton
-  middle_name: Vladimirovitj
-  last_name: KOLJAGO
-  whole_name: Anton Vladimirovitj KOLJAGO
+  middle_name: Uladzimiravich
+  last_name: KALYAGA
+  whole_name: Anton Uladzimiravich KALYAGA
+  function: Chief investigator - investigator for particularly important cases of
+    the Main Directorate for the Investigation of Crimes in the Sphere of Organized
+    Crime and Corruption of the Central Apparatus of the InvestigativeCommittee, Major
+    of Justice
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156940'
+  logical_id: '156749'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -124,6 +110,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Антон
+  middle_name: Владимирович
+  last_name: КОЛЯГО
+  whole_name: Антон Владимирович КОЛЯГО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156747'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

@@ -15,18 +15,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Strategic Rocket Force of the Korean People's Army
-  function: The Strategic Rocket Force of the Korean People's Army is in charge of
-    all North Korea ballistic missile programmes and is responsible for SCUD and NODONG
-    launches.
+- whole_name: Strategic Force
   strong: true
   regulation_language: en
-  logical_id: '112379'
+  logical_id: '113166'
   regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2017-08-31'
-    number_title: 2017/1509 (OJ L224)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
+  - regulation_type: amendment
+    publication_date: '2017-07-18'
+    number_title: 2017/1330 (OJ L185)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
 - whole_name: Strategic Rocket Force
   strong: true
   regulation_language: en
@@ -45,15 +42,6 @@ name_aliases:
     publication_date: '2017-07-18'
     number_title: 2017/1330 (OJ L185)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
-- whole_name: Strategic Force
-  strong: true
-  regulation_language: en
-  logical_id: '113166'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-18'
-    number_title: 2017/1330 (OJ L185)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
 - whole_name: Strategic Rocket Force Command of KPA
   strong: true
   regulation_language: en
@@ -63,6 +51,18 @@ name_aliases:
     publication_date: '2017-06-09'
     number_title: 2017/970 (OJ L146)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0970&from=EN
+- whole_name: Strategic Rocket Force of the Korean People's Army
+  function: The Strategic Rocket Force of the Korean People's Army is in charge of
+    all North Korea ballistic missile programmes and is responsible for SCUD and NODONG
+    launches.
+  strong: true
+  regulation_language: en
+  logical_id: '112379'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2017-08-31'
+    number_title: 2017/1509 (OJ L224)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 addresses:
 - city: Pyongyang
   country_iso2_code: KP

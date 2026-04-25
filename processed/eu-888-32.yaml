@@ -14,89 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ansar al-Islam
-  strong: true
-  regulation_language: en
-  logical_id: '2124'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-02-26'
-    number_title: 350/2003 (OJ L51)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
-- whole_name: Ansar al-Sunna Army
-  strong: true
-  regulation_language: en
-  logical_id: '2646'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-04-08'
-    number_title: 667/2004 (OJ L104)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:104:0110:0111:EN:PDF
-- whole_name: Jund al-Islam
-  strong: true
-  regulation_language: en
-  logical_id: '2126'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-02-26'
-    number_title: 350/2003 (OJ L51)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
-- whole_name: Soldiers of Islam
-  strong: true
-  regulation_language: en
-  logical_id: '2127'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-02-26'
-    number_title: 350/2003 (OJ L51)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
-- whole_name: Kurdistan Supporters of Islam
-  strong: true
-  regulation_language: en
-  logical_id: '2128'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-02-26'
-    number_title: 350/2003 (OJ L51)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
-- whole_name: Supporters of Islam in Kurdistan
-  strong: true
-  regulation_language: en
-  logical_id: '2129'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-02-26'
-    number_title: 350/2003 (OJ L51)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
-- whole_name: Followers of Islam in Kurdistan
-  strong: true
-  regulation_language: en
-  logical_id: '2130'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-02-26'
-    number_title: 350/2003 (OJ L51)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
-- whole_name: Soldados del Islam
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '2133'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-02-26'
-    number_title: 350/2003 (OJ L51)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
-- whole_name: Simpatizantes kurdos del Islam
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '2134'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-02-26'
-    number_title: 350/2003 (OJ L51)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
 - whole_name: Jaish Ansar al-Sunna
   strong: true
   regulation_language: en
@@ -235,6 +152,80 @@ name_aliases:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Ansar al-Islam
+  strong: true
+  regulation_language: en
+  logical_id: '2124'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-02-26'
+    number_title: 350/2003 (OJ L51)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
+- whole_name: Jund al-Islam
+  strong: true
+  regulation_language: en
+  logical_id: '2126'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-02-26'
+    number_title: 350/2003 (OJ L51)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
+- whole_name: Soldiers of Islam
+  strong: true
+  regulation_language: en
+  logical_id: '2127'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-02-26'
+    number_title: 350/2003 (OJ L51)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
+- whole_name: Kurdistan Supporters of Islam
+  strong: true
+  regulation_language: en
+  logical_id: '2128'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-02-26'
+    number_title: 350/2003 (OJ L51)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
+- whole_name: Supporters of Islam in Kurdistan
+  strong: true
+  regulation_language: en
+  logical_id: '2129'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-02-26'
+    number_title: 350/2003 (OJ L51)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
+- whole_name: Followers of Islam in Kurdistan
+  strong: true
+  regulation_language: en
+  logical_id: '2130'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-02-26'
+    number_title: 350/2003 (OJ L51)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
+- whole_name: Soldados del Islam
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '2133'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-02-26'
+    number_title: 350/2003 (OJ L51)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
+- whole_name: Simpatizantes kurdos del Islam
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '2134'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-02-26'
+    number_title: 350/2003 (OJ L51)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
 - whole_name: Simpatizantes del Islam en Kurdistán
   name_language: ES
   strong: true
@@ -255,35 +246,6 @@ name_aliases:
     publication_date: '2003-02-26'
     number_title: 350/2003 (OJ L51)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:051:0019:0020:EN:PDF
-- whole_name: Devotos del Islam
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '2649'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-04-08'
-    number_title: 667/2004 (OJ L104)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:104:0110:0111:EN:PDF
-- whole_name: Devotos do Islão
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '2658'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-04-08'
-    number_title: 667/2004 (OJ L104)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:104:0110:0111:EN:PDF
-- whole_name: Devotees of Islam
-  strong: true
-  regulation_language: en
-  logical_id: '2643'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-04-08'
-    number_title: 667/2004 (OJ L104)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:104:0110:0111:EN:PDF
 - whole_name: Soldados do Islão
   name_language: PT
   strong: true
@@ -337,6 +299,44 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '2645'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-04-08'
+    number_title: 667/2004 (OJ L104)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:104:0110:0111:EN:PDF
+- whole_name: Ansar al-Sunna Army
+  strong: true
+  regulation_language: en
+  logical_id: '2646'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-04-08'
+    number_title: 667/2004 (OJ L104)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:104:0110:0111:EN:PDF
+- whole_name: Devotos do Islão
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '2658'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-04-08'
+    number_title: 667/2004 (OJ L104)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:104:0110:0111:EN:PDF
+- whole_name: Devotees of Islam
+  strong: true
+  regulation_language: en
+  logical_id: '2643'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-04-08'
+    number_title: 667/2004 (OJ L104)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:104:0110:0111:EN:PDF
+- whole_name: Devotos del Islam
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '2649'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-04-08'

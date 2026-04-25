@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»Soedinitel« Rt."
-  name_language: HU
+- whole_name: AO "Соединитель”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175224'
+  logical_id: '174807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -38,31 +38,31 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Soedinitel« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175224'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Soedinitel« Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175225'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Акционерное общество "Соединитель”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '174809'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “Soedinitel”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174808'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: AO "Соединитель”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -78,11 +78,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Soedinitel« Részvénytársaság"
-  name_language: HU
+- whole_name: JSC “Soedinitel”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175225'
+  logical_id: '174808'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -103,6 +103,16 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
+- identification_type_code: regnumber
+  number: '1027400875149'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '7415015198'
   country_iso2_code: RU
@@ -118,16 +128,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174804'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: regnumber
-  number: '1027400875149'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174806'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

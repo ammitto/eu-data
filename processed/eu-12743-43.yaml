@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Joint-Stock Company „Morion”
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '173449'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: NPO »Orion« Részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173445'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Stowarzyszenie Produkcji Naukowej Orion
   name_language: PL
   strong: true
@@ -68,11 +48,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC Morion
-  name_language: EN
+- whole_name: "»Morion« Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172886'
+  logical_id: '173368'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -88,11 +68,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Morion« Részvénytársaság"
-  name_language: HU
+- whole_name: JSC Morion
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173368'
+  logical_id: '172886'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -103,6 +83,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173367'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: NPO »Orion« Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173445'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Joint-Stock Company „Morion”
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '173449'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

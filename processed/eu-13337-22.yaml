@@ -14,11 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: شمخانی حسین
-  name_language: AR
+- whole_name: Hossein SHAMKHANI
+  function: Hossein Shamkhani is a businessperson active in the Russian oil trade
+    and a central player in Russia’s so-called ‘shadow fleet’. He uses the company
+    Milavous Group Ltd to blend crude oil with various petroleum products from Russia
+    and to rebrand for exporting purposes, thereby concealing their origin.
+  gender: M
+  title: Director of Admiral Shipping
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176950'
+  logical_id: '176951'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -33,17 +39,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Hossein SHAMKHANI
-  function: Hossein Shamkhani is a businessperson active in the Russian oil trade
-    and a central player in Russia’s so-called ‘shadow fleet’. He uses the company
-    Milavous Group Ltd to blend crude oil with various petroleum products from Russia
-    and to rebrand for exporting purposes, thereby concealing their origin.
-  gender: M
-  title: Director of Admiral Shipping
-  name_language: EN
+- whole_name: شمخانی حسین
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '176951'
+  logical_id: '176950'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -62,12 +62,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1984
+  year: 1985
   city: Teheran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '176946'
+  logical_id: '176945'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -75,12 +75,12 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - circa: false
   calendar_type: GREGORIAN
-  year: 1985
+  year: 1984
   city: Teheran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '176945'
+  logical_id: '176946'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

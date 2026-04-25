@@ -15,14 +15,25 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Jurij
-  middle_name: Anatoljevitj
-  last_name: TJICHANTJIN
-  whole_name: Jurij Anatoljevitj TJICHANTJIN
+  last_name: Čichančin
+  whole_name: Jurij Čichančin
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160652'
+  logical_id: '160863'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Jurij
+  last_name: Čichačin
+  whole_name: Jurij Čichačin
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160864'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -56,6 +67,19 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Юри
+  last_name: Чиханчин
+  whole_name: Юри Чиханчин
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161226'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Yury
   middle_name: Anatolevich
   last_name: CHIKHANCHIN
@@ -72,38 +96,14 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Jurij
-  last_name: Čichačin
-  whole_name: Jurij Čichačin
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160864'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Jurij
-  last_name: Čichančin
-  whole_name: Jurij Čichančin
+  middle_name: Anatoljevitj
+  last_name: TJICHANTJIN
+  whole_name: Jurij Anatoljevitj TJICHANTJIN
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160863'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Юри
-  last_name: Чиханчин
-  whole_name: Юри Чиханчин
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161226'
+  logical_id: '160652'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

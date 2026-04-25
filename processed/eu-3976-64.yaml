@@ -15,6 +15,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Sabalan Petrochemical Industries  Company (SPICO
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169737'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Sabalan Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169736'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Sabalan Petrochemical Company (SPC)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169738'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: Shahid Hemmat Industrial Group
   name_language: EN
   strong: true
@@ -200,36 +230,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169735'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Sabalan Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169736'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Sabalan Petrochemical Industries  Company (SPICO
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169737'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
-- whole_name: Sabalan Petrochemical Company (SPC)
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169738'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

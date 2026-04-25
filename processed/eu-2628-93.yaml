@@ -14,81 +14,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Direttorat tal-politika ta' sigurtà [Sirja]
-  name_language: MT
+- whole_name: Political Security Directorate [Syria]
   strong: true
   regulation_language: en
-  logical_id: '14332'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Politinio saugumo direktoratas [Sirija]
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '14330'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Dyrekcja bezpieczeństwa politycznego [Syria]
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '14334'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Direcção de Segurança Política [Síria]
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '14335'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Direcția de securitate politică [Siria]
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '14336'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Riaditeľstvo pre politickú bezpečnosť [Sýria]
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '14337'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Direktorat za politično varnost [Sirija]
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '14338'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: poliittisen turvallisuuden pääosasto [Syyria]
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '14339'
+  logical_id: '14278'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'
@@ -99,35 +28,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14340'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Politikai Biztonsági Igazgatóság [szíria]
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '14331'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Political Security Directorate [Syria]
-  strong: true
-  regulation_language: en
-  logical_id: '14278'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-24'
-    number_title: 843/2011 (OJ L218)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
-- whole_name: Directorat de la sécurité politique [Syrie]
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '14288'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'
@@ -223,11 +123,111 @@ name_aliases:
     publication_date: '2011-08-24'
     number_title: 843/2011 (OJ L218)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Politinio saugumo direktoratas [Sirija]
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '14330'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Politikai Biztonsági Igazgatóság [szíria]
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '14331'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Direttorat tal-politika ta' sigurtà [Sirja]
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '14332'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
 - whole_name: Directoraat politieke veiligheid [Syrië]
   name_language: NL
   strong: true
   regulation_language: en
   logical_id: '14333'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Dyrekcja bezpieczeństwa politycznego [Syria]
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '14334'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Direcção de Segurança Política [Síria]
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '14335'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Direcția de securitate politică [Siria]
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '14336'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Riaditeľstvo pre politickú bezpečnosť [Sýria]
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '14337'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Direktorat za politično varnost [Sirija]
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '14338'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: poliittisen turvallisuuden pääosasto [Syyria]
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '14339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-24'
+    number_title: 843/2011 (OJ L218)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:218:0001:0003:EN:PDF
+- whole_name: Directorat de la sécurité politique [Syrie]
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '14288'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-24'

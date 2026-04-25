@@ -14,16 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abdul-Hakim
-  last_name: SHAREI
-  whole_name: Abdul-Hakim SHAREI
-  function: Acting Taliban Minister of Justice
+- whole_name: عبدالحکیم شریری
   gender: M
-  title: Shaikh-al-Hadith Mawlawi
-  name_language: EN
+  name_language: PS
   strong: true
   regulation_language: en
-  logical_id: '155932'
+  logical_id: '155928'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -43,6 +39,19 @@ name_aliases:
     number_title: 2023/1499 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
 - first_name: Abdul-Hakim
+  last_name: Sharie
+  whole_name: Abdul-Hakim Sharie
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155930'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1499 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
+- first_name: Abdul-Hakim
   last_name: Sharae
   whole_name: Abdul-Hakim Sharae
   gender: M
@@ -55,25 +64,16 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1499 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- whole_name: عبدالحکیم شریری
-  gender: M
-  name_language: PS
-  strong: true
-  regulation_language: en
-  logical_id: '155928'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1499 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
 - first_name: Abdul-Hakim
-  last_name: Sharie
-  whole_name: Abdul-Hakim Sharie
+  last_name: SHAREI
+  whole_name: Abdul-Hakim SHAREI
+  function: Acting Taliban Minister of Justice
   gender: M
+  title: Shaikh-al-Hadith Mawlawi
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '155930'
+  logical_id: '155932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

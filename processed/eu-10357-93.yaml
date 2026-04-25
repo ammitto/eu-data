@@ -14,81 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Società per azioni DUKS
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '154966'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Joint Stock Company DUKS
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '154716'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Société par actions DUKS
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '154967'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: sociedad anónima «DUKS»
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '154968'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: АО ДУКС
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '154713'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Spółka akcyjna DUKS
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '155010'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Sociedade por ações DUKS
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '155011'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - whole_name: DUKS részvénytársaság
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '155033'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Aktiengesellschaft DUKS
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '154894'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Akciová společnost „DUKS“
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '155085'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -114,11 +64,51 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Akciová společnost „DUKS“
-  name_language: CS
+- whole_name: Società per azioni DUKS
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '155085'
+  logical_id: '154966'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Société par actions DUKS
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '154967'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: sociedad anónima «DUKS»
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '154968'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Spółka akcyjna DUKS
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '155010'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: Sociedade por ações DUKS
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '155011'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -134,11 +124,21 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: Aktiengesellschaft DUKS
-  name_language: DE
+- whole_name: Joint Stock Company DUKS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '154894'
+  logical_id: '154716'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- whole_name: JSC DUKS
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '154715'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -154,11 +154,11 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- whole_name: JSC DUKS
-  name_language: EN
+- whole_name: АО ДУКС
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '154715'
+  logical_id: '154713'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -178,6 +178,16 @@ addresses:
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 identifications:
+- identification_type_code: other
+  number: '771401001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '154710'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - identification_type_code: fiscalcode
   number: '7714077682'
   country_iso2_code: RU
@@ -193,16 +203,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '154712'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- identification_type_code: other
-  number: '771401001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '154710'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

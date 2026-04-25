@@ -14,16 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Anton
-  middle_name: Sergeyevich
-  last_name: TSYKURENKO
-  whole_name: Anton Sergeyevich TSYKURENKO
-  function: Judge of the Kyiv District Court of Simferopol
+- whole_name: Антон Сергійович ЦИКУРЕНКО
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '162962'
+  logical_id: '162960'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -40,12 +36,16 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Антон Сергійович ЦИКУРЕНКО
+- first_name: Anton
+  middle_name: Sergeyevich
+  last_name: TSYKURENKO
+  whole_name: Anton Sergeyevich TSYKURENKO
+  function: Judge of the Kyiv District Court of Simferopol
   gender: M
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '162960'
+  logical_id: '162962'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -74,19 +74,19 @@ name_aliases:
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 citizenships:
-- country_iso2_code: UA
-  country_description: UKRAINE
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '162957'
+  logical_id: '162958'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- country_iso2_code: UA
+  country_description: UKRAINE
   regulation_language: en
-  logical_id: '162958'
+  logical_id: '162957'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

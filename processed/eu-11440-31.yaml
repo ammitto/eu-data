@@ -15,20 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Sergej
-  middle_name: Alexejevič
-  last_name: Rjabcev
-  whole_name: Sergej Alexejevič Rjabcev
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164625'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Sergej
   last_name: Riabcev
   whole_name: Sergej Riabcev
   gender: M
@@ -65,6 +51,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164383'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Sergej
+  middle_name: Alexejevič
+  last_name: Rjabcev
+  whole_name: Sergej Alexejevič Rjabcev
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164625'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

@@ -14,11 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: AA (initials)
+- first_name: Abdelbassed
+  last_name: Azouz
+  whole_name: Abdelbassed Azouz
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '107712'
+  logical_id: '107714'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -37,13 +39,11 @@ name_aliases:
     publication_date: '2016-03-04'
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- first_name: Abdelbassed
-  last_name: Azouz
-  whole_name: Abdelbassed Azouz
+- whole_name: AA (initials)
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '107714'
+  logical_id: '107712'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -98,20 +98,20 @@ addresses:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 identifications:
 - identification_type_code: passport
-  number: '223611'
-  country_iso2_code: LY
+  number: C00146605
+  country_iso2_code: GB
   regulation_language: en
-  logical_id: '107711'
+  logical_id: '107710'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 - identification_type_code: passport
-  number: C00146605
-  country_iso2_code: GB
+  number: '223611'
+  country_iso2_code: LY
   regulation_language: en
-  logical_id: '107710'
+  logical_id: '107711'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

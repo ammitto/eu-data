@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: TsNIITochMash
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166276'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: ЦНИИТОЧМАШ
   name_language: RU
   strong: true
@@ -24,11 +34,11 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: TsNIITochMash
-  name_language: EN
+- whole_name: АО “Центральный научно-исследовательский институт точного машиностроения”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '166276'
+  logical_id: '167720'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -54,16 +64,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167577'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: АО “Центральный научно-исследовательский институт точного машиностроения”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '167720'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

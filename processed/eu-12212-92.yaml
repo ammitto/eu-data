@@ -14,6 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Andrej Ananenko
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169832'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Andrei Valerievich ANANENKO
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169835'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Andrij Ananěnko
   gender: M
   name_language: CS
@@ -25,12 +47,14 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Andrej Ananenko
+- whole_name: Andrii Valeriovich ANANENKO
+  function: Head of the Main Department for Combating Organised Crime and Corruption
+    (GUBOPiK) of the Ministry of Internal Affairs
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169832'
+  logical_id: '169836'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -53,30 +77,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169834'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Andrii Valeriovich ANANENKO
-  function: Head of the Main Department for Combating Organised Crime and Corruption
-    (GUBOPiK) of the Ministry of Internal Affairs
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169836'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Andrei Valerievich ANANENKO
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169835'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

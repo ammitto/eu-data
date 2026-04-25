@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad anónima NMZ
-  name_language: ES
+- whole_name: Nizhny Novgorod Machine-Building Plant
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163913'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Nyizsnyij Novgorod-i Gépgyár
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163948'
+  logical_id: '163131'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -44,22 +34,21 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: JSC NMZ
-  function: military-industrial state enterprise
-  name_language: EN
+- whole_name: Акционерное Общество “Нижегородский Машиностроительный Завод”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163132'
+  logical_id: '163129'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: Nizhny Novgorod Machine-Building Plant
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: АО “НМЗ”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163131'
+  logical_id: '163130'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -75,21 +64,32 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: АО “НМЗ”
+- whole_name: JSC NMZ
+  function: military-industrial state enterprise
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163130'
+  logical_id: '163132'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: sociedad anónima NMZ
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '163913'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Акционерное Общество “Нижегородский Машиностроительный Завод”
-  name_language: RU
+- whole_name: Nyizsnyij Novgorod-i Gépgyár
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '163129'
+  logical_id: '163948'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -55,16 +55,6 @@ birthdates:
     number_title: 2025/822 (OJ L202500822)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500822
 identifications:
-- identification_type_code: other
-  number: Katana (Naing) 0052495
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '129417'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-19'
-    number_title: 2021/638 (OJ L132I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.132.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A132I%3ATOC
 - identification_type_code: regnumber
   number: 13/KATANA (N)-005249
   country_iso2_code: MM
@@ -75,3 +65,13 @@ identifications:
     publication_date: '2024-04-30'
     number_title: 2024/1249 (OJ L29042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401249
+- identification_type_code: other
+  number: Katana (Naing) 0052495
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '129417'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-19'
+    number_title: 2021/638 (OJ L132I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.132.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A132I%3ATOC

@@ -29,6 +29,17 @@ name_aliases:
     number_title: 2024/2074 (OJ L29072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 addresses:
+- street: Mamounieh Industrial Town, at the end of 8th Street,
+  city: Asad Abadi Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '177673'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-28'
+    number_title: 2025/1559 (OJ L202501559)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501559
 - street: 3 Second Street [Flat 2], Asad Abadi Avenue
   city: Tehran
   country_iso2_code: IR
@@ -41,14 +52,3 @@ addresses:
     publication_date: '2011-05-24'
     number_title: 503/2011 (OJ L136)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:136:0026:0044:EN:PDF
-- street: Mamounieh Industrial Town, at the end of 8th Street,
-  city: Asad Abadi Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '177673'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-28'
-    number_title: 2025/1559 (OJ L202501559)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501559

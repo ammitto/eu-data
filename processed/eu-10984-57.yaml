@@ -14,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: RATEP RT.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161007'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: АО “РАТЕП”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '160123'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: RATEP RT.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161007'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC “UAMOC”
-  name_language: EN
+- whole_name: ООО “ЦУГАМ”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179605'
+  logical_id: '179603'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -30,6 +30,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179604'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: LLC “UAMOC”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179605'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Limited Liability Company “Urban Air Mobility Operations Center”
+  function: LLC “Urban Air Mobility Operations Center” (LLC UAMOC) is Russia-based
+    company involved in the manufacturing of first-person view (FPV) unmanned aerial
+    vehicles (UAVs) for the Russian Armed Forces. The company was founded after the
+    start of Russia’s full-scale war against Ukraine and rapidly expanded its production.
+    LLC UAMOC produces FPV UAVs “Kort”, “Brus-1”, “Osa” and “Boomerang”, which are
+    used in the war against Ukraine. It also launched a production and testing facility
+    in illegally occupied Luhansk.
+  title: Limited Liability Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179606'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -51,34 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179613'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: ООО “ЦУГАМ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179603'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Limited Liability Company “Urban Air Mobility Operations Center”
-  function: LLC “Urban Air Mobility Operations Center” (LLC UAMOC) is Russia-based
-    company involved in the manufacturing of first-person view (FPV) unmanned aerial
-    vehicles (UAVs) for the Russian Armed Forces. The company was founded after the
-    start of Russia’s full-scale war against Ukraine and rapidly expanded its production.
-    LLC UAMOC produces FPV UAVs “Kort”, “Brus-1”, “Osa” and “Boomerang”, which are
-    used in the war against Ukraine. It also launched a production and testing facility
-    in illegally occupied Luhansk.
-  title: Limited Liability Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179606'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -109,21 +109,21 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: other
-  number: '1227700378553'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '179601'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: fiscalcode
   number: '9731094770'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179602'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: other
+  number: '1227700378553'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '179601'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

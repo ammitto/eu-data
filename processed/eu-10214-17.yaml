@@ -14,30 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: سید نادر صفوی میرمحله
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '154180'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-26'
-    number_title: 2023/1298 (OJ L160 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1298
-- first_name: Nader
-  last_name: SAFAVI
-  whole_name: Nader SAFAVI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '154181'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-26'
-    number_title: 2023/1298 (OJ L160 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1298
 - first_name: Seyed Nader
   last_name: SAFAVI MIRMAHALLEH
   whole_name: Seyed Nader SAFAVI MIRMAHALLEH
@@ -60,6 +36,30 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '154115'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-26'
+    number_title: 2023/1298 (OJ L160 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1298
+- first_name: Nader
+  last_name: SAFAVI
+  whole_name: Nader SAFAVI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '154181'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-26'
+    number_title: 2023/1298 (OJ L160 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1298
+- whole_name: سید نادر صفوی میرمحله
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '154180'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-26'

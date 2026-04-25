@@ -25,20 +25,6 @@ name_aliases:
     publication_date: '2022-02-21'
     number_title: 2022/236 (OJ L40)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
-- first_name: Татьяна
-  middle_name: Георгиевна
-  last_name: ЛОБАЧ
-  whole_name: Татьяна Георгиевна ЛОБАЧ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '133334'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Tatiana
   middle_name: Georgievna
   last_name: LOBACH
@@ -49,6 +35,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133335'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Татьяна
+  middle_name: Георгиевна
+  last_name: ЛОБАЧ
+  whole_name: Татьяна Георгиевна ЛОБАЧ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '133334'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

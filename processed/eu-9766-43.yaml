@@ -14,51 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО "Уральский завод гражданской авиации"
-  name_language: RU
+- whole_name: Dioničko društvo Uralski zavod za civilno zrakoplovstv
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '150194'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Ural Civil Aviation Plant
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150195'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: UZGA AO
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150196'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: JSC Urals Works of Civil Aviation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150197'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société par actions Ural Civil  Aviation Factory
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151125'
+  logical_id: '151323'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -84,21 +44,41 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Dioničko društvo Uralski zavod za civilno zrakoplovstv
-  name_language: HR
+- whole_name: АО "Уральский завод гражданской авиации"
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151323'
+  logical_id: '150194'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Uralska Fabryka Lotnictwa Cywilnego S.A.
-  name_language: PL
+- whole_name: Ural Civil Aviation Plant
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151157'
+  logical_id: '150195'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Société par actions Ural Civil  Aviation Factory
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151125'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: JSC Urals Works of Civil Aviation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150197'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -110,6 +90,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150198'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: UZGA AO
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150196'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Uralska Fabryka Lotnictwa Cywilnego S.A.
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '151157'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

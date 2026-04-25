@@ -14,101 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Dioničko društvo „Znanstveno-proizvodno udruženje ,Impuls’”
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '151302'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Kumpanija b’Ishma Konġunti “Scientific And  Production Association  “Impuls”
   name_language: MT
   strong: true
   regulation_language: en
   logical_id: '151348'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: АО “НПО ‘Импульс’”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150144'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: spółka akcyjna „Stowarzyszenie Naukowo-Produkcyjne „Impuls”"
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '151145'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Societatea pe acțiuni „Asociația științifică și de producție «Impuls»”
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151252'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: "„SPA  «Impulse»” SA"
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151253'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: "„SPA  «Impuls»” SA"
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151254'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Aandelenvennootschap “Scientific And Production Association “Impuls””
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '151204'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Sociedade por ações "Scientific and Production  Association 'Impuls'"
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '151187'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Aktiengesellschaft „Scientific And Production Association “Impuls””
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '151103'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -149,6 +59,96 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150147'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Societatea pe acțiuni „Asociația științifică și de producție «Impuls»”
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151252'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: "„SPA  «Impulse»” SA"
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151253'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: "„SPA  «Impuls»” SA"
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151254'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: spółka akcyjna „Stowarzyszenie Naukowo-Produkcyjne „Impuls”"
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '151145'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Aandelenvennootschap “Scientific And Production Association “Impuls””
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151204'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Dioničko društvo „Znanstveno-proizvodno udruženje ,Impuls’”
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '151302'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: АО “НПО ‘Импульс’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150144'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Aktiengesellschaft „Scientific And Production Association “Impuls””
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '151103'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Sociedade por ações "Scientific and Production  Association 'Impuls'"
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '151187'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

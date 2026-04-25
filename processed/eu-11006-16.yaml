@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: sociedad anónima Beto
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160758'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Башкирское электронно-телекомму-никационное объединение
   name_language: RU
   strong: true
@@ -49,16 +59,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160237'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima Beto
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160758'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

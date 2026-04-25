@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Iran Aircraft Manufacturing Industries Corporation
-  function: Aerospace manufacturer; Government-owned corporation
-  strong: true
-  regulation_language: en
-  logical_id: '149059'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-01-30'
-    number_title: 2023/192 (OJ L26I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.026.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A026I%3ATOC
 - whole_name: HESA
   strong: true
   regulation_language: en
@@ -58,6 +48,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149055'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-01-30'
+    number_title: 2023/192 (OJ L26I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.026.01.0001.01.ENG&toc=OJ%3AL%3A2023%3A026I%3ATOC
+- whole_name: Iran Aircraft Manufacturing Industries Corporation
+  function: Aerospace manufacturer; Government-owned corporation
+  strong: true
+  regulation_language: en
+  logical_id: '149059'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-01-30'

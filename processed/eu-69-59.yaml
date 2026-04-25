@@ -39,12 +39,11 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1938
-  city: Mandali District, Diyala
+  city: Mandalin piiri, Diyala (J.O. FI)
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '84'
+  logical_id: '257'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -52,11 +51,12 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  city: Mandalin piiri, Diyala (J.O. FI)
+  year: 1938
+  city: Mandali District, Diyala
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '257'
+  logical_id: '84'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'

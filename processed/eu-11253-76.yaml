@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: AHK Szövetségi Állami Vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163995'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: FSE AHK
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163996'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: empresa estatal federal Aleksin Chemical Plant
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '163898'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Федеральное Казенное Предприятие “Алексинский Химический Комбинат”
   name_language: RU
   strong: true
@@ -79,6 +49,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162714'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: AHK Szövetségi Állami Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163995'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: FSE AHK
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163996'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: empresa estatal federal Aleksin Chemical Plant
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '163898'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

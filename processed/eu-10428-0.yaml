@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Technologii Videoanaliza s. r. o.
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156077'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - whole_name: Tevian
   function: a Russian facial recognition technology company
   strong: true
@@ -34,11 +24,11 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Tekhnologii Videoanaliza LLC
-  name_language: EN
+- whole_name: Technologii Videoanaliza s. r. o.
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '155612'
+  logical_id: '156077'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -54,19 +44,17 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-addresses:
-- street: Skulptora Mukhina St. 7, 1st  floor, II, room 2B
-  city: Moscow
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '119634'
+- whole_name: Tekhnologii Videoanaliza LLC
+  name_language: EN
+  strong: true
   regulation_language: en
-  logical_id: '155610'
+  logical_id: '155612'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+addresses:
 - street: Efremova St., 10, building 2, Office 11
   city: Moscow
   country_iso2_code: RU
@@ -74,6 +62,18 @@ addresses:
   zip_code: '119048'
   regulation_language: en
   logical_id: '155609'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- street: Skulptora Mukhina St. 7, 1st  floor, II, room 2B
+  city: Moscow
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '119634'
+  regulation_language: en
+  logical_id: '155610'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

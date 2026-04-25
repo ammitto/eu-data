@@ -42,16 +42,15 @@ name_aliases:
     publication_date: '2024-01-29'
     number_title: 2024/417 (OJ L29012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Oleg
-  middle_name: Viktorovich
-  last_name: ALYPOV
-  whole_name: Oleg Viktorovich ALYPOV
-  function: Golovinsky Interdistrict Prosecutor of Moscow
+- first_name: Олег
+  middle_name: Вiкторович
+  last_name: АЛИПОВ
+  whole_name: Олег Вiкторович АЛИПОВ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '161887'
+  logical_id: '161885'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'
@@ -71,15 +70,16 @@ name_aliases:
     publication_date: '2024-01-29'
     number_title: 2024/417 (OJ L29012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Олег
-  middle_name: Вiкторович
-  last_name: АЛИПОВ
-  whole_name: Олег Вiкторович АЛИПОВ
+- first_name: Oleg
+  middle_name: Viktorovich
+  last_name: ALYPOV
+  whole_name: Oleg Viktorovich ALYPOV
+  function: Golovinsky Interdistrict Prosecutor of Moscow
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161885'
+  logical_id: '161887'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'

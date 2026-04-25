@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Aljaksandr Mikalajevitj ZAJTSAU
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130731'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Aleksandr Nikolajevitj ZAJTSEV
   gender: M
   name_language: SV
@@ -35,12 +46,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aляксандр Мікалаевіч ЗАЙЦАЎ
+- whole_name: Aliaksandr  Mikalaevich ZAITSAU
+  function: "Businessman, co-owner of \nBremino Group and Sohra \nGroup"
   gender: M
-  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '130154'
+  logical_id: '130156'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -56,34 +67,23 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aljaksandr Mikalajevitj ZAJTSAU
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130731'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aliaksandr  Mikalaevich ZAITSAU
-  function: "Businessman, co-owner of \nBremino Group and Sohra \nGroup"
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130156'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Александр Николаевич ЗАЙЦЕВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '130153'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Aляксандр Мікалаевіч ЗАЙЦАЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '130154'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

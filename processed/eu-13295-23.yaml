@@ -25,14 +25,12 @@ name_aliases:
     publication_date: '2025-06-23'
     number_title: 2025/1256 (OJ L202501256)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- first_name: Mudallal
-  last_name: KHOURI
-  whole_name: Mudallal KHOURI
+- whole_name: Madalal (Mtanyus) KHURI
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176604'
+  logical_id: '176606'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-23'
@@ -51,12 +49,14 @@ name_aliases:
     publication_date: '2025-06-23'
     number_title: 2025/1256 (OJ L202501256)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501256
-- whole_name: Madalal (Mtanyus) KHURI
+- first_name: Mudallal
+  last_name: KHOURI
+  whole_name: Mudallal KHOURI
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176606'
+  logical_id: '176604'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-23'

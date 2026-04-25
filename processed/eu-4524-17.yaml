@@ -14,36 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Miroslav
-  middle_name: Aleksandrovich
-  last_name: POGORELOV
-  whole_name: Miroslav Aleksandrovich POGORELOV
-  function: Head of the internal policy department of the administration of Novorossiysk
-    since March 2022. Former Deputy Chair of the Sevastopol Electoral Commission (until
-    May 2019).
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '116735'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Мирослав
-  middle_name: Александрович
-  last_name: ПОГОРЕЛОВ
-  whole_name: Мирослав Александрович ПОГОРЕЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '116734'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Myroslav
   middle_name: Oleksandrovych
   last_name: POHORIELOV
@@ -73,6 +43,16 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Miroslav Aleksandrovitj POGORELOV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143811'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - whole_name: Myroslav Oleksandrovytj POHORJELOV
   name_language: SV
   strong: true
@@ -83,11 +63,31 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Miroslav Aleksandrovitj POGORELOV
-  name_language: SV
+- first_name: Мирослав
+  middle_name: Александрович
+  last_name: ПОГОРЕЛОВ
+  whole_name: Мирослав Александрович ПОГОРЕЛОВ
+  gender: M
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '143811'
+  logical_id: '116734'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Miroslav
+  middle_name: Aleksandrovich
+  last_name: POGORELOV
+  whole_name: Miroslav Aleksandrovich POGORELOV
+  function: Head of the internal policy department of the administration of Novorossiysk
+    since March 2022. Former Deputy Chair of the Sevastopol Electoral Commission (until
+    May 2019).
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '116735'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

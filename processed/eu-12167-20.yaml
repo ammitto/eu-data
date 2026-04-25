@@ -27,14 +27,11 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- first_name: Vjačeslav
-  last_name: Tulejko
-  whole_name: Vjačeslav Tulejko
-  gender: M
-  name_language: SK
+- whole_name: Вячеслав Иванович ТУЛЕЙКО
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '169530'
+  logical_id: '169240'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -51,11 +48,12 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Вячеслав Иванович ТУЛЕЙКО
-  name_language: RU
+- whole_name: Vyacheslav Ivanovich TULEYKO
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169240'
+  logical_id: '169242'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -73,12 +71,14 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Vyacheslav Ivanovich TULEYKO
+- first_name: Vjačeslav
+  last_name: Tulejko
+  whole_name: Vjačeslav Tulejko
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '169242'
+  logical_id: '169530'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

@@ -14,6 +14,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Публичное  акционерное общество  - Дальневосточное морское пароходство
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179708'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: ПАО - ДВМП
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179707'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Public Joint Stock Company - Far  Eastern Shipping Company
   function: One of Russia’s largest transportation and logistics firms, and the largest
     port container operator in the Russian Far East. The company specialises in container
@@ -42,26 +62,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179709'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: ПАО - ДВМП
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179707'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Публичное  акционерное общество  - Дальневосточное морское пароходство
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179708'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

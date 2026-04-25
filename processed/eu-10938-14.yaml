@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Marina
+  middle_name: Jurjevna
+  last_name: ZACHAROVA
+  whole_name: Marina Jurjevna ZACHAROVA
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '160677'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Марина
   middle_name: Юрьевна
   last_name: ЗАХАРОВА
@@ -38,19 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Marina
-  middle_name: Jurjevna
-  last_name: ZACHAROVA
-  whole_name: Marina Jurjevna ZACHAROVA
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '160677'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

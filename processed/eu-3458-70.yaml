@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: علی فضلی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '164864'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-05'
+    number_title: 2024/1033 (OJ L05042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
 - first_name: Ali
   last_name: FAZLI
   whole_name: Ali FAZLI
@@ -27,17 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '11948'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-05'
-    number_title: 2024/1033 (OJ L05042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
-- whole_name: علی فضلی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '164864'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-05'

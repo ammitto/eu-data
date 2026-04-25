@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: NtechLab
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156015'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: NTechLab
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '156034'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - whole_name: Нтехлаб
   name_language: RU
   strong: true
@@ -50,6 +30,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155607'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: NTechLab
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '156034'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: NtechLab
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156015'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

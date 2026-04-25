@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Юрий
-  middle_name: Эдуардович
-  last_name: САДОВЕНКО
-  whole_name: Юрий Эдуардович САДОВЕНКО
+- first_name: Jurij
+  middle_name: Eduardovitj
+  last_name: SADOVENKO
+  whole_name: Jurij Eduardovitj SADOVENKO
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144448'
+  logical_id: '144653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -44,15 +44,15 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Jurij
-  middle_name: Eduardovitj
-  last_name: SADOVENKO
-  whole_name: Jurij Eduardovitj SADOVENKO
+- first_name: Юрий
+  middle_name: Эдуардович
+  last_name: САДОВЕНКО
+  whole_name: Юрий Эдуардович САДОВЕНКО
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '144653'
+  logical_id: '144448'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

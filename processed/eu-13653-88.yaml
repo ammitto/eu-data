@@ -26,6 +26,17 @@ name_aliases:
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 addresses:
+- street: 265, Next to Mehrshad, Sedaghat St., Opposite of Mellat Park, Vali Asr Ave.,
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '178815'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - street: 18 Mehrshad Street, Sadaghat Street, Opposite of Park Mellat, Vali-e-Asr
     Ave.,
   city: Tehran
@@ -33,17 +44,6 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178816'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- street: 265, Next to Mehrshad, Sedaghat St., Opposite of Mellat Park, Vali Asr Ave.,
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '178815'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

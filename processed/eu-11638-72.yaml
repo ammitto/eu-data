@@ -14,16 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aleksandr
-  middle_name: Vladimirovich
-  last_name: LUZYANIN
-  whole_name: Aleksandr Vladimirovich LUZYANIN
-  function: General Director of JSC Hydromash
+- first_name: Alexandr
+  last_name: Luzjanin
+  whole_name: Alexandr Luzjanin
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '166070'
+  logical_id: '167018'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Александр
+  middle_name: Владимирович
+  last_name: ЛУЗЯНИН
+  whole_name: Александр Владимирович ЛУЗЯНИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166068'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -37,6 +49,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166069'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Aleksandr
+  middle_name: Vladimirovich
+  last_name: LUZYANIN
+  whole_name: Aleksandr Vladimirovich LUZYANIN
+  function: General Director of JSC Hydromash
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166070'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -63,33 +90,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167016'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Alexandr
-  last_name: Luzjanin
-  whole_name: Alexandr Luzjanin
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '167018'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Александр
-  middle_name: Владимирович
-  last_name: ЛУЗЯНИН
-  whole_name: Александр Владимирович ЛУЗЯНИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166068'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

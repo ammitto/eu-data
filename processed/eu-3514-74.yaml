@@ -26,21 +26,21 @@ name_aliases:
     publication_date: '2022-03-11'
     number_title: 2022/408 (OJ L84)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: Aleksandr Viktorovitj VITKO
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '137429'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
 - whole_name: Александр Викторович ВИТКО
   gender: M
   strong: true
   regulation_language: en
   logical_id: '106250'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: Aleksandr Viktorovitj VITKO
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137429'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'

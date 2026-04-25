@@ -14,12 +14,38 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Alexandr Jurewitsch PETUCHOW
+- first_name: Aleksandr
+  middle_name: Yurievich
+  last_name: PETUKHOV
+  whole_name: Aleksandr Yurievich PETUKHOV
   gender: M
-  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '131449'
+  logical_id: '116726'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-09-11'
+    number_title: 2020/1267 (OJ L298)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
+- first_name: Александр
+  middle_name: Юрьевич
+  last_name: ПЕТУХОВ
+  whole_name: Александр Юрьевич ПЕТУХОВ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '116725'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-09-11'
+    number_title: 2020/1267 (OJ L298)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
+- whole_name: Oleksandr Jurijovytj PJETUCHOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '131450'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-09-13'
@@ -36,19 +62,30 @@ name_aliases:
     publication_date: '2021-09-13'
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- first_name: Aleksandr
-  middle_name: Yurievich
-  last_name: PETUKHOV
-  whole_name: Aleksandr Yurievich PETUKHOV
+- first_name: Oleksandr
+  middle_name: Yuriyovych
+  last_name: PIETUKHOV
+  whole_name: Oleksandr Yuriyovych PIETUKHOV
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '116726'
+  logical_id: '116729'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-11'
     number_title: 2020/1267 (OJ L298)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
+- whole_name: Alexandr Jurewitsch PETUCHOW
+  gender: M
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '131449'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
 - first_name: Aleksandr
   middle_name: Yurevich
   last_name: PETUKHOV
@@ -73,43 +110,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '116728'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-09-11'
-    number_title: 2020/1267 (OJ L298)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
-- first_name: Oleksandr
-  middle_name: Yuriyovych
-  last_name: PIETUKHOV
-  whole_name: Oleksandr Yuriyovych PIETUKHOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '116729'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-09-11'
-    number_title: 2020/1267 (OJ L298)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
-- whole_name: Oleksandr Jurijovytj PJETUCHOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '131450'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- first_name: Александр
-  middle_name: Юрьевич
-  last_name: ПЕТУХОВ
-  whole_name: Александр Юрьевич ПЕТУХОВ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '116725'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-11'

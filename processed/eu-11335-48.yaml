@@ -14,27 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Открытое Акционерное Общество “Всероссийский Научно-Исследовательский
-    Институт Радиотехники”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163178'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: JSC VNIIRT
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163180'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: sociedad anónima VNIIRT
   name_language: ES
   strong: true
@@ -60,6 +39,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163179'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: JSC VNIIRT
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163180'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Открытое Акционерное Общество “Всероссийский Научно-Исследовательский
+    Институт Радиотехники”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '163178'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -14,21 +14,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО “Аваланд Си”
-  name_language: RU
+- whole_name: Avaland
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160272'
+  logical_id: '160276'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Общество С Ограниченной Ответственностью “Аваланд Системная Интеграция”
-  name_language: RU
+- whole_name: LLC Avaland System Integration
+  function: an entity that operates in the Russian IT sector
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160273'
+  logical_id: '160277'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -54,41 +55,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Avaland SI Kft
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161095'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: sociedad de responsabilidad limitada Avaland System Integration
   name_language: ES
   strong: true
   regulation_language: en
   logical_id: '160761'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Avaland Rendszerintegráció Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161096'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Avaland
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160276'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -104,6 +75,36 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: ООО “Аваланд Си”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160272'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Общество С Ограниченной Ответственностью “Аваланд Системная Интеграция”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160273'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Avaland SI Kft
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161095'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Avaland integrace systémů, s. r. o.
   name_language: CS
   strong: true
@@ -114,12 +115,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: LLC Avaland System Integration
-  function: an entity that operates in the Russian IT sector
-  name_language: EN
+- whole_name: Avaland Rendszerintegráció Kft.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '160277'
+  logical_id: '161096'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

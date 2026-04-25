@@ -15,49 +15,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Nazira Farah SARKEES
+- whole_name: نظيرة فرح سركيس
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '17387'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Nadheera Farah SARKEES
-  strong: true
-  regulation_language: en
-  logical_id: '17388'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Nadhira Farah SARKEES
-  strong: true
-  regulation_language: en
-  logical_id: '17389'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Nazeera Farah SARKIS
-  strong: true
-  regulation_language: en
-  logical_id: '17390'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Nazeera Farah SARKEES
-  function: Former State Minister for Environmental Affairs, in power after May 2011
-  gender: F
-  title: Dr.
-  strong: true
-  regulation_language: en
-  logical_id: '16536'
+  logical_id: '125076'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -90,11 +52,49 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: نظيرة فرح سركيس
-  name_language: AR
+- whole_name: Nazeera Farah SARKEES
+  function: Former State Minister for Environmental Affairs, in power after May 2011
+  gender: F
+  title: Dr.
   strong: true
   regulation_language: en
-  logical_id: '125076'
+  logical_id: '16536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Nazira Farah SARKEES
+  strong: true
+  regulation_language: en
+  logical_id: '17387'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Nadheera Farah SARKEES
+  strong: true
+  regulation_language: en
+  logical_id: '17388'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Nadhira Farah SARKEES
+  strong: true
+  regulation_language: en
+  logical_id: '17389'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Nazeera Farah SARKIS
+  strong: true
+  regulation_language: en
+  logical_id: '17390'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

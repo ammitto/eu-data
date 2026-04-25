@@ -28,17 +28,6 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Евгений Серебряков
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '174971'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-12'
-    number_title: 2025/886 (OJ L202500886)
-    publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
 - first_name: Evgenii
   middle_name: Mikhaylovich
   last_name: SEREBRIAKOV
@@ -57,19 +46,6 @@ name_aliases:
     number_title: 2025/886 (OJ L202500886)
     publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
 - first_name: Jevgenij
-  last_name: Serebrjakov
-  whole_name: Jevgenij Serebrjakov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '165508'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-12'
-    number_title: 2025/886 (OJ L202500886)
-    publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
-- first_name: Jevgenij
   last_name: Serebriakov
   whole_name: Jevgenij Serebriakov
   gender: M
@@ -82,6 +58,30 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Евгений Серебряков
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '174971'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-12'
+    number_title: 2025/886 (OJ L202500886)
+    publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
+- first_name: Jevgenij
+  last_name: Serebrjakov
+  whole_name: Jevgenij Serebrjakov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '165508'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-12'
+    number_title: 2025/886 (OJ L202500886)
+    publication_url: http://data.europa.eu/eli/reg_impl/2025/886/oj
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

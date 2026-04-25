@@ -15,34 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Hanna
-  middle_name: Barysauna
-  last_name: LJAVUSIK
-  whole_name: Hanna Barysauna LJAVUSIK
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157325'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Hanna
-  middle_name: Barysavna
-  last_name: ĽAVUSIKOVÁ
-  whole_name: Hanna Barysavna ĽAVUSIKOVÁ
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157326'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Hanna
   middle_name: Barisauna
   last_name: LIAVUSIK
   whole_name: Hanna Barisauna LIAVUSIK
@@ -71,26 +43,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Gana
-  last_name: Libusik
-  whole_name: Gana Libusik
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '157327'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Hanna
-  last_name: Ljavusiková
-  whole_name: Hanna Ljavusiková
+- first_name: Анна
+  middle_name: Борисовна
+  last_name: ЛЕУСИК
+  whole_name: Анна Борисовна ЛЕУСИК
   gender: F
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '157328'
+  logical_id: '157330'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -110,15 +71,54 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Анна
-  middle_name: Борисовна
-  last_name: ЛЕУСИК
-  whole_name: Анна Борисовна ЛЕУСИК
+- first_name: Hanna
+  last_name: Ljavusiková
+  whole_name: Hanna Ljavusiková
   gender: F
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '157330'
+  logical_id: '157328'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Gana
+  last_name: Libusik
+  whole_name: Gana Libusik
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '157327'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Hanna
+  middle_name: Barysauna
+  last_name: LJAVUSIK
+  whole_name: Hanna Barysauna LJAVUSIK
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Hanna
+  middle_name: Barysavna
+  last_name: ĽAVUSIKOVÁ
+  whole_name: Hanna Barysavna ĽAVUSIKOVÁ
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157326'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

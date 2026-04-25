@@ -14,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abou Abdallah al Faransi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106653'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - first_name: Maxime
   last_name: Hauchard
   whole_name: Maxime Hauchard
@@ -21,16 +31,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106543'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: Abou Abdallah al Faransi
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

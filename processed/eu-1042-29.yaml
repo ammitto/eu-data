@@ -14,46 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mehrez
-  middle_name: Ben Mahmoud Ben Sassi
-  last_name: Al-Amdouni
-  whole_name: Mehrez Ben Mahmoud Ben Sassi Al-Amdouni
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '2190'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-01-18'
-    number_title: 76/2006 (OJ L12)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:012:0007:0016:EN:PDF
-- whole_name: Amdouni Mehrez ben Tah
-  strong: true
-  regulation_language: en
-  logical_id: '12579'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-17'
-    number_title: 577/2011 (OJ L159)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
-- whole_name: Meherez Hamdouni
-  strong: true
-  regulation_language: en
-  logical_id: '12578'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-17'
-    number_title: 577/2011 (OJ L159)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
-- whole_name: Abu Thale
-  strong: true
-  regulation_language: en
-  logical_id: '2193'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-01-18'
-    number_title: 76/2006 (OJ L12)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:012:0007:0016:EN:PDF
 - whole_name: Mohamed Hassan
   strong: true
   regulation_language: en
@@ -74,6 +34,46 @@ name_aliases:
     publication_date: '2004-12-17'
     number_title: 2145/2004 (OJ L370)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:370:0006:0016:EN:PDF
+- first_name: Mehrez
+  middle_name: Ben Mahmoud Ben Sassi
+  last_name: Al-Amdouni
+  whole_name: Mehrez Ben Mahmoud Ben Sassi Al-Amdouni
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '2190'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-01-18'
+    number_title: 76/2006 (OJ L12)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:012:0007:0016:EN:PDF
+- whole_name: Abu Thale
+  strong: true
+  regulation_language: en
+  logical_id: '2193'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-01-18'
+    number_title: 76/2006 (OJ L12)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:012:0007:0016:EN:PDF
+- whole_name: Meherez Hamdouni
+  strong: true
+  regulation_language: en
+  logical_id: '12578'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-17'
+    number_title: 577/2011 (OJ L159)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
+- whole_name: Amdouni Mehrez ben Tah
+  strong: true
+  regulation_language: en
+  logical_id: '12579'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-17'
+    number_title: 577/2011 (OJ L159)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
 - whole_name: Meherez ben Ahdoud ben Amdouni
   strong: true
   regulation_language: en
@@ -94,36 +94,22 @@ citizenships:
     number_title: 76/2006 (OJ L12)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:012:0007:0016:EN:PDF
 birthdates:
-- birthdate: '1968-12-18'
+- birthdate: '1969-12-18'
   circa: false
   calendar_type: GREGORIAN
   day_of_month: 18
   month_of_year: 12
-  year: 1968
-  country_iso2_code: TN
-  country_description: TUNISIA
-  regulation_language: en
-  logical_id: '1614'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-17'
-    number_title: 577/2011 (OJ L159)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
-- birthdate: '1969-07-14'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 14
-  month_of_year: 7
   year: 1969
+  city: Asima-Tunis
   country_iso2_code: TN
   country_description: TUNISIA
   regulation_language: en
-  logical_id: '1585'
+  logical_id: '354'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2011-06-17'
-    number_title: 577/2011 (OJ L159)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
+    publication_date: '2004-12-17'
+    number_title: 2145/2004 (OJ L370)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:370:0006:0016:EN:PDF
 - birthdate: '1968-05-25'
   circa: false
   calendar_type: GREGORIAN
@@ -155,22 +141,36 @@ birthdates:
     publication_date: '2011-06-17'
     number_title: 577/2011 (OJ L159)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
-- birthdate: '1969-12-18'
+- birthdate: '1968-12-18'
   circa: false
   calendar_type: GREGORIAN
   day_of_month: 18
   month_of_year: 12
-  year: 1969
-  city: Asima-Tunis
+  year: 1968
   country_iso2_code: TN
   country_description: TUNISIA
   regulation_language: en
-  logical_id: '354'
+  logical_id: '1614'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2004-12-17'
-    number_title: 2145/2004 (OJ L370)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:370:0006:0016:EN:PDF
+    publication_date: '2011-06-17'
+    number_title: 577/2011 (OJ L159)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
+- birthdate: '1969-07-14'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 14
+  month_of_year: 7
+  year: 1969
+  country_iso2_code: TN
+  country_description: TUNISIA
+  regulation_language: en
+  logical_id: '1585'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-17'
+    number_title: 577/2011 (OJ L159)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
 addresses:
 - country_iso2_code: IT
   country_description: ITALY

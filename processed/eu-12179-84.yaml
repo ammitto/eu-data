@@ -14,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Виктор Аркадьевич ШВЕЦОВ
+- whole_name: Viktor Arkadievich SHEVTSOV
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169325'
+  logical_id: '169327'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -38,19 +38,6 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- first_name: Victor
-  middle_name: Arkadievich
-  last_name: CHEVTSOV
-  whole_name: Victor Arkadievich CHEVTSOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '173446'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-25'
-    number_title: 2025/386 (OJ L25022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
 - first_name: Viktor
   last_name: Švecov
   whole_name: Viktor Švecov
@@ -76,12 +63,25 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Viktor Arkadievich SHEVTSOV
+- first_name: Victor
+  middle_name: Arkadievich
+  last_name: CHEVTSOV
+  whole_name: Victor Arkadievich CHEVTSOV
   gender: M
-  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169327'
+  logical_id: '173446'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-25'
+    number_title: 2025/386 (OJ L25022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
+- whole_name: Виктор Аркадьевич ШВЕЦОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '169325'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

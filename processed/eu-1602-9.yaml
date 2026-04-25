@@ -14,6 +14,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abd Al-Aziz al-Masri
+  strong: true
+  regulation_language: en
+  logical_id: '4255'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-18'
+    number_title: 34/2012 (OJ L15)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
+- whole_name: Ali Salim
+  strong: true
+  regulation_language: en
+  logical_id: '4254'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-10-06'
+    number_title: 1629/2005 (OJ L260)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:260:0009:0010:EN:PDF
 - first_name: Ali
   middle_name: Sayyid Muhamed
   last_name: Mustafa Bakri
@@ -27,24 +45,6 @@ name_aliases:
     publication_date: '2005-10-06'
     number_title: 1629/2005 (OJ L260)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:260:0009:0010:EN:PDF
-- whole_name: Ali Salim
-  strong: true
-  regulation_language: en
-  logical_id: '4254'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-10-06'
-    number_title: 1629/2005 (OJ L260)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:260:0009:0010:EN:PDF
-- whole_name: Abd Al-Aziz al-Masri
-  strong: true
-  regulation_language: en
-  logical_id: '4255'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-18'
-    number_title: 34/2012 (OJ L15)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
 citizenships:
 - country_iso2_code: EG
   country_description: EGYPT

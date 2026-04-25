@@ -15,19 +15,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Silsilet al Thahab
+- whole_name: Silsilah Money Exchange Company
   strong: true
   regulation_language: en
-  logical_id: '113534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-27'
-    number_title: 2017/1390 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: Selselat al Thahab For Money Exchange
-  strong: true
-  regulation_language: en
-  logical_id: '113533'
+  logical_id: '113535'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'
@@ -42,19 +33,28 @@ name_aliases:
     publication_date: '2017-07-27'
     number_title: 2017/1390 (OJ L195)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: Silsilah Money Exchange Company
+- whole_name: Selselat al Thahab For Money Exchange
   strong: true
   regulation_language: en
-  logical_id: '113535'
+  logical_id: '113533'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'
     number_title: 2017/1390 (OJ L195)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: Al Silsilah al Dhahaba
+- whole_name: Silsilet al Thahab
   strong: true
   regulation_language: en
-  logical_id: '113538'
+  logical_id: '113534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-27'
+    number_title: 2017/1390 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
+- whole_name: Silsilat Money Exchange Company
+  strong: true
+  regulation_language: en
+  logical_id: '113536'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'
@@ -69,10 +69,10 @@ name_aliases:
     publication_date: '2017-07-27'
     number_title: 2017/1390 (OJ L195)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: Silsilat Money Exchange Company
+- whole_name: Al Silsilah al Dhahaba
   strong: true
   regulation_language: en
-  logical_id: '113536'
+  logical_id: '113538'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'

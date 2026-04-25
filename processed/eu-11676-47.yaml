@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Akciová spoločnosť Armour repair plant no. 144
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '167580'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: 144. sz. Páncélozottjármű-javító Üzem Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167581'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Opravna  obrněných vozidel č. 144, a. s.
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '167582'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: JSC 144 BTRZ
   name_language: EN
   strong: true
@@ -68,11 +38,41 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Akciová spoločnosť Armour repair plant no. 144
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '167580'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: АО «144 БТРЗ»
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '167723'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Opravna  obrněných vozidel č. 144, a. s.
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '167582'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: 144. sz. Páncélozottjármű-javító Üzem Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167581'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

@@ -14,24 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abd El Illah
-  strong: true
-  regulation_language: en
-  logical_id: '6714'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-07-17'
-    number_title: 678/2008 (OJ L189)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:189:0023:0024:EN:PDF
-- whole_name: Abdellah Ahmed
-  strong: true
-  regulation_language: en
-  logical_id: '16847'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-04'
-    number_title: 1142/2012 (OJ L332)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0012:0015:EN:PDF
 - first_name: Ahmed
   last_name: Deghdegh
   whole_name: Ahmed Deghdegh
@@ -43,19 +25,37 @@ name_aliases:
     publication_date: '2008-07-17'
     number_title: 678/2008 (OJ L189)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:189:0023:0024:EN:PDF
-- whole_name: Said
+- whole_name: Abd El Illah
   strong: true
   regulation_language: en
-  logical_id: '16848'
+  logical_id: '6714'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-07-17'
+    number_title: 678/2008 (OJ L189)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:189:0023:0024:EN:PDF
+- whole_name: Abdellillah
+  strong: true
+  regulation_language: en
+  logical_id: '16846'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-04'
     number_title: 1142/2012 (OJ L332)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0012:0015:EN:PDF
-- whole_name: Abdellillah
+- whole_name: Abdellah Ahmed
   strong: true
   regulation_language: en
-  logical_id: '16846'
+  logical_id: '16847'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-04'
+    number_title: 1142/2012 (OJ L332)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0012:0015:EN:PDF
+- whole_name: Said
+  strong: true
+  regulation_language: en
+  logical_id: '16848'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-04'

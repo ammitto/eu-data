@@ -15,13 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Jury
-  last_name: Vasilevič
-  whole_name: Jury Vasilevič
+  middle_name: Ivanavič
+  last_name: VASILEVIČ
+  whole_name: Jury Ivanavič VASILEVIČ
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '157208'
+  logical_id: '157210'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -41,28 +42,13 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Jury
-  middle_name: Ivanavič
-  last_name: VASILEVIČ
-  whole_name: Jury Ivanavič VASILEVIČ
+  last_name: Vasilevič
+  whole_name: Jury Vasilevič
   gender: M
-  name_language: SK
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '157210'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Jurij
-  middle_name: Ivanovitj
-  last_name: VASILEVITJ
-  whole_name: Jurij Ivanovitj VASILEVITJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157211'
+  logical_id: '157208'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -82,15 +68,29 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Yuriy
-  middle_name: Ivanovich
-  last_name: VASILEVICH
-  whole_name: Yuriy Ivanovich VASILEVICH
+- first_name: Jury
+  middle_name: Ivanavitj
+  last_name: VASILEVITJ
+  whole_name: Jury Ivanavitj VASILEVITJ
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '157213'
+  logical_id: '157212'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Юрий
+  middle_name: Иванович
+  last_name: ВАСИЛЕВИЧ
+  whole_name: Юрий Иванович ВАСИЛЕВИЧ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '157215'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -111,29 +111,29 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Юрий
-  middle_name: Иванович
-  last_name: ВАСИЛЕВИЧ
-  whole_name: Юрий Иванович ВАСИЛЕВИЧ
+- first_name: Yuriy
+  middle_name: Ivanovich
+  last_name: VASILEVICH
+  whole_name: Yuriy Ivanovich VASILEVICH
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '157215'
+  logical_id: '157213'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Jury
-  middle_name: Ivanavitj
+- first_name: Jurij
+  middle_name: Ivanovitj
   last_name: VASILEVITJ
-  whole_name: Jury Ivanavitj VASILEVITJ
+  whole_name: Jurij Ivanovitj VASILEVITJ
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '157212'
+  logical_id: '157211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

@@ -14,16 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Joint Stock Company “Black Sea Development and Reconstruction Bank”
-  function: Joint Stock Company “Black Sea Development and Reconstruction Bank” (ChBRR)
-    is a regional bank with a network of offices in all cities and district centres
-    in Crimea. Among the services which ChBRR provides are business lending, cash
-    and settlement services, consumer lending, term deposits, remote account management
-    services, and currency transactions.
-  name_language: EN
+- whole_name: "»Fekete-tengeri Fejlesztési és Újjáépítési Bank« Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172870'
+  logical_id: '173369'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -39,21 +34,26 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Banque pour la reconstruction et le développement de la mer Noire
-  name_language: FR
+- whole_name: Joint Stock Company “Black Sea Development and Reconstruction Bank”
+  function: Joint Stock Company “Black Sea Development and Reconstruction Bank” (ChBRR)
+    is a regional bank with a network of offices in all cities and district centres
+    in Crimea. Among the services which ChBRR provides are business lending, cash
+    and settlement services, consumer lending, term deposits, remote account management
+    services, and currency transactions.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173325'
+  logical_id: '172870'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Fekete-tengeri Fejlesztési és Újjáépítési Bank« Részvénytársaság"
-  name_language: HU
+- whole_name: Banque pour la reconstruction et le développement de la mer Noire
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '173369'
+  logical_id: '173325'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -74,10 +74,10 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
 - identification_type_code: other
-  number: '00204814'
+  number: '9102019769'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '172877'
+  logical_id: '172878'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -94,10 +94,10 @@ identifications:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: other
-  number: '9102019769'
+  number: '00204814'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '172878'
+  logical_id: '172877'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

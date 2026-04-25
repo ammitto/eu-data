@@ -15,6 +15,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Shandong Ou Rui Laser Technology Co.Ltd
+  strong: true
+  regulation_language: en
+  logical_id: '175547'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: 山东欧锐激光科技有限公司
   name_language: ZH
   strong: true
@@ -37,27 +46,7 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Shandong Ou Rui Laser Technology Co.Ltd
-  strong: true
-  regulation_language: en
-  logical_id: '175547'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
-- street: Room 302, Building 45,
-  city: Liancheng
-  country_iso2_code: CN
-  country_description: CHINA
-  regulation_language: en
-  logical_id: '175545'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - street: 19-1, Industrial Park, Jiyang Street,
   city: Jinan City,
   region: Shandong Province
@@ -65,6 +54,17 @@ addresses:
   country_description: CHINA
   regulation_language: en
   logical_id: '175544'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- street: Room 302, Building 45,
+  city: Liancheng
+  country_iso2_code: CN
+  country_description: CHINA
+  regulation_language: en
+  logical_id: '175545'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

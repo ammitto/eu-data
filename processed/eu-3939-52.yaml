@@ -17,51 +17,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Cruise Missile Industry Group
-  name_language: EN
+- whole_name: Βιομηχανικός Όμιλος Samen al-Aemeh
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '5185'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Naval Defense Missile Industry Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5186'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Samen al-Aemeh Industries Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158845'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Groupe de l’industrie des missiles de la défense navale
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '159511'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Grupo das Indústrias dos Mísseis de Defesa Naval
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '161988'
+  logical_id: '162006'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -77,6 +37,36 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Grupo das Indústrias dos Mísseis de Defesa Naval
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '161988'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Groupe de l’industrie des missiles de la défense navale
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '159511'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Samen al-Aemeh Industries Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158845'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Βιομηχανικός Όμιλος Πυραύλων Ναυτικής Άμυνας
   name_language: EL
   strong: true
@@ -87,11 +77,21 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Βιομηχανικός Όμιλος Samen al-Aemeh
-  name_language: EL
+- whole_name: Cruise Missile Industry Group
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '162006'
+  logical_id: '5185'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Naval Defense Missile Industry Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5186'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

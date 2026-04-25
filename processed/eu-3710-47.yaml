@@ -16,6 +16,18 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Yasin
+  middle_name: Ali
+  last_name: Baynah
+  whole_name: Yasin Ali Baynah
+  strong: true
+  regulation_language: en
+  logical_id: '7781'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- first_name: Yasin
   middle_name: Baynah
   last_name: Ali
   whole_name: Yasin Baynah Ali
@@ -27,13 +39,36 @@ name_aliases:
     publication_date: '2010-04-27'
     number_title: 356/2010 (OJ L105)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- first_name: Yasin
-  middle_name: Ali
-  last_name: Baynah
-  whole_name: Yasin Ali Baynah
+- first_name: Yasiin
+  middle_name: Baynax
+  last_name: Cali
+  whole_name: Yasiin Baynax Cali
   strong: true
   regulation_language: en
-  logical_id: '7781'
+  logical_id: '7796'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- first_name: Yassin
+  last_name: Binah
+  whole_name: Yassin Binah
+  strong: true
+  regulation_language: en
+  logical_id: '7795'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- first_name: Yassin
+  middle_name: Mohamed
+  last_name: Ali
+  whole_name: Yassin Mohamed Ali
+  strong: true
+  regulation_language: en
+  logical_id: '7783'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2010-04-27'
@@ -162,55 +197,20 @@ name_aliases:
     publication_date: '2010-04-27'
     number_title: 356/2010 (OJ L105)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- first_name: Yassin
-  last_name: Binah
-  whole_name: Yassin Binah
-  strong: true
-  regulation_language: en
-  logical_id: '7795'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- first_name: Yasiin
-  middle_name: Baynax
-  last_name: Cali
-  whole_name: Yasiin Baynax Cali
-  strong: true
-  regulation_language: en
-  logical_id: '7796'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
-- first_name: Yassin
-  middle_name: Mohamed
-  last_name: Ali
-  whole_name: Yassin Mohamed Ali
-  strong: true
-  regulation_language: en
-  logical_id: '7783'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
 citizenships:
-- country_iso2_code: SE
-  country_description: SWEDEN
-  regulation_language: en
-  logical_id: '580'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2010-04-27'
-    number_title: 356/2010 (OJ L105)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
 - country_iso2_code: SO
   country_description: SOMALIA
   regulation_language: en
   logical_id: '579'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2010-04-27'
+    number_title: 356/2010 (OJ L105)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:105:0001:0009:EN:PDF
+- country_iso2_code: SE
+  country_description: SWEDEN
+  regulation_language: en
+  logical_id: '580'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2010-04-27'

@@ -14,15 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Pak Il-Gyu
-  strong: true
-  regulation_language: en
-  logical_id: '113878'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-08-11'
-    number_title: 2017/1457 (OJ L208)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
 - first_name: Il
   middle_name: Kyu
   last_name: Pak
@@ -32,6 +23,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113879'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-08-11'
+    number_title: 2017/1457 (OJ L208)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
+- whole_name: Pak Il-Gyu
+  strong: true
+  regulation_language: en
+  logical_id: '113878'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-11'

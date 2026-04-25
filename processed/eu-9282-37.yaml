@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Екатерина
+  middle_name: Викторовна
+  last_name: ЧУГУНОВА
+  whole_name: Екатерина Викторовна ЧУГУНОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146788'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Jekaterina
   middle_name: Viktorovna
   last_name: TJUGUNOVA
@@ -23,6 +37,23 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152010'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Ekaterina
+  middle_name: Viktorovna
+  last_name: CHUGUNOVA
+  whole_name: Ekaterina Viktorovna CHUGUNOVA
+  function: member of the Missile Pre-Planning unit at the Main Computing Centre of
+    the General Staff (GVC) of Russia’s Armed Forces General Staff
+  gender: F
+  title: Lieutenant
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '146789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
@@ -41,37 +72,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Ekaterina
-  middle_name: Viktorovna
-  last_name: CHUGUNOVA
-  whole_name: Ekaterina Viktorovna CHUGUNOVA
-  function: member of the Missile Pre-Planning unit at the Main Computing Centre of
-    the General Staff (GVC) of Russia’s Armed Forces General Staff
-  gender: F
-  title: Lieutenant
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '146789'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Екатерина
-  middle_name: Викторовна
-  last_name: ЧУГУНОВА
-  whole_name: Екатерина Викторовна ЧУГУНОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146788'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

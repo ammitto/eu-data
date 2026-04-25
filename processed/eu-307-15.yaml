@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Memetiming Memeti
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '7037'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 - whole_name: Qerman
   gender: M
   name_language: EN
@@ -110,12 +121,12 @@ name_aliases:
     publication_date: '2025-03-21'
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Memetiming Memeti
+- whole_name: Saifuding
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '7037'
+  logical_id: '7046'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'
@@ -192,17 +203,6 @@ name_aliases:
     publication_date: '2025-03-21'
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Saifuding
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '7046'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 citizenships:
 - country_iso2_code: CN
   country_description: CHINA
@@ -232,19 +232,19 @@ birthdates:
     number_title: 2020/218 (OJ L44)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0218&from=EN
 addresses:
-- country_iso2_code: AF
-  country_description: AFGHANISTAN
+- country_iso2_code: PK
+  country_description: PAKISTAN
   regulation_language: en
-  logical_id: '174369'
+  logical_id: '174370'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- country_iso2_code: PK
-  country_description: PAKISTAN
+- country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '174370'
+  logical_id: '174369'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'

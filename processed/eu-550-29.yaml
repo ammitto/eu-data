@@ -15,24 +15,24 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Mounir
-  last_name: El Moutassadeq
-  whole_name: Mounir El Moutassadeq
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '8571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-01-19'
-    number_title: 36/2011 (OJ L14)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
-- first_name: Mounir
   last_name: El Motassadeq
   whole_name: Mounir El Motassadeq
   gender: M
   strong: true
   regulation_language: en
   logical_id: '2046'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-01-19'
+    number_title: 36/2011 (OJ L14)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
+- first_name: Mounir
+  last_name: El Moutassadeq
+  whole_name: Mounir El Moutassadeq
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '8571'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-01-19'

@@ -14,21 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Shaykh Sahib
+- whole_name: Bahaziq Mahmoud
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Abu Abdul Aziz
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '6981'
+  logical_id: '6979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -44,11 +34,21 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Bahaziq Mahmoud
+- whole_name: Abu Abdul Aziz
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6979'
+  logical_id: '6981'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Shaykh Sahib
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '6982'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -80,6 +80,21 @@ citizenships:
     number_title: 184/2009 (OJ L63)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
 birthdates:
+- birthdate: '1943-08-17'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 17
+  month_of_year: 8
+  year: 1943
+  country_iso2_code: IN
+  country_description: INDIA
+  regulation_language: en
+  logical_id: '1112'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-03-07'
+    number_title: 184/2009 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
   year: 1944
@@ -99,21 +114,6 @@ birthdates:
   country_description: INDIA
   regulation_language: en
   logical_id: '1113'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-03-07'
-    number_title: 184/2009 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
-- birthdate: '1943-08-17'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 17
-  month_of_year: 8
-  year: 1943
-  country_iso2_code: IN
-  country_description: INDIA
-  regulation_language: en
-  logical_id: '1112'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-03-07'

@@ -14,11 +14,112 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Public Joint Stock Company “Russian National Commercial Bank”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18066'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Публичное акционерное общество “Российский национальный коммерческий
+    банк”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '18067'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Openbare  aandelenvennootschap “Russian National Commercial Bank”
   name_language: NL
   strong: true
   regulation_language: en
   logical_id: '158299'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Veřejná akciová společnost „Russian National Commercial Bank“
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '128561'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Banco Comercial Nacional de Rusia
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '128562'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Публично акционерно дружество „Руска национална търговска банка“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '128563'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Ρωσική Εθνική Εμπορική Τράπεζα
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '128564'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Offene Aktiengesellschaft ‚Russian National Commercial Bank‘
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '128565'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Javno dioničko društvo „Ruska nacionalna komercijalna banka”
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '128566'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Cuideachta comhstoic poiblí ‘Russian National Commercial Bank’
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '128567'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Société par actions cotée Banque commerciale nationale russe
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '128568'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -35,36 +136,6 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Ruská národná komerčná banka
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '158548'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: viešoji akcinė bendrovė „Rusijos nacionalinis komercinis bankas“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '158646'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: VAS “Russian National Commercial  Bank”
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '158669'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Valsts akciju sabiedrība “Russian National Commercial Bank”
   name_language: LV
   strong: true
@@ -145,6 +216,16 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: viešoji akcinė bendrovė „Rusijos nacionalinis komercinis bankas“
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '158646'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: PJSC«Banca Națională  Comercială a Rusiei»
   name_language: RO
   strong: true
@@ -155,11 +236,11 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Société par actions cotée Banque commerciale nationale russe
-  name_language: FR
+- whole_name: Ruská národná komerčná banka
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '128568'
+  logical_id: '158548'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -175,97 +256,16 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Public Joint Stock Company “Russian National Commercial Bank”
-  name_language: EN
+- whole_name: VAS “Russian National Commercial  Bank”
+  name_language: LV
   strong: true
   regulation_language: en
-  logical_id: '18066'
+  logical_id: '158669'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Публичное акционерное общество “Российский национальный коммерческий
-    банк”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '18067'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Veřejná akciová společnost „Russian National Commercial Bank“
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '128561'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Banco Comercial Nacional de Rusia
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '128562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Публично акционерно дружество „Руска национална търговска банка“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '128563'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Ρωσική Εθνική Εμπορική Τράπεζα
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '128564'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Offene Aktiengesellschaft ‚Russian National Commercial Bank‘
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '128565'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Javno dioničko društvo „Ruska nacionalna komercijalna banka”
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '128566'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Cuideachta comhstoic poiblí ‘Russian National Commercial Bank’
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '128567'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 addresses:
 - street: Naberezhnaja str named after 60th anniversary of USSR, 34
   city: Simferopol

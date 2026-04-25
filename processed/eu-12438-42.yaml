@@ -14,6 +14,34 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Andrei
+  middle_name: Grigoryevich
+  last_name: SVIRIDOV
+  whole_name: Andrei Grigoryevich SVIRIDOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171017'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Андрей
+  middle_name: Григорьевич
+  last_name: СВИРИДОВ
+  whole_name: Андрей Григорьевич СВИРИДОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171015'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Andrej
   last_name: Svirydav
   whole_name: Andrej Svirydav
@@ -22,19 +50,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172257'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Andrej
-  last_name: Svirydau
-  whole_name: Andrej Svirydau
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '172258'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -55,15 +70,14 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Andrei
-  middle_name: Grigoryevich
-  last_name: SVIRIDOV
-  whole_name: Andrei Grigoryevich SVIRIDOV
+- first_name: Andrej
+  last_name: Svirydau
+  whole_name: Andrej Svirydau
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '171017'
+  logical_id: '172258'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -78,20 +92,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171016'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Андрей
-  middle_name: Григорьевич
-  last_name: СВИРИДОВ
-  whole_name: Андрей Григорьевич СВИРИДОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171015'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

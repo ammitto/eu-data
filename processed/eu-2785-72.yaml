@@ -16,37 +16,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Uthman al-Ghamdi
+- whole_name: Othman Ahmed Othman Al Omairah
   strong: true
   regulation_language: en
-  logical_id: '104145'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-25'
-    number_title: 621/2011 (OJ L166)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
-- whole_name: Othman al-Ghamdi
-  strong: true
-  regulation_language: en
-  logical_id: '104144'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-25'
-    number_title: 621/2011 (OJ L166)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
-- whole_name: Al Umairah al-Ghamdi
-  strong: true
-  regulation_language: en
-  logical_id: '104151'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-25'
-    number_title: 621/2011 (OJ L166)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
-- whole_name: Othman Ahmed Othman al-Omirah
-  strong: true
-  regulation_language: en
-  logical_id: '104150'
+  logical_id: '104148'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-06-25'
@@ -61,10 +34,28 @@ name_aliases:
     publication_date: '2011-06-25'
     number_title: 621/2011 (OJ L166)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
-- whole_name: Othman Ahmed Othman Al Omairah
+- whole_name: Othman Bin Ahmed Bin Othman
   strong: true
   regulation_language: en
-  logical_id: '104148'
+  logical_id: '104152'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-25'
+    number_title: 621/2011 (OJ L166)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
+- whole_name: Uthman al-Ghamidi
+  strong: true
+  regulation_language: en
+  logical_id: '104146'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-25'
+    number_title: 621/2011 (OJ L166)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
+- whole_name: Uthman al-Ghamdi
+  strong: true
+  regulation_language: en
+  logical_id: '104145'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-06-25'
@@ -91,19 +82,28 @@ name_aliases:
     publication_date: '2011-06-25'
     number_title: 621/2011 (OJ L166)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
-- whole_name: Uthman al-Ghamidi
+- whole_name: Othman Ahmed Othman al-Omirah
   strong: true
   regulation_language: en
-  logical_id: '104146'
+  logical_id: '104150'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-06-25'
     number_title: 621/2011 (OJ L166)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
-- whole_name: Othman Bin Ahmed Bin Othman
+- whole_name: Al Umairah al-Ghamdi
   strong: true
   regulation_language: en
-  logical_id: '104152'
+  logical_id: '104151'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-25'
+    number_title: 621/2011 (OJ L166)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
+- whole_name: Othman al-Ghamdi
+  strong: true
+  regulation_language: en
+  logical_id: '104144'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-06-25'
@@ -129,18 +129,6 @@ citizenships:
     number_title: 621/2011 (OJ L166)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1973
-  country_iso2_code: YE
-  country_description: YEMEN
-  regulation_language: en
-  logical_id: '104139'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-25'
-    number_title: 621/2011 (OJ L166)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
 - birthdate: '1979-05-27'
   circa: false
   calendar_type: GREGORIAN
@@ -151,6 +139,18 @@ birthdates:
   country_description: SAUDI ARABIA
   regulation_language: en
   logical_id: '104138'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-25'
+    number_title: 621/2011 (OJ L166)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:166:0018:0019:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1973
+  country_iso2_code: YE
+  country_description: YEMEN
+  regulation_language: en
+  logical_id: '104139'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-06-25'

@@ -14,33 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Игор
-  last_name: Борисов
-  whole_name: Игор Борисов
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161242'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Igor
-  middle_name: Borisovitj
-  last_name: BORISOV
-  whole_name: Igor Borisovitj BORISOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160674'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Игорь
   middle_name: Борисович
   last_name: БОРИСОВ
@@ -65,6 +38,33 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159822'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Igor
+  middle_name: Borisovitj
+  last_name: BORISOV
+  whole_name: Igor Borisovitj BORISOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160674'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Игор
+  last_name: Борисов
+  whole_name: Игор Борисов
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161242'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Habibullah
+  last_name: AGHA
+  whole_name: Habibullah AGHA
+  function: Acting Taliban Minister of Education
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155916'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1499 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
 - whole_name: حبیب الله اغا
   gender: M
   name_language: PS
@@ -36,31 +50,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1499 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- whole_name: Maulvi Habibullah AGHA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155913'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1499 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- first_name: Habibullah
-  last_name: AGHA
-  whole_name: Habibullah AGHA
-  function: Acting Taliban Minister of Education
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155916'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1499 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
 - whole_name: Sheikh Habibullah AGHA
   gender: M
   name_language: EN
@@ -78,6 +67,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155912'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1499 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
+- whole_name: Maulvi Habibullah AGHA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155913'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

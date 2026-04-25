@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Andrei
+  middle_name: Nikolaevich
+  last_name: IVASHKIN
+  whole_name: Andrei Nikolaevich IVASHKIN
+  function: General Director of JSC Central Design Bureau of Automatics
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '162411'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Андрей Николаевич ИВАШКИН
   gender: M
   name_language: RU
@@ -31,20 +45,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164061'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Andrei
-  middle_name: Nikolaevich
-  last_name: IVASHKIN
-  whole_name: Andrei Nikolaevich IVASHKIN
-  function: General Director of JSC Central Design Bureau of Automatics
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '162411'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

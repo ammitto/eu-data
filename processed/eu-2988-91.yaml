@@ -15,6 +15,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Syyrian kansallisen turvallisuuden virasto
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '16347'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Sirski državni varnostni urad
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '16346'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
 - whole_name: Syrian National Security Bureau
   strong: true
   regulation_language: en
@@ -24,11 +44,11 @@ name_aliases:
     publication_date: '2012-06-26'
     number_title: 544/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Syriens nationella säkerhetsbyrå
-  name_language: SV
+- whole_name: Сирийско национално бюро за сигурност
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '16352'
+  logical_id: '16252'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-06-26'
@@ -194,31 +214,11 @@ name_aliases:
     publication_date: '2012-06-26'
     number_title: 544/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Sirski državni varnostni urad
-  name_language: SL
+- whole_name: Syriens nationella säkerhetsbyrå
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '16346'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Syyrian kansallisen turvallisuuden virasto
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '16347'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Сирийско национално бюро за сигурност
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '16252'
+  logical_id: '16352'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-06-26'

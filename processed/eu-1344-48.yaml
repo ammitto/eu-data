@@ -15,20 +15,20 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Thoraya Barzan Ibrahim Hasan Al-Tikriti
+  gender: F
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '2784'
+  logical_id: '2794'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-04-30'
     number_title: 924/2004 (OJ L163)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:163:0100:0101:EN:PDF
 - whole_name: Thoraya Barzan Ibrahim Hasan Al-Tikriti
-  gender: F
-  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '2794'
+  logical_id: '2784'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-04-30'
@@ -45,21 +45,6 @@ citizenships:
     number_title: 924/2004 (OJ L163)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:163:0100:0101:EN:PDF
 birthdates:
-- birthdate: '1980-12-19'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 19
-  month_of_year: 12
-  year: 1980
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '524'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-04-30'
-    number_title: 924/2004 (OJ L163)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:163:0100:0101:EN:PDF
 - birthdate: '1980-01-19'
   circa: false
   calendar_type: GREGORIAN
@@ -70,6 +55,21 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '525'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-04-30'
+    number_title: 924/2004 (OJ L163)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:163:0100:0101:EN:PDF
+- birthdate: '1980-12-19'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 19
+  month_of_year: 12
+  year: 1980
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '524'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-04-30'

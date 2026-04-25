@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Bishr
+  last_name: AL-SABBAN
+  whole_name: Bishr AL-SABBAN
+  function: Former Governor of Damascus.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109899'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Mohammed Bishr
   last_name: Al-Sabban
   whole_name: Mohammed Bishr Al-Sabban
@@ -36,20 +50,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '109897'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Bishr
-  last_name: AL-SABBAN
-  whole_name: Bishr AL-SABBAN
-  function: Former Governor of Damascus.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109899'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

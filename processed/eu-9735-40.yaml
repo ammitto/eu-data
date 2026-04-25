@@ -14,6 +14,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Aktsionernoe Obshchestvo Kontsern "Morinformsistema - Agat"
+  strong: true
+  regulation_language: en
+  logical_id: '150048'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Morinformsystem Agat SA
   name_language: RO
   strong: true
@@ -24,11 +33,40 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Sociétés par actions Morinformsystem Agat
-  name_language: FR
+- whole_name: Моринсис – Агат
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151113'
+  logical_id: '150046'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Акционерное Общество "Концерн "Моринформсистема - Агат""
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150047'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Моринфорсистем Агат“ АД
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '151281'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Morinsis-agat
+  strong: true
+  regulation_language: en
+  logical_id: '150049'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -49,49 +87,11 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: Morinsis-agat
+- whole_name: Sociétés par actions Morinformsystem Agat
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '150049'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Aktsionernoe Obshchestvo Kontsern "Morinformsistema - Agat"
-  strong: true
-  regulation_language: en
-  logical_id: '150048'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Акционерное Общество "Концерн "Моринформсистема - Агат""
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150047'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Моринсис – Агат
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150046'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Моринфорсистем Агат“ АД
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '151281'
+  logical_id: '151113'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

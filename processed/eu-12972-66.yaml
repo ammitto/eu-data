@@ -14,6 +14,27 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Dzina Kučuk
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '174581'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Dina KUCHUK
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174584'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Dzina Kutšuk
   gender: F
   name_language: FI
@@ -36,11 +57,13 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Dzina Kučuk
-  name_language: CS
+- whole_name: Dzina KUCHUK
+  function: Judge of the Supreme Court of Belarus; former judge of Minsk City Court
+  gender: F
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174581'
+  logical_id: '174585'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -63,29 +86,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174583'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Dzina KUCHUK
-  function: Judge of the Supreme Court of Belarus; former judge of Minsk City Court
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174585'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Dina KUCHUK
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174584'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

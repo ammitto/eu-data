@@ -14,21 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Vladimir Sergejevič KIRIJENKO
-  name_language: SL
+- whole_name: Владимир Сергеевич КИРИЕНКО
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '137361'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-09'
-    number_title: 2022/396 (OJ L80)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
-- whole_name: Vladimir Sergejevitj KIRIJENKO
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '137362'
+  logical_id: '136823'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-09'
@@ -52,11 +42,21 @@ name_aliases:
     publication_date: '2022-03-09'
     number_title: 2022/396 (OJ L80)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
-- whole_name: Владимир Сергеевич КИРИЕНКО
-  gender: M
+- whole_name: Vladimir Sergejevitj KIRIJENKO
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '136823'
+  logical_id: '137362'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-09'
+    number_title: 2022/396 (OJ L80)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
+- whole_name: Vladimir Sergejevič KIRIJENKO
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '137361'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-09'

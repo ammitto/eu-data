@@ -14,16 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Siarhei
-  middle_name: Mikalaevich
-  last_name: PETRAKOVICH
-  whole_name: Siarhei Mikalaevich PETRAKOVICH
-  function: Head of the correctional institution Penal Colony No 9
+- first_name: Sergej
+  last_name: Petrakovič
+  whole_name: Sergej Petrakovič
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '170924'
+  logical_id: '172232'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -42,14 +40,44 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Sergej
-  last_name: Petrakovič
-  whole_name: Sergej Petrakovič
+- first_name: Siarhei
+  middle_name: Mikalaevich
+  last_name: PETRAKOVICH
+  whole_name: Siarhei Mikalaevich PETRAKOVICH
+  function: Head of the correctional institution Penal Colony No 9
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172232'
+  logical_id: '170924'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Sergey
+  middle_name: Nikolaevich
+  last_name: PETRAKOVICH
+  whole_name: Sergey Nikolaevich PETRAKOVICH
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '170923'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Сяргей
+  middle_name: Мікалаевіч
+  last_name: ПЕТРАКОВІЧ
+  whole_name: Сяргей Мікалаевіч ПЕТРАКОВІЧ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '170922'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -77,34 +105,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170921'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Сяргей
-  middle_name: Мікалаевіч
-  last_name: ПЕТРАКОВІЧ
-  whole_name: Сяргей Мікалаевіч ПЕТРАКОВІЧ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '170922'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Sergey
-  middle_name: Nikolaevich
-  last_name: PETRAKOVICH
-  whole_name: Sergey Nikolaevich PETRAKOVICH
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170923'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

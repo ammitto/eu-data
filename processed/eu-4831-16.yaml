@@ -15,28 +15,15 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Leonid
-  middle_name: Ivanovytj
-  last_name: PASITJNYK
-  whole_name: Leonid Ivanovytj PASITJNYK
+  middle_name: Ivanovich
+  last_name: PASECHNIK
+  whole_name: Leonid Ivanovich PASECHNIK
+  function: "“Elected leader” of the so-called “Luhansk People's Republic”."
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158587'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Леонiд
-  middle_name: Iванович
-  last_name: ПАСIЧНИК
-  whole_name: Леонiд Iванович ПАСIЧНИК
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '118700'
+  logical_id: '118703'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -57,6 +44,34 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Leonid
+  middle_name: Ivanovych
+  last_name: PASICHNYK
+  whole_name: Leonid Ivanovych PASICHNYK
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '118701'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Леонiд
+  middle_name: Iванович
+  last_name: ПАСIЧНИК
+  whole_name: Леонiд Iванович ПАСIЧНИК
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '118700'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Leonid
   middle_name: Ivanovitj
   last_name: PASETJNIK
   whole_name: Leonid Ivanovitj PASETJNIK
@@ -71,29 +86,14 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Leonid
-  middle_name: Ivanovych
-  last_name: PASICHNYK
-  whole_name: Leonid Ivanovych PASICHNYK
+  middle_name: Ivanovytj
+  last_name: PASITJNYK
+  whole_name: Leonid Ivanovytj PASITJNYK
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '118701'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Leonid
-  middle_name: Ivanovich
-  last_name: PASECHNIK
-  whole_name: Leonid Ivanovich PASECHNIK
-  function: "“Elected leader” of the so-called “Luhansk People's Republic”."
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '118703'
+  logical_id: '158587'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

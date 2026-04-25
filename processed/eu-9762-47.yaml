@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Медиагруппа «Патриот»
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150174'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Patriot Media Group
   function: a Russian media organisation
   name_language: EN
@@ -35,11 +25,11 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: Patriotische Mediengruppe
-  name_language: DE
+- whole_name: Медиагруппа «Патриот»
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151104'
+  logical_id: '150174'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -50,6 +40,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151208'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Patriotische Mediengruppe
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '151104'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

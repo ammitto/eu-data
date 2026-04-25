@@ -14,6 +14,64 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Iгор
+  middle_name: Леонiдович
+  last_name: КОЛЕДА
+  whole_name: Iгор Леонiдович КОЛЕДА
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '155955'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1499 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
+- first_name: Igor
+  middle_name: Leonidovich
+  last_name: KOLEDA
+  whole_name: Igor Leonidovich KOLEDA
+  function: Commander of the 30th Motorised Rifle Brigade (Russia)
+  gender: M
+  title: Colonel
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155956'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1499 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
+- first_name: Игорь
+  middle_name: Леонидович
+  last_name: КОЛЕДА
+  whole_name: Игорь Леонидович КОЛЕДА
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '155954'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1499 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
+- first_name: Igor
+  middle_name: Leonidovitš
+  last_name: KOLEDA
+  whole_name: Igor Leonidovitš KOLEDA
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '156104'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1499 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
 - first_name: Igor
   middle_name: Leonidovič
   last_name: KOLEDA
@@ -42,62 +100,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1499 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- first_name: Iгор
-  middle_name: Леонiдович
-  last_name: КОЛЕДА
-  whole_name: Iгор Леонiдович КОЛЕДА
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '155955'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1499 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- first_name: Igor
-  middle_name: Leonidowicz
-  last_name: Koleda
-  whole_name: Igor Leonidowicz Koleda
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156100'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1499 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- first_name: Igor
-  middle_name: Leonidovitš
-  last_name: KOLEDA
-  whole_name: Igor Leonidovitš KOLEDA
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '156104'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1499 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- first_name: Игорь
-  middle_name: Леонидович
-  last_name: КОЛЕДА
-  whole_name: Игорь Леонидович КОЛЕДА
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '155954'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1499 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
 - first_name: Ihor
   middle_name: Leonidovytj
   last_name: KOLEDA
@@ -113,16 +115,14 @@ name_aliases:
     number_title: 2023/1499 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
 - first_name: Igor
-  middle_name: Leonidovich
-  last_name: KOLEDA
-  whole_name: Igor Leonidovich KOLEDA
-  function: Commander of the 30th Motorised Rifle Brigade (Russia)
+  middle_name: Leonidowicz
+  last_name: Koleda
+  whole_name: Igor Leonidowicz Koleda
   gender: M
-  title: Colonel
-  name_language: EN
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '155956'
+  logical_id: '156100'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

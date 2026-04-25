@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ho-chin
+  last_name: Yun
+  whole_name: Ho-chin Yun
+  strong: true
+  regulation_language: en
+  logical_id: '7221'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-07-31'
+    number_title: 689/2009 (OJ L199)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:199:0003:0005:EN:PDF
 - first_name: Ho-jin
   last_name: Yun
   whole_name: Ho-jin Yun
@@ -21,17 +32,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7134'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-07-31'
-    number_title: 689/2009 (OJ L199)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:199:0003:0005:EN:PDF
-- first_name: Ho-chin
-  last_name: Yun
-  whole_name: Ho-chin Yun
-  strong: true
-  regulation_language: en
-  logical_id: '7221'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-07-31'

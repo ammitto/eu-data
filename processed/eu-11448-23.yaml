@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abba al-Saharawi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '164428'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-25'
-    number_title: 2024/954 (OJ L25032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400954
 - first_name: Mohamed Ibrahim al-Shafìi
   last_name: AL-SALEM
   whole_name: Mohamed Ibrahim al-Shafìi AL-SALEM
@@ -33,6 +22,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164775'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-25'
+    number_title: 2024/954 (OJ L25032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400954
+- whole_name: Aba Al-Sahraoui
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '164430'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-25'
@@ -51,12 +51,12 @@ name_aliases:
     publication_date: '2024-03-25'
     number_title: 2024/954 (OJ L25032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400954
-- whole_name: Aba Al-Sahraoui
+- whole_name: Abba al-Saharawi
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '164430'
+  logical_id: '164428'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-25'

@@ -14,29 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Leanid
-  middle_name: Vjatjaslavavitj
-  last_name: DAVIDOVITJ
-  whole_name: Leanid Vjatjaslavavitj DAVIDOVITJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160636'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Leonid
-  middle_name: Vjatjeslavovitj
-  last_name: DAVIDOVITJ
-  whole_name: Leonid Vjatjeslavovitj DAVIDOVITJ
+  middle_name: Vyacheslavovich
+  last_name: DAVIDOVICH
+  whole_name: Leonid Vyacheslavovich DAVIDOVICH
+  function: Commander of the 61st air base and the Baranovichi garrison
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160637'
+  logical_id: '159597'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -70,6 +57,19 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Leanid
+  last_name: Davidovič
+  whole_name: Leanid Davidovič
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160844'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Leonid
   last_name: Davidovič
   whole_name: Leonid Davidovič
@@ -96,29 +96,29 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Leonid
-  middle_name: Vyacheslavovich
-  last_name: DAVIDOVICH
-  whole_name: Leonid Vyacheslavovich DAVIDOVICH
-  function: Commander of the 61st air base and the Baranovichi garrison
+- first_name: Leanid
+  middle_name: Vjatjaslavavitj
+  last_name: DAVIDOVITJ
+  whole_name: Leanid Vjatjaslavavitj DAVIDOVITJ
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159597'
+  logical_id: '160636'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Leanid
-  last_name: Davidovič
-  whole_name: Leanid Davidovič
+- first_name: Leonid
+  middle_name: Vjatjeslavovitj
+  last_name: DAVIDOVITJ
+  whole_name: Leonid Vjatjeslavovitj DAVIDOVITJ
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160844'
+  logical_id: '160637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

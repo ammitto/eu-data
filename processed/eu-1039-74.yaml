@@ -14,24 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Islamic International Brigade
-  strong: true
-  regulation_language: en
-  logical_id: '2151'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-03-06'
-    number_title: 414/2003 (OJ L62)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:062:0024:0025:EN:PDF
-- whole_name: the Islamic Peacekeeping Brigade
-  strong: true
-  regulation_language: en
-  logical_id: '2152'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-03-06'
-    number_title: 414/2003 (OJ L62)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:062:0024:0025:EN:PDF
 - whole_name: the Islamic Peacekeeping Army
   strong: true
   regulation_language: en
@@ -59,11 +41,10 @@ name_aliases:
     publication_date: '2003-03-06'
     number_title: 414/2003 (OJ L62)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:062:0024:0025:EN:PDF
-- whole_name: Brigada Internacional Islâmica
-  name_language: PT
+- whole_name: Islamic Peacekeeping International Brigade
   strong: true
   regulation_language: en
-  logical_id: '2162'
+  logical_id: '2156'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-03-06'
@@ -78,11 +59,10 @@ name_aliases:
     publication_date: '2003-03-06'
     number_title: 414/2003 (OJ L62)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:062:0024:0025:EN:PDF
-- whole_name: Brigada Internacional Islámica
-  name_language: ES
+- whole_name: the Islamic Peacekeeping Brigade
   strong: true
   regulation_language: en
-  logical_id: '2158'
+  logical_id: '2152'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-03-06'
@@ -118,10 +98,30 @@ name_aliases:
     publication_date: '2003-03-06'
     number_title: 414/2003 (OJ L62)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:062:0024:0025:EN:PDF
-- whole_name: Islamic Peacekeeping International Brigade
+- whole_name: Brigada Internacional Islâmica
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '2156'
+  logical_id: '2162'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-03-06'
+    number_title: 414/2003 (OJ L62)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:062:0024:0025:EN:PDF
+- whole_name: Islamic International Brigade
+  strong: true
+  regulation_language: en
+  logical_id: '2151'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-03-06'
+    number_title: 414/2003 (OJ L62)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:062:0024:0025:EN:PDF
+- whole_name: Brigada Internacional Islámica
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '2158'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-03-06'

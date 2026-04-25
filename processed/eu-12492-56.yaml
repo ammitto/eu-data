@@ -14,6 +14,33 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Александр
+  middle_name: Николаевич
+  last_name: АЛУЕВ
+  whole_name: Александр Николаевич АЛУЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171128'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- first_name: Александър
+  last_name: Алуев
+  whole_name: Александър Алуев
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '171950'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - first_name: Alexander
   middle_name: Nikolaevich
   last_name: ALUEV
@@ -30,20 +57,6 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- first_name: Александр
-  middle_name: Николаевич
-  last_name: АЛУЕВ
-  whole_name: Александр Николаевич АЛУЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171128'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - first_name: Alexandr
   last_name: Alujev
   whole_name: Alexandr Alujev
@@ -52,19 +65,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171949'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- first_name: Александър
-  last_name: Алуев
-  whole_name: Александър Алуев
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '171950'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

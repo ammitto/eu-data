@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО “123 авиационный ремонтный завод”
-  name_language: RU
+- whole_name: "„123. SZ. REPÜLŐGÉPJAVÍTÓ ÜZEM” RT."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '160115'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “123 AVIATION REPAIR PLANT”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160116'
+  logical_id: '161003'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -44,6 +34,16 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JSC “123 AVIATION REPAIR PLANT”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160116'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: sociedad anónima “Planta de Reparación de Aeronaves 123”
   name_language: ES
   strong: true
@@ -54,11 +54,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: "„123. SZ. REPÜLŐGÉPJAVÍTÓ ÜZEM” RT."
-  name_language: HU
+- whole_name: АО “123 авиационный ремонтный завод”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '161003'
+  logical_id: '160115'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

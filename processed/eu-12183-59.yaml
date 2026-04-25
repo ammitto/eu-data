@@ -14,23 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Николай Васильевич СЕРГЕЕВИЧ
+- whole_name: Nikolai Vasilievich SERGEEVICH
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '169355'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Мікалай Васільевіч СЯРГЕЕВIЧ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '169356'
+  logical_id: '169357'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -49,25 +38,12 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Mikalai Vasilievich SIARHEEVICH
-  function: Former judge of the Zhlobinsky District Court of the Gomel Region, Chairman
-    of the Chechersky District Court
+- whole_name: Николай Васильевич СЕРГЕЕВИЧ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '169358'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-25'
-    number_title: 2025/386 (OJ L25022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
-- whole_name: Nikolai Vasilievich SERGEEVICH
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169357'
+  logical_id: '169355'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -81,6 +57,30 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169559'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Mikalai Vasilievich SIARHEEVICH
+  function: Former judge of the Zhlobinsky District Court of the Gomel Region, Chairman
+    of the Chechersky District Court
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169358'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-25'
+    number_title: 2025/386 (OJ L25022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
+- whole_name: Мікалай Васільевіч СЯРГЕЕВIЧ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '169356'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

@@ -14,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: PFLP — Ceannas Ginearálta
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '123355'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Народен фронт за освобождение на Палестина — Главно командване
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '123359'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: PFLP peastaap
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '123357'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Palestiina Vabastamise Rahvarinde peastaap
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '123358'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
 - whole_name: Popular Front for the Liberation of Palestine — General Command
   name_language: EN
   strong: true
@@ -64,16 +24,16 @@ name_aliases:
     publication_date: '2023-07-21'
     number_title: 2023/1505 (OJ L184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: PFLP — General Command
-  name_language: EN
+- whole_name: Народен фронт за освобождение на Палестина — Главно командване
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '362'
+  logical_id: '123359'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
 - whole_name: Front populaire de libération de la Palestine — Commandement général
   name_language: FR
   strong: true
@@ -144,6 +104,86 @@ name_aliases:
     publication_date: '2006-05-31'
     number_title: 2006/379/EC (OJ L144)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:144:0021:0023:EN:PDF
+- whole_name: Il-Front Popolari għal-Liberazzjoni tal-Palestina – Kmand Ġenerali
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '6738'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-07-16'
+    number_title: 2008/583/EC (OJ L188)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:188:0021:0025:EN:PDF
+- whole_name: PFLP – Kmand Ġenerali
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '6739'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-07-16'
+    number_title: 2008/583/EC (OJ L188)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:188:0021:0025:EN:PDF
+- whole_name: PFLP -Főparancsnokság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '7191'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2009-06-16'
+    number_title: 501/2009 (OJ L151)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:151:0014:0016:EN:PDF
+- whole_name: Folkfronten för Palestinas befrielse – Generalkommandot
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '123346'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: PFLP:n keskuskomento
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '123347'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Palestiinan vapautuksen kansanrintama – keskuskomento
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '123348'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: PFLP – splošno poveljstvo
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '123349'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Ljudska fronta za osvoboditev Palestine – splošno poveljstvo
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '123350'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
 - whole_name: FPLP — Comando Geral
   name_language: PT
   strong: true
@@ -344,86 +384,6 @@ name_aliases:
     publication_date: '2007-06-29'
     number_title: 2007/445/EC (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:169:0058:0062:EN:PDF
-- whole_name: Il-Front Popolari għal-Liberazzjoni tal-Palestina – Kmand Ġenerali
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '6738'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-07-16'
-    number_title: 2008/583/EC (OJ L188)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:188:0021:0025:EN:PDF
-- whole_name: PFLP – Kmand Ġenerali
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '6739'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-07-16'
-    number_title: 2008/583/EC (OJ L188)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:188:0021:0025:EN:PDF
-- whole_name: PFLP -Főparancsnokság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '7191'
-  regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2009-06-16'
-    number_title: 501/2009 (OJ L151)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:151:0014:0016:EN:PDF
-- whole_name: Folkfronten för Palestinas befrielse – Generalkommandot
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '123346'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: PFLP:n keskuskomento
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '123347'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Palestiinan vapautuksen kansanrintama – keskuskomento
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '123348'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: PFLP – splošno poveljstvo
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '123349'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Ljudska fronta za osvoboditev Palestine – splošno poveljstvo
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '123350'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
 - whole_name: PFLP – Naczelne Dowództwo
   name_language: PL
   strong: true
@@ -464,6 +424,16 @@ name_aliases:
     publication_date: '2020-01-14'
     number_title: 2020/19 (OJ L8I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: PFLP — Ceannas Ginearálta
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '123355'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
 - whole_name: Fronta Pobail i gcomhair Shaoirse na Palaistíne — Ceannas Ginearálta
   name_language: GA
   strong: true
@@ -474,3 +444,33 @@ name_aliases:
     publication_date: '2020-01-14'
     number_title: 2020/19 (OJ L8I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: PFLP peastaap
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '123357'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Palestiina Vabastamise Rahvarinde peastaap
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '123358'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: PFLP — General Command
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '362'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505

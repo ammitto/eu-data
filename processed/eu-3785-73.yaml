@@ -17,17 +17,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Se Bong
-  last_name: PAEK
-  whole_name: Se Bong PAEK
-  strong: true
-  regulation_language: en
-  logical_id: '112438'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-06-13'
-    number_title: 2017/993 (OJ L149)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0993&from=EN
 - first_name: Se-bong
   last_name: PAEK
   whole_name: Se-bong PAEK
@@ -37,6 +26,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7591'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-06-13'
+    number_title: 2017/993 (OJ L149)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0993&from=EN
+- first_name: Se Bong
+  last_name: PAEK
+  whole_name: Se Bong PAEK
+  strong: true
+  regulation_language: en
+  logical_id: '112438'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-06-13'

@@ -98,22 +98,6 @@ birthdates:
     publication_date: '2020-03-13'
     number_title: 2020/398 (OJ L78)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
-- birthdate: '1964-06-25'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 25
-  month_of_year: 6
-  year: 1964
-  city: Luhansk (possibly in Kelmentsi, Chernivtsi oblast)
-  country_iso2_code: UA
-  country_description: UKRAINE
-  regulation_language: en
-  logical_id: '2323'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-03-13'
-    number_title: 2020/398 (OJ L78)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
 - birthdate: '1964-06-26'
   circa: false
   calendar_type: GREGORIAN
@@ -125,6 +109,22 @@ birthdates:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '106302'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-03-13'
+    number_title: 2020/398 (OJ L78)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
+- birthdate: '1964-06-25'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 25
+  month_of_year: 6
+  year: 1964
+  city: Luhansk (possibly in Kelmentsi, Chernivtsi oblast)
+  country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '2323'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'

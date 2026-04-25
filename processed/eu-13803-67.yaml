@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Evraz Nyrt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '179622'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Evraz PLC
   function: Evraz PLC is a UK-based company that is leading in the steel and mining
     industries, with its core business taking place in the Russian Federation.
@@ -32,6 +22,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179623'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Evraz Nyrt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '179622'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

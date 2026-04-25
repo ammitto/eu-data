@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Fundación Aleksey Talay
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '164078'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Фонд Аляксея Талая
   name_language: BE
   strong: true
@@ -44,18 +54,6 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Alexey Talay Foundation
-  function: The Aleksey Talai Foundation is a charitable Foundation in Belarus founded
-    by Aleksey Talai.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163290'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Fondation Aleksey Talay
   name_language: FR
   strong: true
@@ -66,11 +64,13 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Fundația Alexei Talai
-  name_language: RO
+- whole_name: Alexey Talay Foundation
+  function: The Aleksey Talai Foundation is a charitable Foundation in Belarus founded
+    by Aleksey Talai.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163788'
+  logical_id: '163290'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -86,11 +86,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Fundación Aleksey Talay
-  name_language: ES
+- whole_name: Fundația Alexei Talai
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '164078'
+  logical_id: '163788'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: ООО ТД "КАМА"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140433'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: LLC TD KAMA
   function: Russian general distributor of KAMA TIRES products
   name_language: EN
@@ -35,16 +45,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: ООО ТД "КАМА"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140433'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 addresses:
 - street: Territoriya Promzona, AIK-24, room 402
   city: Nizhnekamsk
@@ -60,21 +60,21 @@ addresses:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 identifications:
-- identification_type_code: fiscalcode
-  number: '1651024807'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '151777'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - identification_type_code: regnumber
   number: '1021602510533'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '151778'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- identification_type_code: fiscalcode
+  number: '1651024807'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '151777'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

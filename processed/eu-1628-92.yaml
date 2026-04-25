@@ -14,66 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Omar Labella
-  strong: true
-  regulation_language: en
-  logical_id: '6534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- first_name: Omar
+- first_name: Ramo
   last_name: Lavilla
-  whole_name: Omar Lavilla
+  whole_name: Ramo Lavilla
   strong: true
   regulation_language: en
-  logical_id: '6533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Eso
-  strong: true
-  regulation_language: en
-  logical_id: '6536'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Junjun
-  strong: true
-  regulation_language: en
-  logical_id: '6537'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: So
-  strong: true
-  regulation_language: en
-  logical_id: '6535'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Ali Omar
-  strong: true
-  regulation_language: en
-  logical_id: '6532'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Abdullah Muddaris
-  strong: true
-  regulation_language: en
-  logical_id: '6531'
+  logical_id: '6529'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
@@ -91,23 +37,44 @@ name_aliases:
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- first_name: Ramo
-  last_name: Lavilla
-  whole_name: Ramo Lavilla
-  strong: true
-  regulation_language: en
-  logical_id: '6529'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
 - first_name: Reymund
   last_name: Lavilla
   whole_name: Reymund Lavilla
   strong: true
   regulation_language: en
   logical_id: '6528'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- first_name: Mile
+  middle_name: D
+  last_name: Lavilla
+  whole_name: Mile D Lavilla
+  strong: true
+  regulation_language: en
+  logical_id: '6527'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: Sheik Omar
+  strong: true
+  regulation_language: en
+  logical_id: '6526'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- first_name: Reuben
+  last_name: Lavilla
+  whole_name: Reuben Lavilla
+  strong: true
+  regulation_language: en
+  logical_id: '6525'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
@@ -126,33 +93,66 @@ name_aliases:
     publication_date: '2018-05-18'
     number_title: 2018/733 (OJ L123)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0733&from=EN
-- first_name: Reuben
-  last_name: Lavilla
-  whole_name: Reuben Lavilla
+- whole_name: Abdullah Muddaris
   strong: true
   regulation_language: en
-  logical_id: '6525'
+  logical_id: '6531'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Sheik Omar
+- whole_name: Ali Omar
   strong: true
   regulation_language: en
-  logical_id: '6526'
+  logical_id: '6532'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- first_name: Mile
-  middle_name: D
+- first_name: Omar
   last_name: Lavilla
-  whole_name: Mile D Lavilla
+  whole_name: Omar Lavilla
   strong: true
   regulation_language: en
-  logical_id: '6527'
+  logical_id: '6533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: Omar Labella
+  strong: true
+  regulation_language: en
+  logical_id: '6534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: So
+  strong: true
+  regulation_language: en
+  logical_id: '6535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: Eso
+  strong: true
+  regulation_language: en
+  logical_id: '6536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: Junjun
+  strong: true
+  regulation_language: en
+  logical_id: '6537'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'

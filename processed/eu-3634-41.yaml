@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Fred Irakeza
-  function: FDLR-FOCA Colonel
-  strong: true
-  regulation_language: en
-  logical_id: '8400'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 - first_name: Félicien
   last_name: Nsanzubukire
   whole_name: Félicien Nsanzubukire
@@ -31,6 +21,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '8399'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
+- whole_name: Fred Irakeza
+  function: FDLR-FOCA Colonel
+  strong: true
+  regulation_language: en
+  logical_id: '8400'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-07'
@@ -47,6 +47,19 @@ citizenships:
     number_title: 1097/2011 (OJ L285)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:285:0002:0005:EN:PDF
 birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  city: Kigali
+  place: Kinyinya
+  country_iso2_code: RW
+  country_description: RWANDA
+  regulation_language: en
+  logical_id: '110790'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 - circa: false
   calendar_type: GREGORIAN
   city: Kigali
@@ -73,19 +86,6 @@ birthdates:
     publication_date: '2010-12-23'
     number_title: 1250/2010 (OJ L341)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0011:0014:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  city: Kigali
-  place: Kinyinya
-  country_iso2_code: RW
-  country_description: RWANDA
-  regulation_language: en
-  logical_id: '110790'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 addresses:
 - region: South Kivu
   country_iso2_code: CD

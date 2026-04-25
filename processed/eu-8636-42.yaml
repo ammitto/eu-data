@@ -14,29 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oleksandr
-  middle_name: Fedorovytj
+- first_name: Alexandr
+  middle_name: Fedorovich
   last_name: SAULENKO
-  whole_name: Oleksandr Fedorovytj SAULENKO
+  whole_name: Alexandr Fedorovich SAULENKO
+  function: So-called head of the provisional administration of Berdyansk and the
+    Berdyansk region and mayor of the city of Berdyansk..
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '143262'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Aleksandr
-  middle_name: Fjodorovitj
-  last_name: SAULENKO
-  whole_name: Aleksandr Fjodorovitj SAULENKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143263'
+  logical_id: '143267'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -56,31 +44,29 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Олександр
-  middle_name: Федорович
-  last_name: САУЛЕНКО
-  whole_name: Олександр Федорович САУЛЕНКО
+- first_name: Aleksandr
+  middle_name: Fjodorovitj
+  last_name: SAULENKO
+  whole_name: Aleksandr Fjodorovitj SAULENKO
   gender: M
-  name_language: UK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '143264'
+  logical_id: '143263'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Alexandr
-  middle_name: Fedorovich
+- first_name: Oleksandr
+  middle_name: Fedorovytj
   last_name: SAULENKO
-  whole_name: Alexandr Fedorovich SAULENKO
-  function: So-called head of the provisional administration of Berdyansk and the
-    Berdyansk region and mayor of the city of Berdyansk..
+  whole_name: Oleksandr Fedorovytj SAULENKO
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '143267'
+  logical_id: '143262'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -109,6 +95,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143265'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Олександр
+  middle_name: Федорович
+  last_name: САУЛЕНКО
+  whole_name: Олександр Федорович САУЛЕНКО
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '143264'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО Концерн “Калашников”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '139879'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: JSC Kalashnikov Concern
   function: Russian manufacturer of army equipment, including personal rifles, missiles
     and vehicles
@@ -31,26 +21,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139880'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Όμιλος JSC Kalashnikov
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '152429'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Kalasjnikovkoncernen
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '152597'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -66,6 +36,26 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Kalasjnikovkoncernen
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '152597'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Όμιλος JSC Kalashnikov
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '152429'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Koncern „Kałasznikow” SA
   name_language: PL
   strong: true
@@ -76,6 +66,16 @@ name_aliases:
     publication_date: '2022-04-08'
     number_title: 2022/581 (OJ L110)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: АО Концерн “Калашников”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '139879'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 addresses:
 - street: Deryabina avenue, 3B
   city: Izhevsk

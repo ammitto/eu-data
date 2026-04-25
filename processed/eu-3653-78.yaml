@@ -14,19 +14,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Great Lakes Business Company
+- whole_name: Compagnie Aérienne des Grands Lacs
   strong: true
   regulation_language: en
-  logical_id: '5133'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-13'
-    number_title: 400/2007 (OJ L98)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
-- whole_name: GLBC
-  strong: true
-  regulation_language: en
-  logical_id: '5134'
+  logical_id: '5131'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-04-13'
@@ -41,10 +32,19 @@ name_aliases:
     publication_date: '2007-04-13'
     number_title: 400/2007 (OJ L98)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
-- whole_name: Compagnie Aérienne des Grands Lacs
+- whole_name: Great Lakes Business Company
   strong: true
   regulation_language: en
-  logical_id: '5131'
+  logical_id: '5133'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-13'
+    number_title: 400/2007 (OJ L98)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:098:0020:0021:EN:PDF
+- whole_name: GLBC
+  strong: true
+  regulation_language: en
+  logical_id: '5134'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-04-13'

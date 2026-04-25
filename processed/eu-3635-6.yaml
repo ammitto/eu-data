@@ -15,21 +15,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: BASSAM AHMAD AL-HASRI
+- whole_name: Abu Ahmad al-Shami
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '111175'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-25'
-    number_title: 2017/326 (OJ L49)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
-- whole_name: Bassam Ahmad Husari
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '111174'
+  logical_id: '111172'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'
@@ -45,26 +35,27 @@ name_aliases:
     publication_date: '2017-02-25'
     number_title: 2017/326 (OJ L49)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
-- whole_name: Abu Ahmad al-Shami
+- whole_name: Bassam Ahmad Husari
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '111172'
+  logical_id: '111174'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-25'
+    number_title: 2017/326 (OJ L49)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
+- whole_name: BASSAM AHMAD AL-HASRI
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '111175'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'
     number_title: 2017/326 (OJ L49)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
 citizenships:
-- country_iso2_code: PS
-  country_description: PALESTINIAN TERRITORY, Occupied
-  regulation_language: en
-  logical_id: '111170'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-25'
-    number_title: 2017/326 (OJ L49)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
 - country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
@@ -74,24 +65,16 @@ citizenships:
     publication_date: '2017-02-25'
     number_title: 2017/326 (OJ L49)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
-birthdates:
-- birthdate: '1969-01-01'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 1
-  month_of_year: 1
-  year: 1969
-  city: Qalamun
-  region: Damascus Province
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: PS
+  country_description: PALESTINIAN TERRITORY, Occupied
   regulation_language: en
-  logical_id: '111169'
+  logical_id: '111170'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'
     number_title: 2017/326 (OJ L49)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
+birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1971
@@ -114,6 +97,23 @@ birthdates:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '111167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-25'
+    number_title: 2017/326 (OJ L49)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
+- birthdate: '1969-01-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 1
+  year: 1969
+  city: Qalamun
+  region: Damascus Province
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '111169'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'

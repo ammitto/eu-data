@@ -17,6 +17,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ehsanullah Sarfida
+  strong: true
+  regulation_language: en
+  logical_id: '16002'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - whole_name: Ehsanullah Sarfida Hesamuddin Akhundzada
   function: Deputy Minister of Security (Intelligence) under the Taliban regime.
   title: Maulavi
@@ -32,15 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '16001'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Ehsanullah Sarfida
-  strong: true
-  regulation_language: en
-  logical_id: '16002'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'

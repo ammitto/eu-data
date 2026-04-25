@@ -15,6 +15,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Neil Tsang
+  strong: true
+  regulation_language: en
+  logical_id: '116344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-04-09'
+    number_title: 2018/548 (OJ L91)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0548&from=EN
 - first_name: YUNG
   middle_name: YUAN
   last_name: TSANG
@@ -31,15 +40,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '116343'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-04-09'
-    number_title: 2018/548 (OJ L91)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0548&from=EN
-- whole_name: Neil Tsang
-  strong: true
-  regulation_language: en
-  logical_id: '116344'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-04-09'

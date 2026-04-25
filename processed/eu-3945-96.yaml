@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Andrej
+  last_name: Kozenko
+  whole_name: Andrej Kozenko
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158312'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Андрей
   middle_name: Дмитриевич
   last_name: КОЗЕНКО
@@ -28,14 +41,19 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Andrej
-  last_name: Kozenko
-  whole_name: Andrej Kozenko
+- first_name: Andrei
+  middle_name: Dmitrievich
+  last_name: KOZENKO
+  whole_name: Andrei Dmitrievich KOZENKO
+  function: Since July 2022, so-called “Deputy Head” of the so-called “Zaporizhzhia
+    Regional Administration” established by Russian forces in occupied Melitopol,
+    Ukraine. Coordinator of the Integration Committee ‘Russia-Donbass’. Former Member
+    of the State Duma; Former Member of Duma Committee on Financial Markets.
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158312'
+  logical_id: '109983'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -50,24 +68,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '137449'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Andrei
-  middle_name: Dmitrievich
-  last_name: KOZENKO
-  whole_name: Andrei Dmitrievich KOZENKO
-  function: Since July 2022, so-called “Deputy Head” of the so-called “Zaporizhzhia
-    Regional Administration” established by Russian forces in occupied Melitopol,
-    Ukraine. Coordinator of the Integration Committee ‘Russia-Donbass’. Former Member
-    of the State Duma; Former Member of Duma Committee on Financial Markets.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109983'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

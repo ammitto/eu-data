@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jekaterina
-  middle_name: Viktorovna
-  last_name: GALJAUTDINOVA
-  whole_name: Jekaterina Viktorovna GALJAUTDINOVA
+- first_name: Екатерина
+  middle_name: Викторовна
+  last_name: ГАЛЯУТДИНОВА
+  whole_name: Екатерина Викторовна ГАЛЯУТДИНОВА
   gender: F
-  name_language: FI
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '165946'
+  logical_id: '165660'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -42,20 +42,6 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Екатерина
-  middle_name: Викторовна
-  last_name: ГАЛЯУТДИНОВА
-  whole_name: Екатерина Викторовна ГАЛЯУТДИНОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '165660'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
 - first_name: Jekaterina
   middle_name: Viktorovna
   last_name: Gaľautdinovová
@@ -65,6 +51,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165926'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Jekaterina
+  middle_name: Viktorovna
+  last_name: GALJAUTDINOVA
+  whole_name: Jekaterina Viktorovna GALJAUTDINOVA
+  gender: F
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '165946'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

@@ -14,22 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC Mayak
-  function: a wholesaler based in Russia
-  name_language: EN
+- whole_name: sociedad de responsabilidad limitada Mayak
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '160216'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Mayak Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161070'
+  logical_id: '160755'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -45,11 +34,12 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad de responsabilidad limitada Mayak
-  name_language: ES
+- whole_name: LLC Mayak
+  function: a wholesaler based in Russia
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160755'
+  logical_id: '160216'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -60,6 +50,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161069'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Mayak Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161070'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

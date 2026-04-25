@@ -15,20 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Anatoliy
-  middle_name: Vladimirovich
-  last_name: CHEPIGA
-  whole_name: Anatoliy Vladimirovich CHEPIGA
-  function: GRU  Officer
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '119243'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-01-21'
-    number_title: 2019/84 (OJ L18 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
 - first_name: Ruslan
   last_name: BOSHIROV
   whole_name: Ruslan BOSHIROV
@@ -51,23 +37,21 @@ name_aliases:
     publication_date: '2019-01-21'
     number_title: 2019/84 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
-birthdates:
-- birthdate: '1979-04-05'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 5
-  month_of_year: 4
-  year: 1979
-  place: Nikolaevka,  Amur  Oblast
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- first_name: Anatoliy
+  middle_name: Vladimirovich
+  last_name: CHEPIGA
+  whole_name: Anatoliy Vladimirovich CHEPIGA
+  function: GRU  Officer
+  gender: M
+  strong: true
   regulation_language: en
-  logical_id: '119247'
+  logical_id: '119243'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-01-21'
     number_title: 2019/84 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
+birthdates:
 - birthdate: '1979-04-05'
   circa: false
   calendar_type: GREGORIAN
@@ -111,6 +95,22 @@ birthdates:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '119244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-01-21'
+    number_title: 2019/84 (OJ L18 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
+- birthdate: '1979-04-05'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 5
+  month_of_year: 4
+  year: 1979
+  place: Nikolaevka,  Amur  Oblast
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '119247'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-01-21'

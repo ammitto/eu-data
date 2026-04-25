@@ -14,15 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Kore Kuryonggang Trading Corporation
-  strong: true
-  regulation_language: en
-  logical_id: '143166'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 - whole_name: Korean Tangun Trading Corporation
   function: Korea Tangun Trading Corporation is subordinate to DPRK's Second Academy
     of Natural Sciences and is primarily responsible for the procurement of commodities
@@ -66,6 +57,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143167'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: Kore Kuryonggang Trading Corporation
+  strong: true
+  regulation_language: en
+  logical_id: '143166'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'

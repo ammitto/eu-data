@@ -14,15 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Daniel Pak
-  strong: true
-  regulation_language: en
-  logical_id: '115189'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-01-22'
-    number_title: 2018/87 (OJ L16 I)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0087&from=EN
 - whole_name: PAK In Su
   strong: true
   regulation_language: en
@@ -41,6 +32,15 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Daniel Pak
+  strong: true
+  regulation_language: en
+  logical_id: '115189'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-01-22'
+    number_title: 2018/87 (OJ L16 I)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0087&from=EN
 birthdates:
 - birthdate: '1957-05-22'
   circa: false

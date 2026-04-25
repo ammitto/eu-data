@@ -24,11 +24,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: ПАО “Туполев”
-  name_language: RU
+- whole_name: Tupolev, a. s.
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160182'
+  logical_id: '161052'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -44,21 +44,21 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC TUPOLEV
-  name_language: EN
+- whole_name: ПАО “Туполев”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160183'
+  logical_id: '160182'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Tupolev, a. s.
-  name_language: CS
+- whole_name: JSC TUPOLEV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161052'
+  logical_id: '160183'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

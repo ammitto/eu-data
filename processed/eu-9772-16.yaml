@@ -14,54 +14,32 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Maxim ŠUGALEJ
+- first_name: Максим
+  last_name: ШУГАЛЕЙ
+  whole_name: Максим ШУГАЛЕЙ
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '150929'
+  logical_id: '150230'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/430 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
 - first_name: Maksim
-  last_name: Shugaley
-  whole_name: Maksim Shugaley
+  last_name: SHUGALEI
+  whole_name: Maksim SHUGALEI
   gender: M
-  name_language: SL
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159029'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- whole_name: Maksim ŠUGALEJ
-  gender: M
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '150928'
+  logical_id: '150231'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/430 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- first_name: Maksim
-  last_name: Szugalej
-  whole_name: Maksim Szugalej
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '159017'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - first_name: Maxim
   last_name: SHUGALEY
   whole_name: Maxim SHUGALEY
@@ -89,6 +67,43 @@ name_aliases:
     publication_date: '2023-12-06'
     number_title: 2023/2722 (OJ L05122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- whole_name: Maksim ŠUGALEJ
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '150928'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- first_name: Maksim
+  last_name: Shugaley
+  whole_name: Maksim Shugaley
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '159029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
+- first_name: Maksim
+  last_name: Szugalej
+  whole_name: Maksim Szugalej
+  gender: M
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '159017'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 - first_name: Maxim
   last_name: Šugalej
   whole_name: Maxim Šugalej
@@ -102,27 +117,12 @@ name_aliases:
     publication_date: '2023-12-06'
     number_title: 2023/2722 (OJ L05122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- first_name: Максим
-  last_name: ШУГАЛЕЙ
-  whole_name: Максим ШУГАЛЕЙ
+- whole_name: Maxim ŠUGALEJ
   gender: M
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '150230'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- first_name: Maksim
-  last_name: SHUGALEI
-  whole_name: Maksim SHUGALEI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150231'
+  logical_id: '150929'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

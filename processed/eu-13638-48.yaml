@@ -15,11 +15,14 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Bank Sepah és Bank Sepah International
-  name_language: HU
+- whole_name: Bank Sepah and Bank Sepah International
+  function: Bank Sepah provides support for the Aerospace Industries Organisation
+    (AIO) and subordinates, including Shahid Hemmat Industrial Group (SHIG) and Shahid
+    Bagheri Industrial Group (SBIG).
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '178792'
+  logical_id: '178746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -35,24 +38,21 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Bank Sepah y Bank Sepah International
-  name_language: ES
+- whole_name: Bank Sepah és Bank Sepah International
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '178791'
+  logical_id: '178792'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Bank Sepah and Bank Sepah International
-  function: Bank Sepah provides support for the Aerospace Industries Organisation
-    (AIO) and subordinates, including Shahid Hemmat Industrial Group (SHIG) and Shahid
-    Bagheri Industrial Group (SBIG).
-  name_language: EN
+- whole_name: Bank Sepah y Bank Sepah International
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '178746'
+  logical_id: '178791'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

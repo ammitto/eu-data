@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Sergej
+  middle_name: Dmitrijevitj
+  last_name: BURAKOV
+  whole_name: Sergej Dmitrijevitj BURAKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160693'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Сергей
   middle_name: Дмитриевич
   last_name: БУРАКОВ
@@ -53,20 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160933'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Sergej
-  middle_name: Dmitrijevitj
-  last_name: BURAKOV
-  whole_name: Sergej Dmitrijevitj BURAKOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160693'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -125,21 +125,21 @@ addresses:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 identifications:
-- identification_type_code: other
-  number: Series 4503 No 498240
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '159928'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - identification_type_code: fiscalcode
   number: '773391156299'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '159927'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- identification_type_code: other
+  number: Series 4503 No 498240
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '159928'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

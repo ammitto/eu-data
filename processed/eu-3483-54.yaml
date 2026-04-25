@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrej
-  last_name: Kartapolov
-  whole_name: Andrej Kartapolov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '158457'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Andrei
   middle_name: Valeryevich
   last_name: KARTAPOLOV
@@ -39,32 +26,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18550'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Andrej
-  last_name: Kartapolov
-  whole_name: Andrej Kartapolov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '158309'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Andrej
-  last_name: Kartapolow
-  whole_name: Andrej Kartapolow
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '158221'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -98,6 +59,45 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Andrej
+  last_name: Kartapolow
+  whole_name: Andrej Kartapolow
+  gender: M
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '158221'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Andrej
+  last_name: Kartapolov
+  whole_name: Andrej Kartapolov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158457'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Andrej
+  last_name: Kartapolov
+  whole_name: Andrej Kartapolov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '158309'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 birthdates:
 - birthdate: '1963-11-09'
   circa: false

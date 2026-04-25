@@ -14,24 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Terminator
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '4348'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-05'
-    number_title: 2023/913 (OJ L119)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.119.01.0020.01.ENG&toc=OJ%3AL%3A2023%3A119%3ATOC
 - first_name: Bosco
-  last_name: Ntagenda
-  whole_name: Bosco Ntagenda
+  last_name: TAGANDA
+  whole_name: Bosco TAGANDA
+  function: Nominated FARDC Brigadier-General by Presidential Decree on 11 December
+    2004, following Ituri peace agreements. Formerly Chief of Staff in CNDP and became
+    CNDP military commander since the arrest of Laurent Nkunda in January 2009. Since
+    January 2009, de facto Deputy Commander of consecutive anti-FDLR operations ‘Umoja
+    Wetu’, ‘Kimia II’, and ‘Amani Leo’ in North and South Kivu.
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '4347'
+  logical_id: '4345'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-05'
@@ -50,38 +44,23 @@ name_aliases:
     number_title: 2023/913 (OJ L119)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.119.01.0020.01.ENG&toc=OJ%3AL%3A2023%3A119%3ATOC
 - first_name: Bosco
-  last_name: TAGANDA
-  whole_name: Bosco TAGANDA
-  function: Nominated FARDC Brigadier-General by Presidential Decree on 11 December
-    2004, following Ituri peace agreements. Formerly Chief of Staff in CNDP and became
-    CNDP military commander since the arrest of Laurent Nkunda in January 2009. Since
-    January 2009, de facto Deputy Commander of consecutive anti-FDLR operations ‘Umoja
-    Wetu’, ‘Kimia II’, and ‘Amani Leo’ in North and South Kivu.
+  last_name: Ntagenda
+  whole_name: Bosco Ntagenda
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '4345'
+  logical_id: '4347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-05'
     number_title: 2023/913 (OJ L119)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.119.01.0020.01.ENG&toc=OJ%3AL%3A2023%3A119%3ATOC
-- whole_name: General Taganda
+- whole_name: Terminator
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '7017'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-05'
-    number_title: 2023/913 (OJ L119)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.119.01.0020.01.ENG&toc=OJ%3AL%3A2023%3A119%3ATOC
-- whole_name: Lydia
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '14760'
+  logical_id: '4348'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-05'
@@ -93,6 +72,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4349'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-05'
+    number_title: 2023/913 (OJ L119)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.119.01.0020.01.ENG&toc=OJ%3AL%3A2023%3A119%3ATOC
+- whole_name: General Taganda
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '7017'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-05'
@@ -113,6 +103,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14762'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-05'
+    number_title: 2023/913 (OJ L119)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2023.119.01.0020.01.ENG&toc=OJ%3AL%3A2023%3A119%3ATOC
+- whole_name: Lydia
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '14760'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-05'

@@ -15,50 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sergey
-  middle_name: Valeryevich
-  last_name: AKSYONOV
-  whole_name: Sergey Valeryevich AKSYONOV
-  function: |-
-    Former "Prime Minister of Crimea” (2014). Since 9 October 2014, 'Head' of the so-called 'Republic of Crimea.
-    Member of the Russia State Council.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17686'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Sergei
-  middle_name: Valerievich
-  last_name: AKSENOV
-  whole_name: Sergei Valerievich AKSENOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18662'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Сергей
-  middle_name: Валерьевич
-  last_name: АКСЁНОВ
-  whole_name: Сергей Валерьевич АКСЁНОВ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '18663'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Serhiy
   middle_name: Valeriyovych
   last_name: AKSYONOV
@@ -112,20 +68,6 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Sergej
-  middle_name: Valerjevitj
-  last_name: AKSIONOV
-  whole_name: Sergej Valerjevitj AKSIONOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '158557'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Sergej
   last_name: Aksjonov
   whole_name: Sergej Aksjonov
   gender: M
@@ -160,6 +102,64 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158556'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Сергей
+  middle_name: Валерьевич
+  last_name: АКСЁНОВ
+  whole_name: Сергей Валерьевич АКСЁНОВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '18663'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Sergej
+  middle_name: Valerjevitj
+  last_name: AKSIONOV
+  whole_name: Sergej Valerjevitj AKSIONOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '158557'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Sergey
+  middle_name: Valeryevich
+  last_name: AKSYONOV
+  whole_name: Sergey Valeryevich AKSYONOV
+  function: |-
+    Former "Prime Minister of Crimea” (2014). Since 9 October 2014, 'Head' of the so-called 'Republic of Crimea.
+    Member of the Russia State Council.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '17686'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Sergei
+  middle_name: Valerievich
+  last_name: AKSENOV
+  whole_name: Sergei Valerievich AKSENOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18662'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

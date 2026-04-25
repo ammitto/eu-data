@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexander
-  middle_name: Alexandrovich
-  last_name: KOZLOV
-  whole_name: Alexander Alexandrovich KOZLOV
-  function: Minister of Natural Resources and Ecology of the Russian Federation
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146619'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Александр
   middle_name: Александрович
   last_name: КОЗЛОВ
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146618'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Alexander
+  middle_name: Alexandrovich
+  last_name: KOZLOV
+  whole_name: Alexander Alexandrovich KOZLOV
+  function: Minister of Natural Resources and Ecology of the Russian Federation
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146619'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

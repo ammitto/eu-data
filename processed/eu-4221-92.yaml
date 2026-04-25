@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jaez
-  middle_name: Sawada
-  last_name: al-Hammoud al-Mousa
-  whole_name: Jaez Sawada al-Hammoud al-Mousa
-  gender: M
-  title: Major General
-  strong: true
-  regulation_language: en
-  logical_id: '113195'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 - first_name: Jayyiz
   middle_name: Rayyan
   last_name: AL-MUSA
@@ -38,19 +24,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113196'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- first_name: Jayez
-  last_name: al-Hammoud al-Moussa
-  whole_name: Jayez al-Hammoud al-Moussa
-  gender: M
-  title: Major General
-  strong: true
-  regulation_language: en
-  logical_id: '113194'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-05-31'
@@ -67,6 +40,33 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- first_name: Jayez
+  last_name: al-Hammoud al-Moussa
+  whole_name: Jayez al-Hammoud al-Moussa
+  gender: M
+  title: Major General
+  strong: true
+  regulation_language: en
+  logical_id: '113194'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- first_name: Jaez
+  middle_name: Sawada
+  last_name: al-Hammoud al-Mousa
+  whole_name: Jaez Sawada al-Hammoud al-Mousa
+  gender: M
+  title: Major General
+  strong: true
+  regulation_language: en
+  logical_id: '113195'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 birthdates:
 - circa: false
   calendar_type: GREGORIAN

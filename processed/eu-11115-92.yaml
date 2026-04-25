@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Valentina
-  middle_name: Evgen’yevna
-  last_name: LEVASHOVA
-  whole_name: Valentina Evgen’yevna LEVASHOVA
+- first_name: Валентина
+  middle_name: Євгенiївна
+  last_name: ЛЄВАШОВА
+  whole_name: Валентина Євгенiївна ЛЄВАШОВА
   gender: F
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '161881'
+  logical_id: '161879'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'
@@ -42,29 +42,30 @@ name_aliases:
     publication_date: '2024-01-29'
     number_title: 2024/417 (OJ L29012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Валентина
-  middle_name: Євгенiївна
-  last_name: ЛЄВАШОВА
-  whole_name: Валентина Євгенiївна ЛЄВАШОВА
+- first_name: Valentina
+  middle_name: Evgen’yevna
+  last_name: LEVASHOVA
+  whole_name: Valentina Evgen’yevna LEVASHOVA
   gender: F
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161879'
+  logical_id: '161881'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'
     number_title: 2024/417 (OJ L29012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Valentyna
-  middle_name: Jevhenijivna
-  last_name: LEVASJOVA
-  whole_name: Valentyna Jevhenijivna LEVASJOVA
+- first_name: Valentina
+  middle_name: Evgenievna
+  last_name: LEVASHOVA
+  whole_name: Valentina Evgenievna LEVASHOVA
+  function: Judge, Basmanniy District Court, Moscow
   gender: F
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161918'
+  logical_id: '161882'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'
@@ -97,21 +98,6 @@ name_aliases:
     number_title: 2024/417 (OJ L29012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
 - first_name: Valentina
-  middle_name: Evgenievna
-  last_name: LEVASHOVA
-  whole_name: Valentina Evgenievna LEVASHOVA
-  function: Judge, Basmanniy District Court, Moscow
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161882'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-29'
-    number_title: 2024/417 (OJ L29012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Valentina
   middle_name: Jevgenjevna
   last_name: LEVASJOVA
   whole_name: Valentina Jevgenjevna LEVASJOVA
@@ -120,6 +106,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161919'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-29'
+    number_title: 2024/417 (OJ L29012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
+- first_name: Valentyna
+  middle_name: Jevhenijivna
+  last_name: LEVASJOVA
+  whole_name: Valentyna Jevhenijivna LEVASJOVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161918'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'

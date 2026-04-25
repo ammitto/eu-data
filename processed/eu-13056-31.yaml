@@ -14,31 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC “Novosibirsk Instrument-Making Plant”
+- whole_name: JSC “Refinery”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175035'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО “Новосибирский Приборостроительный Завод”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175036'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Акционерное общество “Новосибирский Приборостроительный Завод”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175037'
+  logical_id: '175033'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -61,11 +41,41 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Fábrica de Instrumentos de Novosibirsk
-  name_language: PT
+- whole_name: Акционерное общество “Новосибирский Приборостроительный Завод”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175255'
+  logical_id: '175037'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: АО “Новосибирский Приборостроительный Завод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175036'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC “Novosibirsk Instrument-Making Plant”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175035'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: AO NPZ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175034'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -81,21 +91,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “Refinery”
-  name_language: EN
+- whole_name: Fábrica de Instrumentos de Novosibirsk
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '175033'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: AO NPZ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175034'
+  logical_id: '175255'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

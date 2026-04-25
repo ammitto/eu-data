@@ -77,21 +77,21 @@ addresses:
     number_title: 2025/345 (OJ L202500345)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500345
 identifications:
-- identification_type_code: passport
-  number: '4506085659'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '173031'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-19'
-    number_title: 2025/345 (OJ L202500345)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500345
 - identification_type_code: other
   number: '773320017740'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '173030'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-19'
+    number_title: 2025/345 (OJ L202500345)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500345
+- identification_type_code: passport
+  number: '4506085659'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '173031'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-19'

@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Coplan
+  last_name: PIVI
+  whole_name: Coplan PIVI
+  strong: true
+  regulation_language: en
+  logical_id: '7577'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-10-26'
+    number_title: 2018/1604 (OJ L268)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1604&from=EN
 - first_name: Jean-Claude
   last_name: PIVI
   whole_name: Jean-Claude PIVI
@@ -28,17 +39,6 @@ name_aliases:
     publication_date: '2021-08-07'
     number_title: 2021/1301 (OJ L283)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.283.01.0007.01.ENG&toc=OJ%3AL%3A2021%3A283%3ATOC
-- first_name: Coplan
-  last_name: PIVI
-  whole_name: Coplan PIVI
-  strong: true
-  regulation_language: en
-  logical_id: '7577'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-10-26'
-    number_title: 2018/1604 (OJ L268)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1604&from=EN
 birthdates:
 - birthdate: '1960-01-01'
   circa: false

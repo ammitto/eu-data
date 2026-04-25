@@ -16,10 +16,67 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Omar Shishani
+- first_name: Tarkhan
+  middle_name: Tayumurazovich
+  last_name: Batirashvili
+  whole_name: Tarkhan Tayumurazovich Batirashvili
   strong: true
   regulation_language: en
-  logical_id: '18499'
+  logical_id: '18496'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Tarkhan Tayumurazovich Batyrashvili
+  strong: true
+  regulation_language: en
+  logical_id: '18497'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Abu Hudhayfah
+  strong: true
+  regulation_language: en
+  logical_id: '18508'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Abu Umar
+  strong: true
+  regulation_language: en
+  logical_id: '18507'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Umar the Chechen
+  strong: true
+  regulation_language: en
+  logical_id: '18506'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Omer the Chechen
+  strong: true
+  regulation_language: en
+  logical_id: '18505'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Omar the Chechen
+  strong: true
+  regulation_language: en
+  logical_id: '18504'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-02-03'
@@ -29,6 +86,24 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18498'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Omar Shishani
+  strong: true
+  regulation_language: en
+  logical_id: '18499'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-02-03'
+    number_title: 2015/167 (OJ L28)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
+- whole_name: Umar Shishani
+  strong: true
+  regulation_language: en
+  logical_id: '18500'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-02-03'
@@ -56,81 +131,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18503'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- whole_name: Omar the Chechen
-  strong: true
-  regulation_language: en
-  logical_id: '18504'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- whole_name: Omer the Chechen
-  strong: true
-  regulation_language: en
-  logical_id: '18505'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- whole_name: Umar the Chechen
-  strong: true
-  regulation_language: en
-  logical_id: '18506'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- whole_name: Abu Umar
-  strong: true
-  regulation_language: en
-  logical_id: '18507'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- whole_name: Abu Hudhayfah
-  strong: true
-  regulation_language: en
-  logical_id: '18508'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- whole_name: Umar Shishani
-  strong: true
-  regulation_language: en
-  logical_id: '18500'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- whole_name: Tarkhan Tayumurazovich Batyrashvili
-  strong: true
-  regulation_language: en
-  logical_id: '18497'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-02-03'
-    number_title: 2015/167 (OJ L28)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_028_R_0003&from=EN
-- first_name: Tarkhan
-  middle_name: Tayumurazovich
-  last_name: Batirashvili
-  whole_name: Tarkhan Tayumurazovich Batirashvili
-  strong: true
-  regulation_language: en
-  logical_id: '18496'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-02-03'

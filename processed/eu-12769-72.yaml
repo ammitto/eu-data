@@ -14,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Jason Chou
+- whole_name: Jason Zhou
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173085'
+  logical_id: '173086'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -37,12 +37,12 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Jason Zhou
+- whole_name: Jason Chou
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173086'
+  logical_id: '173085'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

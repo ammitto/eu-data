@@ -14,66 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Arabische Revolutionäre Brigaden
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '123081'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Fatah-Revolutionsrat
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '123082'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Revoluční organizace socialistických muslimů
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '123083'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Černé září
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '123084'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Arabské revoluční brigády
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '123085'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Revoluční rada Fatáhu
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '123086'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
 - whole_name: Organización Revolucionaria de los Musulmanes Socialistas
   name_language: ES
   strong: true
@@ -384,11 +324,41 @@ name_aliases:
     publication_date: '2020-01-14'
     number_title: 2020/19 (OJ L8I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Brigadas Revolucionárias Árabes
+- whole_name: Conselho Revolucionário do Fatah
   name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '123119'
+  logical_id: '123120'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Organização Abu Nidal
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '123121'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Rewolucyjna Organizacja Muzułmańskich Socjalistów
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '123122'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Czarny Wrzesień
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '123123'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-01-14'
@@ -494,6 +464,36 @@ name_aliases:
     publication_date: '2023-07-21'
     number_title: 2023/1505 (OJ L184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Arabské revoluční brigády
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Revoluční rada Fatáhu
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156184'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Organizace Abú Nidala
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '161428'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/329 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
 - whole_name: Abu Nidal Organisation
   name_language: EN
   strong: true
@@ -694,46 +694,6 @@ name_aliases:
     publication_date: '2020-01-14'
     number_title: 2020/19 (OJ L8I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Conselho Revolucionário do Fatah
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '123120'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Organização Abu Nidal
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '123121'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Rewolucyjna Organizacja Muzułmańskich Socjalistów
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '123122'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Czarny Wrzesień
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '123123'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
 - whole_name: Musulmonų socialistų revoliucinė organizacija
   name_language: LT
   strong: true
@@ -799,6 +759,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '123050'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Brigadas Revolucionárias Árabes
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '123119'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-01-14'
@@ -1094,41 +1064,71 @@ name_aliases:
     publication_date: '2020-01-14'
     number_title: 2020/19 (OJ L8I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Arabské revoluční brigády
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156183'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Revoluční rada Fatáhu
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156184'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Organizace Abú Nidala
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '161428'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/329 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
 - whole_name: Schwarzer September
   name_language: DE
   strong: true
   regulation_language: en
   logical_id: '123080'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Arabische Revolutionäre Brigaden
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '123081'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Fatah-Revolutionsrat
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '123082'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Revoluční organizace socialistických muslimů
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '123083'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Černé září
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '123084'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Arabské revoluční brigády
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '123085'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Revoluční rada Fatáhu
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '123086'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-01-14'

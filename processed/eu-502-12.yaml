@@ -59,11 +59,11 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
-  city: Kandahar province
+  city: Tirin Kot District, Uruzgan Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '101683'
+  logical_id: '1865'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -71,11 +71,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - circa: true
   calendar_type: GREGORIAN
-  city: Tirin Kot District, Uruzgan Province
+  city: Kandahar province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1865'
+  logical_id: '101683'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'

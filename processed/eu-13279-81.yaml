@@ -14,46 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Natallia SUDLIANKOVA
-  function: Journalist, Media and PR Consultant, Coordinator
+- whole_name: Natallia SUDLENKOVA
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176539'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Наталья КОРНЕЛЮК
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176532'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Natalyia KORNELYUK
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Наталья СУДЛЕНКОВА
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176534'
+  logical_id: '176538'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -70,12 +36,34 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Natalia SUDLIANKOVÁ
+- whole_name: Наталья СУДЛЕНКОВА
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176536'
+  logical_id: '176534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Natalyia KORNELYUK
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Наталья КОРНЕЛЮК
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176532'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -92,12 +80,24 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Natallia SUDLENKOVA
+- whole_name: Natalia SUDLIANKOVÁ
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176538'
+  logical_id: '176536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Natallia SUDLIANKOVA
+  function: Journalist, Media and PR Consultant, Coordinator
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176539'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

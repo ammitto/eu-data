@@ -14,23 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Анастасия
+  middle_name: Владимировна
+  last_name: БЕНЕДИСЮК
+  whole_name: Анастасия Владимировна БЕНЕДИСЮК
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '157186'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - whole_name: Anastasija Uladzimiravna BENEDZISIUKOVÁ
   gender: F
   name_language: SK
   strong: true
   regulation_language: en
   logical_id: '157181'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Anastasija Vladimirovna BENEDISIUK
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157182'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -77,12 +80,12 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Anastasija Benedzisjuk
+- whole_name: Anastasija Vladimirovna BENEDISIUK
   gender: F
-  name_language: HR
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '157180'
+  logical_id: '157182'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -102,26 +105,23 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Анастасия
-  middle_name: Владимировна
-  last_name: БЕНЕДИСЮК
-  whole_name: Анастасия Владимировна БЕНЕДИСЮК
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '157186'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - whole_name: Anastasija Benedzisjuková
   gender: F
   name_language: CS
   strong: true
   regulation_language: en
   logical_id: '157179'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Anastasija Benedzisjuk
+  gender: F
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '157180'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

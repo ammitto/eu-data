@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Сергей
-  middle_name: Вячеславович
-  last_name: ВИННИК
-  whole_name: Сергей Вячеславович ВИННИК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166556'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Sergey
   middle_name: Vyacheslavovich
   last_name: VINNIK
@@ -38,6 +24,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166557'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Сергей
+  middle_name: Вячеславович
+  last_name: ВИННИК
+  whole_name: Сергей Вячеславович ВИННИК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166556'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

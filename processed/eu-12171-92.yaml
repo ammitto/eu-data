@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Igor
+  last_name: Švedov
+  whole_name: Igor Švedov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169538'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - first_name: Ihar
   last_name: Švedau
   whole_name: Ihar Švedau
@@ -38,6 +51,18 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Ihar Aliaksandravich SHVEDAU
+  function: Judge of the Mahiliou Regional Court.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169270'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Iгар Аляксандравіч ШВЕДАЎ
   gender: M
   name_language: BE
@@ -55,31 +80,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169269'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Ihar Aliaksandravich SHVEDAU
-  function: Judge of the Mahiliou Regional Court.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169270'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- first_name: Igor
-  last_name: Švedov
-  whole_name: Igor Švedov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '169538'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

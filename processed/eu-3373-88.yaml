@@ -14,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Quren
-  middle_name: Salih Quren
-  last_name: AL QADHAFI
-  whole_name: Quren Salih Quren AL QADHAFI
-  function: Former Libyan Ambassador to Chad. Has left Chad for Sabha. Member of the
-    Popular Front for the Liberation of Libya (PFLL).
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '11985'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-27'
-    number_title: 2022/1308 (OJ L198)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1308
 - whole_name: Akrin Akrin Saleh
   gender: M
   strong: true
@@ -52,14 +37,15 @@ name_aliases:
     publication_date: '2022-07-27'
     number_title: 2022/1308 (OJ L198)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1308
-- first_name: Qu’ren
-  middle_name: Salih Qu’ren
-  last_name: Al Qadhafi
-  whole_name: Qu’ren Salih Qu’ren Al Qadhafi
+- first_name: Quren
+  middle_name: Salih Quren
+  last_name: AL GADAFI
+  whole_name: Quren Salih Quren AL GADAFI
   gender: M
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '141687'
+  logical_id: '142872'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-27'
@@ -70,6 +56,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141686'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-27'
+    number_title: 2022/1308 (OJ L198)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1308
+- first_name: Quren
+  middle_name: Salih Quren
+  last_name: GADDAFI
+  whole_name: Quren Salih Quren GADDAFI
+  gender: M
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '142874'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-27'
@@ -91,27 +91,27 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1308
 - first_name: Quren
   middle_name: Salih Quren
-  last_name: AL GADAFI
-  whole_name: Quren Salih Quren AL GADAFI
+  last_name: AL QADHAFI
+  whole_name: Quren Salih Quren AL QADHAFI
+  function: Former Libyan Ambassador to Chad. Has left Chad for Sabha. Member of the
+    Popular Front for the Liberation of Libya (PFLL).
   gender: M
-  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '142872'
+  logical_id: '11985'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-27'
     number_title: 2022/1308 (OJ L198)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1308
-- first_name: Quren
-  middle_name: Salih Quren
-  last_name: GADDAFI
-  whole_name: Quren Salih Quren GADDAFI
+- first_name: Qu’ren
+  middle_name: Salih Qu’ren
+  last_name: Al Qadhafi
+  whole_name: Qu’ren Salih Qu’ren Al Qadhafi
   gender: M
-  name_language: DA
   strong: true
   regulation_language: en
-  logical_id: '142874'
+  logical_id: '141687'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-27'

@@ -24,36 +24,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Fonds souverain national de la  Fédération de Russie
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151107'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: National Wealth Fund of the Russian Federation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '149970'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Fonds für den nationalen  Wohlstand der Russischen  Föderation
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '151094'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Venäjän federaation kansallinen sijoitusrahasto
   name_language: FI
   strong: true
@@ -114,11 +84,41 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Εθνικό Ταμείο Πλούτου της Ρωσικής  Ομοσπονδίας
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '151288'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Rusijos Federacijos nacionalinės gerovės fondas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '151296'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Državni investicijski fond Ruske Federacije
   name_language: HR
   strong: true
   regulation_language: en
   logical_id: '151297'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Az Oroszországi Föderáció Nemzeti Befektetési Alapja
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '151168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -144,31 +144,31 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Az Oroszországi Föderáció Nemzeti Befektetési Alapja
-  name_language: HU
+- whole_name: National Wealth Fund of the Russian Federation
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151168'
+  logical_id: '149970'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Εθνικό Ταμείο Πλούτου της Ρωσικής  Ομοσπονδίας
-  name_language: EL
+- whole_name: Fond  národného majetku Ruskej  federácie
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '151288'
+  logical_id: '151331'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Rusijos Federacijos nacionalinės gerovės fondas
-  name_language: LT
+- whole_name: Fonds für den nationalen  Wohlstand der Russischen  Föderation
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '151296'
+  logical_id: '151094'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -184,11 +184,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Fond  národného majetku Ruskej  federácie
-  name_language: SK
+- whole_name: Fonds souverain national de la  Fédération de Russie
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '151331'
+  logical_id: '151107'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

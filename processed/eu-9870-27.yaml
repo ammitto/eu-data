@@ -14,12 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Александр Завенович АКОПОВ
+- first_name: Alexander
+  middle_name: Zavenovich
+  last_name: AKOPOV
+  whole_name: Alexander Zavenovich AKOPOV
+  function: Deputy CEO of “National Media Group”
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '150783'
+  logical_id: '150784'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -36,16 +40,12 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Alexander
-  middle_name: Zavenovich
-  last_name: AKOPOV
-  whole_name: Alexander Zavenovich AKOPOV
-  function: Deputy CEO of “National Media Group”
+- whole_name: Александр Завенович АКОПОВ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '150784'
+  logical_id: '150783'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

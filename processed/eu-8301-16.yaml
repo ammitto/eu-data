@@ -14,21 +14,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Сергей Викторович МОСАЛЕВ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140466'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Sergej  Viktorovitj MOSALEV
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '141211'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Сергей Викторович МОСАЛЕВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140466'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -73,11 +73,11 @@ birthdates:
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 identifications:
-- identification_type_code: passport
-  number: '0802 688231'
+- identification_type_code: other
+  number: '2737869'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '140465'
+  logical_id: '140463'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -93,11 +93,11 @@ identifications:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- identification_type_code: other
-  number: '2737869'
+- identification_type_code: passport
+  number: '0802 688231'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '140463'
+  logical_id: '140465'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

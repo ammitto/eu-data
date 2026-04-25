@@ -14,35 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Valery
-  middle_name: Evgenyevich
-  last_name: TYULIN
-  whole_name: Valery Evgenyevich TYULIN
-  function: General Director of JSC FNPTS NNIIRT
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166083'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Валерий
-  middle_name: Евгеньевич
-  last_name: ТЮЛИН
-  whole_name: Валерий Евгеньевич ТЮЛИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166082'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Валери
   last_name: Тюлин
   whole_name: Валери Тюлин
@@ -82,6 +53,20 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Валерий
+  middle_name: Евгеньевич
+  last_name: ТЮЛИН
+  whole_name: Валерий Евгеньевич ТЮЛИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166082'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Valerij
   last_name: Ťulin
   whole_name: Valerij Ťulin
@@ -90,6 +75,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167117'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Valery
+  middle_name: Evgenyevich
+  last_name: TYULIN
+  whole_name: Valery Evgenyevich TYULIN
+  function: General Director of JSC FNPTS NNIIRT
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166083'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

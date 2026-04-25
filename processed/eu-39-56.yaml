@@ -56,12 +56,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1965
+  year: 1966
   city: Baghdad
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '19'
+  logical_id: '20'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -69,12 +69,12 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  year: 1966
+  year: 1965
   city: Baghdad
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '20'
+  logical_id: '19'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'

@@ -67,11 +67,11 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1966
+  year: 1969
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '1938'
+  logical_id: '1940'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-10-30'
@@ -91,11 +91,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  year: 1964
+  year: 1966
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '1939'
+  logical_id: '1938'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-10-30'
@@ -103,11 +103,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  year: 1969
+  year: 1964
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '1940'
+  logical_id: '1939'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-10-30'

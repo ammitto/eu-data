@@ -14,75 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Said Mohamed Arif
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '18106'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Omar Gharib
-  strong: true
-  regulation_language: en
-  logical_id: '18107'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Abderahmane
-  strong: true
-  regulation_language: en
-  logical_id: '18108'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Abdallah al-Jazairi
-  strong: true
-  regulation_language: en
-  logical_id: '18109'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Slimane Chabani
-  strong: true
-  regulation_language: en
-  logical_id: '18110'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
 - whole_name: Abou Souleiman
   gender: M
   strong: true
   regulation_language: en
   logical_id: '161556'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Abdullah
-  strong: true
-  regulation_language: en
-  logical_id: '161559'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Abdallah
-  strong: true
-  regulation_language: en
-  logical_id: '161558'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
@@ -119,6 +55,70 @@ name_aliases:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Slimane Chabani
+  strong: true
+  regulation_language: en
+  logical_id: '18110'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Abdallah al-Jazairi
+  strong: true
+  regulation_language: en
+  logical_id: '18109'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Abderahmane
+  strong: true
+  regulation_language: en
+  logical_id: '18108'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Abdallah
+  strong: true
+  regulation_language: en
+  logical_id: '161558'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Abdullah
+  strong: true
+  regulation_language: en
+  logical_id: '161559'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Said Mohamed Arif
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '18106'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Omar Gharib
+  strong: true
+  regulation_language: en
+  logical_id: '18107'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
 citizenships:
 - country_iso2_code: DZ
   country_description: ALGERIA
@@ -130,6 +130,22 @@ citizenships:
     number_title: 914/2014 (OJ L248)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0914&from=EN
 birthdates:
+- birthdate: '1969-12-05'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 5
+  month_of_year: 12
+  year: 1969
+  city: Oran
+  country_iso2_code: DZ
+  country_description: ALGERIA
+  regulation_language: en
+  logical_id: '2187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
 - birthdate: '1964-06-25'
   circa: false
   calendar_type: GREGORIAN
@@ -157,22 +173,6 @@ birthdates:
   country_description: ALGERIA
   regulation_language: en
   logical_id: '161560'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- birthdate: '1969-12-05'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 5
-  month_of_year: 12
-  year: 1969
-  city: Oran
-  country_iso2_code: DZ
-  country_description: ALGERIA
-  regulation_language: en
-  logical_id: '2187'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'

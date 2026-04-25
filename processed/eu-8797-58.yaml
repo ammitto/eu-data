@@ -14,6 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Aleksander
+  middle_name: Gelyevich
+  last_name: DUGIN
+  whole_name: Aleksander Gelyevich DUGIN
+  function: Russian political philosopher, political scientist, analyst, strategist
+    and ideologue. Member of the so-called Izborsk Club, a Russian conservative think
+    tank.
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '144499'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Aleksandr
   middle_name: Geljevitj
   last_name: DUGIN
@@ -37,22 +53,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144498'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Aleksander
-  middle_name: Gelyevich
-  last_name: DUGIN
-  whole_name: Aleksander Gelyevich DUGIN
-  function: Russian political philosopher, political scientist, analyst, strategist
-    and ideologue. Member of the so-called Izborsk Club, a Russian conservative think
-    tank.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '144499'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

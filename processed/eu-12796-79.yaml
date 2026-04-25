@@ -14,15 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО 53 Арсенал
-  strong: true
-  regulation_language: en
-  logical_id: '173266'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: JSC ,53 Arsenal‘
   name_language: EN
   strong: true
@@ -33,20 +24,47 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Dioničko društvo ‚53 Arsenal
-  name_language: HR
+- whole_name: ОАО 53 Арсенал
   strong: true
   regulation_language: en
-  logical_id: '173472'
+  logical_id: '173265'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: ОАО 53 Арсенал
+- whole_name: АО 53 Арсенал
   strong: true
   regulation_language: en
-  logical_id: '173265'
+  logical_id: '173266'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: 53 Arsenal PAO
+  strong: true
+  regulation_language: en
+  logical_id: '173267'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: AO 53 Arsenal
+  strong: true
+  regulation_language: en
+  logical_id: '173268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Акционерное общество “53 Арсенал”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173269'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -65,29 +83,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Акционерное общество “53 Арсенал”
-  name_language: RU
+- whole_name: Dioničko društvo ‚53 Arsenal
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '173269'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: AO 53 Arsenal
-  strong: true
-  regulation_language: en
-  logical_id: '173268'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: 53 Arsenal PAO
-  strong: true
-  regulation_language: en
-  logical_id: '173267'
+  logical_id: '173472'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -107,6 +107,16 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
+- identification_type_code: other
+  number: '521401001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '173262'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: fiscalcode
   number: '5214010100'
   country_iso2_code: '00'
@@ -122,16 +132,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '173264'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- identification_type_code: other
-  number: '521401001'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '173262'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

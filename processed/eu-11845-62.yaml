@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Андрей
-  middle_name: Станиславович
-  last_name: КОРИНЕЦ
-  whole_name: Андрей Станиславович КОРИНЕЦ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '167405'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1778 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401778
 - first_name: Andrey
   middle_name: Stanislavovich
   last_name: KORINETS
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167406'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1778 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401778
+- first_name: Андрей
+  middle_name: Станиславович
+  last_name: КОРИНЕЦ
+  whole_name: Андрей Станиславович КОРИНЕЦ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '167405'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

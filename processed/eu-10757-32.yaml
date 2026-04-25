@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Anastasija
-  middle_name: Ivanovna
-  last_name: SUPRIAGOVÁ
-  whole_name: Anastasija Ivanovna SUPRIAGOVÁ
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157676'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-08'
-    number_title: 2023/1715 (OJ L221 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
 - first_name: Anastasia
   last_name: Suprjagová
   whole_name: Anastasia Suprjagová
@@ -36,21 +22,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157670'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-08'
-    number_title: 2023/1715 (OJ L221 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
-- first_name: Anastasia
-  middle_name: Ivanovna
-  last_name: SUPRYAGA
-  whole_name: Anastasia Ivanovna SUPRYAGA
-  function: Prosecutor in the “Prosecutor’s Office of Crimea”
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157628'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'
@@ -70,6 +41,20 @@ name_aliases:
     publication_date: '2023-09-08'
     number_title: 2023/1715 (OJ L221 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
+- first_name: Anastasija
+  middle_name: Ivanovna
+  last_name: SUPRIAGOVÁ
+  whole_name: Anastasija Ivanovna SUPRIAGOVÁ
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157676'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-08'
+    number_title: 2023/1715 (OJ L221 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
 - first_name: Анастасия
   middle_name: Ивановна
   last_name: СУПРЯГА
@@ -79,6 +64,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157627'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-08'
+    number_title: 2023/1715 (OJ L221 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
+- first_name: Anastasia
+  middle_name: Ivanovna
+  last_name: SUPRYAGA
+  whole_name: Anastasia Ivanovna SUPRYAGA
+  function: Prosecutor in the “Prosecutor’s Office of Crimea”
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157628'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'

@@ -14,11 +14,24 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Aeroelektromaš, a. s.
-  name_language: CS
+- whole_name: JSC “Aeroelectromach”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167570'
+  logical_id: '166261'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: JSC “Aeroelektromash”
+  function: JSC Aeroelektromash has years-long experience in the design of electrical
+    equipment for aviation and space engineering.
+  title: Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166262'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -44,24 +57,11 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: JSC “Aeroelectromach”
-  name_language: EN
+- whole_name: Aeroelektromaš, a. s.
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '166261'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: JSC “Aeroelektromash”
-  function: JSC Aeroelektromash has years-long experience in the design of electrical
-    equipment for aviation and space engineering.
-  title: Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166262'
+  logical_id: '167570'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

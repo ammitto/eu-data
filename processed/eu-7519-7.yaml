@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Dmitrij Sergejevič Peskov
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '136213'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-28'
+    number_title: 2022/336 (OJ L58)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
 - whole_name: Дмитрий Сергеевич ПЕСКОВ
   gender: M
   strong: true
@@ -41,17 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136214'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-28'
-    number_title: 2022/336 (OJ L58)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.058.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A058%3ATOC
-- whole_name: Dmitrij Sergejevič Peskov
-  gender: M
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '136213'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-28'

@@ -14,23 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Rahmah
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107764'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/873 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
 - first_name: Mounir
-  last_name: Helel
-  whole_name: Mounir Helel
+  middle_name: Ben Dhaou Ben Brahim
+  last_name: Ben Helal
+  whole_name: Mounir Ben Dhaou Ben Brahim Ben Helal
+  function: Foreign terrorist fighter facilitator experienced in establishing and
+    securing travel routes. Deeply involved in providing material support to the Organization
+    of Al-Qaida in the Islamic Maghreb in North Africa. Assisted foreign terrorist
+    fighters’ travel throughout North Africa and to Syrian Arab Republic to join Islamic
+    State in Iraq and the Levant, listed as Al-Qaida in Iraq.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '107766'
+  logical_id: '107694'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -48,6 +44,16 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/873 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
+- whole_name: Abu Rahmah
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107764'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/873 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
 - whole_name: Abu Maryam al-Tunisi
   name_language: EN
   strong: true
@@ -59,18 +65,12 @@ name_aliases:
     number_title: 2022/873 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
 - first_name: Mounir
-  middle_name: Ben Dhaou Ben Brahim
-  last_name: Ben Helal
-  whole_name: Mounir Ben Dhaou Ben Brahim Ben Helal
-  function: Foreign terrorist fighter facilitator experienced in establishing and
-    securing travel routes. Deeply involved in providing material support to the Organization
-    of Al-Qaida in the Islamic Maghreb in North Africa. Assisted foreign terrorist
-    fighters’ travel throughout North Africa and to Syrian Arab Republic to join Islamic
-    State in Iraq and the Levant, listed as Al-Qaida in Iraq.
+  last_name: Helel
+  whole_name: Mounir Helel
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '107694'
+  logical_id: '107766'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

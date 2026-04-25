@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Евгений
-  middle_name: Валерьевич
-  last_name: БУБИЧ
-  whole_name: Евгений Валерьевич БУБИЧ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '157289'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Yevgeniy
   middle_name: Valerievich
   last_name: BUBICH
@@ -37,6 +23,61 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157290'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Jaŭhen
+  last_name: Bubič
+  whole_name: Jaŭhen Bubič
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '157285'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Яўген
+  middle_name: Валер’евiч
+  last_name: БУБIЧ
+  whole_name: Яўген Валер’евiч БУБIЧ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '157288'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Jevgenij
+  middle_name: Valerjevitj
+  last_name: BUBITJ
+  whole_name: Jevgenij Valerjevitj BUBITJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '157286'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Javhen
+  middle_name: Valerjevič
+  last_name: BUBIČ
+  whole_name: Javhen Valerjevič BUBIČ
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157284'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -72,56 +113,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Jaŭhen
-  last_name: Bubič
-  whole_name: Jaŭhen Bubič
+- first_name: Евгений
+  middle_name: Валерьевич
+  last_name: БУБИЧ
+  whole_name: Евгений Валерьевич БУБИЧ
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '157285'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Javhen
-  middle_name: Valerjevič
-  last_name: BUBIČ
-  whole_name: Javhen Valerjevič BUBIČ
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157284'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Яўген
-  middle_name: Валер’евiч
-  last_name: БУБIЧ
-  whole_name: Яўген Валер’евiч БУБIЧ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '157288'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Jevgenij
-  middle_name: Valerjevitj
-  last_name: BUBITJ
-  whole_name: Jevgenij Valerjevitj BUBITJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157286'
+  logical_id: '157289'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -154,6 +154,17 @@ birthdates:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 addresses:
+- street: st. Internationalnaya 66B, apartment 31
+  city: Bobruysk
+  country_iso2_code: BY
+  country_description: BELARUS
+  regulation_language: en
+  logical_id: '157279'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - street: st. Kovzana 60, apartment 42
   city: Bobruysk
   country_iso2_code: BY
@@ -171,17 +182,6 @@ addresses:
   country_description: BELARUS
   regulation_language: en
   logical_id: '157280'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- street: st. Internationalnaya 66B, apartment 31
-  city: Bobruysk
-  country_iso2_code: BY
-  country_description: BELARUS
-  regulation_language: en
-  logical_id: '157279'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

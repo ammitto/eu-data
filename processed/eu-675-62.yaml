@@ -19,17 +19,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Gud Mullah Mohammad
-  last_name: Hassan
-  whole_name: Gud Mullah Mohammad Hassan
-  strong: true
-  regulation_language: en
-  logical_id: '16057'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - first_name: Mohammad Hasan
   last_name: Rahmani
   whole_name: Mohammad Hasan Rahmani
@@ -43,6 +32,17 @@ name_aliases:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- first_name: Gud Mullah Mohammad
+  last_name: Hassan
+  whole_name: Gud Mullah Mohammad Hassan
+  strong: true
+  regulation_language: en
+  logical_id: '16057'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN

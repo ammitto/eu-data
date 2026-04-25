@@ -14,6 +14,30 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Abdul-Reza
+  last_name: Shahlaee
+  whole_name: Abdul-Reza Shahlaee
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14744'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- whole_name: Hajj Yusef
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14745'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
 - first_name: Abdolreza
   last_name: Shahla'i
   whole_name: Abdolreza Shahla'i
@@ -22,6 +46,52 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14743'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- first_name: Abdorreza
+  last_name: Shahlai
+  whole_name: Abdorreza Shahlai
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14742'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- whole_name: Haji Yusif
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- whole_name: Hajji Yasir
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14747'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- whole_name: Hajji Yusif
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '14748'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-31'
@@ -38,12 +108,13 @@ name_aliases:
     publication_date: '2025-01-31'
     number_title: 2025/206 (L 202500206)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- whole_name: Hajji Yusif
+- last_name: Haj Yusef
+  whole_name: Haj Yusef
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '14748'
+  logical_id: '156126'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-31'
@@ -88,77 +159,6 @@ name_aliases:
     publication_date: '2025-01-31'
     number_title: 2025/206 (L 202500206)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- first_name: Abdorreza
-  last_name: Shahlai
-  whole_name: Abdorreza Shahlai
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14742'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- last_name: Haj Yusef
-  whole_name: Haj Yusef
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156126'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- first_name: Abdul-Reza
-  last_name: Shahlaee
-  whole_name: Abdul-Reza Shahlaee
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14744'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- whole_name: Hajj Yusef
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14745'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- whole_name: Haji Yusif
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14746'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- whole_name: Hajji Yasir
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '14747'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
@@ -173,16 +173,6 @@ birthdates:
     number_title: 1063/2011 (OJ L277)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:277:0001:0002:EN:PDF
 addresses:
-- region: Ilam Province
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '1962'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
 - city: Kermanshah
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
@@ -193,3 +183,13 @@ addresses:
     publication_date: '2011-10-22'
     number_title: 1063/2011 (OJ L277)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:277:0001:0002:EN:PDF
+- region: Ilam Province
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '1962'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505

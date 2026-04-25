@@ -24,22 +24,22 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: АО НПО “Электромашина”»
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163468'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: JSC NPO Elektromashina
   function: JSC NPO Elektromashina is a Russian military industry company
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '163469'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: АО НПО “Электромашина”»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '163468'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

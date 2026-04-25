@@ -14,32 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Pavel
-  last_name: Prigožin
-  whole_name: Pavel Prigožin
+- first_name: Павел
+  middle_name: Евгеньевич
+  last_name: ПРИГОЖИН
+  whole_name: Павел Евгеньевич ПРИГОЖИН
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '158523'
+  logical_id: '140938'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Pavel
-  last_name: Prigojine
-  whole_name: Pavel Prigojine
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '158190'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Pavel
   middle_name: Jevgenievič
   last_name: PRIGOŽIN
@@ -67,20 +55,32 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Павел
-  middle_name: Евгеньевич
-  last_name: ПРИГОЖИН
-  whole_name: Павел Евгеньевич ПРИГОЖИН
+- first_name: Pavel
+  last_name: Prigojine
+  whole_name: Pavel Prigojine
   gender: M
-  name_language: RU
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '140938'
+  logical_id: '158190'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Pavel
+  last_name: Prigožin
+  whole_name: Pavel Prigožin
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158523'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Pavel
   middle_name: Evgenevich
   last_name: PRIGOZHIN

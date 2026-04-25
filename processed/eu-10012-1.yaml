@@ -14,6 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abu Qasim
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152707'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
+- whole_name: Sheikh Hassan
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152710'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/845 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
 - whole_name: šejk Hassan
   gender: M
   name_language: CS
@@ -25,12 +47,14 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/845 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Abu Qasim
+- first_name: Abu Yasir
+  last_name: HASSAN
+  whole_name: Abu Yasir HASSAN
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152707'
+  logical_id: '152711'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -53,30 +77,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152709'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- first_name: Abu Yasir
-  last_name: HASSAN
-  whole_name: Abu Yasir HASSAN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152711'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/845 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0845
-- whole_name: Sheikh Hassan
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152710'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

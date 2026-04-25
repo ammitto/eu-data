@@ -14,15 +14,58 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Tacciana
-  middle_name: Valerjevna
-  last_name: PIROŽNIKAVOVÁ
-  whole_name: Tacciana Valerjevna PIROŽNIKAVOVÁ
+- first_name: Tatsiana
+  middle_name: Valerieuna
+  last_name: PIROZHNIKAVA
+  whole_name: Tatsiana Valerieuna PIROZHNIKAVA
+  function: Judge at the court of the Moscow district of Minsk
   gender: F
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156964'
+  logical_id: '156391'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Tatiana
+  middle_name: Valeryevna
+  last_name: PIROZHNIKOVA
+  whole_name: Tatiana Valeryevna PIROZHNIKOVA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156390'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Таццяна
+  middle_name: Валер'еўна
+  last_name: ПІРОЖНІКАВА
+  whole_name: Таццяна Валер'еўна ПІРОЖНІКАВА
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '156388'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Татьяна
+  middle_name: Валерьевна
+  last_name: ПИРОЖНИКОВА
+  whole_name: Татьяна Валерьевна ПИРОЖНИКОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156389'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -41,15 +84,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Tatiana
+- first_name: Tacciana
   middle_name: Valerjevna
-  last_name: PIROZJNIKOVA
-  whole_name: Tatiana Valerjevna PIROZJNIKOVA
+  last_name: PIROŽNIKAVOVÁ
+  whole_name: Tacciana Valerjevna PIROŽNIKAVOVÁ
   gender: F
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '156892'
+  logical_id: '156964'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -70,57 +113,14 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Tatiana
-  middle_name: Valeryevna
-  last_name: PIROZHNIKOVA
-  whole_name: Tatiana Valeryevna PIROZHNIKOVA
+  middle_name: Valerjevna
+  last_name: PIROZJNIKOVA
+  whole_name: Tatiana Valerjevna PIROZJNIKOVA
   gender: F
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '156390'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Татьяна
-  middle_name: Валерьевна
-  last_name: ПИРОЖНИКОВА
-  whole_name: Татьяна Валерьевна ПИРОЖНИКОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156389'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Tatsiana
-  middle_name: Valerieuna
-  last_name: PIROZHNIKAVA
-  whole_name: Tatsiana Valerieuna PIROZHNIKAVA
-  function: Judge at the court of the Moscow district of Minsk
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156391'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Таццяна
-  middle_name: Валер'еўна
-  last_name: ПІРОЖНІКАВА
-  whole_name: Таццяна Валер'еўна ПІРОЖНІКАВА
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '156388'
+  logical_id: '156892'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

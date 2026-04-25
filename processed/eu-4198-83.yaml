@@ -17,15 +17,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Chongchongang Shipping Co LTD
-  strong: true
-  regulation_language: en
-  logical_id: '143174'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 - whole_name: Chongchongang Shipping Company
   name_language: EN
   strong: true
@@ -46,24 +37,33 @@ name_aliases:
     publication_date: '2016-03-05'
     number_title: 2016/315 (OJ L60)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0315&from=EN
-addresses:
-- street: 817, Haeum,Tonghun-dong, Chung-gu
-  city: Pyongyang
-  country_iso2_code: KP
-  country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
+- whole_name: Chongchongang Shipping Co LTD
+  strong: true
   regulation_language: en
-  logical_id: '107896'
+  logical_id: '143174'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+addresses:
 - street: 817 Haeun, Donghung-dong, Central District
   city: Pyongyang
   country_iso2_code: KP
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
   logical_id: '107897'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- street: 817, Haeum,Tonghun-dong, Chung-gu
+  city: Pyongyang
+  country_iso2_code: KP
+  country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
+  regulation_language: en
+  logical_id: '107896'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'

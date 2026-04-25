@@ -14,11 +14,41 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Societatea pe acțiuni «Uzina de instrumente de stat din Riazan»
-  name_language: RO
+- whole_name: "»State Ryazan Instrument Plant« Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '177256'
+  logical_id: '177258'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: JSC “GRPZ”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176901'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: JSC “State Ryazan Instrument Plant”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176902'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Акционерное Общество “Государственный Рязанский приборный завод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176903'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -34,41 +64,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»State Ryazan Instrument Plant« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177258'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: "»State Ryazan Instrument Plant« Részvénytársaság"
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '177259'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: АО “ГРПЗ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176900'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC “GRPZ”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176901'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -88,21 +88,21 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Акционерное Общество “Государственный Рязанский приборный завод”
+- whole_name: АО “ГРПЗ”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '176903'
+  logical_id: '176900'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC “State Ryazan Instrument Plant”
-  name_language: EN
+- whole_name: Societatea pe acțiuni «Uzina de instrumente de stat din Riazan»
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '176902'
+  logical_id: '177256'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -122,21 +122,21 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: taxid
-  number: '6234098539'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '176898'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: regnumber
   number: '1116234013598'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '176899'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: taxid
+  number: '6234098539'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '176898'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

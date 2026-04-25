@@ -14,11 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Lee Un-Kang
+- first_name: Chol Sok
+  last_name: KIM
+  whole_name: Chol Sok KIM
+  function: an intelligence officer of the Reconnaissance General Bureau of the DPRK
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '167749'
+  logical_id: '167751'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'
@@ -34,34 +37,11 @@ name_aliases:
     publication_date: '2024-05-31'
     number_title: 2024/1602 (OJ L31052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
-- first_name: Chol Sok
-  last_name: KIM
-  whole_name: Chol Sok KIM
-  function: an intelligence officer of the Reconnaissance General Bureau of the DPRK
+- whole_name: Chang Sok-kha
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '167751'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1602 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
-- whole_name: Steven Lee
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '167745'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1602 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
-- whole_name: Li Yun-chiang
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '167746'
+  logical_id: '167748'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'
@@ -77,11 +57,31 @@ name_aliases:
     publication_date: '2024-05-31'
     number_title: 2024/1602 (OJ L31052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
-- whole_name: Chang Sok-kha
+- whole_name: Li Yun-chiang
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '167748'
+  logical_id: '167746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1602 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
+- whole_name: Steven Lee
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '167745'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1602 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401602
+- whole_name: Lee Un-Kang
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '167749'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'

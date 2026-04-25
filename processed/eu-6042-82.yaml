@@ -14,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Marina Arkadjevna FEDOROVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127805'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Maryna Arkadzjeuna FJODARAVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127806'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 - whole_name: Марина Аркадьевна ФЕДОРОВА
   gender: F
   name_language: RU
@@ -68,6 +46,17 @@ name_aliases:
     publication_date: '2020-12-17'
     number_title: 2020/2129 (OJ L426I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2020.426.01.0001.01.ENG&toc=OJ%3AL%3A2020%3A426I%3ATOC
+- whole_name: Maryna Arkadzjeuna FJODARAVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '127806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 - whole_name: Maryna Arkadzeuna FIODARAVA
   function: Judge of the Sovetsky district court in Minsk
   gender: F
@@ -79,6 +68,17 @@ name_aliases:
     publication_date: '2020-12-17'
     number_title: 2020/2129 (OJ L426I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2020.426.01.0001.01.ENG&toc=OJ%3AL%3A2020%3A426I%3ATOC
+- whole_name: Marina Arkadjevna FEDOROVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '127805'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 birthdates:
 - birthdate: '1965-09-11'
   circa: false

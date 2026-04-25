@@ -24,22 +24,22 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Coral Energy PTE Ltd
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177253'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: 2Rivers PTE Ltd
   function: 2Rivers PTE Ltd is a Singapore-based oil-trading company.
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '177255'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Coral Energy PTE Ltd
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177253'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

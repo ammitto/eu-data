@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Andrey Mikhailovich  BOGATOV
-  function: Head of the 4th Attack and Reconnaissance Company of the  Wagner Group
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '132236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2194 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0007.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
 - whole_name: Андрей Михайлович БОГАТОВ
   gender: M
   strong: true
@@ -51,6 +40,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132751'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2194 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0007.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+- whole_name: Andrey Mikhailovich  BOGATOV
+  function: Head of the 4th Attack and Reconnaissance Company of the  Wagner Group
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '132236'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-13'

@@ -40,6 +40,42 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Анатоль
+  middle_name: Анатольевiч
+  last_name: БУЛАЎКА
+  whole_name: Анатоль Анатольевiч БУЛАЎКА
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '136320'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Anatol  Anatoljevitj Bulauka
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '136415'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-02'
+    number_title: 2022/353 (OJ L66)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
+- whole_name: Anatolj  Anatoljevitj Bulavko
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '136416'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-02'
+    number_title: 2022/353 (OJ L66)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
 - first_name: Анатолий
   middle_name: Анатольевич
   last_name: БУЛАВКО
@@ -72,42 +108,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Анатоль
-  middle_name: Анатольевiч
-  last_name: БУЛАЎКА
-  whole_name: Анатоль Анатольевiч БУЛАЎКА
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '136320'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Anatolj  Anatoljevitj Bulavko
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '136416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-02'
-    number_title: 2022/353 (OJ L66)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
-- whole_name: Anatol  Anatoljevitj Bulauka
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '136415'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-02'
-    number_title: 2022/353 (OJ L66)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

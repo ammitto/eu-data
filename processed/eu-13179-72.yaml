@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Денис Геннадьевич ПОПОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175936'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/958 (OJ L202500958)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
 - whole_name: Denis Gennadievich POPOV
   function: Denis Popov is the prosecutor of the city of Moscow. He was appointed
     by President Putin in 2019. Mr. Popov is responsible for organising the state
@@ -36,6 +25,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175937'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/958 (OJ L202500958)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
+- whole_name: Денис Геннадьевич ПОПОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175936'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

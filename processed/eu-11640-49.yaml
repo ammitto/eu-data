@@ -15,6 +15,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Viktor
+  last_name: Brančugov
+  whole_name: Viktor Brančugov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '167021'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Viktor
   middle_name: Viktorovich
   last_name: BRANCHUGOV
   whole_name: Viktor Viktorovich BRANCHUGOV
@@ -38,19 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166078'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Viktor
-  last_name: Brančugov
-  whole_name: Viktor Brančugov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '167021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

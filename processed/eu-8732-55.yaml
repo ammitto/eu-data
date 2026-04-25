@@ -14,34 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Антон
-  middle_name: Олегович
-  last_name: ТКАЧЁВ
-  whole_name: Антон Олегович ТКАЧЁВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '143462'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-01'
-    number_title: 2022/1446 (OJ L227I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1446
-- first_name: Anton
-  middle_name: Olegovich
-  last_name: TKACHEV
-  whole_name: Anton Olegovich TKACHEV
-  function: Member of the State Duma
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '143463'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-01'
-    number_title: 2022/1446 (OJ L227I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1446
 - first_name: Anton
   middle_name: Olegovič
   last_name: TKACHEV
@@ -65,6 +37,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143507'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-01'
+    number_title: 2022/1446 (OJ L227I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1446
+- first_name: Антон
+  middle_name: Олегович
+  last_name: ТКАЧЁВ
+  whole_name: Антон Олегович ТКАЧЁВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '143462'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-01'
+    number_title: 2022/1446 (OJ L227I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1446
+- first_name: Anton
+  middle_name: Olegovich
+  last_name: TKACHEV
+  whole_name: Anton Olegovich TKACHEV
+  function: Member of the State Duma
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '143463'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-01'

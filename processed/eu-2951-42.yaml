@@ -14,15 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Cyber Police
-  strong: true
-  regulation_language: en
-  logical_id: '17085'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-13'
-    number_title: 2021/587 (OJ L125)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.125.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A125%3ATOC
 - whole_name: Cyber Police (it-polisen)
   name_language: SV
   strong: true
@@ -233,6 +224,15 @@ name_aliases:
     publication_date: '2019-04-09'
     number_title: 2019/560 (OJ L98)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.098.01.0001.01.ENG&toc=OJ:L:2019:098:TOC
+- whole_name: Cyber Police
+  strong: true
+  regulation_language: en
+  logical_id: '17085'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-13'
+    number_title: 2021/587 (OJ L125)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.125.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A125%3ATOC
 addresses:
 - city: Tehran
   country_iso2_code: IR

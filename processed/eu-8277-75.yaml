@@ -14,21 +14,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Сергей Сергеевич ЗОРИН
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140336'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Sergej Sergejevitj ZORIN
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '141244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Сергей Сергеевич ЗОРИН
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140336'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -84,20 +84,20 @@ identifications:
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - identification_type_code: other
-  number: X-115531
+  number: '1166487'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '140334'
+  logical_id: '140333'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - identification_type_code: other
-  number: '1166487'
+  number: X-115531
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '140333'
+  logical_id: '140334'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

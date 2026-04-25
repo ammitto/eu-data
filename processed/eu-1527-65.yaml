@@ -14,79 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Obayda
-  strong: true
-  regulation_language: en
-  logical_id: '4633'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Izza Kusoman
-  strong: true
-  regulation_language: en
-  logical_id: '4634'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- first_name: Eric
-  last_name: Yacub
-  whole_name: Eric Yacub
-  strong: true
-  regulation_language: en
-  logical_id: '4635'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- first_name: Taufik
-  last_name: Rifki
-  whole_name: Taufik Rifki
-  strong: true
-  regulation_language: en
-  logical_id: '4618'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- first_name: Taufek
-  last_name: Refke
-  whole_name: Taufek Refke
-  strong: true
-  regulation_language: en
-  logical_id: '4619'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- first_name: Taufik
-  last_name: Rifqi
-  whole_name: Taufik Rifqi
-  strong: true
-  regulation_language: en
-  logical_id: '4620'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- first_name: Tawfiq
-  last_name: Rifqi
-  whole_name: Tawfiq Rifqi
-  strong: true
-  regulation_language: en
-  logical_id: '4621'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
 - whole_name: Ami Iraq
   strong: true
   regulation_language: en
@@ -181,6 +108,79 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4632'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- whole_name: Abu Obayda
+  strong: true
+  regulation_language: en
+  logical_id: '4633'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- whole_name: Izza Kusoman
+  strong: true
+  regulation_language: en
+  logical_id: '4634'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- first_name: Eric
+  last_name: Yacub
+  whole_name: Eric Yacub
+  strong: true
+  regulation_language: en
+  logical_id: '4635'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- first_name: Taufik
+  last_name: Rifki
+  whole_name: Taufik Rifki
+  strong: true
+  regulation_language: en
+  logical_id: '4618'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- first_name: Taufek
+  last_name: Refke
+  whole_name: Taufek Refke
+  strong: true
+  regulation_language: en
+  logical_id: '4619'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- first_name: Taufik
+  last_name: Rifqi
+  whole_name: Taufik Rifqi
+  strong: true
+  regulation_language: en
+  logical_id: '4620'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- first_name: Tawfiq
+  last_name: Rifqi
+  whole_name: Tawfiq Rifqi
+  strong: true
+  regulation_language: en
+  logical_id: '4621'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'

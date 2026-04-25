@@ -15,6 +15,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Yong Mu
+  last_name: Ri
+  whole_name: Yong Mu Ri
+  function: Vice Chairman of the State Affairs Commission
+  strong: true
+  regulation_language: en
+  logical_id: '112367'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - first_name: Yong-Mu
   last_name: Ri
   whole_name: Yong-Mu Ri
@@ -33,18 +45,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161782'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Yong Mu
-  last_name: Ri
-  whole_name: Yong Mu Ri
-  function: Vice Chairman of the State Affairs Commission
-  strong: true
-  regulation_language: en
-  logical_id: '112367'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

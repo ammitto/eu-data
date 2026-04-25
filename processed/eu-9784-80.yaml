@@ -14,11 +14,32 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Radio Centrafricaine Lengo Sengo
+  function: a Central African radio station
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150296'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
 - whole_name: Srednjeafriški radio Lengo Sengo
   name_language: SL
   strong: true
   regulation_language: en
   logical_id: '150989'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/430 (OJ L59I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
+- whole_name: rádio Lengo Sengo
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '150990'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -34,32 +55,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/430 (OJ L59I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: Radio Centrafricaine Lengo Sengo
-  function: a Central African radio station
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150296'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
 - whole_name: Радио Centrafricaine Lengo Sengo
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '150992'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/430 (OJ L59I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.059.01.0423.01.ENG&toc=OJ%3AL%3A2023%3A059I%3ATOC
-- whole_name: rádio Lengo Sengo
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '150990'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

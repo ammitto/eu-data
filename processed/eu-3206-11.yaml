@@ -34,12 +34,13 @@ name_aliases:
     publication_date: '2012-01-18'
     number_title: 34/2012 (OJ L15)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
-- first_name: Kawa
-  last_name: Hamawandi
-  whole_name: Kawa Hamawandi
+- first_name: Farhad
+  middle_name: Kanabi
+  last_name: Ahmad
+  whole_name: Farhad Kanabi Ahmad
   strong: true
   regulation_language: en
-  logical_id: '4906'
+  logical_id: '4405'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-08-10'
@@ -57,13 +58,12 @@ name_aliases:
     publication_date: '2006-08-10'
     number_title: 1210/2006 (OJ L219)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:219:0014:0019:EN:PDF
-- first_name: Farhad
-  middle_name: Kanabi
-  last_name: Ahmad
-  whole_name: Farhad Kanabi Ahmad
+- first_name: Kawa
+  last_name: Hamawandi
+  whole_name: Kawa Hamawandi
   strong: true
   regulation_language: en
-  logical_id: '4405'
+  logical_id: '4906'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-08-10'

@@ -25,20 +25,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Леонид
-  middle_name: Михайлович
-  last_name: РОШАЛЬ
-  whole_name: Леонид Михайлович РОШАЛЬ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149646'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Leonid
   middle_name: Mikhailovich
   last_name: ROSHAL
@@ -49,6 +35,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149647'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Леонид
+  middle_name: Михайлович
+  last_name: РОШАЛЬ
+  whole_name: Леонид Михайлович РОШАЛЬ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149646'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

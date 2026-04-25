@@ -14,15 +14,56 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Valeryj
-  middle_name: Aljaksandravitj
-  last_name: REVENKA
-  whole_name: Valeryj Aljaksandravitj REVENKA
+- first_name: Валери
+  last_name: Ревенко
+  whole_name: Валери Ревенко
   gender: M
-  name_language: SV
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '160630'
+  logical_id: '161222'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Валерый
+  middle_name: Аляксандравіч
+  last_name: РЭВЕНКА
+  whole_name: Валерый Аляксандравіч РЭВЕНКА
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '159564'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Валерий
+  middle_name: Александрович
+  last_name: РЕВЕНКО
+  whole_name: Валерий Александрович РЕВЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159565'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Valery
+  middle_name: Aleksandrovich
+  last_name: REVENKA
+  whole_name: Valery Aleksandrovich REVENKA
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159566'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -37,19 +78,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160631'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Valerij
-  last_name: Revenko
-  whole_name: Valerij Revenko
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160834'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -81,28 +109,28 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Валери
-  last_name: Ревенко
-  whole_name: Валери Ревенко
+- first_name: Valerij
+  last_name: Revenko
+  whole_name: Valerij Revenko
   gender: M
-  name_language: BG
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '161222'
+  logical_id: '160834'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Валерый
-  middle_name: Аляксандравіч
-  last_name: РЭВЕНКА
-  whole_name: Валерый Аляксандравіч РЭВЕНКА
+- first_name: Valeryj
+  middle_name: Aljaksandravitj
+  last_name: REVENKA
+  whole_name: Valeryj Aljaksandravitj REVENKA
   gender: M
-  name_language: BE
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159564'
+  logical_id: '160630'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -121,34 +149,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159567'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Valery
-  middle_name: Aleksandrovich
-  last_name: REVENKA
-  whole_name: Valery Aleksandrovich REVENKA
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159566'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Валерий
-  middle_name: Александрович
-  last_name: РЕВЕНКО
-  whole_name: Валерий Александрович РЕВЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159565'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

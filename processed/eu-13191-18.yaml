@@ -14,39 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: محمد الجاسم بن حسين
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176018'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: محمد الجاسم
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176017'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: محمد حسين الجاسم
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176019'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
 - whole_name: أبو عمشة
   gender: M
   name_language: AR
@@ -58,22 +25,12 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Mohamed ALJASEM
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '176021'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Abu AMSHA
+- whole_name: Muhammad AL-JASSIM BIN HUSSEIN
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176024'
+  logical_id: '176022'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'
@@ -90,12 +47,12 @@ name_aliases:
     publication_date: '2025-05-28'
     number_title: 2025/1111 (OJ L202501111)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Muhammad AL-JASSIM BIN HUSSEIN
+- whole_name: Abu AMSHA
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176022'
+  logical_id: '176024'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'
@@ -114,6 +71,49 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176025'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: محمد الجاسم
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176017'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: محمد الجاسم بن حسين
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176018'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: محمد حسين الجاسم
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176019'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Mohamed ALJASEM
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '176021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'

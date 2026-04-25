@@ -22,6 +22,17 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Jalaluddin
+  last_name: Haqani
+  whole_name: Jalaluddin Haqani
+  strong: true
+  regulation_language: en
+  logical_id: '101805'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-08'
+    number_title: 1057/2014 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
+- first_name: Jalaluddin
   last_name: Haqqani
   whole_name: Jalaluddin Haqqani
   function: Minister of Frontier Affairs under the Taliban regime
@@ -30,17 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '101804'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-08'
-    number_title: 1057/2014 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
-- first_name: Jalaluddin
-  last_name: Haqani
-  whole_name: Jalaluddin Haqani
-  strong: true
-  regulation_language: en
-  logical_id: '101805'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-08'
@@ -93,12 +93,11 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0279&from=EN
 - circa: true
   calendar_type: GREGORIAN
-  year: 1942
-  city: Neka District, Paktika Province
+  year: 1948
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '101803'
+  logical_id: '111354'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-02-19'
@@ -118,11 +117,12 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0279&from=EN
 - circa: true
   calendar_type: GREGORIAN
-  year: 1948
+  year: 1942
+  city: Neka District, Paktika Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '111354'
+  logical_id: '101803'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-02-19'

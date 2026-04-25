@@ -14,51 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad anónima “Planta Mecánica de Ulyanovsk”
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160712'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО “УМЗ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '160046'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО “Ульяновский Механический Завод”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '160047'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “UMP”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160048'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: S.A. “Usine mécanique d’Ulyanovsk”
   name_language: FR
   strong: true
   regulation_language: en
   logical_id: '160580'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: société par actions “Usine mécanique d’Ulyanovsk”
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160581'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: "„UMP” Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -84,21 +64,31 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: "„UMP” Rt."
-  name_language: HU
+- whole_name: АО “УМЗ”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160977'
+  logical_id: '160046'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: société par actions “Usine mécanique d’Ulyanovsk”
-  name_language: FR
+- whole_name: sociedad anónima “Planta Mecánica de Ulyanovsk”
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '160581'
+  logical_id: '160712'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JSC “UMP”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160048'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -109,6 +99,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160049'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: АО “Ульяновский Механический Завод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160047'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -129,11 +129,11 @@ addresses:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 identifications:
-- identification_type_code: other
-  number: '732701001'
+- identification_type_code: fiscalcode
+  number: '7303026762'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '160050'
+  logical_id: '160051'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -149,11 +149,11 @@ identifications:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- identification_type_code: fiscalcode
-  number: '7303026762'
+- identification_type_code: other
+  number: '732701001'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '160051'
+  logical_id: '160050'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

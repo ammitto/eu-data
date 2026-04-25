@@ -15,6 +15,34 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Alexander
+  middle_name: Jurievič
+  last_name: Gladyšev
+  whole_name: Alexander Jurievič Gladyšev
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '165938'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Aleksandr
+  middle_name: Jurjevitš
+  last_name: GLADYŠEV
+  whole_name: Aleksandr Jurjevitš GLADYŠEV
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '165957'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2024-05-27'
+    number_title: 2024/1488 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
+- first_name: Alexander
   middle_name: Yurievich
   last_name: GLADYSHEV
   whole_name: Alexander Yurievich GLADYSHEV
@@ -39,34 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165798'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Aleksandr
-  middle_name: Jurjevitš
-  last_name: GLADYŠEV
-  whole_name: Aleksandr Jurjevitš GLADYŠEV
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '165957'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2024-05-27'
-    number_title: 2024/1488 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Alexander
-  middle_name: Jurievič
-  last_name: Gladyšev
-  whole_name: Alexander Jurievič Gladyšev
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '165938'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

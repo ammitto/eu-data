@@ -14,13 +14,79 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Institución del presupuesto estatal federal para la ciencia y la investigación
-    “Instituto Nacional Panruso de Investigación Científica para la viticultura y
-    la vinificación” Magarach “de la Academia de Ciencias de Rusia”
+- whole_name: "”Krimin tasavallan” omistama valtion unitaarinen yritys ”Kansallinen
+    viini-instituutti ’Magaratš’”"
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '137549'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: Liittovaltion rahoittama tiede- ja tutkimuslaitos ”Venäjän kansallinen
+    viininviljelyn ja viininvalmistuksen tieteellinen tutkimuslaitos ’Magaratš’, Venäjän
+    tiedeakatemia”
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '137550'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: Федерален държавен бюджетен научноизследователски институт „Общоруски
+    национален научноизследователски институт по лозарство и винарство „Магарач“ Руска
+    академия на науките“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '137486'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: "„Държавно предприятие „Магарач“ към Националния институт по лозарство
+    и винарство"
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '137487'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: Държавно единно предприятие на „Република Крим“ „Национален институт
+    по лозарство и винарство „Магарач“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '137488'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: "“Empresa Estatal ‘Magarach’ del Instituto Nacional del Vino”"
   name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '137491'
+  logical_id: '137489'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: Empresa Unitaria Estatal de la “República de Crimea”“Instituto Nacional
+    del Vino ‘Magarach’”
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '137490'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'
@@ -88,35 +154,13 @@ name_aliases:
     publication_date: '2017-09-15'
     number_title: 2017/1549 (OJ L237)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1549&from=EN
-- whole_name: Федерален държавен бюджетен научноизследователски институт „Общоруски
-    национален научноизследователски институт по лозарство и винарство „Магарач“ Руска
-    академия на науките“
-  name_language: BG
+- whole_name: Institución del presupuesto estatal federal para la ciencia y la investigación
+    “Instituto Nacional Panruso de Investigación Científica para la viticultura y
+    la vinificación” Magarach “de la Academia de Ciencias de Rusia”
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '137486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: "„Държавно предприятие „Магарач“ към Националния институт по лозарство
-    и винарство"
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '137487'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: Държавно единно предприятие на „Република Крим“ „Национален институт
-    по лозарство и винарство „Магарач“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '137488'
+  logical_id: '137491'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'
@@ -746,50 +790,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '137548'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: "”Krimin tasavallan” omistama valtion unitaarinen yritys ”Kansallinen
-    viini-instituutti ’Magaratš’”"
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '137549'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: Liittovaltion rahoittama tiede- ja tutkimuslaitos ”Venäjän kansallinen
-    viininviljelyn ja viininvalmistuksen tieteellinen tutkimuslaitos ’Magaratš’, Venäjän
-    tiedeakatemia”
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '137550'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: "“Empresa Estatal ‘Magarach’ del Instituto Nacional del Vino”"
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '137489'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
-- whole_name: Empresa Unitaria Estatal de la “República de Crimea”“Instituto Nacional
-    del Vino ‘Magarach’”
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '137490'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'

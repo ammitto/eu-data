@@ -15,15 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: KOREA RYONGWANG TRADING CORPORATION
-  strong: true
-  regulation_language: en
-  logical_id: '124485'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-07-31'
-    number_title: 2020/1129 (OJ L247)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.247.01.0005.01.ENG&toc=OJ:L:2020:247:TOC
 - whole_name: Korean Ryengwang Trading Corporation
   function: Subsidiary of Korea Ryongbong General Corporation (entity designated by
     the United Nations, 2009-04-24).
@@ -35,6 +26,15 @@ name_aliases:
     publication_date: '2009-12-23'
     number_title: 1283/2009 (OJ L346)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:346:0001:0025:EN:PDF
+- whole_name: KOREA RYONGWANG TRADING CORPORATION
+  strong: true
+  regulation_language: en
+  logical_id: '124485'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-07-31'
+    number_title: 2020/1129 (OJ L247)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.247.01.0005.01.ENG&toc=OJ:L:2020:247:TOC
 addresses:
 - street: Rakwon-dong, Pothonggang District
   city: Pyongyang

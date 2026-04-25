@@ -15,18 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oman
-  last_name: Rahman
-  whole_name: Oman Rahman
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113520'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - whole_name: Oman Rochman
   function: De facto leader for all Islamic State in Iraq and the Levant, listed as
     Al-Qaida in Iraq, supporters in Indonesia despite his incarceration in Indonesia
@@ -81,16 +69,6 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Aman Abdurahman
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113517'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - whole_name: Aman Abdul Rahman
   name_language: EN
   strong: true
@@ -101,11 +79,33 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Aman Abdurahman
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '113517'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - whole_name: Abu Sulaiman Aman Abdurrahman Al-Arkhabiliy
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '113519'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- first_name: Oman
+  last_name: Rahman
+  whole_name: Oman Rahman
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '113520'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

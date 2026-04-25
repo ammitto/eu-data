@@ -24,11 +24,13 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: ПСВ Технологии
-  name_language: RU
+- whole_name: PSV Technologies LLC
+  function: A Russian entity involved in the procurement of high-tech goods on behalf
+    of the Government of the Russian Federation
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163219'
+  logical_id: '163221'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -44,13 +46,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: PSV Technologies LLC
-  function: A Russian entity involved in the procurement of high-tech goods on behalf
-    of the Government of the Russian Federation
-  name_language: EN
+- whole_name: ПСВ Технологии
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163221'
+  logical_id: '163219'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

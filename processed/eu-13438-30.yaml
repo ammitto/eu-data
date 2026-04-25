@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Политический блок “Победа”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '177625'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1434 (OJ L202501434)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
 - whole_name: VICTORY/POBEDA POLITICAL BLOC
   function: The Victory/Pobeda Political Bloc was established by Ilan Shor on 21 April
     2024. The bloc was formed with several notable signatories including Marina Tauber
@@ -37,6 +27,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177624'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1434 (OJ L202501434)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
+- whole_name: Политический блок “Победа”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '177625'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

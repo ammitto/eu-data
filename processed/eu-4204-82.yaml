@@ -32,6 +32,15 @@ name_aliases:
     publication_date: '2009-07-31'
     number_title: 689/2009 (OJ L199)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:199:0003:0005:EN:PDF
+- whole_name: GBAE
+  strong: true
+  regulation_language: en
+  logical_id: '7222'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-07-31'
+    number_title: 689/2009 (OJ L199)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:199:0003:0005:EN:PDF
 - whole_name: General Bureau of Atomic Energy
   function: The GBAE is responsible for the DPRK's nuclear programme.
   strong: true
@@ -42,15 +51,6 @@ name_aliases:
     publication_date: '2017-08-31'
     number_title: 2017/1509 (OJ L224)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- whole_name: GBAE
-  strong: true
-  regulation_language: en
-  logical_id: '7222'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-07-31'
-    number_title: 689/2009 (OJ L199)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:199:0003:0005:EN:PDF
 addresses:
 - street: Haeudong, Pyongchen District
   city: Pyongyang

@@ -24,17 +24,6 @@ name_aliases:
     number_title: 785/2006 (OJ L138)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:138:0007:0009:EN:PDF
 addresses:
-- street: Rashidiya, 638
-  city: Dubai
-  country_iso2_code: AE
-  country_description: UNITED ARAB EMIRATES
-  regulation_language: en
-  logical_id: '467'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 979/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
 - street: Villa in the Harasiyah area
   city: Baghdad
   country_iso2_code: IQ
@@ -46,23 +35,34 @@ addresses:
     publication_date: '2004-05-15'
     number_title: 979/2004 (OJ L180)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
-- street: Lootah Building, Airport Road, near Aviation Club, Rashidya
-  city: Dubai
-  country_iso2_code: AE
-  country_description: UNITED ARAB EMIRATES
-  regulation_language: en
-  logical_id: '468'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 979/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
 - street: Ibrahim Saeed Lootah Building, Al Ramool Street, P.O. Box 10631
   city: Dubai
   country_iso2_code: AE
   country_description: UNITED ARAB EMIRATES
   regulation_language: en
   logical_id: '466'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-05-15'
+    number_title: 979/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
+- street: Rashidiya, 638
+  city: Dubai
+  country_iso2_code: AE
+  country_description: UNITED ARAB EMIRATES
+  regulation_language: en
+  logical_id: '467'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-05-15'
+    number_title: 979/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
+- street: Lootah Building, Airport Road, near Aviation Club, Rashidya
+  city: Dubai
+  country_iso2_code: AE
+  country_description: UNITED ARAB EMIRATES
+  regulation_language: en
+  logical_id: '468'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-05-15'

@@ -26,33 +26,12 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Anatoliy Anatolyevich GLAZ
+- whole_name: Anatolij Anatoljevitj GLAZ
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '132601'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Анатоль Анатольевіч ГЛАЗ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '132600'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Анатолий Анатольевич ГЛАЗ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '132599'
+  logical_id: '132597'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -69,12 +48,33 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Anatolij Anatoljevitj GLAZ
+- whole_name: Анатолий Анатольевич ГЛАЗ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '132597'
+  logical_id: '132599'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Анатоль Анатольевіч ГЛАЗ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '132600'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Anatoliy Anatolyevich GLAZ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '132601'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

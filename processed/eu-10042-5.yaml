@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Stiftung al-Areen
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '153030'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: al-Areen foundation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153031'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Fondazione Areen
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '153035'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - whole_name: fondation Areen
   name_language: FR
   strong: true
@@ -54,11 +24,11 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: fundación al-Areen
-  name_language: ES
+- whole_name: Al-Areen-säätiö
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '153042'
+  logical_id: '153106'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -74,11 +44,21 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Fundacja Areen
-  name_language: PL
+- whole_name: Al-Areen fonds
+  name_language: LV
   strong: true
   regulation_language: en
-  logical_id: '153047'
+  logical_id: '153104'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Fundația Areen
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '153063'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -124,41 +104,11 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Fundația Areen
-  name_language: RO
+- whole_name: Фондация „Areen“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '153063'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Fondas Al-Areen
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '153102'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Nadace al-Arín
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '153084'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Nadácia al-Areen
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '153087'
+  logical_id: '153099'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -184,36 +134,6 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Фондация „Areen“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '153099'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Al-Areen-säätiö
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '153106'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Al-Areen fonds
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '153104'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - whole_name: مؤسسة العرين
   name_language: AR
   strong: true
@@ -229,6 +149,86 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152943'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Nadace al-Arín
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '153084'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Nadácia al-Areen
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '153087'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Fondas Al-Areen
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '153102'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Fundacja Areen
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '153047'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Stiftung al-Areen
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '153030'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: al-Areen foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153031'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: Fondazione Areen
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '153035'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: fundación al-Areen
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '153042'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

@@ -14,28 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Вадим
-  middle_name: Анатольевич
-  last_name: ЛУКАШЕВИЧ
-  whole_name: Вадим Анатольевич ЛУКАШЕВИЧ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136390'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Vadim
-  last_name: Lukaševič
-  whole_name: Vadim Lukaševič
+  middle_name: Anatolievič
+  last_name: LUKAŠEVIČ
+  whole_name: Vadim Anatolievič LUKAŠEVIČ
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '152172'
+  logical_id: '152204'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -74,15 +61,28 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Vadim
-  middle_name: Anatolievič
-  last_name: LUKAŠEVIČ
-  whole_name: Vadim Anatolievič LUKAŠEVIČ
+- first_name: Вадим
+  middle_name: Анатольевич
+  last_name: ЛУКАШЕВИЧ
+  whole_name: Вадим Анатольевич ЛУКАШЕВИЧ
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '152204'
+  logical_id: '136390'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Vadim
+  last_name: Lukaševič
+  whole_name: Vadim Lukaševič
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152172'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

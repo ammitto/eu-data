@@ -19,12 +19,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Obaid Ullah
-  last_name: Akhund
-  whole_name: Obaid Ullah Akhund
+- whole_name: Ubaidullah Akhund Yar Mohammed Akhund
+  function: Minister of Defence under the Taliban regime
+  title: "(a) Mullah, (b) Hadji, (c) Maulavi."
   strong: true
   regulation_language: en
-  logical_id: '5920'
+  logical_id: '1262'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -41,12 +41,12 @@ name_aliases:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Ubaidullah Akhund Yar Mohammed Akhund
-  function: Minister of Defence under the Taliban regime
-  title: "(a) Mullah, (b) Hadji, (c) Maulavi."
+- first_name: Obaid Ullah
+  last_name: Akhund
+  whole_name: Obaid Ullah Akhund
   strong: true
   regulation_language: en
-  logical_id: '1262'
+  logical_id: '5920'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -65,16 +65,16 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  city: Nalgham area, Zheray District, Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
+  year: 1969
+  country_iso2_code: '00'
+  country_description: UNKNOWN
   regulation_language: en
-  logical_id: '1901'
+  logical_id: '1819'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 543/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: true
   calendar_type: GREGORIAN
   year: 1968
@@ -89,16 +89,16 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1969
-  country_iso2_code: '00'
-  country_description: UNKNOWN
+  city: Nalgham area, Zheray District, Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1819'
+  logical_id: '1901'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+    publication_date: '2012-06-26'
+    number_title: 543/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
   region: Kandahar Province

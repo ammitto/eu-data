@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: InfoRos OOO IA
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '156616'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
 - whole_name: Inforos OOO IA
   function: Russian online news agency and a front organisation for Unit 54777 of
     the Russian military intelligence service GRU
@@ -31,16 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155836'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: InfoRos OOO IA
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '156616'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

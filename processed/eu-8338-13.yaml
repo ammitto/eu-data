@@ -14,31 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ihar Pjatrovitj TUR
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '141071'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
 - whole_name: Igor TUR
   name_language: SL
   strong: true
   regulation_language: en
   logical_id: '141069'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Igor Petrovitj TUR
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '141070'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -83,6 +63,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '140682'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Igor Petrovitj TUR
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '141070'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Ihar Pjatrovitj TUR
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '141071'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

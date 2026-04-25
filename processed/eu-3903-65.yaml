@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mahmud
-  last_name: SALARKIA
-  whole_name: Mahmud SALARKIA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '164886'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-05'
-    number_title: 2024/1033 (OJ L05042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
 - whole_name: محمود سالار کیا
   gender: M
   name_language: FA
@@ -49,6 +36,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14677'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-05'
+    number_title: 2024/1033 (OJ L05042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401033
+- first_name: Mahmud
+  last_name: SALARKIA
+  whole_name: Mahmud SALARKIA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '164886'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-05'

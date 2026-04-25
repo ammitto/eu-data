@@ -14,6 +14,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: JSC Design Bureau of Instrument-Making Named, επ’ ονόματι του ακαδημαϊκού
+    A. G. Shipunov
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '161247'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: АО “КБП”
   name_language: RU
   strong: true
@@ -54,11 +65,22 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Nástrojářská projekční kancelář akademika A, G. Šipunova
-  name_language: CS
+- whole_name: sociedad anónima Design Bureau of Instrument-Making Named After Academic
+    A. G. Shipunov
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '160944'
+  logical_id: '160698'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: KBP Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160945'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -74,12 +96,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima Design Bureau of Instrument-Making Named After Academic
-    A. G. Shipunov
-  name_language: ES
+- whole_name: Nástrojářská projekční kancelář akademika A, G. Šipunova
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160698'
+  logical_id: '160944'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -91,27 +112,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC Design Bureau of Instrument-Making Named, επ’ ονόματι του ακαδημαϊκού
-    A. G. Shipunov
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '161247'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: KBP Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160945'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

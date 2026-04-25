@@ -14,6 +14,46 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Anna
+  middle_name: Evgenievna
+  last_name: TSIVILYOVA
+  whole_name: Anna Evgenievna TSIVILYOVA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159683'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Anna
+  last_name: Civiľova
+  whole_name: Anna Civiľova
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160870'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Anna
+  last_name: Civiljova
+  whole_name: Anna Civiljova
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160869'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Анна
   middle_name: Евгеньевна
   last_name: ЦИВИЛЁВА
@@ -41,15 +81,13 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Anna
-  middle_name: Evgenievna
-  last_name: TSIVILYOVA
-  whole_name: Anna Evgenievna TSIVILYOVA
-  gender: F
-  name_language: EN
+- first_name: Анна
+  last_name: Цивильова
+  whole_name: Анна Цивильова
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '159683'
+  logical_id: '161227'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -82,44 +120,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160655'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Anna
-  last_name: Civiljova
-  whole_name: Anna Civiljova
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160869'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Анна
-  last_name: Цивильова
-  whole_name: Анна Цивильова
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161227'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Anna
-  last_name: Civiľova
-  whole_name: Anna Civiľova
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160870'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

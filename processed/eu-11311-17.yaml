@@ -14,39 +14,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "„Az elsők mozgalma” Összorosz Állami Gyermek- és Ifjúsági Mozgalom"
-  name_language: HU
+- whole_name: Movimento público estatal de crianças e jovens pan¬ russo "Movimento
+    dos Primeiros"
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '163965'
+  logical_id: '163962'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: "„Az elsők mozgalma”"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163964'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: All-Russian public-state movement of children and youth “Movement of
-    the First”
-  function: "“Movement of the First” is a state-led youth organisation in the Russian
-    Federation"
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163008'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - whole_name: Движение первых
   name_language: RU
   strong: true
@@ -67,6 +45,39 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: All-Russian public-state movement of children and youth “Movement of
+    the First”
+  function: "“Movement of the First” is a state-led youth organisation in the Russian
+    Federation"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163008'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: "„Az elsők mozgalma” Összorosz Állami Gyermek- és Ifjúsági Mozgalom"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163965'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: "„Az elsők mozgalma”"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163964'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: publiczny ogólnorosyjski państwowy ruch dzieci i młodzieży „Ruch Pierwszych”
   name_language: PL
   strong: true
@@ -77,11 +88,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Mouvement des Premiers
-  name_language: FR
+- whole_name: Movimento dos Primeiros"
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '163640'
+  logical_id: '163961'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -98,22 +109,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Movimento dos Primeiros"
-  name_language: PT
+- whole_name: Mouvement des Premiers
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '163961'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Movimento público estatal de crianças e jovens pan¬ russo "Movimento
-    dos Primeiros"
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '163962'
+  logical_id: '163640'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -133,11 +133,11 @@ addresses:
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 identifications:
-- identification_type_code: regnumber
-  number: '1227700776038'
+- identification_type_code: fiscalcode
+  number: '9709087880'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '173920'
+  logical_id: '173919'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'
@@ -153,11 +153,11 @@ identifications:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- identification_type_code: fiscalcode
-  number: '9709087880'
+- identification_type_code: regnumber
+  number: '1227700776038'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '173919'
+  logical_id: '173920'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

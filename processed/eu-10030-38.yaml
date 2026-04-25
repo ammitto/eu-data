@@ -14,22 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Samer
-  last_name: AL-DIBIS
-  whole_name: Samer AL-DIBIS
-  function: member of Parliament (Syria), chairman of the Damascus and Rural Damascus
-    Chamber of Industry, member of the Board of Directors of the Syrian-Chinese Business
-    Council
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152869'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - first_name: Samir
   last_name: AL-DIBIS
   whole_name: Samir AL-DIBIS
@@ -38,19 +22,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152868'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- first_name: Samer
-  last_name: AL-DIBS
-  whole_name: Samer AL-DIBS
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152867'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -75,6 +46,35 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152866'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- first_name: Samer
+  last_name: AL-DIBS
+  whole_name: Samer AL-DIBS
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152867'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- first_name: Samer
+  last_name: AL-DIBIS
+  whole_name: Samer AL-DIBIS
+  function: member of Parliament (Syria), chairman of the Damascus and Rural Damascus
+    Chamber of Industry, member of the Board of Directors of the Syrian-Chinese Business
+    Council
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152869'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

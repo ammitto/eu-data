@@ -14,6 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abu Zoubair
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5056'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
+- whole_name: Sobiar
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5055'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-31'
+    number_title: 2025/206 (L 202500206)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
 - whole_name: Abu Zubair
   gender: M
   name_language: EN
@@ -38,28 +60,6 @@ name_aliases:
     publication_date: '2024-01-16'
     number_title: 2024/329 (OJ L16012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400329
-- whole_name: Abu Zoubair
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5056'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- whole_name: Sobiar
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5055'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-31'
-    number_title: 2025/206 (L 202500206)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
 birthdates:
 - birthdate: '1978-03-08'
   circa: false

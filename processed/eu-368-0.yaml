@@ -62,12 +62,12 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
-  year: 1966
+  year: 1969
   city: Panjwai District, Kandahar province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '911'
+  logical_id: '1799'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-03-15'
@@ -75,12 +75,12 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0263&from=EN
 - circa: true
   calendar_type: GREGORIAN
-  year: 1969
+  year: 1966
   city: Panjwai District, Kandahar province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1799'
+  logical_id: '911'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-03-15'

@@ -14,6 +14,46 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: سعد بن سعد محمد شریان الكعبي
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '129111'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: Abu Suad
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106394'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: Abu Hazza'
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106397'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- whole_name: Sa'd Bin Sa'd Muhammad Shariyan Al-Ka'bi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106390'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-09-30'
+    number_title: 2015/1740 (OJ L253)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_253_R_0003&from=EN
 - whole_name: Sa'd bin Sa'd Muhammad Shiryan al-Ka'bi
   name_language: EN
   strong: true
@@ -34,16 +74,6 @@ name_aliases:
     publication_date: '2021-03-30'
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Abu Haza'
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106398'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 - whole_name: Sa'd al-Sharyan al-Ka'bi
   name_language: EN
   strong: true
@@ -54,31 +84,11 @@ name_aliases:
     publication_date: '2021-03-30'
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: سعد بن سعد محمد شریان الكعبي
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '129111'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Abu Hazza'
+- whole_name: Abu Haza'
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106397'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Umar al-Afghani
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106396'
+  logical_id: '106398'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'
@@ -94,21 +104,11 @@ name_aliases:
     publication_date: '2021-03-30'
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
-- whole_name: Sa'd Bin Sa'd Muhammad Shariyan Al-Ka'bi
+- whole_name: Umar al-Afghani
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106390'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-09-30'
-    number_title: 2015/1740 (OJ L253)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_253_R_0003&from=EN
-- whole_name: Abu Suad
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106394'
+  logical_id: '106396'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'

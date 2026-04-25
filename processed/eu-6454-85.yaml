@@ -15,24 +15,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Leanid
-  last_name: Tšuro
-  whole_name: Leanid Tšuro
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164190'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Leanid
   last_name: Čuro
   whole_name: Leanid Čuro
-  name_language: HR
+  gender: M
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '164182'
+  logical_id: '164164'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -111,6 +100,30 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Leanid
+  last_name: Čuro
+  whole_name: Leanid Čuro
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '164182'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Leanid
+  last_name: Tšuro
+  whole_name: Leanid Tšuro
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164190'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Леонид
   middle_name: Николаевич
   last_name: ЧУРО
@@ -120,19 +133,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130507'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Leanid
-  last_name: Čuro
-  whole_name: Leanid Čuro
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164164'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

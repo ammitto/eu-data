@@ -79,6 +79,16 @@ name_aliases:
     publication_date: '2005-11-10'
     number_title: 1824/2005 (OJ L294)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:294:0003:0004:EN:PDF
+- whole_name: pulkvedis Mutebutsi
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '8428'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-12-23'
+    number_title: 1250/2010 (OJ L341)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0011:0014:EN:PDF
 - whole_name: полковник Mutebutsi
   name_language: BG
   strong: true
@@ -94,16 +104,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '8427'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-12-23'
-    number_title: 1250/2010 (OJ L341)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0011:0014:EN:PDF
-- whole_name: pulkvedis Mutebutsi
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '8428'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-12-23'

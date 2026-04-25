@@ -24,41 +24,21 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Uzina pentru repararea rachetelor și armamentului de artilerie 195
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151071'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: 195 Raķešu un artilērijas ieroču remonta rūpnīca
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '151072'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: 195. zakład naprawy broni rakietowej i artyleryjskiej
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '151073'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: 195 Repair Plant of Rocket and Artillery Weapons
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '150858'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: АО 195 РЗ РАВ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150865'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -84,11 +64,31 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: АО 195 РЗ РАВ
-  name_language: RU
+- whole_name: Uzina pentru repararea rachetelor și armamentului de artilerie 195
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '150865'
+  logical_id: '151071'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: 195 Raķešu un artilērijas ieroču remonta rūpnīca
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '151072'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: 195. zakład naprawy broni rakietowej i artyleryjskiej
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '151073'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

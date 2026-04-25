@@ -53,6 +53,17 @@ name_aliases:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 addresses:
+- street: Leytenanta Schmidta Naberezhnaya 37
+  city: St. Petersburg
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '178194'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - street: Ulitsa Gorkogo 105,
   city: Samara
   country_iso2_code: RU
@@ -60,17 +71,6 @@ addresses:
   zip_code: '443693'
   regulation_language: en
   logical_id: '178195'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- street: Leytenanta Schmidta Naberezhnaya 37
-  city: St. Petersburg
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  regulation_language: en
-  logical_id: '178194'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

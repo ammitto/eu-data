@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Євген Олександрович БРИКОВ
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '162540'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Евгений Александрович БРЫКОВ
   gender: M
   name_language: RU
@@ -25,12 +36,14 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Jevgenij Brykov
+- first_name: Yevgeny
+  middle_name: Alexandrovich
+  last_name: BRYKOV
+  whole_name: Yevgeny Alexandrovich BRYKOV
   gender: M
-  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '164103'
+  logical_id: '162542'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -50,25 +63,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Yevgeny
-  middle_name: Alexandrovich
-  last_name: BRYKOV
-  whole_name: Yevgeny Alexandrovich BRYKOV
+- whole_name: Jevgenij Brykov
   gender: M
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '162542'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Євген Олександрович БРИКОВ
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '162540'
+  logical_id: '164103'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

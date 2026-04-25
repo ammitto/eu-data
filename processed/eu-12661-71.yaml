@@ -16,20 +16,6 @@ subject_type:
 name_aliases:
 - first_name: Edward
   middle_name: Miguel
-  last_name: BRICEÑO CISNEROST
-  whole_name: Edward Miguel BRICEÑO CISNEROST
-  gender: M
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '172426'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-10'
-    number_title: 2025/44 (OJ L10012025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
-- first_name: Edward
-  middle_name: Miguel
   last_name: BRICEÑO  CISNEROS
   whole_name: Edward Miguel BRICEÑO  CISNEROS
   function: Special Judge, First Court of First Instance of Venezuela
@@ -38,6 +24,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172427'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-10'
+    number_title: 2025/44 (OJ L10012025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
+- first_name: Edward
+  middle_name: Miguel
+  last_name: BRICEÑO CISNEROST
+  whole_name: Edward Miguel BRICEÑO CISNEROST
+  gender: M
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '172426'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-10'

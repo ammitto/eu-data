@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: АО “Научно-производственная корпорация УралВагонЗавод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '137867'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-15'
+    number_title: 2022/427 (OJ L87I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
 - whole_name: JSC Research and Production Corporation URALVAGONZAVOD
   function: a Russian machine building corporation
   name_language: EN
@@ -25,16 +35,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: АО “Научно-производственная корпорация УралВагонЗавод”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '137867'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-15'
-    number_title: 2022/427 (OJ L87I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.087.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A087I%3ATOC
 addresses:
 - street: 28 Vostochnoe shosse.
   country_iso2_code: RU

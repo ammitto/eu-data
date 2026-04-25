@@ -14,6 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Mark BLATT
+  function: CEO of Texel F.C.G. Technology Limited
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167918'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Mark BLATS
   gender: M
   name_language: EN
@@ -36,18 +48,6 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Mark BLATT
-  function: CEO of Texel F.C.G. Technology Limited
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167918'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Marks BLATS
   gender: M
   name_language: EN
@@ -60,19 +60,19 @@ name_aliases:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 citizenships:
-- country_iso2_code: IL
-  country_description: ISRAEL
+- country_iso2_code: LV
+  country_description: LATVIA
   regulation_language: en
-  logical_id: '167924'
+  logical_id: '167923'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- country_iso2_code: LV
-  country_description: LATVIA
+- country_iso2_code: IL
+  country_description: ISRAEL
   regulation_language: en
-  logical_id: '167923'
+  logical_id: '167924'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

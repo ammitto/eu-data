@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Adil Anwar
+  last_name: al-Olabi
+  whole_name: Adil Anwar al-Olabi
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '122115'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Ádil Anwar
   last_name: Al-Ulábí
   whole_name: Ádil Anwar Al-Ulábí
@@ -22,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166999'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: عادل أنور العلبي
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '122114'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -67,14 +69,12 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Adil Anwar
-  last_name: al-Olabi
-  whole_name: Adil Anwar al-Olabi
+- whole_name: عادل أنور العلبي
   gender: M
-  name_language: EN
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '122115'
+  logical_id: '122114'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

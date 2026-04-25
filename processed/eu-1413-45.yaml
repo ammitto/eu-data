@@ -24,6 +24,17 @@ name_aliases:
     number_title: 1086/2004 (OJ L207)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:207:0010:0012:EN:PDF
 addresses:
+- street: Al-Razi Medical Complex, Jabal Al-Hussein
+  city: Amman
+  country_iso2_code: JO
+  country_description: JORDAN
+  regulation_language: en
+  logical_id: '760'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-06-10'
+    number_title: 1086/2004 (OJ L207)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:207:0010:0012:EN:PDF
 - street: P.O. Box 910606
   city: Amman
   country_iso2_code: JO
@@ -43,17 +54,6 @@ addresses:
   zip_code: '11121'
   regulation_language: en
   logical_id: '761'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-06-10'
-    number_title: 1086/2004 (OJ L207)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:207:0010:0012:EN:PDF
-- street: Al-Razi Medical Complex, Jabal Al-Hussein
-  city: Amman
-  country_iso2_code: JO
-  country_description: JORDAN
-  regulation_language: en
-  logical_id: '760'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-06-10'

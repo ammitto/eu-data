@@ -14,11 +14,61 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Calea Luminoasă
-  name_language: RO
+- whole_name: Świetlisty Szlak
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '123385'
+  logical_id: '3869'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-03-16'
+    number_title: 2005/221/CFSP (OJ L69)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN
+- whole_name: Šviečiantis kelias
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '3868'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-03-16'
+    number_title: 2005/221/CFSP (OJ L69)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN
+- whole_name: Sijoča pot
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '3871'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-03-16'
+    number_title: 2005/221/CFSP (OJ L69)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN
+- whole_name: Светъл път
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '5703'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-06-29'
+    number_title: 2007/445/EC (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:169:0058:0062:EN:PDF
+- whole_name: It-Triq li Tiddi
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '6743'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-07-16'
+    number_title: 2008/583/EC (OJ L188)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:188:0021:0025:EN:PDF
+- whole_name: an Chonair Lonrach
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '123383'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-01-14'
@@ -29,6 +79,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '123384'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Calea Luminoasă
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '123385'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-01-14'
+    number_title: 2020/19 (OJ L8I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
+- whole_name: Сияйната пътека
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '123386'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-01-14'
@@ -204,26 +274,6 @@ name_aliases:
     publication_date: '2005-03-16'
     number_title: 2005/221/CFSP (OJ L69)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN
-- whole_name: Šviečiantis kelias
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '3868'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-03-16'
-    number_title: 2005/221/CFSP (OJ L69)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN
-- whole_name: Świetlisty Szlak
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '3869'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-03-16'
-    number_title: 2005/221/CFSP (OJ L69)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN
 - whole_name: Svetlý chodník
   name_language: SK
   strong: true
@@ -234,53 +284,3 @@ name_aliases:
     publication_date: '2005-03-16'
     number_title: 2005/221/CFSP (OJ L69)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN
-- whole_name: Sijoča pot
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '3871'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-03-16'
-    number_title: 2005/221/CFSP (OJ L69)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005D0221&qid=1410439221593&from=EN
-- whole_name: Светъл път
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '5703'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-06-29'
-    number_title: 2007/445/EC (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:169:0058:0062:EN:PDF
-- whole_name: It-Triq li Tiddi
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '6743'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-07-16'
-    number_title: 2008/583/EC (OJ L188)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:188:0021:0025:EN:PDF
-- whole_name: an Chonair Lonrach
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '123383'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC
-- whole_name: Сияйната пътека
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '123386'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-01-14'
-    number_title: 2020/19 (OJ L8I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.008.01.0001.01.ENG&toc=OJ:L:2020:008I:TOC

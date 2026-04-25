@@ -14,15 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ілля
-  middle_name: Дмитрович
-  last_name: МЕДВЕДЄВ
-  whole_name: Ілля Дмитрович МЕДВЕДЄВ
+- first_name: Ilya
+  middle_name: Dmitrievich
+  last_name: MEDVEDEV
+  whole_name: Ilya Dmitrievich MEDVEDEV
   gender: M
-  name_language: UK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159751'
+  logical_id: '159753'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Иля
+  last_name: Медведев
+  whole_name: Иля Медведев
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161231'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -42,15 +55,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Ilya
-  middle_name: Dmitrievich
-  last_name: MEDVEDEV
-  whole_name: Ilya Dmitrievich MEDVEDEV
+- first_name: Ілля
+  middle_name: Дмитрович
+  last_name: МЕДВЕДЄВ
+  whole_name: Ілля Дмитрович МЕДВЕДЄВ
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '159753'
+  logical_id: '159751'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -91,19 +104,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160880'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Иля
-  last_name: Медведев
-  whole_name: Иля Медведев
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161231'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

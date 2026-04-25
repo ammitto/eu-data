@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Игорь Александрович
-  last_name: ГАНИН
-  whole_name: Игорь Александрович ГАНИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171406'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - first_name: Igor Alexandrovich
   last_name: GANIN
   whole_name: Igor Alexandrovich GANIN
@@ -36,6 +23,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171407'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- first_name: Игорь Александрович
+  last_name: ГАНИН
+  whole_name: Игорь Александрович ГАНИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171406'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

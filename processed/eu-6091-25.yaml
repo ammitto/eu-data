@@ -14,6 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Fayçal AL-MEKDAD
+  strong: true
+  regulation_language: en
+  logical_id: '127171'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-01-15'
+    number_title: 2021/29 (OJ L12I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.012.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A012I%3ATOC
 - whole_name: فيصل المقداد
   name_language: AR
   strong: true
@@ -42,10 +51,12 @@ name_aliases:
     publication_date: '2021-01-15'
     number_title: 2021/29 (OJ L12I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.012.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A012I%3ATOC
-- whole_name: Fayçal AL-MEKDAD
+- whole_name: Faisal MEKDAD
+  function: Minister of Foreign Affairs. Appointed in November 2020.
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '127171'
+  logical_id: '127176'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-01-15'
@@ -82,17 +93,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127175'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-01-15'
-    number_title: 2021/29 (OJ L12I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.012.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A012I%3ATOC
-- whole_name: Faisal MEKDAD
-  function: Minister of Foreign Affairs. Appointed in November 2020.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '127176'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-01-15'

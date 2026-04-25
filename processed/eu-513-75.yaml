@@ -14,6 +14,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abdul Rahman S. Taha
+  strong: true
+  regulation_language: en
+  logical_id: '1191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-05-20'
+    number_title: 866/2003 (OJ L124)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
+- whole_name: Abdul Rahman S. Taher
+  strong: true
+  regulation_language: en
+  logical_id: '1192'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-05-20'
+    number_title: 866/2003 (OJ L124)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
 - first_name: Abdul Rahman Said
   last_name: Yasin
   whole_name: Abdul Rahman Said Yasin
@@ -36,15 +54,6 @@ name_aliases:
     publication_date: '2003-05-20'
     number_title: 866/2003 (OJ L124)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
-- whole_name: Abdul Rahman S. Taha
-  strong: true
-  regulation_language: en
-  logical_id: '1191'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-05-20'
-    number_title: 866/2003 (OJ L124)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
 - first_name: Abdul Rahman
   last_name: Yasin
   whole_name: Abdul Rahman Yasin
@@ -52,15 +61,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1190'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-05-20'
-    number_title: 866/2003 (OJ L124)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
-- whole_name: Abdul Rahman S. Taher
-  strong: true
-  regulation_language: en
-  logical_id: '1192'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-05-20'

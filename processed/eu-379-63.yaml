@@ -14,10 +14,143 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Al Tanzani, Ahmad
+- first_name: Ahmed
+  middle_name: Khalfan
+  last_name: Ghailani
+  whole_name: Ahmed Khalfan Ghailani
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '1232'
+  logical_id: '1220'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-08-18'
+    number_title: 969/2007 (OJ L215)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
+- whole_name: Ahmed The Tanzanian
+  strong: true
+  regulation_language: en
+  logical_id: '1221'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-08-18'
+    number_title: 969/2007 (OJ L215)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
+- whole_name: Ahmed Tanzanianul
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '5993'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-08-18'
+    number_title: 969/2007 (OJ L215)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
+- whole_name: Ahmed el Tanzano
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '5992'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-08-18'
+    number_title: 969/2007 (OJ L215)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
+- whole_name: Haytham al-Kini
+  strong: true
+  regulation_language: en
+  logical_id: '5930'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-08-18'
+    number_title: 969/2007 (OJ L215)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
+- whole_name: Ahmed le Tanzanien
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '1912'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-08-18'
+    number_title: 969/2007 (OJ L215)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
+- whole_name: Mohammed, Shariff Omar
+  strong: true
+  regulation_language: en
+  logical_id: '1241'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Foopie
+  strong: true
+  regulation_language: en
+  logical_id: '1222'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Fupi
+  strong: true
+  regulation_language: en
+  logical_id: '1223'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Ahmad, Abu Bakr
+  strong: true
+  regulation_language: en
+  logical_id: '1224'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-08-18'
+    number_title: 969/2007 (OJ L215)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
+- whole_name: Ahmed, A
+  strong: true
+  regulation_language: en
+  logical_id: '1226'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Ahmed, Abubakar
+  strong: true
+  regulation_language: en
+  logical_id: '1227'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Ahmed, Abubakar K.
+  strong: true
+  regulation_language: en
+  logical_id: '1228'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Ahmed, Abubakar Khalfan
+  strong: true
+  regulation_language: en
+  logical_id: '1229'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Ahmed, Abubakary K.
+  strong: true
+  regulation_language: en
+  logical_id: '1230'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'
@@ -27,6 +160,24 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1231'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Al Tanzani, Ahmad
+  strong: true
+  regulation_language: en
+  logical_id: '1232'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
+- whole_name: Ali, Ahmed Khalfan
+  strong: true
+  regulation_language: en
+  logical_id: '1233'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2002-05-29'
@@ -103,157 +254,6 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Mohammed, Shariff Omar
-  strong: true
-  regulation_language: en
-  logical_id: '1241'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Ahmed le Tanzanien
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '1912'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-08-18'
-    number_title: 969/2007 (OJ L215)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
-- whole_name: Haytham al-Kini
-  strong: true
-  regulation_language: en
-  logical_id: '5930'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-08-18'
-    number_title: 969/2007 (OJ L215)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
-- whole_name: Ahmed el Tanzano
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '5992'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-08-18'
-    number_title: 969/2007 (OJ L215)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
-- whole_name: Ahmed Tanzanianul
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '5993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-08-18'
-    number_title: 969/2007 (OJ L215)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
-- whole_name: Ali, Ahmed Khalfan
-  strong: true
-  regulation_language: en
-  logical_id: '1233'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Ahmed, Abubakary K.
-  strong: true
-  regulation_language: en
-  logical_id: '1230'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Ahmed, Abubakar Khalfan
-  strong: true
-  regulation_language: en
-  logical_id: '1229'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Ahmed, Abubakar K.
-  strong: true
-  regulation_language: en
-  logical_id: '1228'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Ahmed, Abubakar
-  strong: true
-  regulation_language: en
-  logical_id: '1227'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Ahmed, A
-  strong: true
-  regulation_language: en
-  logical_id: '1226'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- first_name: Ahmed
-  middle_name: Khalfan
-  last_name: Ghailani
-  whole_name: Ahmed Khalfan Ghailani
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '1220'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-08-18'
-    number_title: 969/2007 (OJ L215)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
-- whole_name: Ahmed The Tanzanian
-  strong: true
-  regulation_language: en
-  logical_id: '1221'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-08-18'
-    number_title: 969/2007 (OJ L215)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
-- whole_name: Foopie
-  strong: true
-  regulation_language: en
-  logical_id: '1222'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Fupi
-  strong: true
-  regulation_language: en
-  logical_id: '1223'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Ahmad, Abu Bakr
-  strong: true
-  regulation_language: en
-  logical_id: '1224'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-08-18'
-    number_title: 969/2007 (OJ L215)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
 citizenships:
 - country_iso2_code: TZ
   country_description: TANZANIA, UNITED REPUBLIC OF
@@ -281,22 +281,6 @@ birthdates:
     publication_date: '2007-08-18'
     number_title: 969/2007 (OJ L215)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
-- birthdate: '1974-04-14'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 14
-  month_of_year: 4
-  year: 1974
-  city: Zanzibar
-  country_iso2_code: TZ
-  country_description: TANZANIA, UNITED REPUBLIC OF
-  regulation_language: en
-  logical_id: '230'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-08-18'
-    number_title: 969/2007 (OJ L215)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
 - birthdate: '1974-04-13'
   circa: false
   calendar_type: GREGORIAN
@@ -308,6 +292,22 @@ birthdates:
   country_description: TANZANIA, UNITED REPUBLIC OF
   regulation_language: en
   logical_id: '229'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-08-18'
+    number_title: 969/2007 (OJ L215)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:215:0006:0015:EN:PDF
+- birthdate: '1974-04-14'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 14
+  month_of_year: 4
+  year: 1974
+  city: Zanzibar
+  country_iso2_code: TZ
+  country_description: TANZANIA, UNITED REPUBLIC OF
+  regulation_language: en
+  logical_id: '230'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-08-18'

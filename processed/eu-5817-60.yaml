@@ -14,29 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Алег
-  middle_name: Леанiдавiч
-  last_name: СЛIЖЭЎСКI
-  whole_name: Алег Леанiдавiч СЛIЖЭЎСКI
+- first_name: Oleg
+  middle_name: Leonidovich
+  last_name: SLIZHEVSKI
+  whole_name: Oleg Leonidovich SLIZHEVSKI
   gender: M
-  name_language: BE
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '125571'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Aleh
-  middle_name: Leanidavitj
-  last_name: SLIZJEUSKI
-  whole_name: Aleh Leanidavitj SLIZJEUSKI
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '127945'
+  logical_id: '125573'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -51,20 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127944'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Oleg
-  middle_name: Leonidovich
-  last_name: SLIZHEVSKI
-  whole_name: Oleg Leonidovich SLIZHEVSKI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '125573'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -87,6 +59,20 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Алег
+  middle_name: Леанiдавiч
+  last_name: СЛIЖЭЎСКI
+  whole_name: Алег Леанiдавiч СЛIЖЭЎСКI
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '125571'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Олег
   middle_name: Леонидович
   last_name: СЛИЖЕВСКИЙ
@@ -101,23 +87,21 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-birthdates:
-- birthdate: '1972-08-16'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 16
-  month_of_year: 8
-  year: 1972
-  city: Grodno/
-  country_iso2_code: BY
-  country_description: BELARUS
+- first_name: Aleh
+  middle_name: Leanidavitj
+  last_name: SLIZJEUSKI
+  whole_name: Aleh Leanidavitj SLIZJEUSKI
+  gender: M
+  name_language: SV
+  strong: true
   regulation_language: en
-  logical_id: '125569'
+  logical_id: '127945'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+birthdates:
 - birthdate: '1972-08-16'
   circa: false
   calendar_type: GREGORIAN
@@ -129,6 +113,22 @@ birthdates:
   country_description: BELARUS
   regulation_language: en
   logical_id: '164152'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- birthdate: '1972-08-16'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 16
+  month_of_year: 8
+  year: 1972
+  city: Grodno/
+  country_iso2_code: BY
+  country_description: BELARUS
+  regulation_language: en
+  logical_id: '125569'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

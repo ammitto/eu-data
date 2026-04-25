@@ -15,10 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC “KNIRTI”
+- whole_name: "»KNIRTI« Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '171678'
+  logical_id: '172133'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -39,6 +40,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171679'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: JSC “KNIRTI”
+  strong: true
+  regulation_language: en
+  logical_id: '171678'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -65,16 +75,6 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: "»KNIRTI« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '172133'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 addresses:
 - street: Zhukovsky District, 1 , Zhukov, Lenin Street, 2
   city: Zhukov City
@@ -90,6 +90,16 @@ addresses:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 identifications:
+- identification_type_code: regnumber
+  number: '1124011001058'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '171676'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: other
   number: '400701001'
   country_iso2_code: RU
@@ -105,16 +115,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172132'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- identification_type_code: regnumber
-  number: '1124011001058'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '171676'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

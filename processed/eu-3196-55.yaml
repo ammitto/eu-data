@@ -27,11 +27,11 @@ name_aliases:
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: Abu-Rayhanah al-'Ansari al-Jeddawi
+- whole_name: Abu-Rayhanah
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106682'
+  logical_id: '106684'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -47,11 +47,11 @@ name_aliases:
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: Abu-Rayhanah
+- whole_name: Abu-Rayhanah al-'Ansari al-Jeddawi
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106684'
+  logical_id: '106682'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -95,21 +95,21 @@ birthdates:
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 identifications:
-- identification_type_code: regnumber
-  number: '2054275397'
-  country_iso2_code: SA
-  regulation_language: en
-  logical_id: '106680'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - identification_type_code: passport
   number: '01055336'
   country_iso2_code: YE
   regulation_language: en
   logical_id: '106681'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- identification_type_code: regnumber
+  number: '2054275397'
+  country_iso2_code: SA
+  regulation_language: en
+  logical_id: '106680'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

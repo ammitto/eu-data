@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexander
-  middle_name: Sergejevič
-  last_name: Jermolenko
-  whole_name: Alexander Sergejevič Jermolenko
+- first_name: Aleksandr
+  middle_name: Sergejevitš
+  last_name: JERMOLENKO
+  whole_name: Aleksandr Sergejevitš JERMOLENKO
   gender: M
-  name_language: SK
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '165929'
+  logical_id: '165949'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -73,15 +73,15 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Aleksandr
-  middle_name: Sergejevitš
-  last_name: JERMOLENKO
-  whole_name: Aleksandr Sergejevitš JERMOLENKO
+- first_name: Alexander
+  middle_name: Sergejevič
+  last_name: Jermolenko
+  whole_name: Alexander Sergejevič Jermolenko
   gender: M
-  name_language: FI
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '165949'
+  logical_id: '165929'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

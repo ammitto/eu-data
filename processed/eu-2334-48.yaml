@@ -14,6 +14,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Mouvement de la guerre sainte islamique
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '8332'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-09-04'
+    number_title: 787/2010 (OJ L234)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:234:0011:0013:EN:PDF
+- whole_name: Movimento da Guerra Santa Islâmica
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '8333'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-09-04'
+    number_title: 787/2010 (OJ L234)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:234:0011:0013:EN:PDF
+- whole_name: Движение на ислямската свещена война
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '8334'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-09-04'
+    number_title: 787/2010 (OJ L234)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:234:0011:0013:EN:PDF
 - whole_name: Harakat-ul Jihad Islami
   strong: true
   regulation_language: en
@@ -32,10 +62,10 @@ name_aliases:
     publication_date: '2010-09-04'
     number_title: 787/2010 (OJ L234)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:234:0011:0013:EN:PDF
-- whole_name: Movement of Islamic Holy War
+- whole_name: Harkat-al-Jihad-ul Islami
   strong: true
   regulation_language: en
-  logical_id: '8309'
+  logical_id: '8331'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-09-04'
@@ -59,11 +89,10 @@ name_aliases:
     publication_date: '2010-09-04'
     number_title: 787/2010 (OJ L234)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:234:0011:0013:EN:PDF
-- whole_name: Движение на ислямската свещена война
-  name_language: BG
+- whole_name: Harakat ul Jihad-e-Islami
   strong: true
   regulation_language: en
-  logical_id: '8334'
+  logical_id: '8312'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-09-04'
@@ -87,39 +116,10 @@ name_aliases:
     publication_date: '2010-09-04'
     number_title: 787/2010 (OJ L234)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:234:0011:0013:EN:PDF
-- whole_name: Harkat-al-Jihad-ul Islami
+- whole_name: Movement of Islamic Holy War
   strong: true
   regulation_language: en
-  logical_id: '8331'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-09-04'
-    number_title: 787/2010 (OJ L234)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:234:0011:0013:EN:PDF
-- whole_name: Mouvement de la guerre sainte islamique
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '8332'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-09-04'
-    number_title: 787/2010 (OJ L234)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:234:0011:0013:EN:PDF
-- whole_name: Movimento da Guerra Santa Islâmica
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '8333'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-09-04'
-    number_title: 787/2010 (OJ L234)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:234:0011:0013:EN:PDF
-- whole_name: Harakat ul Jihad-e-Islami
-  strong: true
-  regulation_language: en
-  logical_id: '8312'
+  logical_id: '8309'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-09-04'

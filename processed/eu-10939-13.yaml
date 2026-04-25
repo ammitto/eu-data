@@ -14,14 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Galina
-  last_name: Kaťuščenko
-  whole_name: Galina Kaťuščenko
+- first_name: Галина
+  middle_name: Анатольевна
+  last_name: КАТЮЩЕНКО
+  whole_name: Галина Анатольевна КАТЮЩЕНКО
   gender: F
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160912'
+  logical_id: '159842'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -56,20 +57,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Галина
-  middle_name: Анатольевна
-  last_name: КАТЮЩЕНКО
-  whole_name: Галина Анатольевна КАТЮЩЕНКО
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159842'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Galina
   last_name: Kaťušenko
   whole_name: Galina Kaťušenko
@@ -78,6 +65,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160911'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Galina
+  last_name: Kaťuščenko
+  whole_name: Galina Kaťuščenko
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160912'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -15,85 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ministry of Defence [Syria]
-  strong: true
-  regulation_language: en
-  logical_id: '16231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Министерство на отбраната
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '16250'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Syrský národní bezpečnostní úřad
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '16259'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Forsvarsministeriet
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '16260'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Verteidigungs-ministerium
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '16265'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Kaitseministeerium
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '16266'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Υπουργείο Άμυνας
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '16277'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
-- whole_name: Ministrerio de Defensa
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '16278'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 544/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
 - whole_name: Ministère de la défense
   name_language: FR
   strong: true
@@ -194,6 +115,45 @@ name_aliases:
     publication_date: '2012-06-26'
     number_title: 544/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Ministry of Defence [Syria]
+  strong: true
+  regulation_language: en
+  logical_id: '16231'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Министерство на отбраната
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '16250'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Syrský národní bezpečnostní úřad
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '16259'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Forsvarsministeriet
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '16260'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
 - whole_name: Ministerstvo obrany
   name_language: SK
   strong: true
@@ -229,6 +189,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '16350'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Verteidigungs-ministerium
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '16265'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Kaitseministeerium
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '16266'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Υπουργείο Άμυνας
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '16277'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 544/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0020:0022:EN:PDF
+- whole_name: Ministrerio de Defensa
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '16278'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-06-26'

@@ -14,6 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Janina Ochotová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '163703'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Janina Kožemjaková
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '163702'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Janina Kožemjaková
   gender: F
   name_language: CS
@@ -36,80 +58,15 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Janina Kožemjaková
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '163702'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Janina Ochotová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '163703'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Яніна Валеріївна КОЖЕМЯКО
-  gender: F
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '163012'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Яніна Валеріївна ОХОТА
-  gender: F
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '163013'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Янина Валерьевна КОЖЕМЯКО
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163014'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Янина Валерьевна ОХОТА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163015'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Yanina
-  middle_name: Valeriivna Okhota
-  last_name: KOZHEMYAKO
-  whole_name: Yanina Valeriivna Okhota KOZHEMYAKO
+  middle_name: Valeryevna
+  last_name: OKHOTA
+  whole_name: Yanina Valeryevna OKHOTA
+  function: Judge of the Kyiv District Court of Simferopol
   gender: F
   strong: true
   regulation_language: en
-  logical_id: '163016'
+  logical_id: '163018'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -129,14 +86,57 @@ name_aliases:
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Yanina
-  middle_name: Valeryevna
-  last_name: OKHOTA
-  whole_name: Yanina Valeryevna OKHOTA
-  function: Judge of the Kyiv District Court of Simferopol
+  middle_name: Valeriivna Okhota
+  last_name: KOZHEMYAKO
+  whole_name: Yanina Valeriivna Okhota KOZHEMYAKO
   gender: F
   strong: true
   regulation_language: en
-  logical_id: '163018'
+  logical_id: '163016'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Янина Валерьевна ОХОТА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '163015'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Янина Валерьевна КОЖЕМЯКО
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '163014'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Яніна Валеріївна ОХОТА
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '163013'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Яніна Валеріївна КОЖЕМЯКО
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '163012'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

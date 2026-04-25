@@ -14,14 +14,29 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dmitrij
-  last_name: Šmelev
-  whole_name: Dmitrij Šmelev
+- first_name: Дмитрий
+  middle_name: Владимирович
+  last_name: ШМЕЛЕВ
+  whole_name: Дмитрий Владимирович ШМЕЛЕВ
   gender: M
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '158532'
+  logical_id: '146222'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Dmitrij
+  middle_name: Vladimirovitj
+  last_name: SJMELEV
+  whole_name: Dmitrij Vladimirovitj SJMELEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '158634'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -47,38 +62,23 @@ name_aliases:
   last_name: Šmelev
   whole_name: Dmitrij Šmelev
   gender: M
-  name_language: CS
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '158403'
+  logical_id: '158532'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Дмитрий
-  middle_name: Владимирович
-  last_name: ШМЕЛЕВ
-  whole_name: Дмитрий Владимирович ШМЕЛЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146222'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Dmitrij
-  middle_name: Vladimirovitj
-  last_name: SJMELEV
-  whole_name: Dmitrij Vladimirovitj SJMELEV
+  last_name: Šmelev
+  whole_name: Dmitrij Šmelev
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '158634'
+  logical_id: '158403'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

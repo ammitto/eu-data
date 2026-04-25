@@ -14,12 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: آباد شمس مهدی
+- first_name: Mahdi
+  last_name: SHAMSABAD
+  whole_name: Mahdi SHAMSABAD
   gender: M
-  name_language: FA
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '150368'
+  logical_id: '149406'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'
@@ -39,14 +41,12 @@ name_aliases:
     publication_date: '2023-02-20'
     number_title: 2023/379 (OJ L51 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
-- first_name: Mahdi
-  last_name: SHAMSABAD
-  whole_name: Mahdi SHAMSABAD
+- whole_name: آباد شمس مهدی
   gender: M
-  name_language: EN
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '149406'
+  logical_id: '150368'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

@@ -14,41 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC Invest Fleet
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172783'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Invest Fleet Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173396'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Invest Flot Kft.
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '173397'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Invest Flot« Korlátolt Felelősségű Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173398'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -74,6 +44,46 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ “ИНВЕСТ ФЛОТ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '172786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Invest Fleet Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173396'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»Invest Flot« Korlátolt Felelősségű Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173398'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: LLC Invest Fleet
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172783'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Limited Liability Company Invest Flot
   function: LLC Invest Flot (Invest Fleet) is a company managed by SKF Arktika, a
     company belonging to the Sovcomflot group. LLC Invest Flot carries out transportation
@@ -83,16 +93,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172787'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ “ИНВЕСТ ФЛОТ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '172786'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

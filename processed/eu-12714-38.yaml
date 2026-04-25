@@ -14,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»Voskresensk Állami Aggregátumüzem« Szövetségi Állami Vállalat"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173421'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Akcinė bendrovė „Voskresensky Aggregation Factory“,
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '173461'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Voskresensky  Aggregátumgyár« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173423'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Voskresensky Aggregátumgyár« Részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173424'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Uzina de agregare Voskresensky
   name_language: RO
   strong: true
@@ -64,11 +24,17 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Fabrica de agregare Voskresensky
-  name_language: RO
+- whole_name: Joint Stock Company “Voskresensky Aggregation Factory”
+  function: JSC Voskresensky Aggregation Factory assembles anti-aircraft guided missiles,
+    air-to-air and air-to-surface guided missiles, cruise missiles, high-explosive
+    aerial bombs (FABs) and improved FABs with unified gliding and correction modules
+    which transform free-falling Russian bombs into guided ones, to the benefit of
+    the Russian military, including for use in Ukraine.
+  title: 'Type of entity: Joint Stock Company'
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173337'
+  logical_id: '172681'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -125,31 +91,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: FKP VGKAZ
-  name_language: EN
+- whole_name: Fabrica de agregare Voskresensky
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '172677'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Federal State Enterprise “Voskresensk State Aggregate Plant”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172678'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Voskresenskiy Aggregate Plant
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172679'
+  logical_id: '173337'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -165,17 +111,51 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Joint Stock Company “Voskresensky Aggregation Factory”
-  function: JSC Voskresensky Aggregation Factory assembles anti-aircraft guided missiles,
-    air-to-air and air-to-surface guided missiles, cruise missiles, high-explosive
-    aerial bombs (FABs) and improved FABs with unified gliding and correction modules
-    which transform free-falling Russian bombs into guided ones, to the benefit of
-    the Russian military, including for use in Ukraine.
-  title: 'Type of entity: Joint Stock Company'
+- whole_name: Voskresenskiy Aggregate Plant
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172681'
+  logical_id: '172679'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Federal State Enterprise “Voskresensk State Aggregate Plant”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172678'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Dioničko društvo ‚Voskresensky Aggregation Factory’
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '173460'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Akcinė bendrovė „Voskresensky Aggregation Factory“,
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '173461'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»Voskresensk Állami Aggregátumüzem« Szövetségi Állami Vállalat"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173421'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -191,11 +171,31 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Dioničko društvo ‚Voskresensky Aggregation Factory’
-  name_language: HR
+- whole_name: "»Voskresensky  Aggregátumgyár« Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173460'
+  logical_id: '173423'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Voskresensky Aggregátumgyár« Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173424'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: FKP VGKAZ
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172677'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -216,16 +216,6 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: regnumber
-  number: '1235000011058'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '172671'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: other
   number: '5005073080'
   country_iso2_code: RU
@@ -241,6 +231,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172669'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: regnumber
+  number: '1235000011058'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '172671'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

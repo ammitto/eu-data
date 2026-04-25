@@ -72,19 +72,6 @@ citizenships:
     number_title: 678/2008 (OJ L189)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:189:0023:0024:EN:PDF
 birthdates:
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1958
-  city: Deb-Deb, Amenas, Wilaya (province) of Illizi
-  country_iso2_code: DZ
-  country_description: ALGERIA
-  regulation_language: en
-  logical_id: '1074'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-04'
-    number_title: 1142/2012 (OJ L332)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0012:0015:EN:PDF
 - birthdate: '1965-12-12'
   circa: false
   calendar_type: GREGORIAN
@@ -101,3 +88,16 @@ birthdates:
     publication_date: '2019-04-08'
     number_title: 2019/555 (OJ L97)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:097:FULL&from=EN
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1958
+  city: Deb-Deb, Amenas, Wilaya (province) of Illizi
+  country_iso2_code: DZ
+  country_description: ALGERIA
+  regulation_language: en
+  logical_id: '1074'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-04'
+    number_title: 1142/2012 (OJ L332)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0012:0015:EN:PDF

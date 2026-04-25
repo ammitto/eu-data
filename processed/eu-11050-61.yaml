@@ -14,41 +14,43 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: télévision Tsargrad
-  name_language: FR
+- whole_name: Tsargrad televíziós csatorna
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '160620'
+  logical_id: '161185'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: chaîne de télévision Tsargrad
-  name_language: FR
+- whole_name: Tsargrad TV Channel
+  function: a Russian media outlet
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160621'
+  logical_id: '160510'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Τηλεοπτικό κανάλι Tsargrad
-  name_language: EL
+- whole_name: Tsargrad TV
+  function: a Russian media outlet
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161201'
+  logical_id: '160509'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: телевизия „Царград“
-  name_language: BG
+- whole_name: Телеканал Царьград
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '161200'
+  logical_id: '160508'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -74,27 +76,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Tsargrad TV Channel
-  function: a Russian media outlet
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160510'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Tsargrad televíziós csatorna
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161185'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Televizijski kanal Tsargrad
   name_language: HR
   strong: true
@@ -105,22 +86,41 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Tsargrad TV
-  function: a Russian media outlet
-  name_language: EN
+- whole_name: Τηλεοπτικό κανάλι Tsargrad
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '160509'
+  logical_id: '161201'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Телеканал Царьград
-  name_language: RU
+- whole_name: телевизия „Царград“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '160508'
+  logical_id: '161200'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: chaîne de télévision Tsargrad
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160621'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: télévision Tsargrad
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160620'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

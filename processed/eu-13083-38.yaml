@@ -60,13 +60,10 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Neovisna neprofitna organizacija ‚Scientific and Production Center for  Testing
-    and Competence in the Field of  Development of Unmanned Aircraft Systems and Means
-    of Protection Against their Illegal Use ‚Ushkuynik’’
-  name_language: HR
+- whole_name: АНО “НПЦ ‘Ушкуйник’”
   strong: true
   regulation_language: en
-  logical_id: '175302'
+  logical_id: '175178'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -79,15 +76,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175303'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АНО “НПЦ ‘Ушкуйник’”
-  strong: true
-  regulation_language: en
-  logical_id: '175178'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -128,6 +116,18 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Neovisna neprofitna organizacija ‚Scientific and Production Center for  Testing
+    and Competence in the Field of  Development of Unmanned Aircraft Systems and Means
+    of Protection Against their Illegal Use ‚Ushkuynik’’
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '175302'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: Lazarevskaya 11
   city: Veliky Novgorod
@@ -142,21 +142,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: fiscalcode
-  number: '5300010714'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '175176'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1235300003685'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '175177'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
+  number: '5300010714'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '175176'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

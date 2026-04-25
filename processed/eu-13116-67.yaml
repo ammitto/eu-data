@@ -15,20 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Skywalker Technology Co., Ltd
-  function: Skywalker Technology Co., Ltd is a Chinese entity producing model aircrafts.
-    It has notably been one of the producer and developer of the “Gerbera” drone,
-    a mimic of the Shahed-36 drone and ultimately produced in the Alabuga Special
-    Economic Zone.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175562'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: 武汉思凯沃克科技有限公司
   name_language: ZH
   strong: true
@@ -44,6 +30,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175561'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Skywalker Technology Co., Ltd
+  function: Skywalker Technology Co., Ltd is a Chinese entity producing model aircrafts.
+    It has notably been one of the producer and developer of the “Gerbera” drone,
+    a mimic of the Shahed-36 drone and ultimately produced in the Alabuga Special
+    Economic Zone.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175562'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

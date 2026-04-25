@@ -18,12 +18,58 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Dhual
+- whole_name: Simon Gatweach
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105801'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-07-10'
+    number_title: 2015/1112 (OJ L 182)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
+- whole_name: Simon Gatwech
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105796'
+  logical_id: '105799'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-07-10'
+    number_title: 2015/1112 (OJ L 182)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
+- whole_name: Simon Garwich
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-07-10'
+    number_title: 2015/1112 (OJ L 182)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
+- whole_name: Simon Gatwec Duel
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-07-10'
+    number_title: 2015/1112 (OJ L 182)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
+- first_name: Simon
+  middle_name: Gatwich
+  last_name: Dual
+  whole_name: Simon Gatwich Dual
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105804'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
@@ -46,47 +92,14 @@ name_aliases:
     number_title: 2017/402 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0402&from=EN
 - first_name: Simon
-  middle_name: Gatwich
+  middle_name: Getwech
   last_name: Dual
-  whole_name: Simon Gatwich Dual
+  whole_name: Simon Getwech Dual
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105804'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-07-10'
-    number_title: 2015/1112 (OJ L 182)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: General Gaduel
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105797'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-07-10'
-    number_title: 2015/1112 (OJ L 182)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: Simon Garwich
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105798'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-07-10'
-    number_title: 2015/1112 (OJ L 182)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: Simon Gatwech
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105799'
+  logical_id: '105803'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
@@ -103,36 +116,23 @@ name_aliases:
     publication_date: '2015-07-10'
     number_title: 2015/1112 (OJ L 182)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: Simon Gatweach
+- whole_name: Dhual
+  gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105801'
+  logical_id: '105796'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
     number_title: 2015/1112 (OJ L 182)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: Simon Gatwec Duel
+- whole_name: General Gaduel
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-07-10'
-    number_title: 2015/1112 (OJ L 182)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- first_name: Simon
-  middle_name: Getwech
-  last_name: Dual
-  whole_name: Simon Getwech Dual
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105803'
+  logical_id: '105797'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'

@@ -14,21 +14,34 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»Electrotyaga« Rt."
-  name_language: HU
+- whole_name: AO “Electrotyaga”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175241'
+  logical_id: '174991'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Elektrotyaga« Részvénytársaság"
+- whole_name: Joint Stock Company “Elektrotyaga”
+  function: JSC Elektrotyaga is a manufacturer of batteries, including emergency standby
+    and rechargeable lead-acid batteries for submarines of the Russian Navy.
+  title: Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174994'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Electrotyaga« Rt."
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175242'
+  logical_id: '175241'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -44,11 +57,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: AO “Electrotyaga”
+- whole_name: Aкционерное общество “Электротяга”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '174991'
+  logical_id: '174993'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -64,24 +77,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Aкционерное общество “Электротяга”
-  name_language: RU
+- whole_name: "»Elektrotyaga« Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '174993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Joint Stock Company “Elektrotyaga”
-  function: JSC Elektrotyaga is a manufacturer of batteries, including emergency standby
-    and rechargeable lead-acid batteries for submarines of the Russian Navy.
-  title: Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174994'
+  logical_id: '175242'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -101,16 +101,6 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: other
-  number: '780501001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174986'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '7805230257'
   country_iso2_code: RU
@@ -121,11 +111,11 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: regnumber
-  number: '1027802718437'
+- identification_type_code: other
+  number: '780501001'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '174988'
+  logical_id: '174986'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -136,6 +126,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174989'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: regnumber
+  number: '1027802718437'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174988'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

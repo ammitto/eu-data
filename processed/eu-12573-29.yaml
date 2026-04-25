@@ -16,31 +16,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Juhang Aviation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171456'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: 巨航航空科技（深圳）有限公司
-  name_language: ZH
-  strong: true
-  regulation_language: en
-  logical_id: '171458'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: Shenzhen Juhang International Wuliu Co. Ltd.
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '171457'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Juhang Aviation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171456'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -59,7 +49,29 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: 巨航航空科技（深圳）有限公司
+  name_language: ZH
+  strong: true
+  regulation_language: en
+  logical_id: '171458'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 addresses:
+- street: 2205, Logistics Center, No. 2, Bonded Logistics Center, Terminal 4th Road,
+    Baoan International Airport, Hongrui Community, Hangcheng Street, Baoan District,
+  city: Shenzhen
+  country_iso2_code: CN
+  country_description: CHINA
+  regulation_language: en
+  logical_id: '171454'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - street: 'Address: 1601-2, Rujun Building, No. 105, Zhongxing Road, Putian Street,
     Longgang District,'
   city: Shenzhen
@@ -79,18 +91,6 @@ addresses:
   country_description: CHINA
   regulation_language: en
   logical_id: '171455'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- street: 2205, Logistics Center, No. 2, Bonded Logistics Center, Terminal 4th Road,
-    Baoan International Airport, Hongrui Community, Hangcheng Street, Baoan District,
-  city: Shenzhen
-  country_iso2_code: CN
-  country_description: CHINA
-  regulation_language: en
-  logical_id: '171454'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Muhammad
-  last_name: Al-Hamati
-  whole_name: Muhammad Al-Hamati
-  strong: true
-  regulation_language: en
-  logical_id: '1266'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - whole_name: Abu Asim Al-Makki
   strong: true
   regulation_language: en
@@ -46,18 +35,6 @@ name_aliases:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- first_name: Mohammad
-  middle_name: Hamdi Mohammad
-  last_name: Sadiq Al-Ahdal
-  whole_name: Mohammad Hamdi Mohammad Sadiq Al-Ahdal
-  strong: true
-  regulation_language: en
-  logical_id: '7737'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-02-09'
-    number_title: 110/2010 (OJ L36)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
 - first_name: Mohamed
   middle_name: Mohamed Abdullah
   last_name: Al-Ahdal
@@ -65,6 +42,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7735'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-02-09'
+    number_title: 110/2010 (OJ L36)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
+- first_name: Mohammad
+  middle_name: Hamdi Mohammad
+  last_name: Sadiq Al-Ahdal
+  whole_name: Mohammad Hamdi Mohammad Sadiq Al-Ahdal
+  strong: true
+  regulation_language: en
+  logical_id: '7737'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-02-09'
@@ -79,6 +68,17 @@ name_aliases:
     publication_date: '2010-02-09'
     number_title: 110/2010 (OJ L36)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
+- first_name: Muhammad
+  last_name: Al-Hamati
+  whole_name: Muhammad Al-Hamati
+  strong: true
+  regulation_language: en
+  logical_id: '1266'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 citizenships:
 - country_iso2_code: YE
   country_description: YEMEN

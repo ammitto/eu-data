@@ -14,41 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Fondation Lobaev
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '173451'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Fond za razvoj oružanih tehnologija i proizvodnju Zaklada Lobaev
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '173452'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Lobaev Alapítvány
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '173403'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Fegyvertechnológiai Fejlesztési és Gyártási Alap »Lobaev Alapítvány«
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173404'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -60,16 +30,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173326'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Lobaev Foundation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172757'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -89,12 +49,52 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Lobaev Foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172757'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Fond za razvoj oružanih tehnologija i proizvodnju Zaklada Lobaev
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '173452'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Fegyvertechnológiai Fejlesztési és Gyártási Alap »Lobaev Alapítvány«
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173404'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Фонд Развития Оружейных Технологий и Производств Фонд Лобаева (Фонд
     Лобаева)
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '172758'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Fondation Lobaev
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '173451'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -125,21 +125,21 @@ identifications:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- identification_type_code: regnumber
-  number: '1234000002521'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '172756'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: other
   number: '400001001'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '172755'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: regnumber
+  number: '1234000002521'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '172756'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

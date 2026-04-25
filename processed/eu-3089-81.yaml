@@ -17,19 +17,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Pakistani Taliban
+- whole_name: Tehrik-I-Taliban Pakistan
   strong: true
   regulation_language: en
-  logical_id: '14195'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-10'
-    number_title: 796/2011 (OJ L205)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:205:0001:0002:EN:PDF
-- whole_name: Tehrik-e Taliban Pakistan
-  strong: true
-  regulation_language: en
-  logical_id: '14191'
+  logical_id: '14193'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-10'
@@ -44,15 +35,6 @@ name_aliases:
     publication_date: '2011-08-10'
     number_title: 796/2011 (OJ L205)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:205:0001:0002:EN:PDF
-- whole_name: Tehreek-e-Taliban
-  strong: true
-  regulation_language: en
-  logical_id: '14196'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-10'
-    number_title: 796/2011 (OJ L205)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:205:0001:0002:EN:PDF
 - whole_name: TTP
   strong: true
   regulation_language: en
@@ -62,10 +44,28 @@ name_aliases:
     publication_date: '2011-08-10'
     number_title: 796/2011 (OJ L205)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:205:0001:0002:EN:PDF
-- whole_name: Tehrik-I-Taliban Pakistan
+- whole_name: Tehreek-e-Taliban
   strong: true
   regulation_language: en
-  logical_id: '14193'
+  logical_id: '14196'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-10'
+    number_title: 796/2011 (OJ L205)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:205:0001:0002:EN:PDF
+- whole_name: Tehrik-e Taliban Pakistan
+  strong: true
+  regulation_language: en
+  logical_id: '14191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-10'
+    number_title: 796/2011 (OJ L205)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:205:0001:0002:EN:PDF
+- whole_name: Pakistani Taliban
+  strong: true
+  regulation_language: en
+  logical_id: '14195'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-10'

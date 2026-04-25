@@ -14,20 +14,30 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: RIM
+- whole_name: Rosyjski Ruch Imperialny
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '147370'
+  logical_id: '147746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Mouvement impérial russe
-  name_language: FR
+- whole_name: Venemaa imperialistlik liikumine
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '147726'
+  logical_id: '148107'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Russkoye Imperskoye Dvizheniye
+  strong: true
+  regulation_language: en
+  logical_id: '147371'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -48,16 +58,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147373'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Rosyjski Ruch Imperialny
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '147746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -113,11 +113,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Russische Reichsbewegung
-  name_language: DE
+- whole_name: Mouvement impérial russe
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '147672'
+  logical_id: '147726'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -128,6 +128,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147788'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Russische Reichsbewegung
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '147672'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -183,20 +193,10 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Venemaa imperialistlik liikumine
-  name_language: ET
+- whole_name: RIM
   strong: true
   regulation_language: en
-  logical_id: '148107'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Russkoye Imperskoye Dvizheniye
-  strong: true
-  regulation_language: en
-  logical_id: '147371'
+  logical_id: '147370'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

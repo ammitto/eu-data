@@ -16,34 +16,6 @@ subject_type:
 name_aliases:
 - first_name: Владимир
   middle_name: Петрович
-  last_name: ЕВТУШЕНКО
-  whole_name: Владимир Петрович ЕВТУШЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '173167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- first_name: Vladimir
-  middle_name: Petrovich
-  last_name: EVTUSHENKOV
-  whole_name: Vladimir Petrovich EVTUSHENKOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173168'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- first_name: Владимир
-  middle_name: Петрович
   last_name: ЕВТУШЕНКОВ
   whole_name: Владимир Петрович ЕВТУШЕНКОВ
   gender: M
@@ -66,6 +38,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173170'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- first_name: Vladimir
+  middle_name: Petrovich
+  last_name: EVTUSHENKOV
+  whole_name: Vladimir Petrovich EVTUSHENKOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173168'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- first_name: Владимир
+  middle_name: Петрович
+  last_name: ЕВТУШЕНКО
+  whole_name: Владимир Петрович ЕВТУШЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

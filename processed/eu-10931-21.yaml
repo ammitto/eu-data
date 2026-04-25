@@ -29,21 +29,6 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Elmira
-  middle_name: Abdulbarievna
-  last_name: HAIMURZYNA
-  whole_name: Elmira Abdulbarievna HAIMURZYNA
-  function: Member of the Central Election Commission of the Russian Federation
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Elmira
   middle_name: Abdulbarijevna
   last_name: CHAJMURZINA
   whole_name: Elmira Abdulbarijevna CHAJMURZINA
@@ -91,6 +76,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160899'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Elmira
+  middle_name: Abdulbarievna
+  last_name: HAIMURZYNA
+  whole_name: Elmira Abdulbarievna HAIMURZYNA
+  function: Member of the Central Election Commission of the Russian Federation
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159802'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

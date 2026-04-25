@@ -28,20 +28,6 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Сергей
-  middle_name: Александрович
-  last_name: КАРАГАНОВ
-  whole_name: Сергей Александрович КАРАГАНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '154292'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - first_name: Sergey
   middle_name: Alexandrovich
   last_name: KARAGANOV
@@ -69,6 +55,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155212'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- first_name: Сергей
+  middle_name: Александрович
+  last_name: КАРАГАНОВ
+  whole_name: Сергей Александрович КАРАГАНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '154292'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

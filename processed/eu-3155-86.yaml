@@ -99,20 +99,20 @@ addresses:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 identifications:
 - identification_type_code: passport
-  number: '8200203535'
+  number: '515458008'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '106737'
+  logical_id: '106738'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - identification_type_code: passport
-  number: '515458008'
+  number: '8200203535'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '106738'
+  logical_id: '106737'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

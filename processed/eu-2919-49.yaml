@@ -16,28 +16,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: AAB
-  strong: true
-  regulation_language: en
-  logical_id: '18274'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-08'
-    number_title: 1058/2014 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN
-- whole_name: Abdullah Azzam Brigades
-  strong: true
-  regulation_language: en
-  logical_id: '18275'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-08'
-    number_title: 1058/2014 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN
 - whole_name: Abdallah Azzam Brigades (AAB)
   strong: true
   regulation_language: en
   logical_id: '18273'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-08'
+    number_title: 1058/2014 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN
+- whole_name: AAB
+  strong: true
+  regulation_language: en
+  logical_id: '18274'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-08'
@@ -56,6 +47,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18276'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-08'
+    number_title: 1058/2014 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0002&from=EN
+- whole_name: Abdullah Azzam Brigades
+  strong: true
+  regulation_language: en
+  logical_id: '18275'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-08'

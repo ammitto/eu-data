@@ -25,11 +25,16 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Abu Rayan
+- first_name: Muhammad
+  middle_name: Bahrum Naim
+  last_name: Anggih Tamtomo
+  whole_name: Muhammad Bahrum Naim Anggih Tamtomo
+  function: Syrian-based Indonesian national who has served in a variety of roles
+    supporting the Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '113484'
+  logical_id: '113482'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -45,16 +50,6 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Bahrun Naim
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '113487'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - whole_name: Anggih Tamtomo
   name_language: EN
   strong: true
@@ -65,16 +60,21 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Muhammad
-  middle_name: Bahrum Naim
-  last_name: Anggih Tamtomo
-  whole_name: Muhammad Bahrum Naim Anggih Tamtomo
-  function: Syrian-based Indonesian national who has served in a variety of roles
-    supporting the Islamic State in Iraq and the Levant, listed as Al-Qaida in Iraq
+- whole_name: Bahrun Naim
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '113482'
+  logical_id: '113487'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Abu Rayan
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '113484'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -108,21 +108,21 @@ birthdates:
     number_title: 2017/1390 (OJ L195)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
 addresses:
-- city: Aleppo
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
-  regulation_language: en
-  logical_id: '113478'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-27'
-    number_title: 2017/1390 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
 - city: Raqqa
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '113477'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-27'
+    number_title: 2017/1390 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
+- city: Aleppo
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '113478'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'

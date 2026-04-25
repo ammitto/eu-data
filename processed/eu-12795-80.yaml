@@ -14,64 +14,32 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»HARCOS« Ifjúsági Katonai Sportedző és Hazafias Oktatási Központ"
-  name_language: HU
+- whole_name: Centrul WARRIOR
   strong: true
   regulation_language: en
-  logical_id: '173436'
+  logical_id: '173346'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: HARCOS Központ
-  name_language: HU
+- whole_name: Centrul pentru instruire sportivă militară și educație patriotică a
+    tineretului «WARRIOR»
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '173435'
+  logical_id: '173347'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Centar za vojno sportsko osposobljavanje i domoljubno obrazovanje mladih
-    ‚WARRIOR’ (‚RATNIK’)
-  name_language: HR
+- whole_name: Centro de Formação Desportiva Militar e Educação Patriótica da Juventude
+    “WARRIOR"
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '173476'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: An tIonad um Oiliúint Spóirt Mhíleata agus um Oideachas tírghrách d’aos
-    óg “WARRIOR”
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '173475'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: an t-ionad ‘WARRIOR’
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '173474'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Κέντρο για την εκπαίδευση σε στρατιωτικά αθλήματα και την πατριωτική
-    εκπαίδευση της νεολαίας “WARRIOR”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '173473'
+  logical_id: '173351'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -87,12 +55,42 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Zentrum für Militärsporttraining und patriotische Erziehung der Jugend
-    (‚KRIEGER‘)
-  name_language: DE
+- whole_name: Centrum „WARRIOR”
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '173327'
+  logical_id: '173358'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Centrum Sportowego Szkolenia Wojskowego i Edukacji Patriotycznej Młodzieży
+    „WARRIOR”
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '173359'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: WARRIOR Center
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173257'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Центр военно-спортивной подготовки и патриотического воспитания молодежи
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173258'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -112,53 +110,75 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Центр военно-спортивной подготовки и патриотического воспитания молодежи
-  name_language: RU
+- whole_name: HARCOS Központ
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173258'
+  logical_id: '173435'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: WARRIOR Center
-  name_language: EN
+- whole_name: "»HARCOS« Ifjúsági Katonai Sportedző és Hazafias Oktatási Központ"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173257'
+  logical_id: '173436'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Centrum Sportowego Szkolenia Wojskowego i Edukacji Patriotycznej Młodzieży
-    „WARRIOR”
-  name_language: PL
+- whole_name: Zentrum für Militärsporttraining und patriotische Erziehung der Jugend
+    (‚KRIEGER‘)
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '173359'
+  logical_id: '173327'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Centrum „WARRIOR”
-  name_language: PL
+- whole_name: Κέντρο για την εκπαίδευση σε στρατιωτικά αθλήματα και την πατριωτική
+    εκπαίδευση της νεολαίας “WARRIOR”
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '173358'
+  logical_id: '173473'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Centro de Formação Desportiva Militar e Educação Patriótica da Juventude
-    “WARRIOR"
-  name_language: PT
+- whole_name: an t-ionad ‘WARRIOR’
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '173351'
+  logical_id: '173474'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: An tIonad um Oiliúint Spóirt Mhíleata agus um Oideachas tírghrách d’aos
+    óg “WARRIOR”
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '173475'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Centar za vojno sportsko osposobljavanje i domoljubno obrazovanje mladih
+    ‚WARRIOR’ (‚RATNIK’)
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '173476'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -170,26 +190,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173332'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Centrul pentru instruire sportivă militară și educație patriotică a
-    tineretului «WARRIOR»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '173347'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Centrul WARRIOR
-  strong: true
-  regulation_language: en
-  logical_id: '173346'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

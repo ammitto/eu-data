@@ -14,23 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Васіль Уладзіміравіч СКОК
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '169288'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Василий Владимирович СКОК
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '169287'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Васіль Уладзіміравіч СКОК
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '169288'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -47,6 +47,18 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Vasil Uladzimiravich SKOK
+  function: Judge of the Grodno Regional Court.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169290'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - first_name: Vasilij
   last_name: Skok
   whole_name: Vasilij Skok
@@ -55,18 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169544'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Vasil Uladzimiravich SKOK
-  function: Judge of the Grodno Regional Court.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169290'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

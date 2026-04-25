@@ -15,28 +15,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Sajjad
+- whole_name: منصور السعادي
   strong: true
   regulation_language: en
-  logical_id: '144755'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1901 (OJ L260)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.260.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A260%3ATOC
-- whole_name: Mansur Ahmad al-Sa’adi
-  strong: true
-  regulation_language: en
-  logical_id: '144756'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1901 (OJ L260)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.260.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A260%3ATOC
-- whole_name: Mansoor Ahmed Al Saadi
-  strong: true
-  regulation_language: en
-  logical_id: '144757'
+  logical_id: '144759'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -52,10 +34,28 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1901 (OJ L260)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.260.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A260%3ATOC
-- whole_name: منصور السعادي
+- whole_name: Mansoor Ahmed Al Saadi
   strong: true
   regulation_language: en
-  logical_id: '144759'
+  logical_id: '144757'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1901 (OJ L260)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.260.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A260%3ATOC
+- whole_name: Abu Sajjad
+  strong: true
+  regulation_language: en
+  logical_id: '144755'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1901 (OJ L260)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.260.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A260%3ATOC
+- whole_name: Mansur Ahmad al-Sa’adi
+  strong: true
+  regulation_language: en
+  logical_id: '144756'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

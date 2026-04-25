@@ -14,22 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Valtionturvallisuus-ministeriön Onseongin piirikunnan pidätyskeskus
-  name_language: FI
+- whole_name: Detentiecentrum van het Ministerie van Staatsveiligheid in Onsong
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '168423'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-22'
-    number_title: 2024/2008 (OJ L22072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402008
-- whole_name: Centrul de detenție al Ministerului Securității  Statului (MSS) din
-    districtul Onsong
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '168422'
+  logical_id: '168420'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-22'
@@ -40,16 +29,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '168421'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-22'
-    number_title: 2024/2008 (OJ L22072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402008
-- whole_name: Detentiecentrum van het Ministerie van Staatsveiligheid in Onsong
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '168420'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-22'
@@ -84,6 +63,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '168408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-22'
+    number_title: 2024/2008 (OJ L22072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402008
+- whole_name: Valtionturvallisuus-ministeriön Onseongin piirikunnan pidätyskeskus
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '168423'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-22'
+    number_title: 2024/2008 (OJ L22072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402008
+- whole_name: Centrul de detenție al Ministerului Securității  Statului (MSS) din
+    districtul Onsong
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '168422'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-22'

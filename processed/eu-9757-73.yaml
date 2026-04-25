@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Rusko nacionalno društvo za reosiguranje d.d.
-  name_language: HR
+- whole_name: Societatea  națională de reasigurări a  Rusiei SA
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '151301'
+  logical_id: '151251'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -34,49 +34,31 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Russian National Reinsurance Company JSC
-  name_language: EN
+- whole_name: Rusko nacionalno društvo za reosiguranje d.d.
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '150140'
+  logical_id: '151301'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: RNRC
-  name_language: EN
+- whole_name: Russische nationale Rückversicherungsgesellschaft JSC
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '150139'
+  logical_id: '151098'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Rossiyskaya Natsional'naya Perestrakhovochnaya Kompaniya
+- whole_name: Société par actions Compagnie nationale russe de réassurance
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '150138'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: RNPK
-  strong: true
-  regulation_language: en
-  logical_id: '150137'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Societatea  națională de reasigurări a  Rusiei SA
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151251'
+  logical_id: '151118'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -102,21 +84,39 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Russische nationale Rückversicherungsgesellschaft JSC
-  name_language: DE
+- whole_name: RNPK
   strong: true
   regulation_language: en
-  logical_id: '151098'
+  logical_id: '150137'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société par actions Compagnie nationale russe de réassurance
-  name_language: FR
+- whole_name: Rossiyskaya Natsional'naya Perestrakhovochnaya Kompaniya
   strong: true
   regulation_language: en
-  logical_id: '151118'
+  logical_id: '150138'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: RNRC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150139'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Russian National Reinsurance Company JSC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150140'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

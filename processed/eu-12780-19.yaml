@@ -14,6 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Denis
+  middle_name: Sergeyevich
+  last_name: CHERNOBAY
+  whole_name: Denis Sergeyevich CHERNOBAY
+  function: Chairman of the so-called “Donetsk People Republic” branch of the All-Russian
+    public-state movement of children and youth “Movement of the First”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173156'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - first_name: Денис
   middle_name: Сергійович
   last_name: ЧЕРНОБАЙ
@@ -37,22 +53,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173155'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- first_name: Denis
-  middle_name: Sergeyevich
-  last_name: CHERNOBAY
-  whole_name: Denis Sergeyevich CHERNOBAY
-  function: Chairman of the so-called “Donetsk People Republic” branch of the All-Russian
-    public-state movement of children and youth “Movement of the First”
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173156'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

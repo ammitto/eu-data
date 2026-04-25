@@ -16,6 +16,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Umar
+  last_name: al-Kubaysi
+  whole_name: Umar al-Kubaysi
+  strong: true
+  regulation_language: en
+  logical_id: '115796'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-03-09'
+    number_title: 2018/349 (OJ L67)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
+- whole_name: Omar Mahmood Irhayyim Al-Fayyadh Al-Kobaisi
+  strong: true
+  regulation_language: en
+  logical_id: '115797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-03-09'
+    number_title: 2018/349 (OJ L67)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
 - first_name: UMAR
   middle_name: MAHMUD IRHAYYIM
   last_name: AL-KUBAYSI
@@ -64,44 +84,12 @@ name_aliases:
     number_title: 2018/349 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
 - first_name: Umar
-  middle_name: Mahmud
-  last_name: Arhaym
-  whole_name: Umar Mahmud Arhaym
+  middle_name: Mahmud Rahim
+  last_name: Al-Qubaysi
+  whole_name: Umar Mahmud Rahim Al-Qubaysi
   strong: true
   regulation_language: en
-  logical_id: '115799'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-03-09'
-    number_title: 2018/349 (OJ L67)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
-- first_name: Umar
-  middle_name: Mahmud Al-Kubaysi
-  last_name: Arhaym
-  whole_name: Umar Mahmud Al-Kubaysi Arhaym
-  strong: true
-  regulation_language: en
-  logical_id: '115800'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-03-09'
-    number_title: 2018/349 (OJ L67)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
-- first_name: Umar
-  last_name: al-Kubaysi
-  whole_name: Umar al-Kubaysi
-  strong: true
-  regulation_language: en
-  logical_id: '115796'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-03-09'
-    number_title: 2018/349 (OJ L67)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
-- whole_name: Omar Mahmood Irhayyim Al-Fayyadh Al-Kobaisi
-  strong: true
-  regulation_language: en
-  logical_id: '115797'
+  logical_id: '115801'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'
@@ -120,12 +108,24 @@ name_aliases:
     number_title: 2018/349 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
 - first_name: Umar
-  middle_name: Mahmud Rahim
-  last_name: Al-Qubaysi
-  whole_name: Umar Mahmud Rahim Al-Qubaysi
+  middle_name: Mahmud
+  last_name: Arhaym
+  whole_name: Umar Mahmud Arhaym
   strong: true
   regulation_language: en
-  logical_id: '115801'
+  logical_id: '115799'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-03-09'
+    number_title: 2018/349 (OJ L67)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
+- first_name: Umar
+  middle_name: Mahmud Al-Kubaysi
+  last_name: Arhaym
+  whole_name: Umar Mahmud Al-Kubaysi Arhaym
+  strong: true
+  regulation_language: en
+  logical_id: '115800'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'

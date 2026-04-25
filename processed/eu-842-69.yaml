@@ -15,18 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Bambang
-  last_name: Sukirno
-  whole_name: Bambang Sukirno
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18722'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-03-21'
-    number_title: 2015/480 (OJ L 77)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015R0480&from=EN
 - whole_name: Abu Zahra
   name_language: EN
   strong: true
@@ -42,6 +30,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18724'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-03-21'
+    number_title: 2015/480 (OJ L 77)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015R0480&from=EN
+- first_name: Bambang
+  last_name: Sukirno
+  whole_name: Bambang Sukirno
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18722'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-03-21'

@@ -17,6 +17,27 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Nashir
+  last_name: Haqqani
+  whole_name: Nashir Haqqani
+  strong: true
+  regulation_language: en
+  logical_id: '103948'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-10-01'
+    number_title: 968/2011 (OJ L257)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:257:0001:0023:EN:PDF
+- whole_name: Dr. Alim Ghair
+  title: Dr.
+  strong: true
+  regulation_language: en
+  logical_id: '103950'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - first_name: Nasiruddin
   last_name: Haqqani
   whole_name: Nasiruddin Haqqani
@@ -62,27 +83,6 @@ name_aliases:
     publication_date: '2011-10-01'
     number_title: 968/2011 (OJ L257)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:257:0001:0023:EN:PDF
-- first_name: Nashir
-  last_name: Haqqani
-  whole_name: Nashir Haqqani
-  strong: true
-  regulation_language: en
-  logical_id: '103948'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-10-01'
-    number_title: 968/2011 (OJ L257)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:257:0001:0023:EN:PDF
-- whole_name: Dr. Alim Ghair
-  title: Dr.
-  strong: true
-  regulation_language: en
-  logical_id: '103950'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN

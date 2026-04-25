@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mohammad Réza Movasaghnía
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '169620'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2074 (OJ L29072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
 - whole_name: Mohammad Reza MOVASAGHNIA
   function: Former head of Samen Al A'Emmeh Industries Group (SAIG), also known as
     the Cruise Missile Industry Group.
@@ -31,6 +21,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '8081'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2074 (OJ L29072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402074
+- whole_name: Mohammad Réza Movasaghnía
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '169620'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

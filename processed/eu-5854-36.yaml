@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexandr
-  middle_name: Valerjevitj
+- first_name: Alexander
+  middle_name: Valerievich
   last_name: BYKOV
-  whole_name: Alexandr Valerjevitj BYKOV
+  whole_name: Alexander Valerievich BYKOV
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '127844'
+  logical_id: '125817'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -45,15 +45,29 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Alexander
+- first_name: Alexandr
   middle_name: Valerievich
   last_name: BYKOV
-  whole_name: Alexander Valerievich BYKOV
+  whole_name: Alexandr Valerievich BYKOV
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '125817'
+  logical_id: '127906'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Alexandr
+  middle_name: Valerjevitj
+  last_name: BYKOV
+  whole_name: Alexandr Valerjevitj BYKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '127844'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -96,20 +110,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127845'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Alexandr
-  middle_name: Valerievich
-  last_name: BYKOV
-  whole_name: Alexandr Valerievich BYKOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '127906'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

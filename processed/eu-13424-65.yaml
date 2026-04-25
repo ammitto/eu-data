@@ -14,6 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Gwo Lwa
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177552'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1433 (OJ L202501433)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
+- whole_name: Taliban
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177551'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1433 (OJ L202501433)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
 - whole_name: Jeff LAROSE
   gender: M
   title: Canaan gang leader (affiliated with G-Pép and Viv Ansanm coalitions of gangs)
@@ -32,28 +54,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177553'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1433 (OJ L202501433)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
-- whole_name: Gwo Lwa
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177552'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1433 (OJ L202501433)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
-- whole_name: Taliban
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177551'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

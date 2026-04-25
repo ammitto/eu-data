@@ -15,12 +15,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Ahmad
+- whole_name: Izzat Ibrahim al-Duri
   function: Deputy Secretary, Ba'th Party Regional Command
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '56'
+  logical_id: '49'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -36,11 +36,12 @@ name_aliases:
     publication_date: '2003-07-08'
     number_title: 1210/2003 (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- whole_name: Izzat Ibrahim al-Douri
-  name_language: FR
+- whole_name: Abu Ahmad
+  function: Deputy Secretary, Ba'th Party Regional Command
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '387'
+  logical_id: '56'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -52,39 +53,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '44'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2003-07-08'
-    number_title: 1210/2003 (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- whole_name: Abu Brays
-  function: Vice Chairman, Revolutionary Command Council
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '54'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2003-07-08'
-    number_title: 1210/2003 (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- whole_name: Abu Brays
-  function: Deputy Commander-in-Chief of Iraqi Military
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '52'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2003-07-08'
-    number_title: 1210/2003 (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- whole_name: Abu Ahmad
-  function: Deputy Commander-in-Chief of Iraqi Military,
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '55'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -112,12 +80,11 @@ name_aliases:
     publication_date: '2003-07-08'
     number_title: 1210/2003 (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- whole_name: Izzat Ibrahim al-Duri
-  function: Deputy Secretary, Ba'th Party Regional Command
-  gender: M
+- whole_name: Izzat Ibrahim al-Douri
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '49'
+  logical_id: '387'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -129,6 +96,39 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '51'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2003-07-08'
+    number_title: 1210/2003 (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
+- whole_name: Abu Brays
+  function: Deputy Commander-in-Chief of Iraqi Military
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '52'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2003-07-08'
+    number_title: 1210/2003 (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
+- whole_name: Abu Brays
+  function: Vice Chairman, Revolutionary Command Council
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '54'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2003-07-08'
+    number_title: 1210/2003 (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
+- whole_name: Abu Ahmad
+  function: Deputy Commander-in-Chief of Iraqi Military,
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '55'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -147,11 +147,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  city: Al-Dur (J.O. ES)
+  year: 1942
+  city: al-Dur
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '161'
+  logical_id: '33'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -159,12 +160,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  year: 1942
-  city: al-Dur
+  city: Al-Dur (J.O. ES)
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '33'
+  logical_id: '161'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'

@@ -28,20 +28,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Наталья
-  middle_name: Алексеевна
-  last_name: СЕРГУНИНА
-  whole_name: Наталья Алексеевна СЕРГУНИНА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '155540'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Natalia
   middle_name: Alekseevna
   last_name: SERGUNINA
@@ -67,6 +53,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156050'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Наталья
+  middle_name: Алексеевна
+  last_name: СЕРГУНИНА
+  whole_name: Наталья Алексеевна СЕРГУНИНА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '155540'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

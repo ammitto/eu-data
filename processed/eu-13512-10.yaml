@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Oleg Sergeevič OSIPOV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178168'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - first_name: Oleg
   middle_name: Sergeevich
   last_name: OSIPOV
@@ -42,17 +31,6 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Oleg Sergejewitsch OSSIPOW
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178166'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Oleg Sergueïevitch OSSIPOV
   gender: M
   name_language: EN
@@ -64,12 +42,34 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Oleg Sergejewitsch OSSIPOW
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178166'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Олег Сергеевич ОСИПОВ
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '178165'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Oleg Sergeevič OSIPOV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

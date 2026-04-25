@@ -14,12 +14,64 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Empresa Unitaria Estatal Federal “RFNC – All-Russia Research Institute
-    of Technical Physics named after Academician E.I. Zababakhin”
-  name_language: ES
+- whole_name: Föderales staatliches Einheitsunternehmen „RFNC - All-Russian Research
+    Institute of Technical Physics named after Academician E.I. Zababakhin“
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '160711'
+  logical_id: '160577'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: RFNC – Zababakhin All- Russia Research Institute of Technical Physics
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '160578'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: RFNC — Institut panrusse de recherche en physique technique E.I. Zababakhin
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160579'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: РФЯЦ – ВНИИТФ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160035'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: "„az E. I. Zababakin  akadémikusról elnevezett  RFN C – VNIITF” szövetségi
+    \ állami vállalat"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160973'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: szövetségi állami vállalat „RFNC  – az E. I. Zababakin  akadémikusról
+    elnevezett  Összorosz Műszaki Fizikai  Kutatóintézet”
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160974'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -30,6 +82,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160036'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Федеральное Государственное Унитарное Предприятие “РФЯЦ – Всероссийский
+    Научно-Исследовательский Институт Технической Физики имени Академика Е.И. Забабахина”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160037'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -88,49 +151,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Федеральное Государственное Унитарное Предприятие “РФЯЦ – Всероссийский
-    Научно-Исследовательский Институт Технической Физики имени Академика Е.И. Забабахина”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '160037'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: РФЯЦ – ВНИИТФ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '160035'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: RFJaC – Všeruský vědeckovýzkumný ústav technické fyziky akademika E.
-    I. Zabachina
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160976'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: RFNC –az E. I. Zababakhin  akadémikusról elnevezett  összorosz Műszaki
-    Fizikai  Kutatóintézet
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160975'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: ВНИИТФ
   name_language: RU
   strong: true
@@ -151,32 +171,56 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Föderales staatliches Einheitsunternehmen „RFNC - All-Russian Research
-    Institute of Technical Physics named after Academician E.I. Zababakhin“
-  name_language: DE
+- whole_name: RFNC –az E. I. Zababakhin  akadémikusról elnevezett  összorosz Műszaki
+    Fizikai  Kutatóintézet
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '160577'
+  logical_id: '160975'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: RFNC – Zababakhin All- Russia Research Institute of Technical Physics
-  name_language: DE
+- whole_name: RFJaC – Všeruský vědeckovýzkumný ústav technické fyziky akademika E.
+    I. Zabachina
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160578'
+  logical_id: '160976'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: RFNC — Institut panrusse de recherche en physique technique E.I. Zababakhin
-  name_language: FR
+- whole_name: Fiontar Aonadach an Stáit Chónaidhme ‘RFNC - All-Russian Research Institute
+    of Technical Physics named after Academician E.I. Zababakhin’
+  name_language: GL
   strong: true
   regulation_language: en
-  logical_id: '160579'
+  logical_id: '161288'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: RFNC – Zababakhin All-Russia Research Institute of Technical Physics
+    named after Academician E.I. Zababakhin
+  name_language: GL
+  strong: true
+  regulation_language: en
+  logical_id: '161289'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Empresa Unitaria Estatal Federal “RFNC – All-Russia Research Institute
+    of Technical Physics named after Academician E.I. Zababakhin”
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160711'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -215,50 +259,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Fiontar Aonadach an Stáit Chónaidhme ‘RFNC - All-Russian Research Institute
-    of Technical Physics named after Academician E.I. Zababakhin’
-  name_language: GL
-  strong: true
-  regulation_language: en
-  logical_id: '161288'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: RFNC – Zababakhin All-Russia Research Institute of Technical Physics
-    named after Academician E.I. Zababakhin
-  name_language: GL
-  strong: true
-  regulation_language: en
-  logical_id: '161289'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: "„az E. I. Zababakin  akadémikusról elnevezett  RFN C – VNIITF” szövetségi
-    \ állami vállalat"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160973'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: szövetségi állami vállalat „RFNC  – az E. I. Zababakin  akadémikusról
-    elnevezett  Összorosz Műszaki Fizikai  Kutatóintézet”
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160974'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 addresses:
 - street: st. Vasilyeva, 13
   city: Snezhinsk
@@ -274,16 +274,6 @@ addresses:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 identifications:
-- identification_type_code: regnumber
-  number: '1027401350932'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '160034'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - identification_type_code: fiscalcode
   number: '7423000572'
   country_iso2_code: RU
@@ -299,6 +289,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '160032'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- identification_type_code: regnumber
+  number: '1027401350932'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '160034'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

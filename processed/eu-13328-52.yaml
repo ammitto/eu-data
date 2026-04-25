@@ -24,21 +24,31 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Sociedade por ações “Fábrica mecânica experimental Aleksinsky”
-  name_language: PT
+- whole_name: JSC “AEMP”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177247'
+  logical_id: '176892'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Aleksinsky Experimental Mechanical Plant« Rt."
-  name_language: HU
+- whole_name: JSC “Aleksinsky Experimental Mechanical Plant”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177248'
+  logical_id: '176893'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Акционерное Общество “Алексинский опытный механический завод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176894'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -54,21 +64,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: АО “АОМЗ”
-  name_language: RU
+- whole_name: Sociedade por ações “Fábrica mecânica experimental Aleksinsky”
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '176891'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC “AEMP”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176892'
+  logical_id: '177247'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -90,21 +90,21 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Акционерное Общество “Алексинский опытный механический завод”
+- whole_name: АО “АОМЗ”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '176894'
+  logical_id: '176891'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC “Aleksinsky Experimental Mechanical Plant”
-  name_language: EN
+- whole_name: "»Aleksinsky Experimental Mechanical Plant« Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '176893'
+  logical_id: '177248'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -125,21 +125,21 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: taxid
-  number: '7111504768'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '176889'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: regnumber
   number: '1127154040122'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '176890'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: taxid
+  number: '7111504768'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '176889'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

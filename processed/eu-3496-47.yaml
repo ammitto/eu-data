@@ -16,6 +16,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: محمد أمين مصطفى
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '158894'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-24'
+    number_title: 2023/2670 (OJ L24112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302670
 - first_name: Mohamed Amin
   last_name: Mostafa
   whole_name: Mohamed Amin Mostafa
@@ -24,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '2443'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-24'
-    number_title: 2023/2670 (OJ L24112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302670
-- whole_name: محمد أمين مصطفى
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '158894'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-24'

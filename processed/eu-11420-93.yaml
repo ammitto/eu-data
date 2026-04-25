@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Александр Валерьевич ОБРАЗЦОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173021'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-19'
+    number_title: 2025/345 (OJ L202500345)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500345
 - whole_name: Alexander Valerievich OBRAZTSOV
   function: |-
     Deputy head of the
@@ -23,17 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173022'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-19'
-    number_title: 2025/345 (OJ L202500345)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500345
-- whole_name: Александр Валерьевич ОБРАЗЦОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '173021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-19'

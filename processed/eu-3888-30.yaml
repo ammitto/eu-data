@@ -15,17 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: مرتضی رضایی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '158980'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - first_name: Morteza
   last_name: REZAEE
   whole_name: Morteza REZAEE
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158981'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: مرتضی رضایی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '158980'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

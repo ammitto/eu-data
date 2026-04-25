@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Николай
+  middle_name: Алексеевич
+  last_name: КОРОБКО
+  whole_name: Николай Алексеевич КОРОБКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166487'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Nikolai
   middle_name: Alekseevich
   last_name: KOROBKO
@@ -24,20 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166488'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Николай
-  middle_name: Алексеевич
-  last_name: КОРОБКО
-  whole_name: Николай Алексеевич КОРОБКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166487'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

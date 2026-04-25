@@ -28,24 +28,20 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Artem
+- first_name: Artyom
   middle_name: Vladimirovich
   last_name: ZHOGA
-  whole_name: Artem Vladimirovich ZHOGA
-  function: |-
-    Chairman of the so-called “People’s Council of the Donetsk People’s Republic”; Presidential Plenipotentiary Envoy to the Urals Federal District
-
-    Previous Commander of the Sparta Battalion
+  whole_name: Artyom Vladimirovich ZHOGA
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '162314'
+  logical_id: '162313'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Arťom Žoga
   gender: M
   name_language: CS
@@ -70,20 +66,24 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Artyom
+- first_name: Artem
   middle_name: Vladimirovich
   last_name: ZHOGA
-  whole_name: Artyom Vladimirovich ZHOGA
+  whole_name: Artem Vladimirovich ZHOGA
+  function: |-
+    Chairman of the so-called “People’s Council of the Donetsk People’s Republic”; Presidential Plenipotentiary Envoy to the Urals Federal District
+
+    Previous Commander of the Sparta Battalion
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '162313'
+  logical_id: '162314'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

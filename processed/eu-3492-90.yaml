@@ -69,6 +69,15 @@ birthdates:
     number_title: 2015/617 (OJ L102)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_102_R_0006&from=EN
 addresses:
+- country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '109550'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-09-20'
+    number_title: 2016/1683 (OJ L254)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
 - country_iso2_code: LY
   country_description: LIBYA
   regulation_language: en
@@ -82,15 +91,6 @@ addresses:
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '109551'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-09-20'
-    number_title: 2016/1683 (OJ L254)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
-- country_iso2_code: IQ
-  country_description: IRAQ
-  regulation_language: en
-  logical_id: '109550'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-20'

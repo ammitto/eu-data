@@ -14,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Alla Barchatnova
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164111'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Alla Barchatnová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164110'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Alla
   middle_name: Viktorovna
   last_name: BARKHATNOVA
@@ -45,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162561'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Алла Вікторівна БАРХАТНОВА
+  gender: F
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '162559'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -61,12 +50,23 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Алла Вікторівна БАРХАТНОВА
+- whole_name: Alla Barchatnová
   gender: F
-  name_language: UK
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '162559'
+  logical_id: '164110'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Alla Barchatnova
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164111'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

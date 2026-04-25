@@ -15,11 +15,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Gharib Muhammad Fazel al-Mashaikhi
-  function: Chairman, General Federation of Iraqi Trade Unions
+- whole_name: Fadil Mahmoud Gharib
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '203'
+  logical_id: '434'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -35,11 +35,11 @@ name_aliases:
     publication_date: '2003-07-08'
     number_title: 1210/2003 (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- whole_name: Fadil Mahmoud Gharib
-  name_language: FR
+- whole_name: Gharib Muhammad Fazel al-Mashaikhi
+  function: Chairman, General Federation of Iraqi Trade Unions
   strong: true
   regulation_language: en
-  logical_id: '434'
+  logical_id: '203'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -56,20 +56,20 @@ name_aliases:
     number_title: 1210/2003 (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - whole_name: Fadil Mahmud Gharib
-  function: Ba'th Party Regional Command Chairman, Babil
+  function: Chairman, General Federation of Iraqi Trade Unions
   strong: true
   regulation_language: en
-  logical_id: '199'
+  logical_id: '200'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
     number_title: 1210/2003 (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - whole_name: Fadil Mahmud Gharib
-  function: Chairman, General Federation of Iraqi Trade Unions
+  function: Ba'th Party Regional Command Chairman, Babil
   strong: true
   regulation_language: en
-  logical_id: '200'
+  logical_id: '199'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'

@@ -14,15 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Павел
-  middle_name: Викторович
-  last_name: АНДРЕЕВ
-  whole_name: Павел Викторович АНДРЕЕВ
+- first_name: Pavel
+  last_name: Andrejev
+  whole_name: Pavel Andrejev
   gender: M
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '159776'
+  logical_id: '160889'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -43,28 +42,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Pavel
-  middle_name: Viktorovitj
-  last_name: ANDREJEV
-  whole_name: Pavel Viktorovitj ANDREJEV
+- first_name: Павел
+  middle_name: Викторович
+  last_name: АНДРЕЕВ
+  whole_name: Павел Викторович АНДРЕЕВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160665'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Pavel
-  last_name: Andrejev
-  whole_name: Pavel Andrejev
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160889'
+  logical_id: '159776'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -78,6 +64,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160890'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Pavel
+  middle_name: Viktorovitj
+  last_name: ANDREJEV
+  whole_name: Pavel Viktorovitj ANDREJEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160665'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

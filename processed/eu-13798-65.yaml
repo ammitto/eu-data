@@ -14,45 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Limited Liability Company A7
-  function: LLC A7 is a Russian company which is partially owned by PSB Bank, a Russian
-    State-owned enterprise. LLC A7 was co-created by PSB Bank to launch A7A5, a stablecoin
-    which is backed by fiat rouble deposits in the bank accounts of PSB Bank. For
-    every rouble spent on A7A5, an equivalent sum is deposited into PSB Bank, thereby
-    increasing the State-owned institution’s capital. In addition, LLC A7 has received
-    loans from VEB.RF, a major financial development institution whose Chairman is
-    directly appointed by the President of the Russian Federation, Vladimir Putin,
-    and takes instructions directly from him.
-  title: Limited Liability Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179588'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Общество С Ограниченной Ответственностью “А7”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179587'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Societatea cu răspundere limitată A7
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '179586'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Kumpanija b’Responsabbiltà Limitata A7
   name_language: MT
   strong: true
@@ -83,11 +44,50 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Societatea cu răspundere limitată A7
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '179586'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Дружество с ограничена отговорност „А7“
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '179582'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Limited Liability Company A7
+  function: LLC A7 is a Russian company which is partially owned by PSB Bank, a Russian
+    State-owned enterprise. LLC A7 was co-created by PSB Bank to launch A7A5, a stablecoin
+    which is backed by fiat rouble deposits in the bank accounts of PSB Bank. For
+    every rouble spent on A7A5, an equivalent sum is deposited into PSB Bank, thereby
+    increasing the State-owned institution’s capital. In addition, LLC A7 has received
+    loans from VEB.RF, a major financial development institution whose Chairman is
+    directly appointed by the President of the Russian Federation, Vladimir Putin,
+    and takes instructions directly from him.
+  title: Limited Liability Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179588'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Общество С Ограниченной Ответственностью “А7”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179587'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

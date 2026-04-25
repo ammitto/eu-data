@@ -14,41 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dzmitry
-  middle_name: Yaŭhienavič
-  last_name: SHAUTSOU
-  whole_name: Dzmitry Yaŭhienavič SHAUTSOU
-  function: General Secretary of the  Belarus Red Cross
+- whole_name: Dzmitrij Šaucou
   gender: M
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '162820'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Dzmitry
-  middle_name: Yaŭhienavič
-  last_name: ŠAŬCOŬ
-  whole_name: Dzmitry Yaŭhienavič ŠAŬCOŬ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '162819'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Dmitry
-  middle_name: Yevgenyevich
-  last_name: SHEVTSOV
-  whole_name: Dmitry Yevgenyevich SHEVTSOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '162818'
+  logical_id: '163678'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -76,6 +47,33 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- first_name: Dzmitry
+  middle_name: Yaŭhienavič
+  last_name: ŠAŬCOŬ
+  whole_name: Dzmitry Yaŭhienavič ŠAŬCOŬ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '162819'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- first_name: Dzmitry
+  middle_name: Yaŭhienavič
+  last_name: SHAUTSOU
+  whole_name: Dzmitry Yaŭhienavič SHAUTSOU
+  function: General Secretary of the  Belarus Red Cross
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '162820'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Дмитрий Евгеньевич ШЕВЦОВ
   gender: M
   name_language: RU
@@ -87,12 +85,14 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Dzmitrij Šaucou
+- first_name: Dmitry
+  middle_name: Yevgenyevich
+  last_name: SHEVTSOV
+  whole_name: Dmitry Yevgenyevich SHEVTSOV
   gender: M
-  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '163678'
+  logical_id: '162818'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Конструкторское бюро "Талламхо"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166892'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Конструкторское бюро "Талламхо" ("Следопыт")
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166893'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Tallamho Design Bureau
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166894'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Tallamkho  Tervezőiroda  (»Pathfinder«)
   name_language: HU
   strong: true
@@ -65,11 +35,41 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Конструкторское бюро "Талламхо" ("Следопыт")
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166893'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Tallamkho Design Bureau
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '166895'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Tallamho Design Bureau
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166894'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Конструкторское бюро "Талламхо"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166892'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

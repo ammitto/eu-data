@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Юрие НЕКУЛИТИ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175732'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - first_name: Iurie
   last_name: NECULITI
   whole_name: Iurie NECULITI
@@ -23,17 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175733'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Юрие НЕКУЛИТИ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175732'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -63,22 +63,22 @@ birthdates:
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 addresses:
-- city: Chisinau
-  country_iso2_code: MD
-  country_description: MOLDOVA, REPUBLIC OF
-  regulation_language: en
-  logical_id: '175728'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - street: 71-75 Shelton Street, Covent Garden
   city: London
   country_iso2_code: GB
   country_description: UNITED KINGDOM
   regulation_language: en
   logical_id: '175729'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- city: Chisinau
+  country_iso2_code: MD
+  country_description: MOLDOVA, REPUBLIC OF
+  regulation_language: en
+  logical_id: '175728'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

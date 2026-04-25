@@ -14,16 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mehdi
-  last_name: ALIBABAEI
-  whole_name: Mehdi ALIBABAEI
-  function: provincial deputy of the Islamic Revolutionary Guard Corps (IRGC) in Qom
-  gender: M
-  title: Major
+- first_name: Mehdi,
+  last_name: ALI BABAEI
+  whole_name: Mehdi, ALI BABAEI
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152981'
+  logical_id: '152979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -42,13 +39,16 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/846 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
-- first_name: Mehdi,
-  last_name: ALI BABAEI
-  whole_name: Mehdi, ALI BABAEI
+- first_name: Mehdi
+  last_name: ALIBABAEI
+  whole_name: Mehdi ALIBABAEI
+  function: provincial deputy of the Islamic Revolutionary Guard Corps (IRGC) in Qom
+  gender: M
+  title: Major
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152979'
+  logical_id: '152981'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

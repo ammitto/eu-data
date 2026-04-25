@@ -14,18 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mohammad Ziad GHRIWATI
-  function: Mohammad Ziad  Ghriwati  is  an  engineer at the  Syrian  Scientific Studies
-    and  Research Centre.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '113212'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - first_name: Mohammad
   middle_name: Ziad
   last_name: Ghraywati
@@ -46,6 +34,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '124813'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Mohammad Ziad GHRIWATI
+  function: Mohammad Ziad  Ghriwati  is  an  engineer at the  Syrian  Scientific Studies
+    and  Research Centre.
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '113212'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

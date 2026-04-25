@@ -25,22 +25,22 @@ name_aliases:
     publication_date: '2021-12-13'
     number_title: 2021/2192 (OJ L445I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2192&from=EN
-- whole_name: Alexander Sergeevich KUZNETSOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '132527'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2192 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2192&from=EN
 - whole_name: Aleksandr  Sergejevitj KUZNETSOV
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '132711'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2192 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2192&from=EN
+- whole_name: Alexander Sergeevich KUZNETSOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '132527'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-13'

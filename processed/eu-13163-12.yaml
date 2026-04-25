@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Светлана Фёдоровна ЖУРАВЛЁВА
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175852'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/958 (OJ L202500958)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
 - whole_name: Svetlana Fyodorovna ZHURAVLOVA
   function: Svetlana Zhuravlova is a Senior Assistant of the Meshchansky Interdistrict
     Prosecutor’s Office. She served as a prosecutor during Alexei Gorinov’s trial.
@@ -36,6 +26,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175853'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/958 (OJ L202500958)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
+- whole_name: Светлана Фёдоровна ЖУРАВЛЁВА
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175852'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

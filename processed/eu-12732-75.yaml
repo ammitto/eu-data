@@ -14,11 +14,36 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Joint-Stock Company ‘Asteis’
+- whole_name: JSC Astais
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173450'
+  logical_id: '172812'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: JSC Asteys
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172813'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Joint Stock Company “Asteis”
+  function: JSC Asteis is a developer and producer of special purpose vehicles. The
+    company is one of the largest manufacturers of chassis-mounted special equipment
+    for civil and military purposes in Russia. JSC Asteis manufactures and supplies
+    vehicles (including Patrol-IV armoured vehicle (Asteis 70202)) used by the Russian
+    military in Russia’s war of aggression against Ukraine.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172816'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -29,6 +54,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172815'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Astais Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173374'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -64,26 +99,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Joint Stock Company “Asteis”
-  function: JSC Asteis is a developer and producer of special purpose vehicles. The
-    company is one of the largest manufacturers of chassis-mounted special equipment
-    for civil and military purposes in Russia. JSC Asteis manufactures and supplies
-    vehicles (including Patrol-IV armoured vehicle (Asteis 70202)) used by the Russian
-    military in Russia’s war of aggression against Ukraine.
+- whole_name: Joint-Stock Company ‘Asteis’
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172816'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Astais Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173374'
+  logical_id: '173450'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -94,26 +114,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172814'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC Asteys
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172813'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC Astais
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172812'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -133,21 +133,21 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: other
-  number: '165001001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '172809'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: fiscalcode
   number: '1650153253'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172810'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: other
+  number: '165001001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '172809'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

@@ -16,20 +16,6 @@ subject_type:
 name_aliases:
 - first_name: Miguel
   middle_name: Antonio
-  last_name: MUÑOZ PALACIOST
-  whole_name: Miguel Antonio MUÑOZ PALACIOST
-  gender: M
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '172444'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-10'
-    number_title: 2025/44 (OJ L10012025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
-- first_name: Miguel
-  middle_name: Antonio
   last_name: MUÑOZ  PALACIOS
   whole_name: Miguel Antonio MUÑOZ  PALACIOS
   function: Deputy Director of the Bolivarian National Intelligence Service (SEBIN)
@@ -38,6 +24,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172445'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-10'
+    number_title: 2025/44 (OJ L10012025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
+- first_name: Miguel
+  middle_name: Antonio
+  last_name: MUÑOZ PALACIOST
+  whole_name: Miguel Antonio MUÑOZ PALACIOST
+  gender: M
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '172444'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-10'

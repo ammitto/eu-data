@@ -14,68 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohammad Ibrahim
-  last_name: AL-SHÀAR
-  whole_name: Mohammad Ibrahim AL-SHÀAR
-  gender: M
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '153722'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-26'
-    number_title: 2023/1027 (OJ L139)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
-- first_name: Mohammad
-  middle_name: Ibrahim
-  last_name: Al-Shaar
-  whole_name: Mohammad Ibrahim Al-Shaar
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '15018'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-26'
-    number_title: 2023/1027 (OJ L139)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
-- first_name: Mohamed
-  middle_name: Ibrahim
-  last_name: Al-Shaar
-  whole_name: Mohamed Ibrahim Al-Shaar
-  strong: true
-  regulation_language: en
-  logical_id: '17332'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-04-23'
-    number_title: 363/2013 (OJ L111)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:111:0001:0024:EN:PDF
-- first_name: Muhammad
-  middle_name: Ibrahim
-  last_name: Al-Shaar
-  whole_name: Muhammad Ibrahim Al-Shaar
-  strong: true
-  regulation_language: en
-  logical_id: '17333'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-04-23'
-    number_title: 363/2013 (OJ L111)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:111:0001:0024:EN:PDF
-- first_name: Mohammed
-  middle_name: Ibrahim
-  last_name: Al-Shaar
-  whole_name: Mohammed Ibrahim Al-Shaar
-  strong: true
-  regulation_language: en
-  logical_id: '17334'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-04-23'
-    number_title: 363/2013 (OJ L111)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:111:0001:0024:EN:PDF
 - first_name: Mohammad
   middle_name: Ibrahim
   last_name: Al-Chaar
@@ -137,6 +75,31 @@ name_aliases:
     publication_date: '2016-09-30'
     number_title: 2016/1735 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1735&from=EN
+- first_name: Mohammed
+  middle_name: Ibrahim
+  last_name: Al-Shaar
+  whole_name: Mohammed Ibrahim Al-Shaar
+  strong: true
+  regulation_language: en
+  logical_id: '17334'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-04-23'
+    number_title: 363/2013 (OJ L111)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:111:0001:0024:EN:PDF
+- first_name: Mohammad Ibrahim
+  last_name: AL-SHÀAR
+  whole_name: Mohammad Ibrahim AL-SHÀAR
+  gender: M
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '153722'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-26'
+    number_title: 2023/1027 (OJ L139)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
 - first_name: Mohamed
   middle_name: Ibrahim
   last_name: Al-Sha'ar
@@ -150,6 +113,43 @@ name_aliases:
     publication_date: '2023-05-26'
     number_title: 2023/1027 (OJ L139)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
+- first_name: Mohammad
+  middle_name: Ibrahim
+  last_name: Al-Shaar
+  whole_name: Mohammad Ibrahim Al-Shaar
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '15018'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-26'
+    number_title: 2023/1027 (OJ L139)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
+- first_name: Mohamed
+  middle_name: Ibrahim
+  last_name: Al-Shaar
+  whole_name: Mohamed Ibrahim Al-Shaar
+  strong: true
+  regulation_language: en
+  logical_id: '17332'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-04-23'
+    number_title: 363/2013 (OJ L111)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:111:0001:0024:EN:PDF
+- first_name: Muhammad
+  middle_name: Ibrahim
+  last_name: Al-Shaar
+  whole_name: Muhammad Ibrahim Al-Shaar
+  strong: true
+  regulation_language: en
+  logical_id: '17333'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-04-23'
+    number_title: 363/2013 (OJ L111)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:111:0001:0024:EN:PDF
 birthdates:
 - birthdate: '1956-10-01'
   circa: false

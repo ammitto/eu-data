@@ -32,19 +32,6 @@ name_aliases:
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Jurij
-  last_name: Nikonov
-  whole_name: Jurij Nikonov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152318'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Jurij
   middle_name: Aleksandrovitj
   last_name: NIKONOV
   whole_name: Jurij Aleksandrovitj NIKONOV
@@ -58,6 +45,19 @@ name_aliases:
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Jurij
+  last_name: Nikonov
+  whole_name: Jurij Nikonov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152318'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Юрий
   middle_name: Александрович
   last_name: НИКОНОВ
@@ -101,20 +101,20 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 identifications:
 - identification_type_code: fiscalcode
-  number: '271201003620'
+  number: '016154160136'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '157483'
+  logical_id: '157482'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - identification_type_code: fiscalcode
-  number: '016154160136'
+  number: '271201003620'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '157482'
+  logical_id: '157483'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

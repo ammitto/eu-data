@@ -14,35 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Joint Stock Company “Zelenograd Nanotechnology Center”
-  function: JSC Zelenograd Nanotechnology Center is a Russian research and manufacturing
-    company which is developing and producing high-tech electronical components, including
-    for the development of the Russian military-industrial complex.
-  title: 'Type of entity: Joint Stock Company'
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172717'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Zelenográdi Nanotechnológiai Központ« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173412'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: АКЦИОНЕРНОЕ ОБЩЕСТВО “ЗЕЛЕНОГРАДСКИЙ НАНОТЕХНОЛОГИЧЕСКИЙ ЦЕНТР”
+- whole_name: АО “ЗНТЦ”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '172716'
+  logical_id: '172714'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -58,11 +34,25 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Zelenográdi Nanotechnológiai Központ« Rt."
-  name_language: HU
+- whole_name: АКЦИОНЕРНОЕ ОБЩЕСТВО “ЗЕЛЕНОГРАДСКИЙ НАНОТЕХНОЛОГИЧЕСКИЙ ЦЕНТР”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '173411'
+  logical_id: '172716'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Joint Stock Company “Zelenograd Nanotechnology Center”
+  function: JSC Zelenograd Nanotechnology Center is a Russian research and manufacturing
+    company which is developing and producing high-tech electronical components, including
+    for the development of the Russian military-industrial complex.
+  title: 'Type of entity: Joint Stock Company'
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172717'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -98,11 +88,21 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: АО “ЗНТЦ”
-  name_language: RU
+- whole_name: "»Zelenográdi Nanotechnológiai Központ« Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172714'
+  logical_id: '173411'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»Zelenográdi Nanotechnológiai Központ« Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173412'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

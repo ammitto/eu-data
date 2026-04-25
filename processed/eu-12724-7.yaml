@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Industrial Technologies Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172748'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Promtech Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173406'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Promtech« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173407'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: "’Promtech’ Joint Stock Company (publikt aktiebolag)"
   name_language: SV
   strong: true
@@ -54,11 +24,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Акционерное общество “Промтех”
+- whole_name: АО “Промтех”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '172750'
+  logical_id: '172746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -74,6 +44,16 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Industrial Technologies Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172748'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Prometch JSC
   name_language: EN
   strong: true
@@ -84,11 +64,21 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Ipari Technológiák Részvénytársaság
+- whole_name: Акционерное общество “Промтех”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '172750'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»Promtech« Részvénytársaság"
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '173405'
+  logical_id: '173407'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -106,11 +96,21 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: АО “Промтех”
-  name_language: RU
+- whole_name: Promtech Rt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172746'
+  logical_id: '173406'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Ipari Technológiák Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173405'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

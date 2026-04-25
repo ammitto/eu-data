@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexandr
-  last_name: Mojsejev
-  whole_name: Alexandr Mojsejev
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '167015'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Aleksandr
   last_name: Moisejev
   whole_name: Aleksandr Moisejev
@@ -35,6 +22,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167014'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Alexandr
+  last_name: Mojsejev
+  whole_name: Alexandr Mojsejev
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '167015'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

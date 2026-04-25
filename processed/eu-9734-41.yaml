@@ -14,31 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Elektropribor a. s.
-  name_language: SK
+- whole_name: Elektropribor JSC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151336'
+  logical_id: '150042'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 - whole_name: Електроприбор АД
   name_language: BG
   strong: true
   regulation_language: en
   logical_id: '151280'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Aktsionernoe Obshchestvo "Kontsern "Tsentralnyi Nauchno-Issledovatelskii
-    Institut "Elektropribor""
-  strong: true
-  regulation_language: en
-  logical_id: '150040'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -55,11 +45,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Elektropribor SA
-  name_language: RO
+- whole_name: Aktsionernoe Obshchestvo "Kontsern "Tsentralnyi Nauchno-Issledovatelskii
+    Institut "Elektropribor""
   strong: true
   regulation_language: en
-  logical_id: '151238'
+  logical_id: '150040'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -74,16 +64,16 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Elektropribor JSC
-  name_language: EN
+- whole_name: Elektropribor a. s.
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '150042'
+  logical_id: '151336'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: State Research Center of  the Russian Federation  Concern CSRI Elektropribor,  JSC
   name_language: EN
   strong: true
@@ -99,6 +89,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151112'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Elektropribor SA
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151238'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

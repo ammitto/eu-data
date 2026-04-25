@@ -29,19 +29,6 @@ name_aliases:
     publication_date: '2025-04-07'
     number_title: 2025/689 (OJ L202500689)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500689
-- whole_name: Noorollah Azizmohammadi
-  function: Attorney in Tehran since 2020; former judge at branch 71 of the Tehran
-    Provincial Criminal Court
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '123005'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-04-07'
-    number_title: 2025/689 (OJ L202500689)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500689
 - first_name: Aziz
   last_name: Hajmohammadi
   whole_name: Aziz Hajmohammadi
@@ -50,6 +37,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '123006'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-04-07'
+    number_title: 2025/689 (OJ L202500689)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500689
+- whole_name: Noorollah Azizmohammadi
+  function: Attorney in Tehran since 2020; former judge at branch 71 of the Tehran
+    Provincial Criminal Court
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '123005'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-04-07'

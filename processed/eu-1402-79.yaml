@@ -15,20 +15,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ali Saddam Hussein Al-Tikriti
-  gender: M
+- whole_name: Hassan
   strong: true
   regulation_language: en
-  logical_id: '2777'
+  logical_id: '2778'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-04-30'
     number_title: 924/2004 (OJ L163)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:163:0100:0101:EN:PDF
-- whole_name: Hassan
+- whole_name: Ali Saddam Hussein Al-Tikriti
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '2778'
+  logical_id: '2777'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-04-30'

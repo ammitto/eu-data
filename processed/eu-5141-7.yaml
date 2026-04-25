@@ -14,6 +14,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abderahmane al Maghrebi
+  strong: true
+  regulation_language: en
+  logical_id: '120831'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-08-20'
+    number_title: 2019/1353 (OJ L217)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
+- whole_name: علي ما يشو
+  strong: true
+  regulation_language: en
+  logical_id: '120832'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-08-20'
+    number_title: 2019/1353 (OJ L217)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
 - whole_name: ALI MAYCHOU
   strong: true
   regulation_language: en
@@ -36,24 +54,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '120835'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-08-20'
-    number_title: 2019/1353 (OJ L217)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
-- whole_name: Abderahmane al Maghrebi
-  strong: true
-  regulation_language: en
-  logical_id: '120831'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-08-20'
-    number_title: 2019/1353 (OJ L217)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:217:FULL&from=EN
-- whole_name: علي ما يشو
-  strong: true
-  regulation_language: en
-  logical_id: '120832'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-08-20'

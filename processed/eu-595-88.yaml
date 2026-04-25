@@ -18,19 +18,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohammad
-  last_name: Zahid
-  whole_name: Mohammad Zahid
-  function: Third Secretary, Taliban Embassy, Islamabad, Pakistan
-  title: Mullah
-  strong: true
-  regulation_language: en
-  logical_id: '1706'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - whole_name: Zahid Ahmadzai
   name_language: EN
   strong: true
@@ -46,6 +33,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '109759'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- first_name: Mohammad
+  last_name: Zahid
+  whole_name: Mohammad Zahid
+  function: Third Secretary, Taliban Embassy, Islamabad, Pakistan
+  title: Mullah
+  strong: true
+  regulation_language: en
+  logical_id: '1706'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

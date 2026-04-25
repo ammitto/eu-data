@@ -14,46 +14,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: empresa pública unitária para o comércio externo “Belvneshpromservice”
-  name_language: PT
+- whole_name: Det statligt ägda Foreign Trade Unitary Enterprise Belvneshpromservice
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '177168'
+  logical_id: '177167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: State-owned Foreign Trade Unitary Enterprise Belvneshpromservice
-  function: State-owned Foreign Trade Unitary Enterprise Belvneshpromservice was established
-    in order to promote Belarusian defence products in foreign markets. It specialises
-    in the export of high-tech products for military purposes and has the right to
-    upgrade, repair and supply military goods for the Belarusian Air Defence, Air
-    Force and Land Forces.
-  name_language: EN
+- whole_name: Entreprise d’État unitaire de commerce extérieur Belvneshpromservice
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '176797'
+  logical_id: '177163'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Дзяржаўнае знешнегандлёвае ўнітарнае прадпрыемства Белзнешпрамсэрвіс
-  name_language: BE
+- whole_name: Državno unitarno poduzeće za vanjsku trgovinu Belvneshpromservice
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '176796'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Государственное внешнеторговое унитарное предприятие Белвнешпромсервис
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176795'
+  logical_id: '177162'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -80,41 +65,31 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Det statligt ägda Foreign Trade Unitary Enterprise Belvneshpromservice
-  name_language: SV
+- whole_name: empresa pública unitária para o comércio externo “Belvneshpromservice”
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '177167'
+  logical_id: '177168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Državno unitarno poduzeće za vanjsku trgovinu Belvneshpromservice
-  name_language: HR
+- whole_name: Государственное внешнеторговое унитарное предприятие Белвнешпромсервис
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177162'
+  logical_id: '176795'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Entreprise d’État unitaire de commerce extérieur Belvneshpromservice
-  name_language: FR
+- whole_name: Държавно външнотърговско унитарно предприятие Белвнешпромсервис
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '177163'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1469 (OJ L202501469)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Κρατική διαχειριστική επιχείρηση εξωτερικού εμπορίου Belvneshpromservice
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '177164'
+  logical_id: '177166'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -130,11 +105,36 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1469 (OJ L202501469)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
-- whole_name: Държавно външнотърговско унитарно предприятие Белвнешпромсервис
-  name_language: BG
+- whole_name: Κρατική διαχειριστική επιχείρηση εξωτερικού εμπορίου Belvneshpromservice
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '177166'
+  logical_id: '177164'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: State-owned Foreign Trade Unitary Enterprise Belvneshpromservice
+  function: State-owned Foreign Trade Unitary Enterprise Belvneshpromservice was established
+    in order to promote Belarusian defence products in foreign markets. It specialises
+    in the export of high-tech products for military purposes and has the right to
+    upgrade, repair and supply military goods for the Belarusian Air Defence, Air
+    Force and Land Forces.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1469 (OJ L202501469)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501469
+- whole_name: Дзяржаўнае знешнегандлёвае ўнітарнае прадпрыемства Белзнешпрамсэрвіс
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '176796'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

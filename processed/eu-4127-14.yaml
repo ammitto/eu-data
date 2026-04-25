@@ -14,6 +14,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Daesong Trading
+  strong: true
+  regulation_language: en
+  logical_id: '8414'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-12-23'
+    number_title: 1251/2010 (OJ L341)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0015:0018:EN:PDF
 - whole_name: Korea Daesong General Trading Corporation
   function: Korea Daesong General Trading Corporation is affiliated with Office 39
     through minerals (gold) exports, metals, machinery, agricultural products, ginseng,
@@ -26,10 +35,10 @@ name_aliases:
     publication_date: '2017-08-31'
     number_title: 2017/1509 (OJ L224)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- whole_name: Daesong Trading
+- whole_name: Korea Daesong Trading Corporation
   strong: true
   regulation_language: en
-  logical_id: '8414'
+  logical_id: '8417'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-12-23'
@@ -48,15 +57,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '8416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-12-23'
-    number_title: 1251/2010 (OJ L341)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0015:0018:EN:PDF
-- whole_name: Korea Daesong Trading Corporation
-  strong: true
-  regulation_language: en
-  logical_id: '8417'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-12-23'

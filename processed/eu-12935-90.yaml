@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: La sociedad limitada Ridotto
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '174324'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Ridotto Kft
   name_language: HU
   strong: true
@@ -34,11 +24,13 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: "„Ридотто“ ООД"
-  name_language: BG
+- whole_name: Ridotto LLC
+  function: Ridotto LLC is a Belarusian IT company specialising in online gambling
+    application development.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174325'
+  logical_id: '174328'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -64,13 +56,21 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Ridotto LLC
-  function: Ridotto LLC is a Belarusian IT company specialising in online gambling
-    application development.
-  name_language: EN
+- whole_name: "„Ридотто“ ООД"
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '174328'
+  logical_id: '174325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: La sociedad limitada Ridotto
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '174324'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

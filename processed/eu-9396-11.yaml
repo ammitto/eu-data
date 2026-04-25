@@ -14,121 +14,29 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Marina rusă
-  name_language: RO
+- whole_name: Marinha  Russa
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '147888'
+  logical_id: '147815'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Venemaa merevägi
-  name_language: ET
+- whole_name: Russian Navy
   strong: true
   regulation_language: en
-  logical_id: '148103'
+  logical_id: '147276'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ruska mornarica
-  name_language: HR
+- whole_name: Военно-морской флот
   strong: true
   regulation_language: en
-  logical_id: '148040'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Venäjän laivasto
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '148055'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ruské vojenské námorníctvo
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '148128'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: ruska mornarica
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '148140'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Orosz haditengerészet
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '147850'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Руският военноморски флот
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '148022'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Rusijos karinis jūrų laivynas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147985'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: ryska  flottan
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '147998'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Den russiske flåde
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '148007'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Russische Seekriegsflotte
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '147667'
+  logical_id: '147275'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -144,11 +52,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Marinha  Russa
-  name_language: PT
+- whole_name: Russische Seekriegsflotte
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '147815'
+  logical_id: '147667'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -174,16 +82,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: marine  russe
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147719'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Rosyjska marynarka wojenna
   name_language: PL
   strong: true
@@ -194,19 +92,41 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Военно-морской флот
+- whole_name: marine  russe
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '147275'
+  logical_id: '147719'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Russian Navy
+- whole_name: Venemaa merevägi
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '147276'
+  logical_id: '148103'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Venäjän laivasto
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '148055'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ruska mornarica
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '148040'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -217,6 +137,86 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147916'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: ruska mornarica
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '148140'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ruské vojenské námorníctvo
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '148128'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Marina rusă
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '147888'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Den russiske flåde
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '148007'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: ryska  flottan
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '147998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Rusijos karinis jūrų laivynas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147985'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Orosz haditengerészet
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '147850'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Руският военноморски флот
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '148022'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

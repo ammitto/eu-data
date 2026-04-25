@@ -14,11 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Marial Chanoung Yol
+- whole_name: Marial Chinuong
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105635'
+  logical_id: '105637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
@@ -34,21 +34,21 @@ name_aliases:
     publication_date: '2015-07-10'
     number_title: 2015/1112 (OJ L 182)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: Marial Chinoum
+- whole_name: Marial Chanoung Yol
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105634'
+  logical_id: '105635'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
     number_title: 2015/1112 (OJ L 182)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: Marial Chinuong
+- whole_name: Marial Chinoum
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105637'
+  logical_id: '105634'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'

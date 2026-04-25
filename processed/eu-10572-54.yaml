@@ -14,6 +14,33 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Aljaksandr
+  last_name: Karnijenka
+  whole_name: Aljaksandr Karnijenka
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156943'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Aľaxandr
+  middle_name: Uladzimiravič
+  last_name: KARNIENKA
+  whole_name: Aľaxandr Uladzimiravič KARNIENKA
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156942'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Аляксандр
   middle_name: Уладзіміравіч
   last_name: КАРНІЕНКА
@@ -23,6 +50,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156287'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Aleksandr
+  middle_name: Vladimirovitj
+  last_name: KORNIJENKO
+  whole_name: Aleksandr Vladimirovitj KORNIJENKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156871'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Aljaksandr
+  middle_name: Uladzimiravitj
+  last_name: KARNIJENKA
+  whole_name: Aljaksandr Uladzimiravitj KARNIJENKA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156872'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -75,61 +130,6 @@ name_aliases:
     publication_date: '2025-02-25'
     number_title: 2025/386 (OJ L25022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500386
-- first_name: Aleksandr
-  middle_name: Vladimirovitj
-  last_name: KORNIJENKO
-  whole_name: Aleksandr Vladimirovitj KORNIJENKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156871'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Aljaksandr
-  middle_name: Uladzimiravitj
-  last_name: KARNIJENKA
-  whole_name: Aljaksandr Uladzimiravitj KARNIJENKA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156872'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Aľaxandr
-  middle_name: Uladzimiravič
-  last_name: KARNIENKA
-  whole_name: Aľaxandr Uladzimiravič KARNIENKA
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156942'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Aljaksandr
-  last_name: Karnijenka
-  whole_name: Aljaksandr Karnijenka
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156943'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

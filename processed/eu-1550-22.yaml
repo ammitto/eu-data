@@ -14,36 +14,100 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Hani Yusef
-  strong: true
-  regulation_language: en
-  logical_id: '4267'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-10-15'
-    number_title: 1690/2005 (OJ L271)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:271:0031:0032:EN:PDF
-- whole_name: Hany Youseff
-  strong: true
-  regulation_language: en
-  logical_id: '4266'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-10-15'
-    number_title: 1690/2005 (OJ L271)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:271:0031:0032:EN:PDF
 - first_name: Hani
-  middle_name: al-Sayyid
-  last_name: El Sebai
-  whole_name: Hani al-Sayyid El Sebai
+  middle_name: El Sayyed Elsebai
+  last_name: Yusef
+  whole_name: Hani El Sayyed Elsebai Yusef
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '4269'
+  logical_id: '4261'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-10-06'
+    number_title: 1629/2005 (OJ L260)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:260:0009:0010:EN:PDF
+- whole_name: Abu Karim
+  strong: true
+  regulation_language: en
+  logical_id: '4262'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-10-06'
+    number_title: 1629/2005 (OJ L260)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:260:0009:0010:EN:PDF
+- first_name: Hani
+  middle_name: Al-Sayyid Al-Sebai
+  last_name: Yusif
+  whole_name: Hani Al-Sayyid Al-Sebai Yusif
+  strong: true
+  regulation_language: en
+  logical_id: '4263'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-02-08'
+    number_title: 97/2012 (OJ L35)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
+- first_name: Hani
+  middle_name: Yousef
+  last_name: Al-Sebai
+  whole_name: Hani Yousef Al-Sebai
+  strong: true
+  regulation_language: en
+  logical_id: '4264'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-08-30'
     number_title: 1286/2006 (OJ L235)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:235:0014:0016:EN:PDF
+- first_name: Hani
+  middle_name: Elsayed
+  last_name: Youssef
+  whole_name: Hani Elsayed Youssef
+  strong: true
+  regulation_language: en
+  logical_id: '4979'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-08-30'
+    number_title: 1286/2006 (OJ L235)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:235:0014:0016:EN:PDF
+- whole_name: Abu Akram
+  strong: true
+  regulation_language: en
+  logical_id: '4274'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-10-15'
+    number_title: 1690/2005 (OJ L271)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:271:0031:0032:EN:PDF
+- whole_name: Abu Tusnin
+  strong: true
+  regulation_language: en
+  logical_id: '4273'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-10-15'
+    number_title: 1690/2005 (OJ L271)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:271:0031:0032:EN:PDF
+- whole_name: El-Sababt
+  strong: true
+  regulation_language: en
+  logical_id: '4272'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-10-15'
+    number_title: 1690/2005 (OJ L271)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:271:0031:0032:EN:PDF
+- whole_name: Hani Youssef
+  strong: true
+  regulation_language: en
+  logical_id: '4265'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-10-15'
+    number_title: 1690/2005 (OJ L271)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:271:0031:0032:EN:PDF
 - first_name: Hani
   middle_name: al-Sayyid
   last_name: Al Siba’i
@@ -68,45 +132,24 @@ name_aliases:
     publication_date: '2006-08-30'
     number_title: 1286/2006 (OJ L235)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:235:0014:0016:EN:PDF
-- whole_name: El-Sababt
+- whole_name: Hany Youseff
   strong: true
   regulation_language: en
-  logical_id: '4272'
+  logical_id: '4266'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-10-15'
     number_title: 1690/2005 (OJ L271)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:271:0031:0032:EN:PDF
-- whole_name: Abu Tusnin
+- whole_name: Hani Yusef
   strong: true
   regulation_language: en
-  logical_id: '4273'
+  logical_id: '4267'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-10-15'
     number_title: 1690/2005 (OJ L271)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:271:0031:0032:EN:PDF
-- whole_name: Abu Akram
-  strong: true
-  regulation_language: en
-  logical_id: '4274'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-10-15'
-    number_title: 1690/2005 (OJ L271)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:271:0031:0032:EN:PDF
-- first_name: Hani
-  middle_name: Elsayed
-  last_name: Youssef
-  whole_name: Hani Elsayed Youssef
-  strong: true
-  regulation_language: en
-  logical_id: '4979'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-08-30'
-    number_title: 1286/2006 (OJ L235)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:235:0014:0016:EN:PDF
 - first_name: Hani
   middle_name: al-Sayyid
   last_name: Al-Sabai
@@ -119,61 +162,18 @@ name_aliases:
     publication_date: '2006-08-30'
     number_title: 1286/2006 (OJ L235)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:235:0014:0016:EN:PDF
-- whole_name: Hani Youssef
-  strong: true
-  regulation_language: en
-  logical_id: '4265'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-10-15'
-    number_title: 1690/2005 (OJ L271)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:271:0031:0032:EN:PDF
 - first_name: Hani
-  middle_name: Yousef
-  last_name: Al-Sebai
-  whole_name: Hani Yousef Al-Sebai
+  middle_name: al-Sayyid
+  last_name: El Sebai
+  whole_name: Hani al-Sayyid El Sebai
   strong: true
   regulation_language: en
-  logical_id: '4264'
+  logical_id: '4269'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-08-30'
     number_title: 1286/2006 (OJ L235)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:235:0014:0016:EN:PDF
-- first_name: Hani
-  middle_name: Al-Sayyid Al-Sebai
-  last_name: Yusif
-  whole_name: Hani Al-Sayyid Al-Sebai Yusif
-  strong: true
-  regulation_language: en
-  logical_id: '4263'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-02-08'
-    number_title: 97/2012 (OJ L35)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:035:0004:0005:EN:PDF
-- first_name: Hani
-  middle_name: El Sayyed Elsebai
-  last_name: Yusef
-  whole_name: Hani El Sayyed Elsebai Yusef
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '4261'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-10-06'
-    number_title: 1629/2005 (OJ L260)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:260:0009:0010:EN:PDF
-- whole_name: Abu Karim
-  strong: true
-  regulation_language: en
-  logical_id: '4262'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-10-06'
-    number_title: 1629/2005 (OJ L260)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:260:0009:0010:EN:PDF
 citizenships:
 - country_iso2_code: EG
   country_description: EGYPT

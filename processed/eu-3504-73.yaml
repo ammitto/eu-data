@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hugues
-  middle_name: Raston Ilunga
-  last_name: Kampete
-  whole_name: Hugues Raston Ilunga Kampete
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110354'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-09'
-    number_title: 2022/2401 (OJ L317)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2401
 - first_name: Ilunga
   last_name: KAMPETE
   whole_name: Ilunga KAMPETE
@@ -40,6 +26,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '110356'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-09'
+    number_title: 2022/2401 (OJ L317)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2401
+- first_name: Hugues
+  middle_name: Raston Ilunga
+  last_name: Kampete
+  whole_name: Hugues Raston Ilunga Kampete
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110354'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-09'

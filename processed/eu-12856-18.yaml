@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Mike Bravo
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173803'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-17'
+    number_title: 2025/509 (OJ L202500509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500509
 - whole_name: John Imani NZENZE
   function: "“Colonel” and “G2” intelligence chief of the M23 armed group (M23)"
   gender: M
@@ -22,17 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173804'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-17'
-    number_title: 2025/509 (OJ L202500509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500509
-- whole_name: Mike Bravo
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173803'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-17'

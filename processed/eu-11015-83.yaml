@@ -24,6 +24,26 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: sociedad limitada N-Systems
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160765'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: N-Systems Zrt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161111'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: N-Sistems, s. r. o.
   name_language: CS
   strong: true
@@ -44,21 +64,31 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: N-Systems Zrt.
-  name_language: HU
+- whole_name: Общество С Ограниченной Ответственностью “Н-Системс”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '161111'
+  logical_id: '160312'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad limitada N-Systems
-  name_language: ES
+- whole_name: OOO “N-Sistems”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160765'
+  logical_id: '160311'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: N-Sistems LTD
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160314'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -75,41 +105,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: OOO “N-Sistems”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160311'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Общество С Ограниченной Ответственностью “Н-Системс”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '160312'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Obshchestvo S Ogranichennoy Otvetstvennost’yu “N-Sistems”
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '160313'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: N-Sistems LTD
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160314'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

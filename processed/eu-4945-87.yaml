@@ -15,28 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Samir
-  last_name: Fawz
-  whole_name: Samir Fawz
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '119213'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-26'
-    number_title: 2023/1027 (OJ L139)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
-- whole_name: Samer Zuhair Foz
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '119212'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-01-21'
-    number_title: 2019/85 (OJ L18 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0085&from=EN
-- first_name: Samir
   last_name: Foz
   whole_name: Samir Foz
   gender: M
@@ -61,6 +39,28 @@ name_aliases:
     publication_date: '2022-05-31'
     number_title: 2022/840 (OJ L148)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- first_name: Samir
+  last_name: Fawz
+  whole_name: Samir Fawz
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '119213'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-26'
+    number_title: 2023/1027 (OJ L139)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1027
+- whole_name: Samer Zuhair Foz
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '119212'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-01-21'
+    number_title: 2019/85 (OJ L18 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0085&from=EN
 - whole_name: سامر فوز
   gender: M
   name_language: AR
@@ -83,19 +83,19 @@ name_aliases:
     number_title: 2021/848 (OJ L188)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
 citizenships:
-- country_iso2_code: TR
-  country_description: TURKEY
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '119210'
+  logical_id: '119211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-01-21'
     number_title: 2019/85 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0085&from=EN
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: TR
+  country_description: TURKEY
   regulation_language: en
-  logical_id: '119211'
+  logical_id: '119210'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-01-21'

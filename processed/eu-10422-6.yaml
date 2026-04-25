@@ -14,14 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aleksey
-  last_name: Girichev
-  whole_name: Aleksey Girichev
+- first_name: Alexej
+  middle_name: Ivanovič
+  last_name: GIRIČEV
+  whole_name: Alexej Ivanovič GIRIČEV
   gender: M
-  name_language: MT
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '156093'
+  logical_id: '156072'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -36,6 +37,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156057'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Алексей
+  middle_name: Иванович
+  last_name: ГИРИЧЕВ
+  whole_name: Алексей Иванович ГИРИЧЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '155582'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -58,20 +73,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Алексей
-  middle_name: Иванович
-  last_name: ГИРИЧЕВ
-  whole_name: Алексей Иванович ГИРИЧЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '155582'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Aleksej
   last_name: Giričev
   whole_name: Aleksej Giričev
@@ -85,15 +86,14 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Alexej
-  middle_name: Ivanovič
-  last_name: GIRIČEV
-  whole_name: Alexej Ivanovič GIRIČEV
+- first_name: Aleksey
+  last_name: Girichev
+  whole_name: Aleksey Girichev
   gender: M
-  name_language: SK
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '156072'
+  logical_id: '156093'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

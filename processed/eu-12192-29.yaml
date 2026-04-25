@@ -14,11 +14,70 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Tukikohta
-  name_language: FI
+- whole_name: Η Βάση
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '169591'
+  logical_id: '169598'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2055 (OJ L26072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
+- whole_name: Baas
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '169599'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2055 (OJ L26072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
+- whole_name: Basis
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '169600'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2055 (OJ L26072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
+- whole_name: Základna
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '169601'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2055 (OJ L26072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
+- whole_name: Основата
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '169602'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2055 (OJ L26072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
+- whole_name: The Base
+  strong: true
+  regulation_language: en
+  logical_id: '169603'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2055 (OJ L26072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
+- whole_name: La base
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '169597'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -74,70 +133,11 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2055 (OJ L26072024)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
-- whole_name: The Base
+- whole_name: Tukikohta
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '169603'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2055 (OJ L26072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
-- whole_name: Η Βάση
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '169598'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2055 (OJ L26072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
-- whole_name: Baas
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '169599'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2055 (OJ L26072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
-- whole_name: Basis
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '169600'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2055 (OJ L26072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
-- whole_name: Základna
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '169601'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2055 (OJ L26072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
-- whole_name: Основата
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '169602'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2055 (OJ L26072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32025R1578
-- whole_name: La base
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '169597'
+  logical_id: '169591'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

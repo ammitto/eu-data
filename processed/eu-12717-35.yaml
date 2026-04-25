@@ -14,25 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Beijing Head Aerospace Technology
-  name_language: EN
+- whole_name: Întreprinderea chineză HEAD de Tehnologie Aerospațială
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '172700'
+  logical_id: '173334'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: China Head Aerospace Technology Company
-  function: China Head Aerospace Technology is a PRC-based firm specialised in the
-    production of satellite imagery. The firm is an official supplier of remote sensing
-    data to Russian firm Rakurs, which is a supplier of the Russian Ministry of Defence.
-  title: 'Type of entity: Limited Liability Company'
-  name_language: EN
+- whole_name: Beijing Hede Űrtechnológia
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172701'
+  logical_id: '173415'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -43,16 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Beijing Hede Aerospace Technology
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172699'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -78,21 +64,35 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Întreprinderea chineză HEAD de Tehnologie Aerospațială
-  name_language: RO
+- whole_name: Beijing Hede Aerospace Technology
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173334'
+  logical_id: '172699'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Beijing Hede Űrtechnológia
-  name_language: HU
+- whole_name: Beijing Head Aerospace Technology
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173415'
+  logical_id: '172700'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: China Head Aerospace Technology Company
+  function: China Head Aerospace Technology is a PRC-based firm specialised in the
+    production of satellite imagery. The firm is an official supplier of remote sensing
+    data to Russian firm Rakurs, which is a supplier of the Russian Ministry of Defence.
+  title: 'Type of entity: Limited Liability Company'
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172701'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

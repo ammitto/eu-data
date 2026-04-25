@@ -29,19 +29,19 @@ name_aliases:
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 citizenships:
-- country_iso2_code: PK
-  country_description: PAKISTAN
+- country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '754'
+  logical_id: '101660'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- country_iso2_code: AF
-  country_description: AFGHANISTAN
+- country_iso2_code: PK
+  country_description: PAKISTAN
   regulation_language: en
-  logical_id: '101660'
+  logical_id: '754'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'

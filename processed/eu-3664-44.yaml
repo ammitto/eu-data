@@ -57,6 +57,20 @@ birthdates:
     publication_date: '2016-09-30'
     number_title: 2016/1736 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1736&from=EN
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1966
+  region: Deh Rawud District
+  place: Naw  Deh  village
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '109753'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-04-27'
+    number_title: 2018/648 (OJ L108)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0648&from=EN
 - circa: false
   calendar_type: GREGORIAN
   year: 1960
@@ -67,20 +81,6 @@ birthdates:
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '109752'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-04-27'
-    number_title: 2018/648 (OJ L108)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0648&from=EN
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1966
-  region: Deh Rawud District
-  place: Naw  Deh  village
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '109753'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-04-27'

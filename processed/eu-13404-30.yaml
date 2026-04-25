@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Societatea  cu răspundere limitată  Intershipping Services
-  name_language: RO
+- whole_name: Intershipping Services LLC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177362'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Intershipping  Services Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177363'
+  logical_id: '177365'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -44,11 +34,21 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Intershipping Services LLC
-  name_language: EN
+- whole_name: Intershipping  Services Kft.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '177365'
+  logical_id: '177363'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Societatea  cu răspundere limitată  Intershipping Services
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177362'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

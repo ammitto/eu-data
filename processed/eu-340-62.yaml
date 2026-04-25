@@ -61,11 +61,11 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
-  city: Zurmat District, Paktia Province
+  city: Lablan village, Dehrawood District, Uruzgan Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1822'
+  logical_id: '977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -73,11 +73,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: true
   calendar_type: GREGORIAN
-  city: Lablan village, Dehrawood District, Uruzgan Province
+  city: Zurmat District, Paktia Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '977'
+  logical_id: '1822'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

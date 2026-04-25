@@ -15,20 +15,18 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Marina
-  last_name: TAUBER
-  whole_name: Marina TAUBER
-  function: Deputy leader of the ȘOR Party and a Member of the Parliament of the Republic
-    of Moldova (since March 2019).
+  last_name: Tauberová
+  whole_name: Marina Tauberová
   gender: F
-  name_language: MO
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '153823'
+  logical_id: '153847'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-04-28'
-    number_title: 2025/817 (OJ L202500817)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500817
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 - first_name: Marina
   last_name: Tauberová
   whole_name: Marina Tauberová
@@ -43,18 +41,20 @@ name_aliases:
     number_title: 2023/1045 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 - first_name: Marina
-  last_name: Tauberová
-  whole_name: Marina Tauberová
+  last_name: TAUBER
+  whole_name: Marina TAUBER
+  function: Deputy leader of the ȘOR Party and a Member of the Parliament of the Republic
+    of Moldova (since March 2019).
   gender: F
-  name_language: CS
+  name_language: MO
   strong: true
   regulation_language: en
-  logical_id: '153847'
+  logical_id: '153823'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
+    publication_date: '2025-04-28'
+    number_title: 2025/817 (OJ L202500817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500817
 citizenships:
 - country_iso2_code: MD
   country_description: MOLDOVA, REPUBLIC OF

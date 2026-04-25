@@ -16,11 +16,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Fundación “Russkiy Mir”
-  name_language: ES
+- whole_name: Fondą „Russkiy Mir“
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '152169'
+  logical_id: '152623'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Nadace Ruský svět
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152525'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -66,41 +76,11 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Nadace Ruský svět
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152525'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: ίδρυμα “Russkiy Mir”
   name_language: EL
   strong: true
   regulation_language: en
   logical_id: '152434'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Sihtasutuse Russkiy Mir
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '152622'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Fondą „Russkiy Mir“
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '152623'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -225,6 +205,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142808'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Fundación “Russkiy Mir”
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '152169'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Sihtasutuse Russkiy Mir
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '152622'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

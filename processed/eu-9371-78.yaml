@@ -14,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО 'ВОСТОЧНАЯ ВЕРФЬ'
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147147'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: JSC VOSTOCHNAIA VERF
   function: Russian shipbuilding company
   strong: true
   regulation_language: en
   logical_id: '147148'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: АО 'ВОСТОЧНАЯ ВЕРФЬ'
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147147'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

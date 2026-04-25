@@ -24,17 +24,6 @@ name_aliases:
     number_title: 785/2006 (OJ L138)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:138:0007:0009:EN:PDF
 addresses:
-- street: Hai Babil, Lane 11, District 929
-  city: Baghdad
-  country_iso2_code: IQ
-  country_description: IRAQ
-  regulation_language: en
-  logical_id: '459'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 979/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
 - street: P.O. Box 2337, Alwiyah
   city: Baghdad
   country_iso2_code: IQ
@@ -52,6 +41,17 @@ addresses:
   country_description: IRAQ
   regulation_language: en
   logical_id: '460'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-05-15'
+    number_title: 979/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
+- street: Hai Babil, Lane 11, District 929
+  city: Baghdad
+  country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '459'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-05-15'

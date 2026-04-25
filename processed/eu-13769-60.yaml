@@ -14,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Julkinen Polyus-osakeyhtiö
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '179508'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Societatea publică pe  acțiuni - Polyus
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '179509'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Polyus - Nyilvánosan Működő  Részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '179510'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Société publique par actions Polyus
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '179511'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Публичное акционерное  общество   ПОЛЮС
   name_language: RU
   strong: true
@@ -74,6 +34,16 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: PJSC Polyus
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179373'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Public Joint Stock Company Polyus
   function: A leading Russian gold mining company operating in the Russian gold sector
   name_language: EN
@@ -85,11 +55,41 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: PJSC Polyus
-  name_language: EN
+- whole_name: Société publique par actions Polyus
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '179373'
+  logical_id: '179511'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Julkinen Polyus-osakeyhtiö
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '179508'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Polyus - Nyilvánosan Működő  Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '179510'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Societatea publică pe  acțiuni - Polyus
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '179509'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

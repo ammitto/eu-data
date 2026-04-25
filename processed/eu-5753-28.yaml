@@ -14,44 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Vadim Dmitrievich IPATOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '125270'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-10-02'
-    number_title: 2020/1387 (OJ L319I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
-- whole_name: Вадим Дмитриевич ИПАТОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '125519'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-10-02'
-    number_title: 2020/1387 (OJ L319I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
-- whole_name: Вадзім Дзмітрыевіч ІПАТАЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '125520'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-10-02'
-    number_title: 2020/1387 (OJ L319I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
-- whole_name: Vadzim Dzmitryjevitj IPATAU
+- whole_name: Vadim Dmitrijevitj IPATOV
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '127971'
+  logical_id: '127970'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'
@@ -68,12 +36,44 @@ name_aliases:
     publication_date: '2020-10-02'
     number_title: 2020/1387 (OJ L319I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
-- whole_name: Vadim Dmitrijevitj IPATOV
+- whole_name: Вадзім Дзмітрыевіч ІПАТАЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '125520'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-02'
+    number_title: 2020/1387 (OJ L319I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
+- whole_name: Вадим Дмитриевич ИПАТОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '125519'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-02'
+    number_title: 2020/1387 (OJ L319I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
+- whole_name: Vadim Dmitrievich IPATOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '125270'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-02'
+    number_title: 2020/1387 (OJ L319I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
+- whole_name: Vadzim Dzmitryjevitj IPATAU
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '127970'
+  logical_id: '127971'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'

@@ -60,19 +60,6 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1973
-  city: Shinkalai village, Nad-e-Ali District, Helmand Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1864'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1973
   city: Zabul province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -83,6 +70,19 @@ birthdates:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1973
+  city: Shinkalai village, Nad-e-Ali District, Helmand Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '1864'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 identifications:
 - identification_type_code: passport
   number: OA462456

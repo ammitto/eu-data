@@ -14,51 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad de responsabilidad limitada MG-Flot
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '163923'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: ООО Трансморфлот
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '163210'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: ООО МГ-ФЛОТ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163211'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Transseaport
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163212'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: TransMorFlot shipping company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163213'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -81,6 +41,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163214'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: TransMorFlot shipping company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163213'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Transseaport
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163212'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: ООО МГ-ФЛОТ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '163211'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: sociedad de responsabilidad limitada MG-Flot
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '163923'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

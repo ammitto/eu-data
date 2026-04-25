@@ -16,6 +16,24 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Rahat Ltd
+  strong: true
+  regulation_language: en
+  logical_id: '16903'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-21'
+    number_title: 1244/2012 (OJ L352)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
+- whole_name: Musa Kalim Hawala
+  strong: true
+  regulation_language: en
+  logical_id: '17683'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-03-15'
+    number_title: 261/2014 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0261&from=EN
 - whole_name: New Chagai Trading
   strong: true
   regulation_language: en
@@ -43,31 +61,24 @@ name_aliases:
     publication_date: '2012-12-21'
     number_title: 1244/2012 (OJ L352)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
-- whole_name: Rahat Ltd
-  strong: true
+addresses:
+- street: 'Branch Office 8: Chaman'
+  city: Baluchistan Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
   regulation_language: en
-  logical_id: '16903'
+  logical_id: '2468'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-21'
     number_title: 1244/2012 (OJ L352)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
-- whole_name: Musa Kalim Hawala
-  strong: true
-  regulation_language: en
-  logical_id: '17683'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-03-15'
-    number_title: 261/2014 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0261&from=EN
-addresses:
-- street: 'Branch Office 9: Chaghi Bazaar'
-  city: Chaghi, Baluchistan Province
+- street: 'Branch Office 6: Zaranj District'
+  city: Nimroz Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '2469'
+  logical_id: '2464'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-21'
@@ -84,68 +95,12 @@ addresses:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- street: 'Branch Office 1: Room number 33, 5th Floor, Sarafi Market'
-  city: Kandahar city, Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2459'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-21'
-    number_title: 1244/2012 (OJ L352)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
-- street: 'Branch Office 2: Shop number 4, Azizi Bank, Haji Muhammad Isa Market, Wesh,
-    Spin Boldak'
-  city: Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2460'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-21'
-    number_title: 1244/2012 (OJ L352)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
-- street: 'Branch Office 3: Safaar Bazaar, Garmser District'
-  city: Helmand Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2461'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-21'
-    number_title: 1244/2012 (OJ L352)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
-- street: 'Branch Office 4: Lashkar Gah'
-  city: Helmand Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2462'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-21'
-    number_title: 1244/2012 (OJ L352)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
-- street: 'Branch Office 8: Chaman'
-  city: Baluchistan Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '2468'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-12-21'
-    number_title: 1244/2012 (OJ L352)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
-- street: 'Branch Office 7: Kandahari Bazaar'
+- street: 'Branch Office 7: Dr Barno Road,'
   city: Quetta
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
-  logical_id: '2467'
+  logical_id: '2465'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-21'
@@ -163,6 +118,39 @@ addresses:
     publication_date: '2012-12-21'
     number_title: 1244/2012 (OJ L352)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
+- street: 'Branch Office 4: Lashkar Gah'
+  city: Helmand Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2462'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-21'
+    number_title: 1244/2012 (OJ L352)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
+- street: 'Branch Office 7: Kandahari Bazaar'
+  city: Quetta
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '2467'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-21'
+    number_title: 1244/2012 (OJ L352)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
+- street: 'Branch Office 1: Room number 33, 5th Floor, Sarafi Market'
+  city: Kandahar city, Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2459'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-21'
+    number_title: 1244/2012 (OJ L352)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
 - street: 'Branch Office 5: Gereshk District'
   city: Helmand Province
   country_iso2_code: AF
@@ -174,23 +162,35 @@ addresses:
     publication_date: '2012-12-21'
     number_title: 1244/2012 (OJ L352)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
-- street: 'Branch Office 6: Zaranj District'
-  city: Nimroz Province
+- street: 'Branch Office 2: Shop number 4, Azizi Bank, Haji Muhammad Isa Market, Wesh,
+    Spin Boldak'
+  city: Kandahar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '2464'
+  logical_id: '2460'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-21'
     number_title: 1244/2012 (OJ L352)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
-- street: 'Branch Office 7: Dr Barno Road,'
-  city: Quetta
-  country_iso2_code: PK
-  country_description: PAKISTAN
+- street: 'Branch Office 9: Chaghi Bazaar'
+  city: Chaghi, Baluchistan Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '2465'
+  logical_id: '2469'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-12-21'
+    number_title: 1244/2012 (OJ L352)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
+- street: 'Branch Office 3: Safaar Bazaar, Garmser District'
+  city: Helmand Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2461'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-21'

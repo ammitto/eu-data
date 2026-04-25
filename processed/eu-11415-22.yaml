@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vadim
-  middle_name: Konstantinovič
-  last_name: Kalinin
-  whole_name: Vadim Konstantinovič Kalinin
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164600'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Wadim
   middle_name: Konstantinowitsch
   last_name: KALININ
@@ -52,6 +38,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164255'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Vadim
+  middle_name: Konstantinovič
+  last_name: Kalinin
+  whole_name: Vadim Konstantinovič Kalinin
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164600'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

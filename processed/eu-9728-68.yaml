@@ -24,31 +24,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Yleisvenäläinen kansanrintama
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '151330'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Gesamtrussische Volksfront
   name_language: DE
   strong: true
   regulation_language: en
   logical_id: '151093'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Frontul Popular Panrus
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151230'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -124,21 +104,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Front populaire panrusse
-  name_language: FR
+- whole_name: Yleisvenäläinen kansanrintama
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '151106'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Al-Rusland Volksfront
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '151198'
+  logical_id: '151330'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -174,6 +144,16 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Al-Rusland Volksfront
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151198'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Общероссийский народный фронт
   name_language: RU
   strong: true
@@ -198,6 +178,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149963'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Frontul Popular Panrus
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151230'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Front populaire panrusse
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151106'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

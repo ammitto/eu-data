@@ -24,20 +24,20 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC Scientific and Production Association “POISK”
-  strong: true
-  regulation_language: en
-  logical_id: '177079'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Акционерное общество “Научно Производственное Объединение ‘ПОИСК’”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '177080'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: JSC Scientific and Production Association “POISK”
+  strong: true
+  regulation_language: en
+  logical_id: '177079'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

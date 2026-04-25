@@ -14,11 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: German Rustemovitj KADYROV
+- whole_name: Герман Рустемович КАДЫРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '138799'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: Herman Rustemovytj KADYROV
   name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '139551'
+  logical_id: '139550'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
@@ -35,6 +46,16 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: German Rustemovitj KADYROV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139551'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - whole_name: German Rustemovich KADYROV
   function: Member of the so-called “People’s Council” of the so-called “Donetsk People's
     Republic”
@@ -43,27 +64,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138800'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: Herman Rustemovytj KADYROV
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139550'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Герман Рустемович КАДЫРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138799'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'

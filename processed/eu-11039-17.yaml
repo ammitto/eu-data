@@ -14,11 +14,52 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: JSC “Promyshlennyye Tekhnologii”
+  function: a Russian manufacturer of firearms
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160447'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: sociedad anónima Promyshlennye Tekhnologii
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JSC “Industriële technologieën”
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '160806'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: АО “Промышленные технологии”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '160445'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Promyšlennyje těchologii, a. s.
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '161166'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -35,47 +76,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “Promyshlennyye Tekhnologii”
-  function: a Russian manufacturer of firearms
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160447'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “Industriële technologieën”
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '160806'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima Promyshlennye Tekhnologii
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160786'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: "„Ipari technológiák” Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161164'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: "„Promyshlennyye Tekhnologii” Rt."
   name_language: HU
   strong: true
@@ -86,11 +86,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Promyšlennyje těchologii, a. s.
-  name_language: CS
+- whole_name: "„Ipari technológiák” Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '161166'
+  logical_id: '161164'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

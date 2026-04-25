@@ -26,10 +26,25 @@ name_aliases:
     publication_date: '2009-07-10'
     number_title: 601/2009 (OJ L179)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:179:0054:0055:EN:PDF
-- whole_name: Shaykh Aminullah
+- first_name: Abu Mohammad
+  middle_name: Aminullah
+  last_name: Peshawari
+  whole_name: Abu Mohammad Aminullah Peshawari
   strong: true
   regulation_language: en
-  logical_id: '7209'
+  logical_id: '7211'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-07-10'
+    number_title: 601/2009 (OJ L179)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:179:0054:0055:EN:PDF
+- first_name: Shaykh
+  middle_name: Abu Mohammed Ameen
+  last_name: al-Peshawari
+  whole_name: Shaykh Abu Mohammed Ameen al-Peshawari
+  strong: true
+  regulation_language: en
+  logical_id: '7214'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-07-10'
@@ -59,25 +74,10 @@ name_aliases:
     publication_date: '2009-07-10'
     number_title: 601/2009 (OJ L179)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:179:0054:0055:EN:PDF
-- first_name: Abu Mohammad
-  middle_name: Aminullah
-  last_name: Peshawari
-  whole_name: Abu Mohammad Aminullah Peshawari
+- whole_name: Shaykh Aminullah
   strong: true
   regulation_language: en
-  logical_id: '7211'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-07-10'
-    number_title: 601/2009 (OJ L179)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:179:0054:0055:EN:PDF
-- first_name: Shaykh
-  middle_name: Abu Mohammed Ameen
-  last_name: al-Peshawari
-  whole_name: Shaykh Abu Mohammed Ameen al-Peshawari
-  strong: true
-  regulation_language: en
-  logical_id: '7214'
+  logical_id: '7209'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-07-10'
@@ -107,19 +107,6 @@ name_aliases:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
-  year: 1973
-  city: Shunkrai village, Sarkani District, Konar province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1156'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-08-06'
-    number_title: 754/2013 (OJ L210)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
-- circa: true
-  calendar_type: GREGORIAN
   year: 1961
   city: Shunkrai village, Sarkani District, Konar province
   country_iso2_code: AF
@@ -139,6 +126,19 @@ birthdates:
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '1154'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-08-06'
+    number_title: 754/2013 (OJ L210)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1973
+  city: Shunkrai village, Sarkani District, Konar province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '1156'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-08-06'

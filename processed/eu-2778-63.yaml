@@ -73,20 +73,6 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Oleg
-  middle_name: Anatoljevitj
-  last_name: TSARJOV
-  whole_name: Oleg Anatoljevitj TSARJOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151821'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Oleg
   middle_name: Anatolevich
   last_name: TSARYOV
   whole_name: Oleg Anatolevich TSARYOV
@@ -121,6 +107,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151820'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Oleg
+  middle_name: Anatoljevitj
+  last_name: TSARJOV
+  whole_name: Oleg Anatoljevitj TSARJOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151821'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

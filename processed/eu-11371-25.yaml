@@ -14,22 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Joint stock company “military-industrial corporation ‘research and production
-    association of mechanical engineering’”
-  name_language: EN
+- whole_name: НПО машиностроения
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163388'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: NPO Mashinostroyeniya
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163386'
+  logical_id: '163384'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -46,11 +35,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: НПО машиностроения
-  name_language: RU
+- whole_name: NPO Mashinostroyeniya
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163384'
+  logical_id: '163386'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -61,6 +50,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163930'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Joint stock company “military-industrial corporation ‘research and production
+    association of mechanical engineering’”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163388'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

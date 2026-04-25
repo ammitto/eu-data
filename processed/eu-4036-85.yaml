@@ -14,6 +14,46 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Ruské společenství „Sobol“
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '131451'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Comunidad rusa “Sobol”
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '131452'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Russische Gemeinschaft „Sobol“
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '131453'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Den russiske gruppe »Sobol«
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '131454'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
 - whole_name: Communauté russe “Sobol”
   name_language: FR
   strong: true
@@ -24,11 +64,11 @@ name_aliases:
     publication_date: '2021-09-13'
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Руска общност „Собол“
-  name_language: BG
+- whole_name: Vene kogukond „Sobol“
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '131402'
+  logical_id: '131456'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-09-13'
@@ -173,46 +213,6 @@ name_aliases:
     publication_date: '2021-09-13'
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Ruské společenství „Sobol“
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '131451'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Comunidad rusa “Sobol”
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '131452'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Russische Gemeinschaft „Sobol“
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '131453'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Den russiske gruppe »Sobol«
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '131454'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
 - whole_name: Русская община "Соболь"
   strong: true
   regulation_language: en
@@ -222,11 +222,11 @@ name_aliases:
     publication_date: '2021-09-13'
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Vene kogukond „Sobol“
-  name_language: ET
+- whole_name: Руска общност „Собол“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '131456'
+  logical_id: '131402'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-09-13'

@@ -19,12 +19,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Siraj
-  last_name: Haqqani
-  whole_name: Siraj Haqqani
+- first_name: Saraj
+  last_name: Haqani
+  whole_name: Saraj Haqani
   strong: true
   regulation_language: en
-  logical_id: '103218'
+  logical_id: '103221'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -34,17 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '103222'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- first_name: Saraj
-  last_name: Haqani
-  whole_name: Saraj Haqani
-  strong: true
-  regulation_language: en
-  logical_id: '103221'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -67,6 +56,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '103219'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- first_name: Siraj
+  last_name: Haqqani
+  whole_name: Siraj Haqqani
+  strong: true
+  regulation_language: en
+  logical_id: '103218'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -98,30 +98,6 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
-  city: Khost province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '103215'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- circa: true
-  calendar_type: GREGORIAN
-  city: Neka district, Paktika province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '103214'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- circa: true
-  calendar_type: GREGORIAN
   city: Srana village, Garda Saray district, Paktia province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -144,24 +120,48 @@ birthdates:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-addresses:
-- street: Kela neighbourhood/Danda neighbourhood
-  city: Miramshah, North Waziristan
-  country_iso2_code: PK
-  country_description: PAKISTAN
+- circa: true
+  calendar_type: GREGORIAN
+  city: Khost province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '103209'
+  logical_id: '103215'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- circa: true
+  calendar_type: GREGORIAN
+  city: Neka district, Paktika province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '103214'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+addresses:
 - street: Manba’ul uloom Madrasa
   city: Miramshah, North Waziristan
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
   logical_id: '103210'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- street: Kela neighbourhood/Danda neighbourhood
+  city: Miramshah, North Waziristan
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '103209'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'

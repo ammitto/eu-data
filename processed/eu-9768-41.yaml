@@ -14,11 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Rosbank állami tulajdonban lévő részvénytársaság
-  name_language: HU
+- whole_name: Публичное акционерное общество Росбанк
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151170'
+  logical_id: '150208'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Public joint-stock company Rosbank
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150209'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -54,26 +64,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Публичное акционерное общество Росбанк
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150208'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Public joint-stock company Rosbank
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150209'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Société publique par actions Rosbank
   name_language: FR
   strong: true
@@ -89,6 +79,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151160'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Rosbank állami tulajdonban lévő részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '151170'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -135,18 +135,6 @@ name_aliases:
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 addresses:
-- street: 9 ul. Bolshaya Yakimanka
-  city: Moscow
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '119180'
-  regulation_language: en
-  logical_id: '150205'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - street: Masha Poryvaeva str., 34
   city: Moscow
   country_iso2_code: RU
@@ -159,17 +147,19 @@ addresses:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-identifications:
-- identification_type_code: fiscalcode
-  number: '7730060164'
+- street: 9 ul. Bolshaya Yakimanka
+  city: Moscow
   country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '119180'
   regulation_language: en
-  logical_id: '150206'
+  logical_id: '150205'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+identifications:
 - identification_type_code: regnumber
   number: '1027739460737'
   country_iso2_code: RU
@@ -180,3 +170,13 @@ identifications:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- identification_type_code: fiscalcode
+  number: '7730060164'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '150206'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429

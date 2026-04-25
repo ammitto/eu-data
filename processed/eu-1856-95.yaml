@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Mohemat Sazie Shahid Satary
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158930'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Sanaye Shahid Satari
   name_language: EN
   strong: true
@@ -36,11 +46,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Mohemat Sazie Shahid Satary
+- whole_name: SSIG
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158930'
+  logical_id: '158932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -51,16 +61,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161981'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: SSIG
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

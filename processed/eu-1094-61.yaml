@@ -14,52 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Islamic Jihad Group
-  strong: true
-  regulation_language: en
-  logical_id: '4081'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-06-04'
-    number_title: 853/2005 (OJ L141)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
-- whole_name: Gruparea islamică Jihad
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '6180'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
-- whole_name: Libyan Society
-  strong: true
-  regulation_language: en
-  logical_id: '4083'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-06-04'
-    number_title: 853/2005 (OJ L141)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
-- whole_name: Kazakh Jama’at
-  strong: true
-  regulation_language: en
-  logical_id: '4084'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-06-04'
-    number_title: 853/2005 (OJ L141)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
-- whole_name: Jamaat Mojahedin
-  strong: true
-  regulation_language: en
-  logical_id: '4085'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-06-04'
-    number_title: 853/2005 (OJ L141)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
 - whole_name: Jamiyat
   strong: true
   regulation_language: en
@@ -215,76 +169,6 @@ name_aliases:
     publication_date: '2005-06-04'
     number_title: 853/2005 (OJ L141)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
-- whole_name: Societatea libaneză
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '6181'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
-- whole_name: Gruparea islamică Jihad din Uzbekistan
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '6182'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
-- whole_name: Uniunea Jihadului Islamic
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '6183'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
-- whole_name: Líbyjská organizácia
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '6184'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
-- whole_name: Skupina islamského džihádu Uzbekistanu
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '6185'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
-- whole_name: Únia islamského džihádu
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '6186'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
-- whole_name: Zveza islamskega džihada
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '6187'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-03-04'
-    number_title: 198/2008 (OJ L59)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
 - whole_name: Skupina Islamský džihád
   name_language: SK
   strong: true
@@ -423,10 +307,126 @@ name_aliases:
     publication_date: '2008-03-04'
     number_title: 198/2008 (OJ L59)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Gruparea islamică Jihad
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '6180'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Societatea libaneză
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '6181'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Gruparea islamică Jihad din Uzbekistan
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '6182'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Uniunea Jihadului Islamic
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '6183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Líbyjská organizácia
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '6184'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Skupina islamského džihádu Uzbekistanu
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '6185'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Únia islamského džihádu
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '6186'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Zveza islamskega džihada
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '6187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-03-04'
+    number_title: 198/2008 (OJ L59)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:059:0010:0011:EN:PDF
+- whole_name: Islamic Jihad Group
+  strong: true
+  regulation_language: en
+  logical_id: '4081'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-06-04'
+    number_title: 853/2005 (OJ L141)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
 - whole_name: Jama’at al-Jihad
   strong: true
   regulation_language: en
   logical_id: '4082'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-06-04'
+    number_title: 853/2005 (OJ L141)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
+- whole_name: Libyan Society
+  strong: true
+  regulation_language: en
+  logical_id: '4083'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-06-04'
+    number_title: 853/2005 (OJ L141)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
+- whole_name: Kazakh Jama’at
+  strong: true
+  regulation_language: en
+  logical_id: '4084'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-06-04'
+    number_title: 853/2005 (OJ L141)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:141:0008:0009:EN:PDF
+- whole_name: Jamaat Mojahedin
+  strong: true
+  regulation_language: en
+  logical_id: '4085'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-06-04'

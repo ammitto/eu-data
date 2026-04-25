@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Energiya
-  name_language: EN
+- whole_name: Публичное  Акционерное Общество  - Энергия
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179843'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: PAO Energiya
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179844'
+  logical_id: '179841'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -47,41 +37,31 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Sociedade pública  por ações - Energiya
-  name_language: PT
+- whole_name: PAO Energiya
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179836'
+  logical_id: '179844'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Energiya - Nyilvánosan Működő  Részvénytársaság
-  name_language: HU
+- whole_name: Energiya
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179837'
+  logical_id: '179843'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Энергия
-  name_language: RU
+- whole_name: PJSC Energiya
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179838'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Липецкая Энергия
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179839'
+  logical_id: '179842'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -97,21 +77,41 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Публичное  Акционерное Общество  - Энергия
+- whole_name: Липецкая Энергия
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179841'
+  logical_id: '179839'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: PJSC Energiya
-  name_language: EN
+- whole_name: Энергия
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179842'
+  logical_id: '179838'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Energiya - Nyilvánosan Működő  Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '179837'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Sociedade pública  por ações - Energiya
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '179836'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

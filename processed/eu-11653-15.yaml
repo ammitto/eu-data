@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Urál Légitársaság
-  name_language: HU
+- whole_name: Uralo avialinijos
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '167227'
+  logical_id: '167533'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -48,21 +48,21 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Uralo avialinijos
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '167533'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Uralské aerolinky
   name_language: CS
   strong: true
   regulation_language: en
   logical_id: '167530'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Urál Légitársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167227'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -103,20 +103,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 identifications:
 - identification_type_code: regnumber
-  number: '668501001'
+  number: '6608003013'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '167630'
+  logical_id: '166154'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - identification_type_code: regnumber
-  number: '6608003013'
+  number: '668501001'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '166154'
+  logical_id: '167630'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

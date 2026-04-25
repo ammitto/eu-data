@@ -14,6 +14,76 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Luganskij ekonomičeskij sajuz
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '128616'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Luhanský hospodársky zväz
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '128617'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Uniunea Economică Lugansk
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '128618'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: União Económica de Luhansk
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '128619'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Luhanskin talousunioni
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '128620'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Gospodarska unija Luganska
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '128621'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: Luganski Ekonomitscheski Sojus
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '152401'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Gospodarska unija Luhanska
   name_language: HR
   strong: true
@@ -29,16 +99,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152585'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Luganski Ekonomitscheski Sojus
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '152401'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -226,66 +286,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128615'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Luganskij ekonomičeskij sajuz
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '128616'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Luhanský hospodársky zväz
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '128617'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Uniunea Economică Lugansk
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '128618'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: União Económica de Luhansk
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '128619'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Luhanskin talousunioni
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '128620'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: Gospodarska unija Luganska
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '128621'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'

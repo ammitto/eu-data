@@ -15,24 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: CERS
-  strong: true
-  regulation_language: en
-  logical_id: '119275'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-01-21'
-    number_title: 2019/84 (OJ L18 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
-- whole_name: SSRC
-  strong: true
-  regulation_language: en
-  logical_id: '119274'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-01-21'
-    number_title: 2019/84 (OJ L18 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
 - whole_name: Centre de Recherche de Kaboun
   strong: true
   regulation_language: en
@@ -48,6 +30,24 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '119273'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-01-21'
+    number_title: 2019/84 (OJ L18 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
+- whole_name: CERS
+  strong: true
+  regulation_language: en
+  logical_id: '119275'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-01-21'
+    number_title: 2019/84 (OJ L18 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
+- whole_name: SSRC
+  strong: true
+  regulation_language: en
+  logical_id: '119274'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-01-21'

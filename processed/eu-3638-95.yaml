@@ -118,6 +118,18 @@ citizenships:
     number_title: 242/2009 (OJ L75)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
 birthdates:
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1964
+  country_iso2_code: RW
+  country_description: RWANDA
+  regulation_language: en
+  logical_id: '1124'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-03-21'
+    number_title: 242/2009 (OJ L75)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
 - birthdate: '1964-01-01'
   circa: false
   calendar_type: GREGORIAN
@@ -129,18 +141,6 @@ birthdates:
   country_description: RWANDA
   regulation_language: en
   logical_id: '1120'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-03-21'
-    number_title: 242/2009 (OJ L75)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1964
-  country_iso2_code: RW
-  country_description: RWANDA
-  regulation_language: en
-  logical_id: '1124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-03-21'

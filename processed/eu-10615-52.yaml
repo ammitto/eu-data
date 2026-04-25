@@ -27,16 +27,19 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1564 (OJ L190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
-- whole_name: Marabou
+- first_name: Ahmed Mahamud Hassan
+  last_name: ALIYANI
+  whole_name: Ahmed Mahamud Hassan ALIYANI
   gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156564'
+  logical_id: '165405'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1564 (OJ L190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
+    publication_date: '2024-04-30'
+    number_title: 2024/1271 (OJ L30042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 - whole_name: Murabu
   gender: M
   strong: true
@@ -118,21 +121,24 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: LEBLANC
+- whole_name: Marabou
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '165401'
+  logical_id: '156564'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1271 (OJ L30042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: SAINT JOYAGE
+    publication_date: '2023-07-28'
+    number_title: 2023/1564 (OJ L190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
+- first_name: Ahmed Mahmoud
+  last_name: HASSAN
+  whole_name: Ahmed Mahmoud HASSAN
   gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '165402'
+  logical_id: '165404'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'
@@ -149,27 +155,21 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- first_name: Ahmed Mahmoud
-  last_name: HASSAN
-  whole_name: Ahmed Mahmoud HASSAN
+- whole_name: SAINT JOYAGE
   gender: M
-  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '165404'
+  logical_id: '165402'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- first_name: Ahmed Mahamud Hassan
-  last_name: ALIYANI
-  whole_name: Ahmed Mahamud Hassan ALIYANI
+- whole_name: LEBLANC
   gender: M
-  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '165405'
+  logical_id: '165401'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'
@@ -186,6 +186,18 @@ citizenships:
     number_title: 2023/1564 (OJ L190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
 birthdates:
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1993
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '156561'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1564 (OJ L190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
 - birthdate: '1997-07-21'
   circa: false
   calendar_type: GREGORIAN
@@ -201,18 +213,6 @@ birthdates:
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1993
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '156561'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1564 (OJ L190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
 addresses:
 - country_iso2_code: CD
   country_description: CONGO, Democratic Republic of (was Zaire)
@@ -225,20 +225,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 identifications:
 - identification_type_code: passport
-  number: AB850901
+  number: AB187304
   country_iso2_code: TZ
   regulation_language: en
-  logical_id: '165409'
+  logical_id: '165408'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
 - identification_type_code: passport
-  number: AB187304
+  number: AB850901
   country_iso2_code: TZ
   regulation_language: en
-  logical_id: '165408'
+  logical_id: '165409'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'

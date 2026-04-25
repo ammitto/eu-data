@@ -26,17 +26,6 @@ name_aliases:
     publication_date: '2012-03-14'
     number_title: 215/2012 (OJ L74)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
-- first_name: Fazal
-  last_name: Rahim
-  whole_name: Fazal Rahim
-  strong: true
-  regulation_language: en
-  logical_id: '15736'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-14'
-    number_title: 215/2012 (OJ L74)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
 - first_name: Fazil
   last_name: Rahim
   whole_name: Fazil Rahim
@@ -59,6 +48,17 @@ name_aliases:
     publication_date: '2012-03-14'
     number_title: 215/2012 (OJ L74)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
+- first_name: Fazal
+  last_name: Rahim
+  whole_name: Fazal Rahim
+  strong: true
+  regulation_language: en
+  logical_id: '15736'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-14'
+    number_title: 215/2012 (OJ L74)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -70,6 +70,22 @@ citizenships:
     number_title: 215/2012 (OJ L74)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
 birthdates:
+- birthdate: '1973-01-24'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 24
+  month_of_year: 1
+  year: 1973
+  city: Kabul
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '1766'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-14'
+    number_title: 215/2012 (OJ L74)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
   year: 1975
@@ -107,22 +123,6 @@ birthdates:
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '1763'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-14'
-    number_title: 215/2012 (OJ L74)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
-- birthdate: '1973-01-24'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 24
-  month_of_year: 1
-  year: 1973
-  city: Kabul
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1766'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-14'

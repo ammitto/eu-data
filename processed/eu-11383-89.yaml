@@ -14,6 +14,91 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Kalinyin Gépgyár
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163863'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: JSC MZIK
+  function: JSC MZIK (a.k.a. Kalinin Machine-Building Plant) is a Russian military-industrial
+    state enterprise that develops combat equipment for the S-300V anti-aircraft missile
+    system and the BUK-M1 anti-aircraft missile system deployed by the Russian armed
+    forces.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163480'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: 8. sz. Üzem
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163859'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Jekatyerinburgi Egyesült Vállalatok
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163860'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Jekatyerinburgi Gépgyár
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163861'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: M.I. Kalinyinról Elnevezett Gépgyár” nyilvánosan működő részvénytársaság,
+    Yekaterinburg
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163862'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: sociedad anónima MZIK
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '164122'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: MZIK Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163864'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Публичное Акционерное Общество “Машиностроительный Завод Имени М.И.
     Калинина, Г. Екатеринбург”
   name_language: RU
@@ -25,11 +110,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: sociedad anónima MZIK
-  name_language: ES
+- whole_name: ПАО "Мзик"
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '164122'
+  logical_id: '163473'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -91,91 +176,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163479'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: JSC MZIK
-  function: JSC MZIK (a.k.a. Kalinin Machine-Building Plant) is a Russian military-industrial
-    state enterprise that develops combat equipment for the S-300V anti-aircraft missile
-    system and the BUK-M1 anti-aircraft missile system deployed by the Russian armed
-    forces.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163480'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: ПАО "Мзик"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163473'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: 8. sz. Üzem
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163859'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Jekatyerinburgi Egyesült Vállalatok
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163860'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Jekatyerinburgi Gépgyár
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163861'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: M.I. Kalinyinról Elnevezett Gépgyár” nyilvánosan működő részvénytársaság,
-    Yekaterinburg
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163862'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Kalinyin Gépgyár
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163863'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: MZIK Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163864'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

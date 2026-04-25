@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vadim
-  last_name: Muraško
-  whole_name: Vadim Muraško
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '172214'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Вадим
   middle_name: Ростиславович
   last_name: МУРАШКО
@@ -70,19 +57,6 @@ name_aliases:
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Vadzim
-  last_name: Muraška
-  whole_name: Vadzim Muraška
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '172215'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Vadzim
   middle_name: Rastivlavovich
   last_name: MURASHKA
   whole_name: Vadzim Rastivlavovich MURASHKA
@@ -92,6 +66,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170901'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Vadim
+  last_name: Muraško
+  whole_name: Vadim Muraško
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '172214'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Vadzim
+  last_name: Muraška
+  whole_name: Vadzim Muraška
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '172215'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

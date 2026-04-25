@@ -14,48 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sergej
-  middle_name: Anatolevič
-  last_name: Moroz
-  whole_name: Sergej Anatolevič Moroz
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164621'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Sergej
-  middle_name: Anatolievič
-  last_name: Moroz
-  whole_name: Sergej Anatolievič Moroz
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164696'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Sergei
-  middle_name: Anatoljevitš
-  last_name: Moroz
-  whole_name: Sergei Anatoljevitš Moroz
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '164655'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Сергей
   middle_name: Анатольевич
   last_name: МОРОЗ
@@ -95,6 +53,48 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164580'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Sergej
+  middle_name: Anatolevič
+  last_name: Moroz
+  whole_name: Sergej Anatolevič Moroz
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164621'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Sergei
+  middle_name: Anatoljevitš
+  last_name: Moroz
+  whole_name: Sergei Anatoljevitš Moroz
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164655'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Sergej
+  middle_name: Anatolievič
+  last_name: Moroz
+  whole_name: Sergej Anatolievič Moroz
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '164696'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

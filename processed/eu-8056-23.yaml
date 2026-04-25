@@ -14,33 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC Tactical Missiles Corporation
-  function: Russian manufacturer of air-to-surface and air-to-air weapon systems and
-    maritime weapon systems
-  name_language: EN
+- whole_name: Korporacja Pocisków Taktycznych SA
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '138996'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Корпорация „Тактическо ракетно въоръжение“ АД
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '152389'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: АО «Корпорация Тактическое Ракетное Вооружение»
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138995'
+  logical_id: '139227'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -56,11 +34,11 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Korporacja Pocisków Taktycznych SA
-  name_language: PL
+- whole_name: Корпорация „Тактическо ракетно въоръжение“ АД
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '139227'
+  logical_id: '152389'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -71,6 +49,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152452'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: АО «Корпорация Тактическое Ракетное Вооружение»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '138995'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: JSC Tactical Missiles Corporation
+  function: Russian manufacturer of air-to-surface and air-to-air weapon systems and
+    maritime weapon systems
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '138996'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

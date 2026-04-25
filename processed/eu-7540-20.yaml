@@ -14,44 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Piotr
-  last_name: Fradkov
-  whole_name: Piotr Fradkov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '152203'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Pjotr
-  last_name: Fradkov
-  whole_name: Pjotr Fradkov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152171'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Petr
-  last_name: Fradkov
-  whole_name: Petr Fradkov
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '152232'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Petr
   middle_name: Mikhaylovich
   last_name: FRADKOV
@@ -61,21 +23,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152043'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Peter
-  middle_name: Mikhaylovich
-  last_name: FRADKOV
-  whole_name: Peter Mikhaylovich FRADKOV
-  function: Chairman of the PJSC Promsvyazbank
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '136169'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -104,6 +51,59 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136168'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Peter
+  middle_name: Mikhaylovich
+  last_name: FRADKOV
+  whole_name: Peter Mikhaylovich FRADKOV
+  function: Chairman of the PJSC Promsvyazbank
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '136169'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Petr
+  last_name: Fradkov
+  whole_name: Petr Fradkov
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '152232'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Pjotr
+  last_name: Fradkov
+  whole_name: Pjotr Fradkov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152171'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Piotr
+  last_name: Fradkov
+  whole_name: Piotr Fradkov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '152203'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

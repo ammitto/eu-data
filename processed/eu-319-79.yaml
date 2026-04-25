@@ -18,15 +18,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Arefullah Aref
-  strong: true
-  regulation_language: en
-  logical_id: '111240'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - whole_name: Arefullah Aref Ghazi Mohammad
   function: "(a) Deputy Minister of Finance under the Taliban regime, (b) Governor
     of Ghazni Province under the Taliban regime, (c) Governor of Paktia Province under
@@ -35,6 +26,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '111239'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- whole_name: Arefullah Aref
+  strong: true
+  regulation_language: en
+  logical_id: '111240'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

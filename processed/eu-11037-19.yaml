@@ -14,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО “Лантан”
-  name_language: RU
+- whole_name: sociedad anónima Lantan
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '160434'
+  logical_id: '160784'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC Lantan
-  name_language: EN
+- whole_name: АО “Лантан”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160435'
+  logical_id: '160434'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -44,11 +44,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima Lantan
-  name_language: ES
+- whole_name: JSC Lantan
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160784'
+  logical_id: '160435'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

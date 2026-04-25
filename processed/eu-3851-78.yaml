@@ -37,19 +37,21 @@ name_aliases:
     publication_date: '2011-06-17'
     number_title: 577/2011 (OJ L159)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
-- whole_name: Abu-Ahmad Al-Shahid
+- first_name: Raed M.
+  last_name: Hijazi
+  whole_name: Raed M. Hijazi
   strong: true
   regulation_language: en
-  logical_id: '1380'
+  logical_id: '1376'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2017-03-25'
-    number_title: 2017/557 (OJ L80)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0557&from=EN
-- whole_name: Abu-Ahmad Al-Amriki (the American)
+    publication_date: '2011-06-17'
+    number_title: 577/2011 (OJ L159)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
+- whole_name: Abu- Ahmad Al-Hawen
   strong: true
   regulation_language: en
-  logical_id: '1379'
+  logical_id: '1377'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-25'
@@ -64,36 +66,25 @@ name_aliases:
     publication_date: '2017-03-25'
     number_title: 2017/557 (OJ L80)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0557&from=EN
-- whole_name: Abu- Ahmad Al-Hawen
+- whole_name: Abu-Ahmad Al-Amriki (the American)
   strong: true
   regulation_language: en
-  logical_id: '1377'
+  logical_id: '1379'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-25'
     number_title: 2017/557 (OJ L80)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0557&from=EN
-- first_name: Raed M.
-  last_name: Hijazi
-  whole_name: Raed M. Hijazi
+- whole_name: Abu-Ahmad Al-Shahid
   strong: true
   regulation_language: en
-  logical_id: '1376'
+  logical_id: '1380'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2011-06-17'
-    number_title: 577/2011 (OJ L159)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
+    publication_date: '2017-03-25'
+    number_title: 2017/557 (OJ L80)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0557&from=EN
 citizenships:
-- country_iso2_code: JO
-  country_description: JORDAN
-  regulation_language: en
-  logical_id: '144'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-05-20'
-    number_title: 866/2003 (OJ L124)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
 - country_iso2_code: US
   country_description: UNITED STATES
   regulation_language: en
@@ -103,6 +94,15 @@ citizenships:
     publication_date: '2017-03-25'
     number_title: 2017/557 (OJ L80)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0557&from=EN
+- country_iso2_code: JO
+  country_description: JORDAN
+  regulation_language: en
+  logical_id: '144'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-05-20'
+    number_title: 866/2003 (OJ L124)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
 birthdates:
 - birthdate: '1968-12-30'
   circa: false

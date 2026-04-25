@@ -14,31 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Przedsiębiorstwo technologii krajowych  Struktura
-  name_language: PL
+- whole_name: Tehnologiile Naționale «Structura»
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '156607'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Struktura – Národní technologie
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156633'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Teicneolachtaí Náisiúnta Structura
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '156646'
+  logical_id: '156609'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -65,11 +45,11 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Tehnologiile Naționale «Structura»
-  name_language: RO
+- whole_name: Przedsiębiorstwo technologii krajowych  Struktura
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '156609'
+  logical_id: '156607'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -80,6 +60,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155823'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: Struktura – Národní technologie
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156633'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- whole_name: Teicneolachtaí Náisiúnta Structura
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '156646'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

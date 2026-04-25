@@ -15,10 +15,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC “T.R.O.S”
+- whole_name: LLC “Open Systems Development Technology”
   strong: true
   regulation_language: en
-  logical_id: '177025'
+  logical_id: '177028'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Общество с ограниченной ответственностью “Технология Pазвития Открытых
+    Систем”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '177029'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -39,21 +50,10 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Общество с ограниченной ответственностью “Технология Pазвития Открытых
-    Систем”
-  name_language: RU
+- whole_name: LLC “T.R.O.S”
   strong: true
   regulation_language: en
-  logical_id: '177029'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: LLC “Open Systems Development Technology”
-  strong: true
-  regulation_language: en
-  logical_id: '177028'
+  logical_id: '177025'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -100,21 +100,21 @@ identifications:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- identification_type_code: taxid
-  number: '7706818288'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '177023'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: regnumber
   number: '5147746464256'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177024'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: taxid
+  number: '7706818288'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '177023'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

@@ -14,15 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC Signal
-  function: A Russian defence company which manufactures weapons, ammunition and explosives.
-    The company is part of the holding company NPK Tekhmash JSC, which produces conventional
-    weapons, ammunition and special chemicals and is part of the State Corporation
-    Rostec.
-  name_language: EN
+- whole_name: АО Сигнал
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179868'
+  logical_id: '179866'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -38,21 +34,15 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: АО Сигнал
-  name_language: RU
+- whole_name: JSC Signal
+  function: A Russian defence company which manufactures weapons, ammunition and explosives.
+    The company is part of the holding company NPK Tekhmash JSC, which produces conventional
+    weapons, ammunition and special chemicals and is part of the State Corporation
+    Rostec.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179866'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Signal - Nyilvánosan  Működő Részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '179865'
+  logical_id: '179868'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -63,6 +53,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179864'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Signal - Nyilvánosan  Működő Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '179865'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

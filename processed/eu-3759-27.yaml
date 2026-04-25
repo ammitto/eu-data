@@ -16,21 +16,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: GHALIB ABDULLAH AL-ZAIDI
+- whole_name: Ghalib al Zaydi
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '111182'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-25'
-    number_title: 2017/326 (OJ L49)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
-- whole_name: Ghalib Abdallah al-Zaydi
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '111181'
+  logical_id: '111179'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'
@@ -46,11 +36,21 @@ name_aliases:
     publication_date: '2017-02-25'
     number_title: 2017/326 (OJ L49)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
-- whole_name: Ghalib al Zaydi
+- whole_name: GHALIB ABDULLAH AL-ZAIDI
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '111179'
+  logical_id: '111182'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-25'
+    number_title: 2017/326 (OJ L49)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
+- whole_name: Ghalib Abdallah al-Zaydi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '111181'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'

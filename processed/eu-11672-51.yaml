@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: АО БЭМЗ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: JSC Bryansk Electromechanical Plant
   function: JSC Bryansk Electromechanical Plant is a Russian military industry company.
     It manufactures the Krasukha - a mobile, ground-based, electronic warfare system.
@@ -27,11 +37,11 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: АО БЭМЗ
-  name_language: RU
+- whole_name: Brjanszki Elektromechanikai Gyár Rt
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '166268'
+  logical_id: '167573'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -42,16 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167574'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Brjanszki Elektromechanikai Gyár Rt
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167573'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

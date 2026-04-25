@@ -14,17 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Ayham
+- first_name: Ali
+  last_name: Mamlouk
+  whole_name: Ali Mamlouk
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '150001'
+  logical_id: '149999'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Ali
   last_name: MAMLUK
   whole_name: Ali MAMLUK
@@ -42,6 +44,17 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: Abu Ayham
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150001'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 - whole_name: علي مملوك
   gender: M
   name_language: AR
@@ -64,19 +77,17 @@ name_aliases:
     publication_date: '2022-05-31'
     number_title: 2022/840 (OJ L148)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- first_name: Ali
-  last_name: Mamlouk
-  whole_name: Ali Mamlouk
+- whole_name: علي المملوك
   gender: M
-  name_language: EN
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '149999'
+  logical_id: '149997'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 - first_name: Ali
   last_name: Al-Mamlouk
   whole_name: Ali Al-Mamlouk
@@ -90,17 +101,6 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: علي المملوك
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '149997'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 birthdates:
 - birthdate: '1946-02-19'
   circa: false

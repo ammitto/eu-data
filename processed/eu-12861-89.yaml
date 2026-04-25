@@ -26,17 +26,6 @@ name_aliases:
     publication_date: '2025-03-17'
     number_title: 2025/509 (OJ L202500509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500509
-- whole_name: Erasto
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173825'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-17'
-    number_title: 2025/509 (OJ L202500509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500509
 - whole_name: Bahati Erasto
   gender: M
   name_language: EN
@@ -48,12 +37,12 @@ name_aliases:
     publication_date: '2025-03-17'
     number_title: 2025/509 (OJ L202500509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500509
-- whole_name: Colonel Erasto
+- whole_name: Erasto
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173823'
+  logical_id: '173825'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-17'
@@ -76,6 +65,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173822'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-17'
+    number_title: 2025/509 (OJ L202500509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500509
+- whole_name: Colonel Erasto
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173823'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-17'

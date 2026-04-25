@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: محمد صادق حیدری موسی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '155998'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1496 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
 - first_name: Mohammad Sadegh Heidari
   last_name: MOUSA
   whole_name: Mohammad Sadegh Heidari MOUSA
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155999'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1496 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
+- whole_name: محمد صادق حیدری موسی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '155998'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

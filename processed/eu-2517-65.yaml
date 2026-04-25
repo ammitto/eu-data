@@ -16,23 +16,23 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Institute of Applied Physics
-  function: "Organisation of Defensive Innovation and Research (SPND); \nMinistry
-    of Defense for Armed Forces Logistics (MODAFL)"
-  strong: true
-  regulation_language: en
-  logical_id: '12472'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-28'
-    number_title: 2025/1559 (OJ L202501559)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501559
 - whole_name: IAP
   function: "Organisation of Defensive Innovation and Research (SPND); \nMinistry
     of Defense for Armed Forces Logistics (MODAFL)"
   strong: true
   regulation_language: en
   logical_id: '12473'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-28'
+    number_title: 2025/1559 (OJ L202501559)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501559
+- whole_name: Institute of Applied Physics
+  function: "Organisation of Defensive Innovation and Research (SPND); \nMinistry
+    of Defense for Armed Forces Logistics (MODAFL)"
+  strong: true
+  regulation_language: en
+  logical_id: '12472'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-28'

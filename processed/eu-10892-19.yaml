@@ -14,47 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aleh
-  last_name: Miščanka
-  whole_name: Aleh Miščanka
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160823'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Aleh
-  middle_name: Ryhoravitj
-  last_name: MISJTJANKA
-  whole_name: Aleh Ryhoravitj MISJTJANKA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160622'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Oleg
-  middle_name: Grigorjevitj
-  last_name: MISJTJENKO
-  whole_name: Oleg Grigorjevitj MISJTJENKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160623'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Oleg
   last_name: Miščenko
   whole_name: Oleg Miščenko
@@ -68,16 +27,14 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Oleg
-  middle_name: Grigorievich
-  last_name: MISHCHENKO
-  whole_name: Oleg Grigorievich MISHCHENKO
-  function: First Deputy Chairman of the State Military-Industrial Committee
+- first_name: Aleh
+  last_name: Miščanka
+  whole_name: Aleh Miščanka
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '159535'
+  logical_id: '160823'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -125,6 +82,35 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Aleh
+  middle_name: Ryhoravitj
+  last_name: MISJTJANKA
+  whole_name: Aleh Ryhoravitj MISJTJANKA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160622'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Oleg
+  middle_name: Grigorievich
+  last_name: MISHCHENKO
+  whole_name: Oleg Grigorievich MISHCHENKO
+  function: First Deputy Chairman of the State Military-Industrial Committee
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159535'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Aleh
   middle_name: Ryhoravich
   last_name: MISHCHANKA
   whole_name: Aleh Ryhoravich MISHCHANKA
@@ -133,6 +119,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Oleg
+  middle_name: Grigorjevitj
+  last_name: MISJTJENKO
+  whole_name: Oleg Grigorjevitj MISJTJENKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160623'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

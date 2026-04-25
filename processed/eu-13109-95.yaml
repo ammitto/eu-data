@@ -14,21 +14,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»Samara Plant ’Kommunar’« Szövetségi Állami Vállalat"
-  name_language: HU
+- whole_name: Federal State Enterprise “Samara Plant ‘Kommunar’”
+  function: The Federal State Enterprise “Samara Plant ‘Kommunar’”, part of the State
+    Corporation Rostec, is a key supplier of gunpowder for the Armed Forces of the
+    Russian Federation. As a military industry company and federal state enterprise,
+    it is licenced by the Ministry of Industry and Trade of the Russian Federation
+    for the development, production, testing, storage, sale and disposal of ammunition.
+  title: Federal State Entreprise
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175500'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Федерално държавно предприятие „Самарски завод „Комунар““
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '175501'
+  logical_id: '175503'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -44,17 +40,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Federal State Enterprise “Samara Plant ‘Kommunar’”
-  function: The Federal State Enterprise “Samara Plant ‘Kommunar’”, part of the State
-    Corporation Rostec, is a key supplier of gunpowder for the Armed Forces of the
-    Russian Federation. As a military industry company and federal state enterprise,
-    it is licenced by the Ministry of Industry and Trade of the Russian Federation
-    for the development, production, testing, storage, sale and disposal of ammunition.
-  title: Federal State Entreprise
-  name_language: EN
+- whole_name: Федерално държавно предприятие „Самарски завод „Комунар““
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '175503'
+  logical_id: '175501'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Samara Plant ’Kommunar’« Szövetségi Állami Vállalat"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175500'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -83,21 +83,21 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: fiscalcode
-  number: '6367080065'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175498'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1036302392356'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175499'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
+  number: '6367080065'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175498'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

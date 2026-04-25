@@ -14,42 +14,40 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Serhij
-  last_name: HAVRYLTJUK
-  whole_name: Serhij HAVRYLTJUK
+- first_name: Sergej
+  last_name: Gavriľčuk
+  whole_name: Sergej Gavriľčuk
   gender: M
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '160646'
+  logical_id: '160858'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Serhij
-  middle_name: Oleksijovytj
-  last_name: HAVRYLTJUK
-  whole_name: Serhij Oleksijovytj HAVRYLTJUK
+  last_name: Havrilčuk
+  whole_name: Serhij Havrilčuk
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160647'
+  logical_id: '160859'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Sergej
-  middle_name: Aleksejevitj
-  last_name: GAVRILTJUK
-  whole_name: Sergej Aleksejevitj GAVRILTJUK
+  last_name: Gavrilčuk
+  whole_name: Sergej Gavrilčuk
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160648'
+  logical_id: '160860'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -96,14 +94,13 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Sergej
-  last_name: Gavrilčuk
-  whole_name: Sergej Gavrilčuk
-  gender: M
-  name_language: CS
+- first_name: Сергей
+  last_name: Гаврилчук
+  whole_name: Сергей Гаврилчук
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '160860'
+  logical_id: '161225'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -140,39 +137,42 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Serhij
-  last_name: Havrilčuk
-  whole_name: Serhij Havrilčuk
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160859'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Сергей
-  last_name: Гаврилчук
-  whole_name: Сергей Гаврилчук
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161225'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Sergej
-  last_name: Gavriľčuk
-  whole_name: Sergej Gavriľčuk
+  middle_name: Aleksejevitj
+  last_name: GAVRILTJUK
+  whole_name: Sergej Aleksejevitj GAVRILTJUK
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160858'
+  logical_id: '160648'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Serhij
+  last_name: HAVRYLTJUK
+  whole_name: Serhij HAVRYLTJUK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160646'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Serhij
+  middle_name: Oleksijovytj
+  last_name: HAVRYLTJUK
+  whole_name: Serhij Oleksijovytj HAVRYLTJUK
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160647'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -14,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Андрей Георгиевич БЫСТРИЦКИЙ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180228'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2568 (OJ L202502568)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
 - whole_name: Andrey Georgievich BYSTRITSKYI
   function: Andrei Bystritskyi’s leadership in Valdai and his media/academic background
     suggest he actively supports and disseminates the official Russian narrative regarding
@@ -31,16 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180229'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-12-15'
-    number_title: 2025/2568 (OJ L202502568)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
-- whole_name: Андрей Георгиевич БЫСТРИЦКИЙ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180228'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'

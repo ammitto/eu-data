@@ -14,6 +14,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: JSC "121 AIRCRAFT REPAIR PLANT"
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '140416'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Акционерное общество „121 авиационный ремонтный завод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '140415'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: société par actions “Entreprise de réparation d’aéronefs 121”
   name_language: FR
   strong: true
@@ -54,26 +74,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: JSC "121 AIRCRAFT REPAIR PLANT"
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '140416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Акционерное общество „121 авиационный ремонтный завод”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '140415'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Poduzeće 121 Aircraft Repair Plant
   name_language: HR
   strong: true

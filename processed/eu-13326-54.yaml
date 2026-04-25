@@ -14,61 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Societatea pe acțiuni «Polymer»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '177232'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Sociedade por ações “Polymer”
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '177233'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Polymer« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177234'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Polymer« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177235'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: АО “Полимер”
+- whole_name: Акционерное Общество “Полимер”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '176874'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: JSC “Polymer”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176875'
+  logical_id: '176876'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -94,11 +44,61 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Акционерное Общество “Полимер”
+- whole_name: АО “Полимер”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '176876'
+  logical_id: '176874'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: JSC “Polymer”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176875'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Societatea pe acțiuni «Polymer»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177232'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Sociedade por ações “Polymer”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177233'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: "»Polymer« Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177235'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: "»Polymer« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177234'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -119,21 +119,21 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: regnumber
-  number: '1026303177119'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '176873'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: taxid
   number: '6335005315'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '176872'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: regnumber
+  number: '1026303177119'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '176873'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

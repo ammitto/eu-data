@@ -15,22 +15,23 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: سازمان تحقیقات و جهادخودکفایی سپاه پاسداران
-  name_language: FA
+- whole_name: jihadistische organisatie voor onderzoek en zelfvoorziening van de Islamitische
+    Revolutionaire Garde
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '167446'
+  logical_id: '167455'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1793 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
-- whole_name: islami revolutsioonilise kaardiväe teadusuuringute ja isemajandamise
-    džihaadi organisatsioon
-  name_language: ET
+- whole_name: Οργάνωση Jihad Research and Self-Sufficiency του Στρατού των Φρουρών
+    της Ισλαμικής Επανάστασης
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '167466'
+  logical_id: '167456'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -123,12 +124,44 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1793 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
+- whole_name: سازمان تحقیقات و جهادخودکفایی سپاه پاسداران
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '167446'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1793 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
+- whole_name: Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad
+    Organisation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167447'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1793 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
 - whole_name: Islamo revoliucijos gvardijos mokslinių tyrimų ir savarankiško apsirūpinimo
     džihado organizacija
   name_language: LT
   strong: true
   regulation_language: en
   logical_id: '167465'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1793 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
+- whole_name: islami revolutsioonilise kaardiväe teadusuuringute ja isemajandamise
+    džihaadi organisatsioon
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '167466'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -205,39 +238,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167454'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1793 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
-- whole_name: jihadistische organisatie voor onderzoek en zelfvoorziening van de Islamitische
-    Revolutionaire Garde
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '167455'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1793 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
-- whole_name: Οργάνωση Jihad Research and Self-Sufficiency του Στρατού των Φρουρών
-    της Ισλαμικής Επανάστασης
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '167456'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1793 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401793
-- whole_name: Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad
-    Organisation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167447'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

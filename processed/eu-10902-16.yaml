@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Vladimir
+  last_name: Čereuchin
+  whole_name: Vladimir Čereuchin
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160851'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Uladzimir
   middle_name: Mikalajevitj
   last_name: TJARAUCHIN
@@ -37,6 +50,48 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160641'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Уладзімір
+  middle_name: Мікалаевіч
+  last_name: ЧАРАУХІН
+  whole_name: Уладзімір Мікалаевіч ЧАРАУХІН
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '159611'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Владимир
+  middle_name: Николаевич
+  last_name: ЧЕРЕУХИН
+  whole_name: Владимир Николаевич ЧЕРЕУХИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159612'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Uladzimir
+  middle_name: Mikalaevich
+  last_name: CHARAUKHIN
+  whole_name: Uladzimir Mikalaevich CHARAUKHIN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159613'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -71,20 +126,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Владимир
-  middle_name: Николаевич
-  last_name: ЧЕРЕУХИН
-  whole_name: Владимир Николаевич ЧЕРЕУХИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159612'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Uladzimir
   last_name: Čarauchin
   whole_name: Uladzimir Čarauchin
@@ -93,47 +134,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160850'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Vladimir
-  last_name: Čereuchin
-  whole_name: Vladimir Čereuchin
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160851'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Уладзімір
-  middle_name: Мікалаевіч
-  last_name: ЧАРАУХІН
-  whole_name: Уладзімір Мікалаевіч ЧАРАУХІН
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '159611'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Uladzimir
-  middle_name: Mikalaevich
-  last_name: CHARAUKHIN
-  whole_name: Uladzimir Mikalaevich CHARAUKHIN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159613'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

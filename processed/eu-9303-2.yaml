@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Arťom
+  last_name: Veděnov
+  whole_name: Arťom Veděnov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152329'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Artiom
   middle_name: Andrejevitj
   last_name: VEDENOV
@@ -28,15 +41,14 @@ name_aliases:
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Артём
-  middle_name: Андреевич
-  last_name: ВЕДЕНОВ
-  whole_name: Артём Андреевич ВЕДЕНОВ
+- first_name: Артьом
+  last_name: Веденов
+  whole_name: Артьом Веденов
   gender: M
-  name_language: RU
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '146874'
+  logical_id: '157525'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
@@ -59,27 +71,15 @@ name_aliases:
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Артьом
-  last_name: Веденов
-  whole_name: Артьом Веденов
+- first_name: Артём
+  middle_name: Андреевич
+  last_name: ВЕДЕНОВ
+  whole_name: Артём Андреевич ВЕДЕНОВ
   gender: M
-  name_language: BG
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '157525'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Arťom
-  last_name: Veděnov
-  whole_name: Arťom Veděnov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152329'
+  logical_id: '146874'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

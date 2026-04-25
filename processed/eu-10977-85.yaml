@@ -14,32 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: AlfaStrakhovanie Csoport
-  name_language: HU
+- whole_name: Групата „АльфаСтрахование“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '160995'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Alfa Biztosító
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160994'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: AlfaStrakhovanie Group
-  function: Russian insurance company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160095'
+  logical_id: '161257'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -66,11 +45,32 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Групата „АльфаСтрахование“
-  name_language: BG
+- whole_name: AlfaStrakhovanie Group
+  function: Russian insurance company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161257'
+  logical_id: '160095'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Alfa Biztosító
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160994'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: AlfaStrakhovanie Csoport
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160995'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -80,22 +80,6 @@ citizenships:
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 birthdates:
-- birthdate: '1963-04-11'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 11
-  month_of_year: 4
-  year: 1963
-  region: Monufia Governate
-  country_iso2_code: EG
-  country_description: EGYPT
-  regulation_language: en
-  logical_id: '2024'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-21'
-    number_title: 2017/296 (OJ L43)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0296&from=EN
 - birthdate: '1960-04-11'
   circa: false
   calendar_type: GREGORIAN
@@ -111,22 +95,6 @@ birthdates:
     publication_date: '2013-08-06'
     number_title: 754/2013 (OJ L210)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
-- birthdate: '1963-04-11'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 11
-  month_of_year: 4
-  year: 1963
-  place: Monufia Governorate
-  country_iso2_code: EG
-  country_description: EGYPT
-  regulation_language: en
-  logical_id: '110824'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-21'
-    number_title: 2017/296 (OJ L43)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0296&from=EN
 - birthdate: '1960-04-11'
   circa: false
   calendar_type: GREGORIAN
@@ -143,3 +111,35 @@ birthdates:
     publication_date: '2019-04-08'
     number_title: 2019/555 (OJ L97)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:097:FULL&from=EN
+- birthdate: '1963-04-11'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 11
+  month_of_year: 4
+  year: 1963
+  region: Monufia Governate
+  country_iso2_code: EG
+  country_description: EGYPT
+  regulation_language: en
+  logical_id: '2024'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-21'
+    number_title: 2017/296 (OJ L43)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0296&from=EN
+- birthdate: '1963-04-11'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 11
+  month_of_year: 4
+  year: 1963
+  place: Monufia Governorate
+  country_iso2_code: EG
+  country_description: EGYPT
+  regulation_language: en
+  logical_id: '110824'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-21'
+    number_title: 2017/296 (OJ L43)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0296&from=EN

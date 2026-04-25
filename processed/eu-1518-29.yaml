@@ -14,19 +14,31 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abdul Hadi
+- whole_name: Abd Al-Hadi
   strong: true
   regulation_language: en
-  logical_id: '4614'
+  logical_id: '4613'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'
     number_title: 674/2006 (OJ L116)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Abd Al-Hadi
+- whole_name: Bukhori
   strong: true
   regulation_language: en
-  logical_id: '4613'
+  logical_id: '4616'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- first_name: Gun Gun
+  middle_name: Rusman
+  last_name: Gunawan
+  whole_name: Gun Gun Rusman Gunawan
+  strong: true
+  regulation_language: en
+  logical_id: '4611'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'
@@ -52,31 +64,19 @@ name_aliases:
     publication_date: '2006-04-29'
     number_title: 674/2006 (OJ L116)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
+- whole_name: Abdul Hadi
+  strong: true
+  regulation_language: en
+  logical_id: '4614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-04-29'
+    number_title: 674/2006 (OJ L116)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
 - whole_name: Abdul Karim
   strong: true
   regulation_language: en
   logical_id: '4615'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- whole_name: Bukhori
-  strong: true
-  regulation_language: en
-  logical_id: '4616'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-04-29'
-    number_title: 674/2006 (OJ L116)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:116:0058:0060:EN:PDF
-- first_name: Gun Gun
-  middle_name: Rusman
-  last_name: Gunawan
-  whole_name: Gun Gun Rusman Gunawan
-  strong: true
-  regulation_language: en
-  logical_id: '4611'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-04-29'

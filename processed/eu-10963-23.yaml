@@ -14,6 +14,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: АО КОНСТРУКТОРСКОЕ БЮРО ПО ПРОЕКТИРОВАНИЮ СУДОВ “ВЫМПЕЛ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159981'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JSC DESIGN OFFICE FOR SHIPBUILDING VYMPEL
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: sociedad anónima DO Vympel
   name_language: ES
   strong: true
@@ -64,41 +84,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: SOCIÉTÉ PAR ACTIONS BUREAU D’ÉTUDES DE CONSTRUCTION NAVALE VYMPEL
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160568'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: S.A. DO Vympel
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160567'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC DESIGN OFFICE FOR SHIPBUILDING VYMPEL
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО КОНСТРУКТОРСКОЕ БЮРО ПО ПРОЕКТИРОВАНИЮ СУДОВ “ВЫМПЕЛ”
+- whole_name: АО КБ “Вымпел”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '159981'
+  logical_id: '159979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -114,11 +104,21 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО КБ “Вымпел”
-  name_language: RU
+- whole_name: S.A. DO Vympel
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '159979'
+  logical_id: '160567'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: SOCIÉTÉ PAR ACTIONS BUREAU D’ÉTUDES DE CONSTRUCTION NAVALE VYMPEL
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160568'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -14,15 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Влад
-  middle_name: Георгиевич
-  last_name: ПЛАХОТНЮК
-  whole_name: Влад Георгиевич ПЛАХОТНЮК
+- first_name: Vladislav Vladimir
+  last_name: NOVAK
+  whole_name: Vladislav Vladimir NOVAK
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158029'
+  logical_id: '158031'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
@@ -42,32 +41,6 @@ name_aliases:
     publication_date: '2023-05-30'
     number_title: 2023/1045 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- first_name: Vladislav Vladimir
-  last_name: NOVAK
-  whole_name: Vladislav Vladimir NOVAK
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158031'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- first_name: Vladimir
-  last_name: PLAKHOTNYUK
-  whole_name: Vladimir PLAKHOTNYUK
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158032'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 - first_name: Vladimir
   middle_name: Georgievič
   last_name: PLACHOTŇUK
@@ -77,20 +50,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158038'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- first_name: Vladimir Gheorghe
-  last_name: PLAHOTNIUC
-  whole_name: Vladimir Gheorghe PLAHOTNIUC
-  function: businessman, politician
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158034'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
@@ -110,6 +69,19 @@ name_aliases:
     number_title: 2023/1045 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 - first_name: Vladimir
+  last_name: PLAKHOTNYUK
+  whole_name: Vladimir PLAKHOTNYUK
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158032'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
+- first_name: Vladimir
   last_name: PLACHOTNJUK
   whole_name: Vladimir PLACHOTNJUK
   gender: M
@@ -117,6 +89,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158036'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
+- first_name: Влад
+  middle_name: Георгиевич
+  last_name: ПЛАХОТНЮК
+  whole_name: Влад Георгиевич ПЛАХОТНЮК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '158029'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
+- first_name: Vladimir Gheorghe
+  last_name: PLAHOTNIUC
+  whole_name: Vladimir Gheorghe PLAHOTNIUC
+  function: businessman, politician
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158034'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
@@ -150,6 +150,15 @@ name_aliases:
     number_title: 2023/1045 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 citizenships:
+- country_iso2_code: MD
+  country_description: MOLDOVA, REPUBLIC OF
+  regulation_language: en
+  logical_id: '158027'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
   regulation_language: en
@@ -168,33 +177,7 @@ citizenships:
     publication_date: '2023-05-30'
     number_title: 2023/1045 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- country_iso2_code: MD
-  country_description: MOLDOVA, REPUBLIC OF
-  regulation_language: en
-  logical_id: '158027'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 birthdates:
-- birthdate: '1966-01-01'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 1
-  month_of_year: 1
-  year: 1966
-  region: Călărași
-  place: Pitușca
-  country_iso2_code: MD
-  country_description: MOLDOVA, REPUBLIC OF
-  regulation_language: en
-  logical_id: '158024'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 - birthdate: '1965-12-25'
   circa: false
   calendar_type: GREGORIAN
@@ -212,22 +195,39 @@ birthdates:
     publication_date: '2023-05-30'
     number_title: 2023/1045 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
+- birthdate: '1966-01-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 1
+  year: 1966
+  region: Călărași
+  place: Pitușca
+  country_iso2_code: MD
+  country_description: MOLDOVA, REPUBLIC OF
+  regulation_language: en
+  logical_id: '158024'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
 identifications:
 - identification_type_code: passport
-  number: AB 0671328
+  number: AA 1203658
   country_iso2_code: MD
   regulation_language: en
-  logical_id: '159527'
+  logical_id: '159526'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/1045 corrigendum (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202390185
 - identification_type_code: passport
-  number: AA 1203658
+  number: AB 0671328
   country_iso2_code: MD
   regulation_language: en
-  logical_id: '159526'
+  logical_id: '159527'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -14,23 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Макс ШЛУНД
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175671'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Max SCHLUND
+- first_name: Rostislav
+  last_name: TESLYUK
+  whole_name: Rostislav TESLYUK
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175672'
+  logical_id: '175674'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -47,14 +38,23 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- first_name: Rostislav
-  last_name: TESLYUK
-  whole_name: Rostislav TESLYUK
+- whole_name: Max SCHLUND
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175674'
+  logical_id: '175672'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Макс ШЛУНД
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175671'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

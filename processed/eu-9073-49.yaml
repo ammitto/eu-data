@@ -14,6 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Amir Kyomarth
+  last_name: HEYDARI
+  whole_name: Amir Kyomarth HEYDARI
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '145695'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2231 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 - first_name: Kiyumars
   last_name: HEIDARI
   whole_name: Kiyumars HEIDARI
@@ -28,29 +40,6 @@ name_aliases:
     publication_date: '2022-11-14'
     number_title: 2022/2231 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
-- whole_name: حیدری کیومرث
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '145694'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2231 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
-- first_name: Amir Kyomarth
-  last_name: HEYDARI
-  whole_name: Amir Kyomarth HEYDARI
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145695'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2231 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
 - first_name: Kioumars
   last_name: HEYDARI
   whole_name: Kioumars HEYDARI
@@ -58,6 +47,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '145696'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2231 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2231
+- whole_name: حیدری کیومرث
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '145694'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

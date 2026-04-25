@@ -27,23 +27,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Oleg
-  middle_name: Polikarpovich
-  last_name: TKACH
-  whole_name: Oleg Polikarpovich TKACH
-  function: |-
-    Director and founder of OLMA publishing house.
-    Former Member of the Federation Council.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '136849'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Олег
   middle_name: Поликарпович
   last_name: ТКАЧ
@@ -72,6 +55,23 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Oleg
+  middle_name: Polikarpovich
+  last_name: TKACH
+  whole_name: Oleg Polikarpovich TKACH
+  function: |-
+    Director and founder of OLMA publishing house.
+    Former Member of the Federation Council.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '136849'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 birthdates:
 - birthdate: '1967-09-23'
   circa: false

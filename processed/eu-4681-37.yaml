@@ -15,17 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Malek
-  last_name: Ruben
-  whole_name: Malek Ruben
-  strong: true
-  regulation_language: en
-  logical_id: '117859'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-08-13'
-    number_title: 2018/1115 (OJ L204)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
-- first_name: Malek
   last_name: REUBEN RIAK RENGU
   whole_name: Malek REUBEN RIAK RENGU
   function: "a) Deputy Chief of General Staff for Logistics; \nb) Deputy Chief of
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '117860'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-08-13'
+    number_title: 2018/1115 (OJ L204)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
+- first_name: Malek
+  last_name: Ruben
+  whole_name: Malek Ruben
+  strong: true
+  regulation_language: en
+  logical_id: '117859'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-13'

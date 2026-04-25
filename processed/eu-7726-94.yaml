@@ -14,20 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sergej
-  middle_name: Petrovitj
-  last_name: ARENIN
-  whole_name: Sergej Petrovitj ARENIN
+- first_name: Сергей
+  middle_name: Петрович
+  last_name: АРЕНИН
+  whole_name: Сергей Петрович АРЕНИН
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '137376'
+  logical_id: '136997'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Sergei
   middle_name: Petrovich
   last_name: ARENIN
@@ -43,20 +43,20 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Сергей
-  middle_name: Петрович
-  last_name: АРЕНИН
-  whole_name: Сергей Петрович АРЕНИН
+- first_name: Sergej
+  middle_name: Petrovitj
+  last_name: ARENIN
+  whole_name: Sergej Petrovitj ARENIN
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '136997'
+  logical_id: '137376'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 birthdates:
 - birthdate: '1958-08-29'
   circa: false

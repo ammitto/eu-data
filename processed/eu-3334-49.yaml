@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Viktar Uladzimiravich SHEIMAN
+  function: Former Head of the Belarus President Property Management Directorate
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '4772'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - whole_name: Виктор Владимирович ШЕЙМАН
   gender: M
   name_language: RU
@@ -58,17 +69,16 @@ name_aliases:
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Viktar Uladzimiravich SHEIMAN
-  function: Former Head of the Belarus President Property Management Directorate
+- whole_name: Viktar Uladzimiravich SHEYMAN
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '4772'
+  logical_id: '102652'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 - whole_name: Viktor Vladimirovich SHEIMAN
   gender: M
   strong: true
@@ -84,16 +94,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106945'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Viktar Uladzimiravich SHEYMAN
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '102652'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'

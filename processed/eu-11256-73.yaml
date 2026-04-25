@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Rádióeszközgyár
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163986'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Szaratovi Rádióeszközgyár Részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163985'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: AO СРЗ
   name_language: RU
   strong: true
@@ -54,11 +34,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: SZRZ Rt.
-  name_language: HU
+- whole_name: Aкционерное общество “Cаратовский радиоприборный завод”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163984'
+  logical_id: '162735'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -94,6 +74,16 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Szaratov Rt
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163987'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: JSC Saratov
   name_language: EN
   strong: true
@@ -104,11 +94,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Szaratov Rt
+- whole_name: Rádióeszközgyár
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '163987'
+  logical_id: '163986'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -124,11 +114,21 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Aкционерное общество “Cаратовский радиоприборный завод”
-  name_language: RU
+- whole_name: SZRZ Rt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '162735'
+  logical_id: '163984'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Szaratovi Rádióeszközgyár Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163985'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

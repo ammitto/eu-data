@@ -60,21 +60,6 @@ citizenships:
     number_title: 2016/315 (OJ L60)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0315&from=EN
 birthdates:
-- birthdate: '1976-10-18'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 18
-  month_of_year: 10
-  year: 1976
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '107867'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-05'
-    number_title: 2016/315 (OJ L60)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0315&from=EN
 - birthdate: '1976-08-25'
   circa: false
   calendar_type: GREGORIAN
@@ -90,6 +75,21 @@ birthdates:
     publication_date: '2017-08-11'
     number_title: 2017/1457 (OJ L208)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1457&from=EN
+- birthdate: '1976-10-18'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 18
+  month_of_year: 10
+  year: 1976
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '107867'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-05'
+    number_title: 2016/315 (OJ L60)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0315&from=EN
 identifications:
 - identification_type_code: passport
   number: '836110035'

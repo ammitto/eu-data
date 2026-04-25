@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Djamel
-  last_name: Lounici
-  whole_name: Djamel Lounici
-  strong: true
-  regulation_language: en
-  logical_id: '2472'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-06-04'
-    number_title: 2018/816 (OJ L137)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.137.01.0005.01.ENG&toc=OJ:L:2018:137:TOC
 - first_name: Jamal
   last_name: Lounici
   whole_name: Jamal Lounici
@@ -36,6 +25,17 @@ name_aliases:
     publication_date: '2018-02-21'
     number_title: 2018/256 (OJ L48)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0256&from=EN
+- first_name: Djamel
+  last_name: Lounici
+  whole_name: Djamel Lounici
+  strong: true
+  regulation_language: en
+  logical_id: '2472'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-06-04'
+    number_title: 2018/816 (OJ L137)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.137.01.0005.01.ENG&toc=OJ:L:2018:137:TOC
 citizenships:
 - country_iso2_code: DZ
   country_description: ALGERIA

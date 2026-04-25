@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Nathalie Yambová
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '176450'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-06-26'
+    number_title: 2025/1278 (OJ L26062025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R1278&qid=1751352470824
 - first_name: Nathalie
   last_name: YAMB
   whole_name: Nathalie YAMB
@@ -22,17 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176447'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-06-26'
-    number_title: 2025/1278 (OJ L26062025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R1278&qid=1751352470824
-- whole_name: Nathalie Yambová
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '176450'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-06-26'

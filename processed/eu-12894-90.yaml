@@ -14,46 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Alena Anatolieuna  BALDOUSKAYA
-  function: Secretary of the Central Election Commission
+- whole_name: Alena Baldovskaja
   gender: F
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '173992'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Elena Anatolyevna  BALDOVSKAYA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173991'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Алена Анатольеўна  БАЛДОЎСКАЯ
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '173990'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Елена Анатольевна  БАЛДОВСКАЯ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '173989'
+  logical_id: '173987'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -70,12 +36,46 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Alena Baldovskaja
+- whole_name: Alena Anatolieuna  BALDOUSKAYA
+  function: Secretary of the Central Election Commission
   gender: F
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173987'
+  logical_id: '173992'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Елена Анатольевна  БАЛДОВСКАЯ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173989'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Алена Анатольеўна  БАЛДОЎСКАЯ
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '173990'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Elena Anatolyevna  BALDOVSKAYA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '173991'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sergej
-  last_name: Michajlov
-  whole_name: Sergej Michajlov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164818'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Сергей
   last_name: МИХАЙЛОВ
   whole_name: Сергей МИХАЙЛОВ
@@ -68,6 +55,17 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: Sergej Vladimirovič MIHAJLOV
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '139310'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Sergueï
   last_name: Mikhaïlov
   whole_name: Sergueï Mikhaïlov
@@ -82,6 +80,19 @@ name_aliases:
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Sergej
+  last_name: Michajlov
+  whole_name: Sergej Michajlov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164818'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Sergej
   last_name: MICHAJLOV
   whole_name: Sergej MICHAJLOV
   gender: M
@@ -89,17 +100,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139311'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Sergej Vladimirovič MIHAJLOV
-  gender: M
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '139310'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

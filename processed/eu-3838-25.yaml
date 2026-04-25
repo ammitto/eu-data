@@ -15,6 +15,40 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Abdoulaye
+  last_name: Issène
+  whole_name: Abdoulaye Issène
+  strong: true
+  regulation_language: en
+  logical_id: '112082'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-05-25'
+    number_title: 2017/890 (OJ L138)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0890&from=EN
+- first_name: Abdoulaye
+  last_name: HISSENE
+  whole_name: Abdoulaye HISSENE
+  function: President of the Conseil National de Défense et de Sécurité (CNDS) and
+    military leader of the Front Populaire pour la Renaissance de la Centrafrique.  Hissène
+    was formerly the Minister of Youth and Sports as part of the Cabinet for the Central
+    African Republic's former President Michel Djotodia. Prior to that, he was the
+    head of the Convention of Patriots for Justice and Peace, a political party. He
+    also established himself as a leader of armed militias in Bangui, in particular
+    in the “PK5” (3rd district) neighbourhood.  In October 2016, Abdoulaye Hissène
+    was appointed President of the Conseil National de Défense et de Sécurité, a body
+    which was created at the time to gather military leaders and commanding fighters
+    from all ex-Séléka factions. He has remained in this position since then, but
+    has actual control over FPRC fighters only.
+  title: '"general"'
+  strong: true
+  regulation_language: en
+  logical_id: '112083'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-08-10'
+    number_title: 2020/1171 (OJ L260)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
 - whole_name: Issene Abdoulaye
   strong: true
   regulation_language: en
@@ -62,40 +96,6 @@ name_aliases:
     publication_date: '2017-05-25'
     number_title: 2017/890 (OJ L138)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0890&from=EN
-- first_name: Abdoulaye
-  last_name: Issène
-  whole_name: Abdoulaye Issène
-  strong: true
-  regulation_language: en
-  logical_id: '112082'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-05-25'
-    number_title: 2017/890 (OJ L138)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0890&from=EN
-- first_name: Abdoulaye
-  last_name: HISSENE
-  whole_name: Abdoulaye HISSENE
-  function: President of the Conseil National de Défense et de Sécurité (CNDS) and
-    military leader of the Front Populaire pour la Renaissance de la Centrafrique.  Hissène
-    was formerly the Minister of Youth and Sports as part of the Cabinet for the Central
-    African Republic's former President Michel Djotodia. Prior to that, he was the
-    head of the Convention of Patriots for Justice and Peace, a political party. He
-    also established himself as a leader of armed militias in Bangui, in particular
-    in the “PK5” (3rd district) neighbourhood.  In October 2016, Abdoulaye Hissène
-    was appointed President of the Conseil National de Défense et de Sécurité, a body
-    which was created at the time to gather military leaders and commanding fighters
-    from all ex-Séléka factions. He has remained in this position since then, but
-    has actual control over FPRC fighters only.
-  title: '"general"'
-  strong: true
-  regulation_language: en
-  logical_id: '112083'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-08-10'
-    number_title: 2020/1171 (OJ L260)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
 citizenships:
 - country_iso2_code: CF
   country_description: CENTRAL AFRICAN REPUBLIC
@@ -129,6 +129,19 @@ birthdates:
     publication_date: '2020-08-10'
     number_title: 2020/1171 (OJ L260)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1967
+  city: Haraze Mangueigne
+  country_iso2_code: TD
+  country_description: CHAD
+  regulation_language: en
+  logical_id: '112076'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-05-14'
+    number_title: 2019/757 (OJ L125)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0757&from=EN
 - birthdate: '1967-01-01'
   circa: false
   calendar_type: GREGORIAN
@@ -140,19 +153,6 @@ birthdates:
   country_description: CHAD
   regulation_language: en
   logical_id: '120107'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-05-14'
-    number_title: 2019/757 (OJ L125)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0757&from=EN
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1967
-  city: Haraze Mangueigne
-  country_iso2_code: TD
-  country_description: CHAD
-  regulation_language: en
-  logical_id: '112076'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-05-14'
@@ -175,11 +175,33 @@ birthdates:
     number_title: 2020/1171 (OJ L260)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
 addresses:
+- street: KM5
+  city: Bangui
+  country_iso2_code: CF
+  country_description: CENTRAL AFRICAN REPUBLIC
+  regulation_language: en
+  logical_id: '112085'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-05-25'
+    number_title: 2017/890 (OJ L138)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0890&from=EN
 - city: Ndélé, Bamingui-Bangoran
   country_iso2_code: CF
   country_description: CENTRAL AFRICAN REPUBLIC
   regulation_language: en
   logical_id: '125147'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-08-10'
+    number_title: 2020/1171 (OJ L260)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
+- city: Nana-Grebizi
+  region: Nana-Grebizi
+  country_iso2_code: CF
+  country_description: CENTRAL AFRICAN REPUBLIC
+  regulation_language: en
+  logical_id: '112086'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-08-10'
@@ -196,39 +218,7 @@ addresses:
     publication_date: '2019-05-14'
     number_title: 2019/757 (OJ L125)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0757&from=EN
-- city: Nana-Grebizi
-  region: Nana-Grebizi
-  country_iso2_code: CF
-  country_description: CENTRAL AFRICAN REPUBLIC
-  regulation_language: en
-  logical_id: '112086'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-08-10'
-    number_title: 2020/1171 (OJ L260)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
-- street: KM5
-  city: Bangui
-  country_iso2_code: CF
-  country_description: CENTRAL AFRICAN REPUBLIC
-  regulation_language: en
-  logical_id: '112085'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-05-25'
-    number_title: 2017/890 (OJ L138)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0890&from=EN
 identifications:
-- identification_type_code: passport
-  number: D00000897
-  country_iso2_code: CF
-  regulation_language: en
-  logical_id: '112087'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-08-10'
-    number_title: 2020/1171 (OJ L260)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
 - identification_type_code: passport
   number: D00004262
   country_iso2_code: CF
@@ -244,6 +234,16 @@ identifications:
   country_iso2_code: TD
   regulation_language: en
   logical_id: '120110'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-08-10'
+    number_title: 2020/1171 (OJ L260)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.260.01.0001.01.ENG&toc=OJ:L:2020:260:TOC
+- identification_type_code: passport
+  number: D00000897
+  country_iso2_code: CF
+  regulation_language: en
+  logical_id: '112087'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-08-10'

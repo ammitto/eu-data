@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: CLM group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168281'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-29'
-    number_title: 2024/2784 (OJ L29102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402784
 - whole_name: Chit Linn Myaing Group
   function: a group of companies controlled by Colonel Saw Chit Thu, Secretary General
     of the Karen/Kayin Border Guard Forces (BGF/KNA), an armed group affiliated with
@@ -32,6 +22,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '168282'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-29'
+    number_title: 2024/2784 (OJ L29102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402784
+- whole_name: CLM group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168281'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-29'

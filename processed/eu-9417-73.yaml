@@ -15,15 +15,36 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Stanislav
-  middle_name: Anatolyevich
-  last_name: VOROBYOV
-  whole_name: Stanislav Anatolyevich VOROBYOV
-  function: head of the Russian Imperial Movement, a white supremacist paramilitary
-    organization
+  last_name: VOROBEV
+  whole_name: Stanislav VOROBEV
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '147329'
+  logical_id: '147325'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Stanislav
+  last_name: VOROBYOV
+  whole_name: Stanislav VOROBYOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '147326'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Stanislav
+  last_name: VOROBOV
+  whole_name: Stanislav VOROBOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '147327'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -44,36 +65,15 @@ name_aliases:
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Stanislav
-  last_name: VOROBOV
-  whole_name: Stanislav VOROBOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '147327'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- first_name: Stanislav
+  middle_name: Anatolyevich
   last_name: VOROBYOV
-  whole_name: Stanislav VOROBYOV
+  whole_name: Stanislav Anatolyevich VOROBYOV
+  function: head of the Russian Imperial Movement, a white supremacist paramilitary
+    organization
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '147326'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- first_name: Stanislav
-  last_name: VOROBEV
-  whole_name: Stanislav VOROBEV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '147325'
+  logical_id: '147329'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

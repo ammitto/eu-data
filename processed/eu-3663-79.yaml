@@ -14,17 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Santino
-  middle_name: Deng
-  last_name: WOL
-  whole_name: Santino Deng WOL
-  function: Is a Sudan People's Liberation Army (SPLA) Major General and commander
-    of the SPLA's Third Division, a South Sudanese military entity
-  title: Major General / Commander of the SPLA's Third Division
+- whole_name: Santino Deng Wuol
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105630'
+  logical_id: '105629'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
@@ -40,11 +34,17 @@ name_aliases:
     publication_date: '2015-07-10'
     number_title: 2015/1112 (OJ L 182)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: Santino Deng Wuol
+- first_name: Santino
+  middle_name: Deng
+  last_name: WOL
+  whole_name: Santino Deng WOL
+  function: Is a Sudan People's Liberation Army (SPLA) Major General and commander
+    of the SPLA's Third Division, a South Sudanese military entity
+  title: Major General / Commander of the SPLA's Third Division
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105629'
+  logical_id: '105630'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'

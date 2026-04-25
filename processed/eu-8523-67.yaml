@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sergej
-  last_name: Bezrukov
-  whole_name: Sergej Bezrukov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164826'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Sergey
   middle_name: Vitalyevich
   last_name: BEZRUKOV
@@ -43,15 +30,14 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Сергей
-  middle_name: Витальевич
-  last_name: БЕЗРУКОВ
-  whole_name: Сергей Витальевич БЕЗРУКОВ
+- first_name: Sergej
+  last_name: Bezrukov
+  whole_name: Sergej Bezrukov
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '141994'
+  logical_id: '164826'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -63,6 +49,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142427'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Сергей
+  middle_name: Витальевич
+  last_name: БЕЗРУКОВ
+  whole_name: Сергей Витальевич БЕЗРУКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '141994'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

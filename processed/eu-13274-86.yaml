@@ -14,27 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»Rustecdrone Tudományos és Gyártási Szövetség« Korlátolt Felelősségű
-    Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '176486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: NPO Rustecdrone Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '176487'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: LLC NPO Rustecdrone
   gender: M
   name_language: EN
@@ -85,6 +64,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176492'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Rustecdrone Tudományos és Gyártási Szövetség« Korlátolt Felelősségű
+    Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '176486'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: NPO Rustecdrone Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '176487'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

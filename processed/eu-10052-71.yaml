@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aminallah Imami
-  last_name: TABATBAYI
-  whole_name: Aminallah Imami TABATBAYI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152995'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/846 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
 - first_name: Seyyed Amin Ala Emami
   last_name: TABATABAI
   whole_name: Seyyed Amin Ala Emami TABATABAI
@@ -38,6 +25,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152996'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/846 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
+- first_name: Aminallah Imami
+  last_name: TABATBAYI
+  whole_name: Aminallah Imami TABATBAYI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152995'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

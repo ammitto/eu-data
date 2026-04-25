@@ -14,14 +14,42 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Sjarhej
-  last_name: Ušakou
-  whole_name: Sjarhej Ušakou
+- first_name: Сергей
+  middle_name: Владимирович
+  last_name: УШАКОВ
+  whole_name: Сергей Владимирович УШАКОВ
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '164163'
+  logical_id: '130242'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Sergej
+  middle_name: Vladimirovitj
+  last_name: USJAKOV
+  whole_name: Sergej Vladimirovitj USJAKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130770'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Sjarhej
+  last_name: Ušakov
+  whole_name: Sjarhej Ušakov
+  gender: M
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '164181'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -40,15 +68,28 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Сергей
-  middle_name: Владимирович
-  last_name: УШАКОВ
-  whole_name: Сергей Владимирович УШАКОВ
+- first_name: Siarhej
+  middle_name: Uladzimiravitj
+  last_name: USJAKOU
+  whole_name: Siarhej Uladzimiravitj USJAKOU
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130242'
+  logical_id: '130771'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Sjarhej
+  last_name: Ušakou
+  whole_name: Sjarhej Ušakou
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164163'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -77,47 +118,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130244'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Sjarhej
-  last_name: Ušakov
-  whole_name: Sjarhej Ušakov
-  gender: M
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '164181'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Sergej
-  middle_name: Vladimirovitj
-  last_name: USJAKOV
-  whole_name: Sergej Vladimirovitj USJAKOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130770'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Siarhej
-  middle_name: Uladzimiravitj
-  last_name: USJAKOU
-  whole_name: Siarhej Uladzimiravitj USJAKOU
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130771'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

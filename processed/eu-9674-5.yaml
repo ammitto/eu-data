@@ -25,20 +25,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Василий
-  middle_name: Викторович
-  last_name: ШПАК
-  whole_name: Василий Викторович ШПАК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149694'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Vasily
   middle_name: Viktorovich
   last_name: SHPAK
@@ -49,6 +35,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149695'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Василий
+  middle_name: Викторович
+  last_name: ШПАК
+  whole_name: Василий Викторович ШПАК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149694'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

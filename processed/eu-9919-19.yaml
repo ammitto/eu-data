@@ -28,15 +28,18 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- first_name: Рамиль
-  middle_name: Рахматуллович
-  last_name: Ибатуллин
-  whole_name: Рамиль Рахматуллович Ибатуллин
+- first_name: Ramil
+  middle_name: Rakhmatulovich
+  last_name: IBATULLIN
+  whole_name: Ramil Rakhmatulovich IBATULLIN
+  function: "Member of the armed forces of the Russian Federation, \nformer commander
+    of the 90th guards tank division"
   gender: M
-  name_language: RU
+  title: Colonel
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151452'
+  logical_id: '151453'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -56,18 +59,15 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- first_name: Ramil
-  middle_name: Rakhmatulovich
-  last_name: IBATULLIN
-  whole_name: Ramil Rakhmatulovich IBATULLIN
-  function: "Member of the armed forces of the Russian Federation, \nformer commander
-    of the 90th guards tank division"
+- first_name: Рамиль
+  middle_name: Рахматуллович
+  last_name: Ибатуллин
+  whole_name: Рамиль Рахматуллович Ибатуллин
   gender: M
-  title: Colonel
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151453'
+  logical_id: '151452'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -100,21 +100,21 @@ birthdates:
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 identifications:
-- identification_type_code: fiscalcode
-  number: '631409144707'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '151451'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 - identification_type_code: other
   number: U-927425
   country_iso2_code: RU
   regulation_language: en
   logical_id: '151450'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- identification_type_code: fiscalcode
+  number: '631409144707'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '151451'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'

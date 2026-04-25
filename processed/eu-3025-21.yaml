@@ -34,19 +34,19 @@ name_aliases:
     number_title: 1187/2012 (OJ L338)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:338:0023:0024:EN:PDF
 addresses:
-- country_iso2_code: ML
-  country_description: MALI
+- country_iso2_code: DZ
+  country_description: ALGERIA
   regulation_language: en
-  logical_id: '2454'
+  logical_id: '2455'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-12'
     number_title: 1187/2012 (OJ L338)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:338:0023:0024:EN:PDF
-- country_iso2_code: DZ
-  country_description: ALGERIA
+- country_iso2_code: ML
+  country_description: MALI
   regulation_language: en
-  logical_id: '2455'
+  logical_id: '2454'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-12-12'

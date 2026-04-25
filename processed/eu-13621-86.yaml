@@ -15,71 +15,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Haji Qassem
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178653'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Sarder Soleimani
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178652'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Haj Qasem
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178654'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Kasim Sulaymani
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178655'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Kasim Sulaimani
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178656'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: Kasim Soleimani
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '178657'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Qasem Sulaymani
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178658'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -132,6 +72,66 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '178659'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Qasem Sulaymani
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178658'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Kasim Sulaimani
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178656'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Kasim Sulaymani
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178655'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Haj Qasem
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178654'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Haji Qassem
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178653'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: Sarder Soleimani
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178652'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

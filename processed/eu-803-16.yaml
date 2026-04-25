@@ -17,15 +17,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Shams-u-Rahman
-  strong: true
-  regulation_language: en
-  logical_id: '102145'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - whole_name: Shams ur-Rahman Sher Alam
   strong: true
   regulation_language: en
@@ -35,21 +26,10 @@ name_aliases:
     publication_date: '2012-06-26'
     number_title: 543/2012 (OJ L165)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
-- whole_name: Shams Ur-Rahman Abdul Zahir
-  function: Deputy Minister of Agriculture under the Taliban regime
-  title: "(a) Mullah, (b) Maulavi"
+- whole_name: Shams-u-Rahman
   strong: true
   regulation_language: en
-  logical_id: '1595'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Shamsurrahman
-  strong: true
-  regulation_language: en
-  logical_id: '7772'
+  logical_id: '102145'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-24'
@@ -64,6 +44,26 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Shamsurrahman
+  strong: true
+  regulation_language: en
+  logical_id: '7772'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Shams Ur-Rahman Abdul Zahir
+  function: Deputy Minister of Agriculture under the Taliban regime
+  title: "(a) Mullah, (b) Maulavi"
+  strong: true
+  regulation_language: en
+  logical_id: '1595'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN

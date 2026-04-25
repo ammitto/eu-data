@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Микола
-  last_name: ЧЕРНИХ
-  whole_name: Микола ЧЕРНИХ
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '167416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1778 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401778
 - first_name: Николай
   last_name: ЧЕРНЫХ
   whole_name: Николай ЧЕРНЫХ
@@ -35,6 +22,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167417'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1778 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401778
+- first_name: Микола
+  last_name: ЧЕРНИХ
+  whole_name: Микола ЧЕРНИХ
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '167416'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

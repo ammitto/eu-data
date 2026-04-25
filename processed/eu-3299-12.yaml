@@ -60,11 +60,11 @@ name_aliases:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1979
+  year: 1975
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '1247'
+  logical_id: '1246'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-03-26'
@@ -72,11 +72,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:080:0040:0043:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  year: 1975
+  year: 1979
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '1246'
+  logical_id: '1247'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-03-26'

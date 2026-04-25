@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: GLÉASRA AERÁRTHAÍ KOMSOMOLSK-AR-AMUR
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '161285'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Комсомольский-на-Амуре авиационный завод
   name_language: RU
   strong: true
@@ -45,11 +55,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: GLÉASRA AERÁRTHAÍ KOMSOMOLSK-AR-AMUR
-  name_language: GA
+- whole_name: KOMSZOMOLSZK-NA- AMURE-i REPÜLŐGÉPGYÁR
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '161285'
+  logical_id: '161017'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -60,16 +70,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161016'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: KOMSZOMOLSZK-NA- AMURE-i REPÜLŐGÉPGYÁR
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161017'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

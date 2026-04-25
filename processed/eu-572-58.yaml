@@ -14,6 +14,35 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Moroccan Islamic Combatant Group
+  strong: true
+  regulation_language: en
+  logical_id: '2049'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2002-10-12'
+    number_title: 1823/2002 (OJ L276)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
+- whole_name: Grupo Islámico Combatiente Marroquí
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '2054'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2002-10-12'
+    number_title: 1823/2002 (OJ L276)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
+- whole_name: Gruppo islamico combattente marocchino
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '2055'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2002-10-12'
+    number_title: 1823/2002 (OJ L276)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
 - whole_name: Marokkaanse Groep van Islamitische Strijders
   name_language: NL
   strong: true
@@ -43,39 +72,10 @@ name_aliases:
     publication_date: '2002-10-12'
     number_title: 1823/2002 (OJ L276)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
-- whole_name: Gruppo islamico combattente marocchino
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '2055'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2002-10-12'
-    number_title: 1823/2002 (OJ L276)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
 - whole_name: Groupe Islamique Combattant Marocain
   strong: true
   regulation_language: en
   logical_id: '2058'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2002-10-12'
-    number_title: 1823/2002 (OJ L276)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
-- whole_name: Moroccan Islamic Combatant Group
-  strong: true
-  regulation_language: en
-  logical_id: '2049'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2002-10-12'
-    number_title: 1823/2002 (OJ L276)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:276:0026:0027:EN:PDF
-- whole_name: Grupo Islámico Combatiente Marroquí
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '2054'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2002-10-12'

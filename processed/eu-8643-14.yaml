@@ -14,6 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Dmitryi
+  middle_name: Vladimirovich
+  last_name: KHOLIN
+  whole_name: Dmitryi Vladimirovich KHOLIN
+  function: "Deputy Governor of the Samara Region and Head of Administration for the
+    Governor of the Region. \nMember of the Samara Provincial Duma and former Chairman
+    of the Regulations Committee. \nFrom 2020 to 2021 head of the Executive Committee
+    of the Samara Regional Branch of the Kremlin-aligned ruling party “United Russia”.
+    Member of the Samara Regional Branch of the all-Russian public organisation “Combat
+    Brotherhood” (organisation for veterans)."
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '143306'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - whole_name: Dmitrij Vladimirovitj CHOLIN
   gender: M
   name_language: SV
@@ -34,26 +54,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143305'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Dmitryi
-  middle_name: Vladimirovich
-  last_name: KHOLIN
-  whole_name: Dmitryi Vladimirovich KHOLIN
-  function: "Deputy Governor of the Samara Region and Head of Administration for the
-    Governor of the Region. \nMember of the Samara Provincial Duma and former Chairman
-    of the Regulations Committee. \nFrom 2020 to 2021 head of the Executive Committee
-    of the Samara Regional Branch of the Kremlin-aligned ruling party “United Russia”.
-    Member of the Samara Regional Branch of the all-Russian public organisation “Combat
-    Brotherhood” (organisation for veterans)."
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '143306'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-09-13'

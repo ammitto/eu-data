@@ -14,6 +14,50 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Rannán Hamza
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '176056'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: Μεραρχία Hamza
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '176055'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: فرقة الحمزة
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '176041'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
+- whole_name: The Hamza Division
+  function: The Hamza Division is an armed militia created in 2016 and operating in
+    Syria. Throughout the Syrian civil war, the Hamza Division has been responsible
+    for numerous acts of torture in its detention centres, for extortion and for forced
+    displacement of civilians, especially in the region of Afrin and Aleppo.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176042'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-28'
+    number_title: 2025/1111 (OJ L202501111)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
 - whole_name: дивизия Hamza
   name_language: BG
   strong: true
@@ -49,50 +93,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176057'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Rannán Hamza
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '176056'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: Μεραρχία Hamza
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '176055'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: The Hamza Division
-  function: The Hamza Division is an armed militia created in 2016 and operating in
-    Syria. Throughout the Syrian civil war, the Hamza Division has been responsible
-    for numerous acts of torture in its detention centres, for extortion and for forced
-    displacement of civilians, especially in the region of Afrin and Aleppo.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176042'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-28'
-    number_title: 2025/1111 (OJ L202501111)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501111
-- whole_name: فرقة الحمزة
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '176041'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-28'

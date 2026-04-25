@@ -14,15 +14,42 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Anastasia
+- first_name: Anastasija
   middle_name: Sergejevna
   last_name: KIRILLOVA
-  whole_name: Anastasia Sergejevna KIRILLOVA
+  whole_name: Anastasija Sergejevna KIRILLOVA
   gender: F
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '156639'
+  logical_id: '156621'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- first_name: Anastasija
+  last_name: Kirillova
+  whole_name: Anastasija Kirillova
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156628'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- first_name: Анастасия
+  middle_name: Сергеевна
+  last_name: КИРИЛЛОВА
+  whole_name: Анастасия Сергеевна КИРИЛЛОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '155799'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -44,42 +71,15 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Anastasija
-  last_name: Kirillova
-  whole_name: Anastasija Kirillova
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156628'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Anastasija
+- first_name: Anastasia
   middle_name: Sergejevna
   last_name: KIRILLOVA
-  whole_name: Anastasija Sergejevna KIRILLOVA
+  whole_name: Anastasia Sergejevna KIRILLOVA
   gender: F
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '156621'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Анастасия
-  middle_name: Сергеевна
-  last_name: КИРИЛЛОВА
-  whole_name: Анастасия Сергеевна КИРИЛЛОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '155799'
+  logical_id: '156639'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

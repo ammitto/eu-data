@@ -14,6 +14,64 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Сяргей
+  middle_name: Уладзiмiравiч
+  last_name: КАРЧЭЎСКI
+  whole_name: Сяргей Уладзiмiравiч КАРЧЭЎСКI
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '157257'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Сергей
+  middle_name: Владимирович
+  last_name: КАРЧЕВСКИЙ
+  whole_name: Сергей Владимирович КАРЧЕВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '157258'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Sergey
+  middle_name: Vladimirovitch
+  last_name: KARCHEVSKIY
+  whole_name: Sergey Vladimirovitch KARCHEVSKIY
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157259'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Siarhei
+  middle_name: Uladzimiravich
+  last_name: KARCHEUSKY
+  whole_name: Siarhei Uladzimiravich KARCHEUSKY
+  function: Major and head of the regime department of Penal Colony No 17 Shklow
+  gender: M
+  title: Major
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157260'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Siarhiej
   middle_name: Uładzimirawicz
   last_name: KARCHEUSKY
@@ -55,29 +113,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Сяргей
-  middle_name: Уладзiмiравiч
-  last_name: КАРЧЭЎСКI
-  whole_name: Сяргей Уладзiмiравiч КАРЧЭЎСКI
+- first_name: Sergej
+  middle_name: Vladimirovitj
+  last_name: KARTJEVSKIJ
+  whole_name: Sergej Vladimirovitj KARTJEVSKIJ
   gender: M
-  name_language: BE
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '157257'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Сергей
-  middle_name: Владимирович
-  last_name: КАРЧЕВСКИЙ
-  whole_name: Сергей Владимирович КАРЧЕВСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '157258'
+  logical_id: '157262'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -92,50 +136,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157263'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Siarhei
-  middle_name: Uladzimiravich
-  last_name: KARCHEUSKY
-  whole_name: Siarhei Uladzimiravich KARCHEUSKY
-  function: Major and head of the regime department of Penal Colony No 17 Shklow
-  gender: M
-  title: Major
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157260'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Sergey
-  middle_name: Vladimirovitch
-  last_name: KARCHEVSKIY
-  whole_name: Sergey Vladimirovitch KARCHEVSKIY
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157259'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Sergej
-  middle_name: Vladimirovitj
-  last_name: KARTJEVSKIJ
-  whole_name: Sergej Vladimirovitj KARTJEVSKIJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157262'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

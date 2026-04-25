@@ -14,39 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohammed
-  middle_name: Hassan
-  last_name: Ibrahim
-  whole_name: Mohammed Hassan Ibrahim
-  strong: true
-  regulation_language: en
-  logical_id: '6116'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-05-26'
-    number_title: 450/2010 (OJ L127)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:127:0008:0009:EN:PDF
-- first_name: Sheikh Hassan
-  middle_name: Dahir
-  last_name: Aweys
-  whole_name: Sheikh Hassan Dahir Aweys
-  strong: true
-  regulation_language: en
-  logical_id: '7970'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-05-26'
-    number_title: 450/2010 (OJ L127)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:127:0008:0009:EN:PDF
-- whole_name: Sheikh Hassan
-  strong: true
-  regulation_language: en
-  logical_id: '7969'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-05-26'
-    number_title: 450/2010 (OJ L127)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:127:0008:0009:EN:PDF
 - first_name: Hassan
   middle_name: Dahir
   last_name: Aweys
@@ -68,6 +35,27 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1305'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-05-26'
+    number_title: 450/2010 (OJ L127)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:127:0008:0009:EN:PDF
+- first_name: Sheikh Hassan
+  middle_name: Dahir
+  last_name: Aweys
+  whole_name: Sheikh Hassan Dahir Aweys
+  strong: true
+  regulation_language: en
+  logical_id: '7970'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-05-26'
+    number_title: 450/2010 (OJ L127)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:127:0008:0009:EN:PDF
+- whole_name: Sheikh Hassan
+  strong: true
+  regulation_language: en
+  logical_id: '7969'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-05-26'
@@ -116,6 +104,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6115'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-05-26'
+    number_title: 450/2010 (OJ L127)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:127:0008:0009:EN:PDF
+- first_name: Mohammed
+  middle_name: Hassan
+  last_name: Ibrahim
+  whole_name: Mohammed Hassan Ibrahim
+  strong: true
+  regulation_language: en
+  logical_id: '6116'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-05-26'

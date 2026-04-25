@@ -14,6 +14,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: V. I. Čiapajevo  vardo JSC Čeboksarų gamybos asociacija
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '179749'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Акционерно  дружество „Чебокскарска  производствена асоциация  - В.И.  Чапаев
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '179750'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: JSC Cheboksary Production  Association named after V.  I. Chapaev
   function: Named after V.I. Chapaev” is a Russian company whose primary activity
     is the production of weapons and military equipment.
@@ -31,26 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179751'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Акционерно  дружество „Чебокскарска  производствена асоциация  - В.И.  Чапаев
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '179750'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: V. I. Čiapajevo  vardo JSC Čeboksarų gamybos asociacija
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '179749'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

@@ -14,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Віктар Аляксандравіч ДУБРОЎКА
+- whole_name: Виктор Александрович ДУБРОВКА
   gender: M
-  name_language: BE
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '169158'
+  logical_id: '169157'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -36,12 +36,12 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Виктор Александрович ДУБРОВКА
+- whole_name: Віктар Аляксандравіч ДУБРОЎКА
   gender: M
-  name_language: RU
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '169157'
+  logical_id: '169158'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

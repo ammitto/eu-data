@@ -15,6 +15,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Ougla Abid Sakr Al-Koubaïssi
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '438'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2003-07-08'
+    number_title: 1210/2003 (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - whole_name: Ugla Abid Sakr Al-Zubaisi
   function: Ba'th Party Regional Command Chairman, Maysan
   strong: true
@@ -30,16 +40,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '212'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2003-07-08'
-    number_title: 1210/2003 (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- whole_name: Ougla Abid Sakr Al-Koubaïssi
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '438'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'

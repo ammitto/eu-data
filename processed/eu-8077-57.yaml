@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Дмитро
-  middle_name: Олександрович
-  last_name: ХОРОШИЛОВ
-  whole_name: Дмитро Олександрович ХОРОШИЛОВ
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '139079'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Дмитрий
   middle_name: Александрович
   last_name: ХОРОШИЛОВ
@@ -37,6 +23,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139080'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Dmitrij
+  middle_name: Aleksandrovitj
+  last_name: CHOROSJILOV
+  whole_name: Dmitrij Aleksandrovitj CHOROSJILOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139638'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Дмитро
+  middle_name: Олександрович
+  last_name: ХОРОШИЛОВ
+  whole_name: Дмитро Олександрович ХОРОШИЛОВ
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '139079'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -53,20 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139081'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Dmitrij
-  middle_name: Aleksandrovitj
-  last_name: CHOROSJILOV
-  whole_name: Dmitrij Aleksandrovitj CHOROSJILOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139638'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

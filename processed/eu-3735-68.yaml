@@ -18,18 +18,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Leopold
-  last_name: Mujyambere
-  whole_name: Leopold Mujyambere
-  function: a) FDLR-FOCA Chief of Staff, b) FDLR-FOCA Interim Deputy Commander
-  strong: true
-  regulation_language: en
-  logical_id: '6802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 - whole_name: Musenyeri
   function: FDLR-FOCA Chief of Staff
   strong: true
@@ -59,6 +47,18 @@ name_aliases:
     publication_date: '2009-03-21'
     number_title: 242/2009 (OJ L75)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
+- first_name: Leopold
+  last_name: Mujyambere
+  whole_name: Leopold Mujyambere
+  function: a) FDLR-FOCA Chief of Staff, b) FDLR-FOCA Interim Deputy Commander
+  strong: true
+  regulation_language: en
+  logical_id: '6802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 citizenships:
 - country_iso2_code: RW
   country_description: RWANDA
@@ -70,6 +70,19 @@ citizenships:
     number_title: 242/2009 (OJ L75)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
 birthdates:
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1966
+  city: Kigali
+  country_iso2_code: RW
+  country_description: RWANDA
+  regulation_language: en
+  logical_id: '1118'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 - birthdate: '1962-03-17'
   circa: false
   calendar_type: GREGORIAN
@@ -86,19 +99,6 @@ birthdates:
     publication_date: '2009-03-21'
     number_title: 242/2009 (OJ L75)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:075:0008:0010:EN:PDF
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1966
-  city: Kigali
-  country_iso2_code: RW
-  country_description: RWANDA
-  regulation_language: en
-  logical_id: '1118'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 addresses:
 - city: Kinshasa
   country_iso2_code: CD

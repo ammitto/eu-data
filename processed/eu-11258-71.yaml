@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Joint Stock Company “Serov Mechanical Plant”
-  name_language: EN
+- whole_name: "„Szerovi Mechanikai Üzem” Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '162752'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: JSC “SMP”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '162753'
+  logical_id: '163982'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -44,21 +34,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: sociedad anónima Serov Mechanical Plant
-  name_language: ES
+- whole_name: Акционерное Общество “Серовский Механический Завод”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163904'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: "„Szerovi Mechanikai Üzem” Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163982'
+  logical_id: '162750'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -74,11 +54,31 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Акционерное Общество “Серовский Механический Завод”
-  name_language: RU
+- whole_name: sociedad anónima Serov Mechanical Plant
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '162750'
+  logical_id: '163904'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: JSC “SMP”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '162753'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Joint Stock Company “Serov Mechanical Plant”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '162752'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

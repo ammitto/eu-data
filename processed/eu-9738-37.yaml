@@ -14,20 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Общество С Ограниченной Ответственностью "Нижнеангарсктрансстрой"
-  name_language: RU
+- whole_name: Nizhneangarsktransstroy
+  function: a construction company that specializes in road and highway repairs
   strong: true
   regulation_language: en
-  logical_id: '150067'
+  logical_id: '150068'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: OOO “NATS”
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- whole_name: "„NATS” SRL"
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '150066'
+  logical_id: '151241'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -43,26 +44,25 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: "„NATS” SRL"
-  name_language: RO
+- whole_name: OOO “NATS”
   strong: true
   regulation_language: en
-  logical_id: '151241'
+  logical_id: '150066'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Nizhneangarsktransstroy
-  function: a construction company that specializes in road and highway repairs
+- whole_name: Общество С Ограниченной Ответственностью "Нижнеангарсктрансстрой"
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '150068'
+  logical_id: '150067'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 addresses:
 - street: Proezd-12 Maryina Roshcha, d. 9, str. 1
   city: Moscow

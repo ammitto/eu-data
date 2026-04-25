@@ -15,30 +15,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Olesya
-  middle_name: Yurievna
-  last_name: VOROBYOVA
-  whole_name: Olesya Yurievna VOROBYOVA
-  function: State Prosecutor
+- first_name: Олеся
+  middle_name: Юрьевна
+  last_name: ВОРОБЬЕВА
+  whole_name: Олеся Юрьевна ВОРОБЬЕВА
   gender: F
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '165776'
+  logical_id: '165775'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Olesya
-  middle_name: Yurievna
-  last_name: VOROBJOVA
-  whole_name: Olesya Yurievna VOROBJOVA
+- first_name: Olesia
+  last_name: Vorobiová
+  whole_name: Olesia Vorobiová
   gender: F
-  name_language: FI
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '165883'
+  logical_id: '165885'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -58,28 +56,30 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Olesia
-  last_name: Vorobiová
-  whole_name: Olesia Vorobiová
+- first_name: Olesya
+  middle_name: Yurievna
+  last_name: VOROBJOVA
+  whole_name: Olesya Yurievna VOROBJOVA
   gender: F
-  name_language: SK
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '165885'
+  logical_id: '165883'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Олеся
-  middle_name: Юрьевна
-  last_name: ВОРОБЬЕВА
-  whole_name: Олеся Юрьевна ВОРОБЬЕВА
+- first_name: Olesya
+  middle_name: Yurievna
+  last_name: VOROBYOVA
+  whole_name: Olesya Yurievna VOROBYOVA
+  function: State Prosecutor
   gender: F
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '165775'
+  logical_id: '165776'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

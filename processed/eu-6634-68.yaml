@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Jewgienij Siergiejewicz KOŁPIKOW
+  gender: M
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '131630'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 - whole_name: Yevgeniy Sergeevich KOLPIKOV
   function: Prosecutor of the Military Prosecutor’s Office of the Southern Military
     District of the Russian Federation in Rostov-on-Don.
@@ -21,27 +32,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '131579'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
-- whole_name: Евгений Сергеевич КОЛПИКОВ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '131578'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
-- whole_name: Jewgienij Siergiejewicz KOŁPIKOW
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '131630'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-10-11'
@@ -64,6 +54,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '131629'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
+- whole_name: Евгений Сергеевич КОЛПИКОВ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '131578'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-10-11'

@@ -14,53 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: محمد معروف
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '124624'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohammed MA'RUF
-  strong: true
-  regulation_language: en
-  logical_id: '123960'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Muhammad MA'RUF
-  strong: true
-  regulation_language: en
-  logical_id: '123961'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohammad MA'RUF
-  strong: true
-  regulation_language: en
-  logical_id: '123962'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohammed MAAROUF
-  strong: true
-  regulation_language: en
-  logical_id: '123963'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: Muhammad MAAROUF
   strong: true
   regulation_language: en
@@ -70,10 +23,10 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohamed MA'RUF
+- whole_name: Mohammad MAAROUF
   strong: true
   regulation_language: en
-  logical_id: '17431'
+  logical_id: '123965'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -118,19 +71,66 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohamed MAAROUF
+- whole_name: Mohammed MAAROUF
   strong: true
   regulation_language: en
-  logical_id: '17430'
+  logical_id: '123963'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohammad MAAROUF
+- whole_name: Mohamed MA'RUF
   strong: true
   regulation_language: en
-  logical_id: '123965'
+  logical_id: '17431'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: محمد معروف
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124624'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Mohammed MA'RUF
+  strong: true
+  regulation_language: en
+  logical_id: '123960'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Muhammad MA'RUF
+  strong: true
+  regulation_language: en
+  logical_id: '123961'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Mohammad MA'RUF
+  strong: true
+  regulation_language: en
+  logical_id: '123962'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Mohamed MAAROUF
+  strong: true
+  regulation_language: en
+  logical_id: '17430'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

@@ -14,6 +14,18 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: MZKT
+  function: MZKT (a.k.a. VOLAT) is part of the Belarussian State Authority for Military
+    Industry of the Republic of Belarus (a.k.a. SAMI or State Military Industrial
+    Committee)
+  strong: true
+  regulation_language: en
+  logical_id: '126913'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
 - whole_name: МЗКТ - Минский завод колёсных тягачей
   strong: true
   regulation_language: en
@@ -27,18 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '126912'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: MZKT
-  function: MZKT (a.k.a. VOLAT) is part of the Belarussian State Authority for Military
-    Industry of the Republic of Belarus (a.k.a. SAMI or State Military Industrial
-    Committee)
-  strong: true
-  regulation_language: en
-  logical_id: '126913'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'

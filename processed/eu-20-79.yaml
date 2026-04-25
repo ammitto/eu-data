@@ -25,21 +25,21 @@ name_aliases:
     publication_date: '2003-07-08'
     number_title: 1210/2003 (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- whole_name: Muzahim Sa'b Hassan Al-Tikriti
-  function: Deputy Director of Organisation of Military Industrialisation
-  strong: true
-  regulation_language: en
-  logical_id: '82'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2003-07-08'
-    number_title: 1210/2003 (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - whole_name: Muzahem Saab Hassan Al-Tikriti
   name_language: FR
   strong: true
   regulation_language: en
   logical_id: '396'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2003-07-08'
+    number_title: 1210/2003 (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
+- whole_name: Muzahim Sa'b Hassan Al-Tikriti
+  function: Deputy Director of Organisation of Military Industrialisation
+  strong: true
+  regulation_language: en
+  logical_id: '82'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -58,12 +58,11 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1949
-  city: al-Awja near Tikrit
+  city: Salaheddine (J.O. FR)
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '56'
+  logical_id: '197'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -82,13 +81,14 @@ birthdates:
     publication_date: '2003-07-08'
     number_title: 1210/2003 (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- circa: false
+- circa: true
   calendar_type: GREGORIAN
-  city: Salaheddine (J.O. FR)
+  year: 1946
+  city: al-Awja near Tikrit
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '197'
+  logical_id: '52'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -102,19 +102,6 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '54'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2003-07-08'
-    number_title: 1210/2003 (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1946
-  city: al-Awja near Tikrit
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '52'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -141,6 +128,19 @@ birthdates:
   country_description: UNKNOWN
   regulation_language: en
   logical_id: '58'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2003-07-08'
+    number_title: 1210/2003 (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1949
+  city: al-Awja near Tikrit
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '56'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'

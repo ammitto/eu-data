@@ -16,29 +16,35 @@ subject_type:
 name_aliases:
 - first_name: James
   middle_name: Koang
-  last_name: CHUOL
-  whole_name: James Koang CHUOL
-  function: |-
-    Appointed commander of the Sudan People's Liberation Army in Opposition (SPLAIO) Special Division in December 2014
-    Koang defected from his position as the Sudan People's Liberation Army (SPLA) Fourth Division commander in December 2013
-  title: Major General
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105623'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2004-01-28'
-    number_title: 131/2004 (OJ L21)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:021:0001:0004:EN:PDF
-- first_name: James
-  middle_name: Koang
   last_name: Chual
   whole_name: James Koang Chual
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '105619'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-07-10'
+    number_title: 2015/1112 (OJ L 182)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
+- whole_name: James Koang Chol Ranley
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105622'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-07-10'
+    number_title: 2015/1112 (OJ L 182)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
+- first_name: James
+  middle_name: Koang
+  last_name: Chol
+  whole_name: James Koang Chol
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105621'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
@@ -59,27 +65,21 @@ name_aliases:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
 - first_name: James
   middle_name: Koang
-  last_name: Chol
-  whole_name: James Koang Chol
+  last_name: CHUOL
+  whole_name: James Koang CHUOL
+  function: |-
+    Appointed commander of the Sudan People's Liberation Army in Opposition (SPLAIO) Special Division in December 2014
+    Koang defected from his position as the Sudan People's Liberation Army (SPLA) Fourth Division commander in December 2013
+  title: Major General
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105621'
+  logical_id: '105623'
   regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-07-10'
-    number_title: 2015/1112 (OJ L 182)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: James Koang Chol Ranley
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105622'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-07-10'
-    number_title: 2015/1112 (OJ L 182)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
+  - regulation_type: regulation
+    publication_date: '2004-01-28'
+    number_title: 131/2004 (OJ L21)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:021:0001:0004:EN:PDF
 citizenships:
 - country_iso2_code: SD
   country_description: SUDAN

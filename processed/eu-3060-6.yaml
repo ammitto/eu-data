@@ -17,39 +17,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hamza
-  last_name: al-Darnawi
-  whole_name: Hamza al-Darnawi
-  strong: true
-  regulation_language: en
-  logical_id: '17648'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-12-06'
-    number_title: 1267/2013 (OJ L326)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:326:0039:0040:EN:PDF
-- first_name: Abdullah
-  last_name: Darnawi
-  whole_name: Abdullah Darnawi
-  strong: true
-  regulation_language: en
-  logical_id: '17655'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-12-06'
-    number_title: 1267/2013 (OJ L326)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:326:0039:0040:EN:PDF
-- first_name: Hamza
-  last_name: al-Darnavi
-  whole_name: Hamza al-Darnavi
-  strong: true
-  regulation_language: en
-  logical_id: '17654'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-12-06'
-    number_title: 1267/2013 (OJ L326)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:326:0039:0040:EN:PDF
 - first_name: Abd-Al-Hamid
   last_name: Al-Masli
   whole_name: Abd-Al-Hamid Al-Masli
@@ -65,6 +32,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17645'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-12-06'
+    number_title: 1267/2013 (OJ L326)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:326:0039:0040:EN:PDF
+- first_name: Abu-Hamzah
+  last_name: al-Darnawi
+  whole_name: Abu-Hamzah al-Darnawi
+  strong: true
+  regulation_language: en
+  logical_id: '17656'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-12-06'
+    number_title: 1267/2013 (OJ L326)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:326:0039:0040:EN:PDF
+- first_name: Abdullah
+  last_name: Darnawi
+  whole_name: Abdullah Darnawi
+  strong: true
+  regulation_language: en
+  logical_id: '17655'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-12-06'
@@ -92,12 +81,12 @@ name_aliases:
     publication_date: '2013-12-06'
     number_title: 1267/2013 (OJ L326)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:326:0039:0040:EN:PDF
-- first_name: Abu-Hamzah
+- first_name: Hamza
   last_name: al-Darnawi
-  whole_name: Abu-Hamzah al-Darnawi
+  whole_name: Hamza al-Darnawi
   strong: true
   regulation_language: en
-  logical_id: '17656'
+  logical_id: '17648'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-12-06'
@@ -153,6 +142,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17653'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-12-06'
+    number_title: 1267/2013 (OJ L326)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:326:0039:0040:EN:PDF
+- first_name: Hamza
+  last_name: al-Darnavi
+  whole_name: Hamza al-Darnavi
+  strong: true
+  regulation_language: en
+  logical_id: '17654'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-12-06'

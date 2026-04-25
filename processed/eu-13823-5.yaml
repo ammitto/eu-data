@@ -14,11 +14,54 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Дружество с  ограничена отговорност Пром  Композит
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '179819'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Prom Composite Korlátolt  Felelősségű Társaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '179818'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Prom Composite, sociedade de  responsabilidade limitada
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '179817'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Общество с  Ограниченной  Ответственностью  Пром Композит
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '179820'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Prom Composite Limited  Liability Company
+  function: "A Russian company developing and producing unmanned aerial vehicles (UAVs).
+    Its portfolio includes UAV models such as UAV-KT “Lisa”, \nUAV-KT “Volk”, first-person
+    view (FPV) UAV “Dozor” and FPV UAV “Vespa”, as well as large radar domes."
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179824'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -54,49 +97,6 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Дружество с  ограничена отговорност Пром  Композит
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '179819'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Prom Composite Limited  Liability Company
-  function: "A Russian company developing and producing unmanned aerial vehicles (UAVs).
-    Its portfolio includes UAV models such as UAV-KT “Lisa”, \nUAV-KT “Volk”, first-person
-    view (FPV) UAV “Dozor” and FPV UAV “Vespa”, as well as large radar domes."
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179824'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Prom Composite, sociedade de  responsabilidade limitada
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '179817'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Prom Composite Korlátolt  Felelősségű Társaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '179818'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 addresses:
 - street: Sh. Dmitrovskoye 110
   city: Moscow
@@ -111,21 +111,21 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: regnumber
-  number: '1137746585855'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '179816'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: taxid
   number: '7713772193'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179815'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: regnumber
+  number: '1137746585855'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '179816'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

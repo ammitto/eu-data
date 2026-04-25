@@ -15,6 +15,18 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Yong Chol
+  last_name: Cho
+  whole_name: Yong Chol Cho
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110294'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2017-08-31'
+    number_title: 2017/1509 (OJ L224)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
+- first_name: Yong Chol
   last_name: Jo
   whole_name: Yong Chol Jo
   function: Jo Yong Chol is a North Korean Ministry of State Security Official stationed
@@ -23,18 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '110295'
-  regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2017-08-31'
-    number_title: 2017/1509 (OJ L224)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- first_name: Yong Chol
-  last_name: Cho
-  whole_name: Yong Chol Cho
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110294'
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2017-08-31'

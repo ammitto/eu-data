@@ -14,6 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Chong-chol
+  last_name: Mun
+  whole_name: Chong-chol Mun
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161778'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - first_name: Cho’ng-Ch’o’l
   last_name: Mun
   whole_name: Cho’ng-Ch’o’l Mun
@@ -35,18 +47,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143601'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Chong-chol
-  last_name: Mun
-  whole_name: Chong-chol Mun
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161778'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

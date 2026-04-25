@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC Media Group NewsFront
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173484'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Hírfront
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: Média Csoport Hírfront Kft.
   name_language: HU
   strong: true
@@ -44,41 +24,31 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»Média Csoport Hírfront« Korlátolt Felelősségű Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173410'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Društvo s ograničenom odgovornošću ‚Media Group NewsFront
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '173453'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: ООО “МЕДИАГРУПП НЬЮСФРОНТ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '172722'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: NewsFront
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '172723'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: JSC Media Group NewsFront
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172724'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ “МЕДИАГРУПП НЬЮСФРОНТ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '172725'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -98,21 +68,51 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ “МЕДИАГРУПП НЬЮСФРОНТ”
-  name_language: RU
+- whole_name: Hírfront
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '172725'
+  logical_id: '173408'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: JSC Media Group NewsFront
+- whole_name: "»Média Csoport Hírfront« Korlátolt Felelősségű Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173410'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: LLC Media Group NewsFront
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172724'
+  logical_id: '173484'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: ООО “МЕДИАГРУПП НЬЮСФРОНТ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '172722'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Društvo s ograničenom odgovornošću ‚Media Group NewsFront
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '173453'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -132,21 +132,21 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: fiscalcode
-  number: '9104005842'
-  country_iso2_code: UA
-  regulation_language: en
-  logical_id: '172720'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: regnumber
   number: '1159102083238'
   country_iso2_code: UA
   regulation_language: en
   logical_id: '172721'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: fiscalcode
+  number: '9104005842'
+  country_iso2_code: UA
+  regulation_language: en
+  logical_id: '172720'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

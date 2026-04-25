@@ -14,27 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ljudmila
-  last_name: Smolkinová
-  whole_name: Ljudmila Smolkinová
+- first_name: Ludmila
+  middle_name: Mikhailovna
+  last_name: SMOLKINA
+  whole_name: Ludmila Mikhailovna SMOLKINA
+  function: Judge, Moscow City Court
   gender: F
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161908'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-29'
-    number_title: 2024/417 (OJ L29012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Ľudmila
-  last_name: Smolkinová
-  whole_name: Ľudmila Smolkinová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '161912'
+  logical_id: '161895'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'
@@ -55,20 +44,6 @@ name_aliases:
     number_title: 2024/417 (OJ L29012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
 - first_name: Людмила
-  middle_name: Михайловна
-  last_name: СМОЛКИНA
-  whole_name: Людмила Михайловна СМОЛКИНA
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '161894'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-29'
-    number_title: 2024/417 (OJ L29012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Людмила
   middle_name: Михайлiвна
   last_name: СМОЛКIНА
   whole_name: Людмила Михайлiвна СМОЛКIНА
@@ -82,16 +57,41 @@ name_aliases:
     publication_date: '2024-01-29'
     number_title: 2024/417 (OJ L29012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
-- first_name: Ludmila
-  middle_name: Mikhailovna
-  last_name: SMOLKINA
-  whole_name: Ludmila Mikhailovna SMOLKINA
-  function: Judge, Moscow City Court
+- first_name: Ľudmila
+  last_name: Smolkinová
+  whole_name: Ľudmila Smolkinová
   gender: F
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '161895'
+  logical_id: '161912'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-29'
+    number_title: 2024/417 (OJ L29012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
+- first_name: Ljudmila
+  last_name: Smolkinová
+  whole_name: Ljudmila Smolkinová
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '161908'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-29'
+    number_title: 2024/417 (OJ L29012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400417
+- first_name: Людмила
+  middle_name: Михайловна
+  last_name: СМОЛКИНA
+  whole_name: Людмила Михайловна СМОЛКИНA
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '161894'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-29'

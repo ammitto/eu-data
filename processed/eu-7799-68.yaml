@@ -15,13 +15,16 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Armen
-  last_name: Gasparjan
-  whole_name: Armen Gasparjan
+  middle_name: Sumbatovich
+  last_name: GASPARYAN
+  whole_name: Armen Sumbatovich GASPARYAN
+  function: Publicist, propagandist, member of “Russia Today” board, member of the
+    Civic Chamber
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158366'
+  logical_id: '137683'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -41,16 +44,13 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Armen
-  middle_name: Sumbatovich
-  last_name: GASPARYAN
-  whole_name: Armen Sumbatovich GASPARYAN
-  function: Publicist, propagandist, member of “Russia Today” board, member of the
-    Civic Chamber
+  last_name: Gasparjan
+  whole_name: Armen Gasparjan
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '137683'
+  logical_id: '158366'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

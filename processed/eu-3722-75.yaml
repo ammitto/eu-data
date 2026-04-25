@@ -44,20 +44,17 @@ name_aliases:
     publication_date: '2020-03-13'
     number_title: 2020/398 (OJ L78)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
-- first_name: Vladimir
-  middle_name: Stepanovici
-  last_name: NIKITIN
-  whole_name: Vladimir Stepanovici NIKITIN
+- whole_name: Wladimir Stepanowitsch NIKITIN
   gender: M
-  name_language: RO
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '158453'
+  logical_id: '131426'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
 - first_name: Vladimir
   middle_name: Stepanovitj
   last_name: NIKITIN
@@ -72,17 +69,20 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Wladimir Stepanowitsch NIKITIN
+- first_name: Vladimir
+  middle_name: Stepanovici
+  last_name: NIKITIN
+  whole_name: Vladimir Stepanovici NIKITIN
   gender: M
-  name_language: DE
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '131426'
+  logical_id: '158453'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 birthdates:
 - birthdate: '1948-04-05'
   circa: false

@@ -15,6 +15,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Mohamed Heikmat IBRAHIM
+  function: Head of the police of Al‐ Hassaka. ormer Head of the Operations Branch
+    of the Political Security Di­rectorate,
+  gender: M
+  title: Major General
+  strong: true
+  regulation_language: en
+  logical_id: '15183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: Mohammad Heikmat IBRAHIM
   strong: true
   regulation_language: en
@@ -60,23 +73,21 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohammad Hikmat IBRAHIM
+- whole_name: محمد حكمت إبراهيم
+  gender: M
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '120235'
+  logical_id: '124632'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohamed Heikmat IBRAHIM
-  function: Head of the police of Al‐ Hassaka. ormer Head of the Operations Branch
-    of the Political Security Di­rectorate,
-  gender: M
-  title: Major General
+- whole_name: Mohammad Hekmat IBRAHIM
   strong: true
   regulation_language: en
-  logical_id: '15183'
+  logical_id: '120236'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -118,21 +129,10 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: محمد حكمت إبراهيم
-  gender: M
-  name_language: AR
+- whole_name: Mohammad Hikmat IBRAHIM
   strong: true
   regulation_language: en
-  logical_id: '124632'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
-- whole_name: Mohammad Hekmat IBRAHIM
-  strong: true
-  regulation_language: en
-  logical_id: '120236'
+  logical_id: '120235'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

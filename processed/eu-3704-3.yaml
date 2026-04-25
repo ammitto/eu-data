@@ -17,48 +17,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: General Major Mupenzi
-  function: FDLR-FOCA Lieutenant General
-  strong: true
-  regulation_language: en
-  logical_id: '4321'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
-- first_name: Bernard
-  last_name: Mupenzi
-  whole_name: Bernard Mupenzi
-  function: FDLR-FOCA Commander
-  strong: true
-  regulation_language: en
-  logical_id: '4320'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
-- whole_name: Général Major Mupenzi
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '4372'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-11-10'
-    number_title: 1824/2005 (OJ L294)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:294:0003:0004:EN:PDF
-- whole_name: generaal-majoor Mupenzi
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '4373'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-12-23'
-    number_title: 1250/2010 (OJ L341)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0011:0014:EN:PDF
 - whole_name: General Mudacumura
   strong: true
   regulation_language: en
@@ -78,6 +36,26 @@ name_aliases:
     publication_date: '2010-12-23'
     number_title: 1250/2010 (OJ L341)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0011:0014:EN:PDF
+- whole_name: generaal-majoor Mupenzi
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '4373'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-12-23'
+    number_title: 1250/2010 (OJ L341)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0011:0014:EN:PDF
+- whole_name: Général Major Mupenzi
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '4372'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-11-10'
+    number_title: 1824/2005 (OJ L294)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:294:0003:0004:EN:PDF
 - whole_name: Général Mudacumura
   name_language: FR
   strong: true
@@ -148,25 +126,16 @@ name_aliases:
     publication_date: '2010-12-23'
     number_title: 1250/2010 (OJ L341)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0011:0014:EN:PDF
-- whole_name: Υποστράτηγος Mupenzi
-  name_language: EL
+- whole_name: Pharaoh
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '4371'
+  logical_id: '110771'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2010-12-23'
-    number_title: 1250/2010 (OJ L341)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0011:0014:EN:PDF
-- whole_name: Radja
-  strong: true
-  regulation_language: en
-  logical_id: '4319'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-11-10'
-    number_title: 1824/2005 (OJ L294)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:294:0003:0004:EN:PDF
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 - first_name: Sylvestre
   last_name: Mudacumura
   whole_name: Sylvestre Mudacumura
@@ -180,16 +149,47 @@ name_aliases:
     publication_date: '2017-02-07'
     number_title: 2017/199 (OJ L32)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
-- whole_name: Pharaoh
-  name_language: EN
+- whole_name: Radja
   strong: true
   regulation_language: en
-  logical_id: '110771'
+  logical_id: '4319'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-11-10'
+    number_title: 1824/2005 (OJ L294)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:294:0003:0004:EN:PDF
+- first_name: Bernard
+  last_name: Mupenzi
+  whole_name: Bernard Mupenzi
+  function: FDLR-FOCA Commander
+  strong: true
+  regulation_language: en
+  logical_id: '4320'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-07'
     number_title: 2017/199 (OJ L32)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
+- whole_name: General Major Mupenzi
+  function: FDLR-FOCA Lieutenant General
+  strong: true
+  regulation_language: en
+  logical_id: '4321'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
+- whole_name: Υποστράτηγος Mupenzi
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '4371'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-12-23'
+    number_title: 1250/2010 (OJ L341)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0011:0014:EN:PDF
 citizenships:
 - country_iso2_code: RW
   country_description: RWANDA

@@ -24,11 +24,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: AO Krasnoiarskyi  mashynobudivnyi zavod
-  name_language: SK
+- whole_name: Акционерно дружество „Красноярски  машиностроителен завод“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '179308'
+  logical_id: '179481'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -39,6 +39,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179309'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: AO Krasnoiarskyi  mashynobudivnyi zavod
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '179308'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: АО Красмаш
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179307'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -56,31 +76,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Акционерно дружество „Красноярски  машиностроителен завод“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '179481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: АО Красноярский  Машиностроительный Завод
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '179306'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: АО Красмаш
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179307'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -101,21 +101,21 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: regnumber
-  number: '1082468060553'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '179305'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: taxid
   number: '2462206345'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179304'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: regnumber
+  number: '1082468060553'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '179305'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

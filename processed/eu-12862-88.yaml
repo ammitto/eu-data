@@ -14,22 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Rafinăria de aur Gasabo
-  name_language: RO
+- whole_name: La raffinerie d’or de Gasabo
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '173829'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-17'
-    number_title: 2025/509 (OJ L202500509)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500509
-- whole_name: Gasabo Gold Refinery
-  function: Gold refinery in Rwanda
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '173835'
+  logical_id: '173833'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-17'
@@ -55,21 +44,22 @@ name_aliases:
     publication_date: '2025-03-17'
     number_title: 2025/509 (OJ L202500509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500509
-- whole_name: Rafineria złota Gasabo
-  name_language: PL
+- whole_name: Gasabo Gold Refinery
+  function: Gold refinery in Rwanda
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173830'
+  logical_id: '173835'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-17'
     number_title: 2025/509 (OJ L202500509)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500509
-- whole_name: La raffinerie d’or de Gasabo
-  name_language: FR
+- whole_name: Rafinăria de aur Gasabo
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '173833'
+  logical_id: '173829'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-17'
@@ -90,6 +80,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173834'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-17'
+    number_title: 2025/509 (OJ L202500509)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500509
+- whole_name: Rafineria złota Gasabo
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '173830'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-17'

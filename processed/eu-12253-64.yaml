@@ -14,46 +14,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Evrazia - Autonomous non-commercial organisation for the promotion of
-    international cooperation
-  function: A Russia-based non-governmental association
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170209'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-04-28'
-    number_title: 2025/817 (OJ L202500817)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500817
 - whole_name: Evrazia Organizzazzjoni awtonoma mhux kummerċjali għall-promozzjoni
     tal-kooperazzjoni internazzjonali
   name_language: MT
   strong: true
   regulation_language: en
   logical_id: '170281'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-14'
-    number_title: 2024/2700 (OJ L14102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
-- whole_name: Evrazia - Eagraíocht neamhthráchtála uathrialach um chur chun cinn an
-    chomhair idirnáisiúnta
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '170280'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-14'
-    number_title: 2024/2700 (OJ L14102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
-- whole_name: Autonomna nekomercijalna organizacija za promicanje međunarodne suradnje
-    Evrazia
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '170276'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'
@@ -92,45 +58,46 @@ name_aliases:
     publication_date: '2024-10-14'
     number_title: 2024/2700 (OJ L14102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
-- whole_name: Evrazia - autonome niet-commerciële organisatie voor de bevordering
-    van internationale samenwerking
-  name_language: NL
+- whole_name: Autonomna nekomercijalna organizacija za promicanje međunarodne suradnje
+    Evrazia
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '170272'
+  logical_id: '170276'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'
     number_title: 2024/2700 (OJ L14102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
-- whole_name: Evrazia - Autonóm Nem Kereskedelemi Szervezet a Nemzetközi Együttműködés
-    Előmozdításáért
-  name_language: HU
+- whole_name: Evrazia - Eagraíocht neamhthráchtála uathrialach um chur chun cinn an
+    chomhair idirnáisiúnta
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '170269'
+  logical_id: '170280'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'
     number_title: 2024/2700 (OJ L14102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
-- whole_name: Evrazia – niezależna organizacja niekomercyjna ds. promocji współpracy
-    międzynarodowej
-  name_language: PL
+- whole_name: Evrazia - Autonomous non-commercial organisation for the promotion of
+    international cooperation
+  function: A Russia-based non-governmental association
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '170268'
+  logical_id: '170209'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-10-14'
-    number_title: 2024/2700 (OJ L14102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
-- whole_name: Evrazia — organização não comercial autónoma para a promoção da cooperação
-    internacional
-  name_language: PT
+    publication_date: '2025-04-28'
+    number_title: 2025/817 (OJ L202500817)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500817
+- whole_name: Evrazia — Autonome nichtgewerbliche Organisation zur Förderung der internationalen
+    Zusammenarbeit
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '170267'
+  logical_id: '170265'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'
@@ -147,12 +114,45 @@ name_aliases:
     publication_date: '2024-10-14'
     number_title: 2024/2700 (OJ L14102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
-- whole_name: Evrazia — Autonome nichtgewerbliche Organisation zur Förderung der internationalen
-    Zusammenarbeit
-  name_language: DE
+- whole_name: Evrazia — organização não comercial autónoma para a promoção da cooperação
+    internacional
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '170265'
+  logical_id: '170267'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-14'
+    number_title: 2024/2700 (OJ L14102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
+- whole_name: Evrazia – niezależna organizacja niekomercyjna ds. promocji współpracy
+    międzynarodowej
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '170268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-14'
+    number_title: 2024/2700 (OJ L14102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
+- whole_name: Evrazia - Autonóm Nem Kereskedelemi Szervezet a Nemzetközi Együttműködés
+    Előmozdításáért
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '170269'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-14'
+    number_title: 2024/2700 (OJ L14102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
+- whole_name: Evrazia - autonome niet-commerciële organisatie voor de bevordering
+    van internationale samenwerking
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '170272'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'
@@ -172,6 +172,16 @@ addresses:
     number_title: 2024/2700 (OJ L14102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
 identifications:
+- identification_type_code: regnumber
+  number: '1247700291200'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '170208'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-14'
+    number_title: 2024/2700 (OJ L14102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
 - identification_type_code: other
   number: '770701001'
   country_iso2_code: '00'
@@ -187,16 +197,6 @@ identifications:
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '170207'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-14'
-    number_title: 2024/2700 (OJ L14102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
-- identification_type_code: regnumber
-  number: '1247700291200'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '170208'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'

@@ -15,19 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: U’n So’ng
-  last_name: Ri
-  whole_name: U’n So’ng Ri
-  function: Former overseas Korea Unification Development Bank representative.
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '115060'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - first_name: Eun Song
   last_name: Ri
   whole_name: Eun Song Ri
@@ -36,6 +23,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '115059'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: U’n So’ng
+  last_name: Ri
+  whole_name: U’n So’ng Ri
+  function: Former overseas Korea Unification Development Bank representative.
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '115060'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

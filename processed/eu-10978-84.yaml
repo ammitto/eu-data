@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Arzamaský nástrojářský závod P. I. Plandina, a. s.
-  name_language: CS
+- whole_name: АO Арзамасский приборостроительный завод имени П. И. Пландина
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160996'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Planta de Construcción de Instrumentos de Arzamas
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160718'
+  logical_id: '160098'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -44,11 +34,21 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АO Арзамасский приборостроительный завод имени П. И. Пландина
-  name_language: RU
+- whole_name: Arzamaský nástrojářský závod P. I. Plandina, a. s.
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160098'
+  logical_id: '160996'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Planta de Construcción de Instrumentos de Arzamas
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160718'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

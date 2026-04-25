@@ -16,20 +16,6 @@ subject_type:
 name_aliases:
 - first_name: Alena
   middle_name: Stanislavauna
-  last_name: HORMASJ
-  whole_name: Alena Stanislavauna HORMASJ
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156930'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Alena
-  middle_name: Stanislavauna
   last_name: HARMASH
   whole_name: Alena Stanislavauna HARMASH
   function: Judge of the Court of Bobruisk District and Bobruisk
@@ -38,20 +24,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156700'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Елена
-  middle_name: Станиславовна
-  last_name: ГОРМАШ
-  whole_name: Елена Станиславовна ГОРМАШ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156698'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -66,6 +38,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156697'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Jelena
+  middle_name: Stanislavovna
+  last_name: GORMASJ
+  whole_name: Jelena Stanislavovna GORMASJ
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156929'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Елена
+  middle_name: Станиславовна
+  last_name: ГОРМАШ
+  whole_name: Елена Станиславовна ГОРМАШ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156698'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -86,6 +86,20 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Alena
+  middle_name: Stanislavauna
+  last_name: HORMASJ
+  whole_name: Alena Stanislavauna HORMASJ
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156930'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Alena
   last_name: Hormašová
   whole_name: Alena Hormašová
   gender: F
@@ -93,20 +107,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157010'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Jelena
-  middle_name: Stanislavovna
-  last_name: GORMASJ
-  whole_name: Jelena Stanislavovna GORMASJ
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156929'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

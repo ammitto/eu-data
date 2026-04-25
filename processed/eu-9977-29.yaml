@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Qazi
-  last_name: BARATI
-  whole_name: Qazi BARATI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '151900'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-20'
-    number_title: 2023/645 (OJ L80 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
 - whole_name: مرتضی براتی
   gender: M
   name_language: FA
@@ -47,6 +34,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151902'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-20'
+    number_title: 2023/645 (OJ L80 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0645
+- first_name: Qazi
+  last_name: BARATI
+  whole_name: Qazi BARATI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '151900'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-20'

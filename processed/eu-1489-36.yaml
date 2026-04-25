@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Faysal
-  last_name: al-Bughanimi
-  whole_name: Faysal al-Bughanimi
-  strong: true
-  regulation_language: en
-  logical_id: '7481'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2002-05-29'
-    number_title: 881/2002 (OJ L139)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 - first_name: Faical
   last_name: Boughanmi
   whole_name: Faical Boughanmi
@@ -47,6 +36,17 @@ name_aliases:
     publication_date: '2005-08-03'
     number_title: 1278/2005 (OJ L202)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:202:0034:0035:EN:PDF
+- first_name: Faysal
+  last_name: al-Bughanimi
+  whole_name: Faysal al-Bughanimi
+  strong: true
+  regulation_language: en
+  logical_id: '7481'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2002-05-29'
+    number_title: 881/2002 (OJ L139)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
 citizenships:
 - country_iso2_code: TN
   country_description: TUNISIA

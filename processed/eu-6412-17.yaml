@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Vladimir Iosifovitj LAPYR
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130752'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Уладзімір Іосіфавіч ЛАПЫР
   gender: M
   name_language: BE
@@ -36,17 +47,6 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Vladimir Iosifovitj LAPYR
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130752'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Владимир Иосифович ЛАПЫРЬ
   gender: M
   name_language: RU
@@ -58,22 +58,22 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Vladimir Yosifovich LAPYR
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Uladzimir Iosifavich LAPYR
   function: "Deputy Head of the \nAkrestina Temporary \nDetention Centre"
   gender: M
   strong: true
   regulation_language: en
   logical_id: '130340'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Vladimir Yosifovich LAPYR
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130339'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

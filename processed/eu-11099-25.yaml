@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: يسار حسين إبراهيم
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '166992'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Yassar Hussein
   last_name: Ibrahim
   whole_name: Yassar Hussein Ibrahim
@@ -52,6 +41,17 @@ name_aliases:
     publication_date: '2024-01-22'
     number_title: 2024/362 (OJ L22012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400362
+- whole_name: يسار حسين إبراهيم
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '166992'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 citizenships:
 - country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC

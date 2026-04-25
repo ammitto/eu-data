@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Novorosszija "Vasutak" szövetségi állami vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167228'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Întreprinderea unitară federală de stat „Novorossiya Railways”
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '167229'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Föderales staatliches Einheitsunternehmen „Eisenbahn Neurussland“
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '167230'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: ФГУП “Железные дороги Новороссии”
   strong: true
   regulation_language: en
@@ -60,6 +30,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166147'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Föderales staatliches Einheitsunternehmen „Eisenbahn Neurussland“
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '167230'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Novorosszija "Vasutak" szövetségi állami vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167228'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Întreprinderea unitară federală de stat „Novorossiya Railways”
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '167229'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

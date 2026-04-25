@@ -16,10 +16,32 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Kimo
+- first_name: Kamal
+  middle_name: Ben Maoeldi Ben Hassan
+  last_name: Al-Hamraoui
+  whole_name: Kamal Ben Maoeldi Ben Hassan Al-Hamraoui
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '2432'
+  logical_id: '2430'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-08-10'
+    number_title: 1210/2006 (OJ L219)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:219:0014:0019:EN:PDF
+- whole_name: Hamraoui Kamel
+  strong: true
+  regulation_language: en
+  logical_id: '12718'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-09-17'
+    number_title: 2020/1297 (OJ L303I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
+- whole_name: Hamroui Kamel ben Mouldi
+  strong: true
+  regulation_language: en
+  logical_id: '12717'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-17'
@@ -34,32 +56,10 @@ name_aliases:
     publication_date: '2020-09-17'
     number_title: 2020/1297 (OJ L303I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
-- first_name: Kamal
-  middle_name: Ben Maoeldi Ben Hassan
-  last_name: Al-Hamraoui
-  whole_name: Kamal Ben Maoeldi Ben Hassan Al-Hamraoui
-  gender: M
+- whole_name: Kimo
   strong: true
   regulation_language: en
-  logical_id: '2430'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-08-10'
-    number_title: 1210/2006 (OJ L219)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:219:0014:0019:EN:PDF
-- whole_name: Hamroui Kamel ben Mouldi
-  strong: true
-  regulation_language: en
-  logical_id: '12717'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-09-17'
-    number_title: 2020/1297 (OJ L303I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
-- whole_name: Hamraoui Kamel
-  strong: true
-  regulation_language: en
-  logical_id: '12718'
+  logical_id: '2432'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-17'
@@ -85,21 +85,6 @@ citizenships:
     number_title: 76/2006 (OJ L12)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:012:0007:0016:EN:PDF
 birthdates:
-- birthdate: '1977-11-21'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 21
-  month_of_year: 11
-  year: 1977
-  country_iso2_code: TN
-  country_description: TUNISIA
-  regulation_language: en
-  logical_id: '125588'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-09-17'
-    number_title: 2020/1297 (OJ L303I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
 - birthdate: '1977-10-21'
   circa: false
   calendar_type: GREGORIAN
@@ -121,6 +106,21 @@ birthdates:
   day_of_month: 21
   month_of_year: 11
   year: 1977
+  country_iso2_code: TN
+  country_description: TUNISIA
+  regulation_language: en
+  logical_id: '125588'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-09-17'
+    number_title: 2020/1297 (OJ L303I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
+- birthdate: '1977-11-21'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 21
+  month_of_year: 11
+  year: 1977
   country_iso2_code: MA
   country_description: MOROCCO
   regulation_language: en
@@ -130,6 +130,21 @@ birthdates:
     publication_date: '2011-06-17'
     number_title: 577/2011 (OJ L159)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
+- birthdate: '1977-10-21'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 21
+  month_of_year: 10
+  year: 1977
+  country_iso2_code: MA
+  country_description: MOROCCO
+  regulation_language: en
+  logical_id: '125603'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-09-17'
+    number_title: 2020/1297 (OJ L303I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
 - birthdate: '1977-10-21'
   circa: false
   calendar_type: GREGORIAN
@@ -162,39 +177,24 @@ birthdates:
     publication_date: '2020-09-17'
     number_title: 2020/1297 (OJ L303I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
-- birthdate: '1977-10-21'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 21
-  month_of_year: 10
-  year: 1977
-  country_iso2_code: MA
-  country_description: MOROCCO
-  regulation_language: en
-  logical_id: '125603'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-09-17'
-    number_title: 2020/1297 (OJ L303I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
 addresses:
-- street: Via Bertesi 27
-  city: Cremona
-  country_iso2_code: IT
-  country_description: ITALY
-  regulation_language: en
-  logical_id: '374'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-09-17'
-    number_title: 2020/1297 (OJ L303I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
 - street: Via Plebiscito 3
   city: Cremona
   country_iso2_code: IT
   country_description: ITALY
   regulation_language: en
   logical_id: '375'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-09-17'
+    number_title: 2020/1297 (OJ L303I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.303.01.0001.01.ENG&toc=OJ:L:2020:303I:TOC
+- street: Via Bertesi 27
+  city: Cremona
+  country_iso2_code: IT
+  country_description: ITALY
+  regulation_language: en
+  logical_id: '374'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-09-17'

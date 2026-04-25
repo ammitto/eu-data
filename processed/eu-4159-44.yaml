@@ -14,32 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Young-Cheol
-  last_name: KIM
-  whole_name: Young-Cheol KIM
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '15071'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Young-cheol
-  last_name: KIM
-  whole_name: Young-cheol KIM
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161794'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - first_name: Yong Chol
   last_name: KIM
   whole_name: Yong Chol KIM
@@ -83,14 +57,14 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Young-chul
+- first_name: Young-Cheol
   last_name: KIM
-  whole_name: Young-chul KIM
+  whole_name: Young-Cheol KIM
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161793'
+  logical_id: '15071'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'
@@ -104,17 +78,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '15072'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: 김영철
-  gender: M
-  name_language: KO
-  strong: true
-  regulation_language: en
-  logical_id: '141990'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'
@@ -141,6 +104,43 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161792'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Young-chul
+  last_name: KIM
+  whole_name: Young-chul KIM
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161793'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Young-cheol
+  last_name: KIM
+  whole_name: Young-cheol KIM
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161794'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: 김영철
+  gender: M
+  name_language: KO
+  strong: true
+  regulation_language: en
+  logical_id: '141990'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

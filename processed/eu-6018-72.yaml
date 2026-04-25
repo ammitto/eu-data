@@ -14,34 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Геннадий
-  middle_name: Андреевич
-  last_name: БОГДАН
-  whole_name: Геннадий Андреевич БОГДАН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '126688'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Генадзь
-  middle_name: Андрэевiч
-  last_name: БОГДАН
-  whole_name: Генадзь Андрэевiч БОГДАН
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '126689'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Gennady
   middle_name: Andreievich
   last_name: BOGDAN
@@ -66,6 +38,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '126691'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Генадзь
+  middle_name: Андрэевiч
+  last_name: БОГДАН
+  whole_name: Генадзь Андрэевiч БОГДАН
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '126689'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Геннадий
+  middle_name: Андреевич
+  last_name: БОГДАН
+  whole_name: Геннадий Андреевич БОГДАН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '126688'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

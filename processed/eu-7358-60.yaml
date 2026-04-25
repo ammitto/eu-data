@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Евгений
+  middle_name: Георгиевич
+  last_name: ПОПОВ
+  whole_name: Евгений Георгиевич ПОПОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '135170'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Yevgeny
   middle_name: Georgievich
   last_name: POPOV
@@ -38,20 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144037'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Евгений
-  middle_name: Георгиевич
-  last_name: ПОПОВ
-  whole_name: Евгений Георгиевич ПОПОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '135170'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

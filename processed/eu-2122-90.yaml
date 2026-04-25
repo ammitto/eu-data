@@ -14,35 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Calib
-  last_name: Trinidad
-  whole_name: Calib Trinidad
-  strong: true
-  regulation_language: en
-  logical_id: '6557'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Abu Khalil
-  strong: true
-  regulation_language: en
-  logical_id: '6561'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Abdukahlil
-  strong: true
-  regulation_language: en
-  logical_id: '6560'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
 - first_name: Angelo
   middle_name: Ramirez
   last_name: Trinidad
@@ -55,10 +26,12 @@ name_aliases:
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Anis
+- first_name: Calib
+  last_name: Trinidad
+  whole_name: Calib Trinidad
   strong: true
   regulation_language: en
-  logical_id: '6562'
+  logical_id: '6557'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
@@ -79,6 +52,33 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6559'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: Abdukahlil
+  strong: true
+  regulation_language: en
+  logical_id: '6560'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: Anis
+  strong: true
+  regulation_language: en
+  logical_id: '6562'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: Abu Khalil
+  strong: true
+  regulation_language: en
+  logical_id: '6561'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'

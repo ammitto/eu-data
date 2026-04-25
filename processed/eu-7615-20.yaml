@@ -14,6 +14,34 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Aleksandr
+  middle_name: Semjonovitj
+  last_name: VINOKUROV
+  whole_name: Aleksandr Semjonovitj VINOKUROV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137330'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Александр
+  middle_name: Семьонович
+  last_name: Винокуров
+  whole_name: Александр Семьонович Винокуров
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '157520'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - first_name: Александр
   middle_name: Семёнович
   last_name: ВИНОКУРОВ
@@ -44,20 +72,19 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Aleksandr
-  middle_name: Semjonovitj
-  last_name: VINOKUROV
-  whole_name: Aleksandr Semjonovitj VINOKUROV
+- first_name: Alexandr
+  last_name: Vinokurov
+  whole_name: Alexandr Vinokurov
   gender: M
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '137330'
+  logical_id: '158481'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Alexander
   middle_name: Semenovich
   last_name: VINOKOUROV
@@ -85,33 +112,6 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Alexandr
-  last_name: Vinokurov
-  whole_name: Alexandr Vinokurov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '158481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Александр
-  middle_name: Семьонович
-  last_name: Винокуров
-  whole_name: Александр Семьонович Винокуров
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '157520'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

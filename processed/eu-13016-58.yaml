@@ -14,11 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Atlas Mining LLC
-  name_language: EN
+- whole_name: Atlasz Bányászati Kft.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '174823'
+  logical_id: '175229'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Petropavlovsk Nyrt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175230'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -38,39 +48,17 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Petropavlovsk Nyrt.
-  name_language: HU
+- whole_name: Atlas Mining LLC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175230'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Atlasz Bányászati Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175229'
+  logical_id: '174823'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
-- street: Opus Restructuring Llp 1 Radian Court, Knowlhill, Milton Keynes
-  city: Buckinghamshire, MK5 8PJ
-  country_iso2_code: GB
-  country_description: UNITED KINGDOM
-  zip_code: MK5 8PJ
-  regulation_language: en
-  logical_id: '174820'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - street: st. Lenina, 140/1
   city: Blagoveshchensk
   region: Amur
@@ -78,6 +66,18 @@ addresses:
   country_description: RUSSIAN FEDERATION
   regulation_language: en
   logical_id: '174821'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- street: Opus Restructuring Llp 1 Radian Court, Knowlhill, Milton Keynes
+  city: Buckinghamshire, MK5 8PJ
+  country_iso2_code: GB
+  country_description: UNITED KINGDOM
+  zip_code: MK5 8PJ
+  regulation_language: en
+  logical_id: '174820'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

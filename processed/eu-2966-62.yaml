@@ -14,51 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "”Donetskin tasavalta” -kansanliike"
-  name_language: FI
+- whole_name: Gluaiseacht phoiblí ‘Donetsk Republic’
+  name_language: GA
   strong: true
   regulation_language: en
-  logical_id: '131518'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Sabiedriska kustība “Donetsk  Republic”
-  name_language: LV
-  strong: true
-  regulation_language: en
-  logical_id: '152636'
+  logical_id: '152635'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Verejné hnutie „Donecká republika“
-  name_language: SK
+- whole_name: Sabiedriska kustība “Donetsk  Republic”
+  name_language: LV
   strong: true
   regulation_language: en
-  logical_id: '131520'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Javno gibanje ‚Republika Doneck‘
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '131519'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Samhällsrörelsen ’Donetskrepubliken’
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '152584'
+  logical_id: '152636'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -79,6 +49,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152509'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Samhällsrörelsen ’Donetskrepubliken’
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '152584'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -283,16 +263,36 @@ name_aliases:
     publication_date: '2021-09-13'
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Gluaiseacht phoiblí ‘Donetsk Republic’
-  name_language: GA
+- whole_name: "”Donetskin tasavalta” -kansanliike"
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '152635'
+  logical_id: '131518'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Javno gibanje ‚Republika Doneck‘
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '131519'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Verejné hnutie „Donecká republika“
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '131520'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
 addresses:
 - street: Donetsk,  Universitetskaya  19
   country_iso2_code: '00'

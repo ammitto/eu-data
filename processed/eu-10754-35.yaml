@@ -29,20 +29,6 @@ name_aliases:
     publication_date: '2023-09-08'
     number_title: 2023/1715 (OJ L221 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
-- first_name: Dľaver
-  middle_name: Memetovič
-  last_name: BERBEROV
-  whole_name: Dľaver Memetovič BERBEROV
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157673'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-08'
-    number_title: 2023/1715 (OJ L221 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
 - first_name: Длявер
   middle_name: Меметович
   last_name: БЕРБЕРОВ
@@ -66,6 +52,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157664'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-08'
+    number_title: 2023/1715 (OJ L221 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
+- first_name: Dľaver
+  middle_name: Memetovič
+  last_name: BERBEROV
+  whole_name: Dľaver Memetovič BERBEROV
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157673'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'

@@ -14,6 +14,33 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Andrej
+  last_name: Giba
+  whole_name: Andrej Giba
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '167160'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Андрей
+  middle_name: Анатольевич
+  last_name: ГИБА
+  whole_name: Андрей Анатольевич ГИБА
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166136'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Andrey
   middle_name: Anatolyevich
   last_name: GIBA
@@ -43,47 +70,20 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Andrej
-  last_name: Giba
-  whole_name: Andrej Giba
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '167160'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Андрей
-  middle_name: Анатольевич
-  last_name: ГИБА
-  whole_name: Андрей Анатольевич ГИБА
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166136'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 citizenships:
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  regulation_language: en
-  logical_id: '166134'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - country_iso2_code: UA
   country_description: UKRAINE
   regulation_language: en
   logical_id: '166135'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '166134'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -107,23 +107,23 @@ birthdates:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 addresses:
-- street: 31A Bespalova str
-  region: Simferopol district, Crimea
-  country_iso2_code: UA
-  country_description: UKRAINE
-  regulation_language: en
-  logical_id: '166148'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - street: 37, Lesnaya str
   region: Simferopol district, Crimea
   country_iso2_code: UA
   country_description: UKRAINE
   regulation_language: en
   logical_id: '166149'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- street: 31A Bespalova str
+  region: Simferopol district, Crimea
+  country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '166148'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

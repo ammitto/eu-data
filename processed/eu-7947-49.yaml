@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Кирило
+  middle_name: Борисович
+  last_name: МАКАРОВ
+  whole_name: Кирило Борисович МАКАРОВ
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '138481'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Кирилл
   middle_name: Борисович
   last_name: МАКАРОВ
@@ -23,20 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138482'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Kirill
-  middle_name: Borisovitj
-  last_name: MAKAROV
-  whole_name: Kirill Borisovitj MAKAROV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139437'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -59,15 +59,15 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Кирило
-  middle_name: Борисович
-  last_name: МАКАРОВ
-  whole_name: Кирило Борисович МАКАРОВ
+- first_name: Kirill
+  middle_name: Borisovitj
+  last_name: MAKAROV
+  whole_name: Kirill Borisovitj MAKAROV
   gender: M
-  name_language: UK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '138481'
+  logical_id: '139437'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

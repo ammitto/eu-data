@@ -15,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО НПО «Сплав»
-  name_language: RU
+- whole_name: JSC A.N. Ganyicsev Tudományos és Gyártási Szövetség “SPLAV”
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '144533'
+  logical_id: '144769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -29,6 +29,25 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: Asociación Científica y de Producción JSC A.N. Ganichev (“SPLAV”)
+  strong: true
+  regulation_language: en
+  logical_id: '144722'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
+- whole_name: АО НПО «Сплав»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '144533'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -65,30 +84,11 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: Asociación Científica y de Producción JSC A.N. Ganichev (“SPLAV”)
-  strong: true
-  regulation_language: en
-  logical_id: '144722'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - whole_name: Asociația Științifică și de Producție JSC A.N. Ganichev «SPLAV»
   name_language: RO
   strong: true
   regulation_language: en
   logical_id: '144741'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- whole_name: JSC A.N. Ganyicsev Tudományos és Gyártási Szövetség “SPLAV”
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '144769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

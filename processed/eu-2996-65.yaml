@@ -16,15 +16,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ansar al-Sharia
-  strong: true
-  regulation_language: en
-  logical_id: '18378'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-11-28'
-    number_title: 1273/2014 (OJ L344)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:344:FULL&from=EN
 - whole_name: Ansar Al Charia Benghazi
   strong: true
   regulation_language: en
@@ -52,10 +43,10 @@ name_aliases:
     publication_date: '2014-11-28'
     number_title: 1273/2014 (OJ L344)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:344:FULL&from=EN
-- whole_name: Ansar al Sharia
+- whole_name: Ansar al-Sharia
   strong: true
   regulation_language: en
-  logical_id: '18383'
+  logical_id: '18378'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-11-28'
@@ -92,6 +83,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18382'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-11-28'
+    number_title: 1273/2014 (OJ L344)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:344:FULL&from=EN
+- whole_name: Ansar al Sharia
+  strong: true
+  regulation_language: en
+  logical_id: '18383'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-11-28'

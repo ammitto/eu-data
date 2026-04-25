@@ -14,15 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Дарья
-  middle_name: Олеговна
-  last_name: БОРИСОВА
-  whole_name: Дарья Олеговна БОРИСОВА
+- first_name: Darja
+  middle_name: Olegovna
+  last_name: BORISOVA
+  whole_name: Darja Olegovna BORISOVA
   gender: F
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159757'
+  logical_id: '160661'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Даря
+  last_name: Борисова
+  whole_name: Даря Борисова
+  gender: F
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161232'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -38,20 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159758'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Darja
-  middle_name: Olegovna
-  last_name: BORISOVA
-  whole_name: Darja Olegovna BORISOVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160661'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -83,14 +82,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Даря
-  last_name: Борисова
-  whole_name: Даря Борисова
+- first_name: Дарья
+  middle_name: Олеговна
+  last_name: БОРИСОВА
+  whole_name: Дарья Олеговна БОРИСОВА
   gender: F
-  name_language: BG
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '161232'
+  logical_id: '159757'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -14,11 +14,13 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad anónima MZ RIP
-  name_language: ES
+- whole_name: JSC MZ RIP
+  function: JSC MZ RIP prodouces air defense systems, radar, radio navigation equipment
+    and radio remote control equipment, weapons and ammunition and communication systems.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '164097'
+  logical_id: '163317'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -34,13 +36,11 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: JSC MZ RIP
-  function: JSC MZ RIP prodouces air defense systems, radar, radio navigation equipment
-    and radio remote control equipment, weapons and ammunition and communication systems.
-  name_language: EN
+- whole_name: sociedad anónima MZ RIP
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '163317'
+  logical_id: '164097'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -14,50 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Виталий
-  middle_name: Олегович
-  last_name: ВЛАСОВ
-  whole_name: Виталий Олегович ВЛАСОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '157617'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-08'
-    number_title: 2023/1715 (OJ L221 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
-- first_name: Vitaliy
-  middle_name: Olegovich
-  last_name: VLASOV
-  whole_name: Vitaliy Olegovich VLASOV
-  function: Investigator at the Federal Security Service of the Russian Federation
-    (FSB)
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157618'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-08'
-    number_title: 2023/1715 (OJ L221 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
-- first_name: Vitalij
-  middle_name: Olegovič
-  last_name: VLASOV
-  whole_name: Vitalij Olegovič VLASOV
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157674'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-08'
-    number_title: 2023/1715 (OJ L221 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
 - first_name: Vitalij
   last_name: Vlasov
   whole_name: Vitalij Vlasov
@@ -80,6 +36,50 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157665'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-08'
+    number_title: 2023/1715 (OJ L221 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
+- first_name: Виталий
+  middle_name: Олегович
+  last_name: ВЛАСОВ
+  whole_name: Виталий Олегович ВЛАСОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '157617'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-08'
+    number_title: 2023/1715 (OJ L221 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
+- first_name: Vitalij
+  middle_name: Olegovič
+  last_name: VLASOV
+  whole_name: Vitalij Olegovič VLASOV
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '157674'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-08'
+    number_title: 2023/1715 (OJ L221 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1715
+- first_name: Vitaliy
+  middle_name: Olegovich
+  last_name: VLASOV
+  whole_name: Vitaliy Olegovich VLASOV
+  function: Investigator at the Federal Security Service of the Russian Federation
+    (FSB)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157618'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-08'

@@ -49,21 +49,21 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2039 (OJ L202502039)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
-- whole_name: DIGITAL TELEVISION INSTITUTE HORIZONT
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179722'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2039 (OJ L202502039)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
 - whole_name: Research Unitary Enterprise “INSTITUTE OF DIGITAL TELEVISION HORIZONT”
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '179723'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2039 (OJ L202502039)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
+- whole_name: DIGITAL TELEVISION INSTITUTE HORIZONT
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179722'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -79,32 +79,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2039 (OJ L202502039)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
-- whole_name: Научно-исследовательское унитарное предприятие “ИНСТИТУТ ЦИФРОВОГО ТЕЛЕВИДЕНИЯ
-    ГОРИЗОНТ”
-  name_language: RU
+- whole_name: Chelyabinsk Institute of Digital television “Horizont”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179716'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2039 (OJ L202502039)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
-- whole_name: Унитарное предприятие “ИЦТ ГОРИЗОНТ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179717'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2039 (OJ L202502039)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
-- whole_name: Унітарнае прадпрыемства “IЛТ ГАРЫЗОНТ”
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '179718'
+  logical_id: '179720'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -121,11 +100,32 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2039 (OJ L202502039)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
-- whole_name: Chelyabinsk Institute of Digital television “Horizont”
-  name_language: EN
+- whole_name: Унітарнае прадпрыемства “IЛТ ГАРЫЗОНТ”
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '179720'
+  logical_id: '179718'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2039 (OJ L202502039)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
+- whole_name: Унитарное предприятие “ИЦТ ГОРИЗОНТ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179717'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2039 (OJ L202502039)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
+- whole_name: Научно-исследовательское унитарное предприятие “ИНСТИТУТ ЦИФРОВОГО ТЕЛЕВИДЕНИЯ
+    ГОРИЗОНТ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179716'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -146,20 +146,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
 identifications:
 - identification_type_code: regnumber
-  number: '100085149'
+  number: '37406850'
   country_iso2_code: BY
   regulation_language: en
-  logical_id: '179715'
+  logical_id: '179714'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
     number_title: 2025/2039 (OJ L202502039)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502039
 - identification_type_code: regnumber
-  number: '37406850'
+  number: '100085149'
   country_iso2_code: BY
   regulation_language: en
-  logical_id: '179714'
+  logical_id: '179715'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

@@ -14,29 +14,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Yasar Hussein IBRAHIM
-  strong: true
-  regulation_language: en
-  logical_id: '142911'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1274 (OJ L194)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
 - whole_name: Yassar  Hussein IBRAHIM
   strong: true
   regulation_language: en
   logical_id: '142910'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1274 (OJ L194)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
-- whole_name: ياسر حسين ابراهيم
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '142909'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'
@@ -47,6 +28,25 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '142912'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1274 (OJ L194)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
+- whole_name: Yasar Hussein IBRAHIM
+  strong: true
+  regulation_language: en
+  logical_id: '142911'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1274 (OJ L194)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.194.01.0005.01.ENG&toc=OJ%3AL%3A2022%3A194%3ATOC
+- whole_name: ياسر حسين ابراهيم
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '142909'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

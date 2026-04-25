@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО Буровая Компания Евразия
-  name_language: RU
+- whole_name: BKE LLC
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167726'
+  logical_id: '166296'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -34,21 +34,24 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: BKE LLC
+- whole_name: Burovaya Kompaniya Evraziya LLC
+  function: Burovaya Kompaniya Evraziya LLC is a leading company in the Russian energy
+    sector.
+  title: Limited Liability Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '166296'
+  logical_id: '166298'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Burovaya Kompaniya Evraziya Kft.
-  name_language: HU
+- whole_name: ООО Буровая Компания Евразия
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '167586'
+  logical_id: '167726'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -64,14 +67,11 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Burovaya Kompaniya Evraziya LLC
-  function: Burovaya Kompaniya Evraziya LLC is a leading company in the Russian energy
-    sector.
-  title: Limited Liability Company
-  name_language: EN
+- whole_name: Burovaya Kompaniya Evraziya Kft.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '166298'
+  logical_id: '167586'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

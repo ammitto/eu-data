@@ -25,20 +25,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Елена
-  middle_name: Владимировна
-  last_name: ШМЕЛЕВА
-  whole_name: Елена Владимировна ШМЕЛЕВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '149652'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - first_name: Elena
   middle_name: Vladimirovna
   last_name: SHMELEVA
@@ -49,6 +35,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149653'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- first_name: Елена
+  middle_name: Владимировна
+  last_name: ШМЕЛЕВА
+  whole_name: Елена Владимировна ШМЕЛЕВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '149652'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

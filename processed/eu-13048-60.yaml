@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Nikolay
-  middle_name: Dmitrievich
-  last_name: Rogalyov
-  whole_name: Nikolay Dmitrievich Rogalyov
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174943'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Николай Дмитриевич РОГАЛЕВ
   gender: M
   name_language: RU
@@ -49,6 +35,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174945'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- first_name: Nikolay
+  middle_name: Dmitrievich
+  last_name: Rogalyov
+  whole_name: Nikolay Dmitrievich Rogalyov
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '174943'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -14,6 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Nazir Ahmad
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '119307'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Mohammed Jamal Eddine
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '120641'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 - whole_name: Mohammed Nazer JAMAL EDDIN
   function: Co‐founder and majority shareholder of Apex Development and Projects LLC
     and founder of A’ayan Company for Projects and Equipment. In May 2019, he created
@@ -28,26 +48,6 @@ name_aliases:
     publication_date: '2022-05-31'
     number_title: 2022/840 (OJ L148)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- whole_name: Mohammed Jamal Eddine
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '120641'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- whole_name: Nazir Ahmad
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '119307'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - whole_name: محمد ناذر جمال الدين
   gender: M
   name_language: AR

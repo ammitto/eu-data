@@ -14,28 +14,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Iran Aircraft Manufacturing Company
-  strong: true
-  regulation_language: en
-  logical_id: '8132'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-07-27'
-    number_title: 668/2010 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
-- whole_name: HESA
-  strong: true
-  regulation_language: en
-  logical_id: '8133'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-07-27'
-    number_title: 668/2010 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
 - whole_name: IAMI
   strong: true
   regulation_language: en
   logical_id: '8137'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-07-27'
+    number_title: 668/2010 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
+- whole_name: Iran Aircraft Manufacturing Company
+  strong: true
+  regulation_language: en
+  logical_id: '8132'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-07-27'
@@ -63,6 +54,24 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '8140'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-07-27'
+    number_title: 668/2010 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
+- whole_name: Karkhanejate Sanaye Havapaymaie Iran
+  strong: true
+  regulation_language: en
+  logical_id: '8139'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-07-27'
+    number_title: 668/2010 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
+- whole_name: HESA
+  strong: true
+  regulation_language: en
+  logical_id: '8133'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-07-27'
@@ -113,23 +122,13 @@ name_aliases:
     publication_date: '2010-07-27'
     number_title: 668/2010 (OJ L195)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
-- whole_name: Karkhanejate Sanaye Havapaymaie Iran
-  strong: true
-  regulation_language: en
-  logical_id: '8139'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-07-27'
-    number_title: 668/2010 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
 addresses:
-- street: P.O. Box 14155-5568, No. 27 Ahahamat Aave., Vallie Asr Square
+- street: P.O. Box 8140, No. 107 Sepahbod Gharany Ave.
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
-  zip_code: '15946'
   regulation_language: en
-  logical_id: '1506'
+  logical_id: '1509'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-07-27'
@@ -146,17 +145,6 @@ addresses:
     publication_date: '2010-07-27'
     number_title: 668/2010 (OJ L195)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
-- street: Shahih Shar Industrial Zone
-  city: Isfahan
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '1508'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-07-27'
-    number_title: 668/2010 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
 - street: P.O. Box 81465-935
   city: Esfahan
   country_iso2_code: IR
@@ -168,12 +156,24 @@ addresses:
     publication_date: '2010-07-27'
     number_title: 668/2010 (OJ L195)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
-- street: P.O. Box 8140, No. 107 Sepahbod Gharany Ave.
-  city: Tehran
+- street: Shahih Shar Industrial Zone
+  city: Isfahan
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '1509'
+  logical_id: '1508'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-07-27'
+    number_title: 668/2010 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
+- street: P.O. Box 14155-5568, No. 27 Ahahamat Aave., Vallie Asr Square
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  zip_code: '15946'
+  regulation_language: en
+  logical_id: '1506'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-07-27'

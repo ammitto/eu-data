@@ -15,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Chruničevo kosmoso centras
-  name_language: LT
+- whole_name: Centro Espacial Khrunichev
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '151305'
+  logical_id: '151193'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -36,22 +36,12 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Centro Espacial Khrunichev
+- whole_name: centro estatal de investigação e produção espacial designado em honra
+    de M.V. Khrunichev
   name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '151193'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: JSC “State Space Research and Production Center imsemmija wara M.V.
-    Khrunichev”
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '151349'
+  logical_id: '151192'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -83,6 +73,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151259'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Krunichev Ruimtecentrum
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151206'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Staatscentrum voor ruimteonderzoek en -productie genoemd naar M.V. Khrunichev
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151207'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -170,23 +180,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: centro estatal de investigação e produção espacial designado em honra
-    de M.V. Khrunichev
-  name_language: PT
+- whole_name: Chruničevo kosmoso centras
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '151192'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Państwowe Centrum Badań i Produkcji w dziedzinie Przestrzeni Kosmicznej
-    imienia M.V.  Khrunicheva, Sp. z o.o.
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '151148'
+  logical_id: '151305'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -213,21 +211,23 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Krunichev Ruimtecentrum
-  name_language: NL
+- whole_name: JSC “State Space Research and Production Center imsemmija wara M.V.
+    Khrunichev”
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '151206'
+  logical_id: '151349'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Staatscentrum voor ruimteonderzoek en -productie genoemd naar M.V. Khrunichev
-  name_language: NL
+- whole_name: Państwowe Centrum Badań i Produkcji w dziedzinie Przestrzeni Kosmicznej
+    imienia M.V.  Khrunicheva, Sp. z o.o.
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '151207'
+  logical_id: '151148'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

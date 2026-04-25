@@ -14,6 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Salim Y Salamuddin
+  last_name: JULKIPLI
+  whole_name: Salim Y Salamuddin JULKIPLI
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '2284'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-09-13'
+    number_title: 1607/2003 (OJ L229)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:229:0019:0021:EN:PDF
 - whole_name: Kipli Sali
   strong: true
   regulation_language: en
@@ -27,18 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '2286'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-09-13'
-    number_title: 1607/2003 (OJ L229)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:229:0019:0021:EN:PDF
-- first_name: Salim Y Salamuddin
-  last_name: JULKIPLI
-  whole_name: Salim Y Salamuddin JULKIPLI
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '2284'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-09-13'

@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Maxim
+  last_name: Galočkin
+  whole_name: Maxim Galočkin
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '167435'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1778 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401778
 - first_name: Максим
   middle_name: Сергеевич
   last_name: ГАЛОЧКИН
@@ -37,19 +50,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167429'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1778 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401778
-- first_name: Maxim
-  last_name: Galočkin
-  whole_name: Maxim Galočkin
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '167435'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

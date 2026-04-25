@@ -16,6 +16,32 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Abu
+  last_name: Muthanna
+  whole_name: Abu Muthanna
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- first_name: Nasser
+  middle_name: Ahmed
+  last_name: Muthana
+  whole_name: Nasser Ahmed Muthana
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - first_name: Nasir
   last_name: Muthana
   whole_name: Nasir Muthana
@@ -41,12 +67,12 @@ name_aliases:
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - first_name: Abu
-  last_name: Muthanna
-  whole_name: Abu Muthanna
+  last_name: Muthana
+  whole_name: Abu Muthana
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106614'
+  logical_id: '106616'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -60,32 +86,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106615'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- first_name: Abu
-  last_name: Muthana
-  whole_name: Abu Muthana
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106616'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- first_name: Nasser
-  middle_name: Ahmed
-  last_name: Muthana
-  whole_name: Nasser Ahmed Muthana
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106533'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

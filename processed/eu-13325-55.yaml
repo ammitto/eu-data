@@ -14,12 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Закрытое Акционерное Общество “Московский Механический Завод Специального
-    Оборудования”
-  name_language: RU
+- whole_name: ZAO “MMZSO”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176868'
+  logical_id: '176866'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -35,31 +34,12 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Moscow Mechanical Plant of Special Equipment« Zrt."
-  name_language: HU
+- whole_name: Закрытое Акционерное Общество “Московский Механический Завод Специального
+    Оборудования”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177230'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Moscow Mechanical Plant of Special Equipment« Zártkörűen Működő Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177231'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: ZAO “MMZSO”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176866'
+  logical_id: '176868'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -81,6 +61,17 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Societatea pe acțiuni de tip închis «Uzina mecanică de echipamente speciale
+    din Moscova»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177228'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Sociedade por ações de capital fechado “Fábrica mecânica de equipamento
     especial de Moscovo”
   name_language: PT
@@ -92,12 +83,21 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Societatea pe acțiuni de tip închis «Uzina mecanică de echipamente speciale
-    din Moscova»
-  name_language: RO
+- whole_name: "»Moscow Mechanical Plant of Special Equipment« Zártkörűen Működő Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '177228'
+  logical_id: '177231'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: "»Moscow Mechanical Plant of Special Equipment« Zrt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177230'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

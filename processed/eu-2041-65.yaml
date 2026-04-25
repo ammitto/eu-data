@@ -14,19 +14,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: IACI
+- whole_name: Iran Aircraft Industries
   strong: true
   regulation_language: en
-  logical_id: '8131'
+  logical_id: '8130'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-07-27'
     number_title: 668/2010 (OJ L195)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:195:0025:0036:EN:PDF
-- whole_name: Iran Aircraft Industries
+- whole_name: IACI
   strong: true
   regulation_language: en
-  logical_id: '8130'
+  logical_id: '8131'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-07-27'

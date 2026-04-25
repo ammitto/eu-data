@@ -14,17 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Timofey
-  middle_name: Vladimirovitch
-  last_name: VASSILIEV
-  whole_name: Timofey Vladimirovitch VASSILIEV
-  function: Head of the Department for strategic guidance of ANO Dialogue (a Russian
-    non-profit organisation)
+- first_name: Timofej
+  last_name: Vasiljev
+  whole_name: Timofej Vasiljev
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '155786'
+  logical_id: '156625'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1563 (OJ L 190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
+- first_name: Timofej
+  middle_name: Vladimirovitj
+  last_name: VASILJEV
+  whole_name: Timofej Vladimirovitj VASILJEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156618'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -44,12 +55,17 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- whole_name: Тимофей ВИ
+- first_name: Timofey
+  middle_name: Vladimirovitch
+  last_name: VASSILIEV
+  whole_name: Timofey Vladimirovitch VASSILIEV
+  function: Head of the Department for strategic guidance of ANO Dialogue (a Russian
+    non-profit organisation)
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '155783'
+  logical_id: '155786'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'
@@ -80,28 +96,12 @@ name_aliases:
     publication_date: '2023-07-28'
     number_title: 2023/1563 (OJ L 190 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Timofej
-  last_name: Vasiljev
-  whole_name: Timofej Vasiljev
+- whole_name: Тимофей ВИ
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '156625'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1563 (OJ L 190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1563
-- first_name: Timofej
-  middle_name: Vladimirovitj
-  last_name: VASILJEV
-  whole_name: Timofej Vladimirovitj VASILJEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156618'
+  logical_id: '155783'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-28'

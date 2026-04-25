@@ -14,6 +14,63 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Iна
+  middle_name: Леанiдаўна
+  last_name: ПАЎЛОЎСКАЯ
+  whole_name: Iна Леанiдаўна ПАЎЛОЎСКАЯ
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '157356'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Инна
+  middle_name: Леонидовна
+  last_name: ПАВЛОВСКАЯ
+  whole_name: Инна Леонидовна ПАВЛОВСКАЯ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '157357'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Inna
+  middle_name: Leonidovna
+  last_name: PAVLOVSKAYA
+  whole_name: Inna Leonidovna PAVLOVSKAYA
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157358'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Ina
+  middle_name: Leanidauna
+  last_name: PAULOUSKAYA
+  whole_name: Ina Leanidauna PAULOUSKAYA
+  function: Judge at Baranovichi District Court
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157359'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Ina
   last_name: Paulouskaja
   whole_name: Ina Paulouskaja
@@ -90,63 +147,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157355'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Iна
-  middle_name: Леанiдаўна
-  last_name: ПАЎЛОЎСКАЯ
-  whole_name: Iна Леанiдаўна ПАЎЛОЎСКАЯ
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '157356'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Ina
-  middle_name: Leanidauna
-  last_name: PAULOUSKAYA
-  whole_name: Ina Leanidauna PAULOUSKAYA
-  function: Judge at Baranovichi District Court
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157359'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Inna
-  middle_name: Leonidovna
-  last_name: PAVLOVSKAYA
-  whole_name: Inna Leonidovna PAVLOVSKAYA
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '157358'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Инна
-  middle_name: Леонидовна
-  last_name: ПАВЛОВСКАЯ
-  whole_name: Инна Леонидовна ПАВЛОВСКАЯ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '157357'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

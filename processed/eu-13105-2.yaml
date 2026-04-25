@@ -24,26 +24,6 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»61 Аrmored repair plant« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175457'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»61st Armored Vehicle Repair Plant« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175458'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: "»61st Armored Vehicle Repair Plant« Részvénytársaság"
   name_language: HU
   strong: true
@@ -74,11 +54,31 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Акционерное общество “61 Бронетанковый ремонтный завод”
-  name_language: RU
+- whole_name: "»61st Armored Vehicle Repair Plant« Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175462'
+  logical_id: '175458'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC “61 Аrmored repair plant”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175463'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC “61st Armored Vehicle Repair Plant”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175464'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -99,21 +99,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “61st Armored Vehicle Repair Plant”
-  name_language: EN
+- whole_name: "»61 Аrmored repair plant« Rt."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175464'
+  logical_id: '175457'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “61 Аrmored repair plant”
-  name_language: EN
+- whole_name: Акционерное общество “61 Бронетанковый ремонтный завод”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175463'
+  logical_id: '175462'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

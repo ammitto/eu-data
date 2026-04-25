@@ -14,6 +14,76 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Аляксандр
+  middle_name: Мікалаевіч
+  last_name: МОХОРАЎ
+  whole_name: Аляксандр Мікалаевіч МОХОРАЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '170875'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Alexander
+  middle_name: Nikolaevich
+  last_name: MOKHOREV
+  whole_name: Alexander Nikolaevich MOKHOREV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '170876'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Aliaksandr
+  middle_name: Mikalaevich
+  last_name: MOKHORAU
+  whole_name: Aliaksandr Mikalaevich MOKHORAU
+  function: Judge of the Soviet District Court of the city of Gomel
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '170877'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Александр
+  middle_name: Николаевич
+  last_name: МОХОРЕВ
+  whole_name: Александр Николаевич МОХОРЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '170874'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Alexander
+  last_name: Mochorev
+  whole_name: Alexander Mochorev
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '172203'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - whole_name: Александър Мохорев
   gender: M
   name_language: BG
@@ -38,19 +108,6 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Alexander
-  last_name: Mochorev
-  whole_name: Alexander Mochorev
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '172203'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Aljaksandr
   last_name: Mohorau
   whole_name: Aljaksandr Mohorau
@@ -59,63 +116,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172202'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Александр
-  middle_name: Николаевич
-  last_name: МОХОРЕВ
-  whole_name: Александр Николаевич МОХОРЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '170874'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Alexander
-  middle_name: Nikolaevich
-  last_name: MOKHOREV
-  whole_name: Alexander Nikolaevich MOKHOREV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170876'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Аляксандр
-  middle_name: Мікалаевіч
-  last_name: МОХОРАЎ
-  whole_name: Аляксандр Мікалаевіч МОХОРАЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '170875'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Aliaksandr
-  middle_name: Mikalaevich
-  last_name: MOKHORAU
-  whole_name: Aliaksandr Mikalaevich MOKHORAU
-  function: Judge of the Soviet District Court of the city of Gomel
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170877'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

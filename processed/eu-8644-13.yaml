@@ -44,17 +44,6 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: Sergej Jevgenjevitj TSIVILEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143310'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Sergej
   last_name: Civilev
   whole_name: Sergej Civilev
@@ -63,6 +52,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164825'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- whole_name: Sergej Jevgenjevitj TSIVILEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143310'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -85,11 +85,11 @@ birthdates:
   day_of_month: 21
   month_of_year: 9
   year: 1961
-  city: Mariupol
+  city: Zhdanov
   country_iso2_code: UA
   country_description: UKRAINE
   regulation_language: en
-  logical_id: '164473'
+  logical_id: '143308'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -101,11 +101,11 @@ birthdates:
   day_of_month: 21
   month_of_year: 9
   year: 1961
-  city: Zhdanov
+  city: Mariupol
   country_iso2_code: UA
   country_description: UKRAINE
   regulation_language: en
-  logical_id: '143308'
+  logical_id: '164473'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

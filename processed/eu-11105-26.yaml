@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Cham Wings
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161697'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-22'
+    number_title: 2024/362 (OJ L22012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400362
 - whole_name: Fluggesellschaft Cham Wings
   name_language: DE
   strong: true
@@ -39,16 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161730'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-22'
-    number_title: 2024/362 (OJ L22012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400362
-- whole_name: Cham Wings
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161697'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-22'

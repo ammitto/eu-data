@@ -14,60 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Army of the Righteous
-  strong: true
-  regulation_language: en
-  logical_id: '4031'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-05-13'
-    number_title: 717/2005 (OJ L121)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
-- whole_name: Army of the Pure and Righteous
-  strong: true
-  regulation_language: en
-  logical_id: '4032'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-05-13'
-    number_title: 717/2005 (OJ L121)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
-- whole_name: Paasban-e-Kashmir
-  strong: true
-  regulation_language: en
-  logical_id: '4033'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-05-13'
-    number_title: 717/2005 (OJ L121)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
-- whole_name: Paasban-i-Ahle-Hadith
-  strong: true
-  regulation_language: en
-  logical_id: '4034'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-05-13'
-    number_title: 717/2005 (OJ L121)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
-- whole_name: Pasban-e-Kashmir
-  strong: true
-  regulation_language: en
-  logical_id: '4035'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-05-13'
-    number_title: 717/2005 (OJ L121)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
-- whole_name: Pasban-e-Ahle-Hadith
-  strong: true
-  regulation_language: en
-  logical_id: '4036'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-05-13'
-    number_title: 717/2005 (OJ L121)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
 - whole_name: Paasban-e-Ahle-Hadis
   strong: true
   regulation_language: en
@@ -77,11 +23,10 @@ name_aliases:
     publication_date: '2005-05-13'
     number_title: 717/2005 (OJ L121)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
-- whole_name: A tiszták hadserege
-  name_language: HU
+- whole_name: Pasban-e-Ahle-Hadith
   strong: true
   regulation_language: en
-  logical_id: '4041'
+  logical_id: '4036'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-05-13'
@@ -390,6 +335,61 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4030'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-05-13'
+    number_title: 717/2005 (OJ L121)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
+- whole_name: Army of the Righteous
+  strong: true
+  regulation_language: en
+  logical_id: '4031'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-05-13'
+    number_title: 717/2005 (OJ L121)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
+- whole_name: Army of the Pure and Righteous
+  strong: true
+  regulation_language: en
+  logical_id: '4032'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-05-13'
+    number_title: 717/2005 (OJ L121)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
+- whole_name: Paasban-e-Kashmir
+  strong: true
+  regulation_language: en
+  logical_id: '4033'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-05-13'
+    number_title: 717/2005 (OJ L121)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
+- whole_name: Paasban-i-Ahle-Hadith
+  strong: true
+  regulation_language: en
+  logical_id: '4034'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-05-13'
+    number_title: 717/2005 (OJ L121)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
+- whole_name: Pasban-e-Kashmir
+  strong: true
+  regulation_language: en
+  logical_id: '4035'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-05-13'
+    number_title: 717/2005 (OJ L121)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:121:0062:0063:EN:PDF
+- whole_name: A tiszták hadserege
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '4041'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-05-13'

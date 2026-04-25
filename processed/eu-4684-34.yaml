@@ -14,6 +14,30 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: عدنان أبو وليد الصحراوي
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '149802'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Adnan Abou Walid Al-Sahraoui
+  function: "Former spokesperson of the Mouvement pour l’Unification et le Jihad en
+    Afrique de l’Ouest (MUJAO). \nEmir of the Al-Mourabitoun group in Mali. \nPledged
+    allegiance to Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida
+    in Iraq."
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '117907'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - whole_name: Lahbib Idrissi ould Sidi Abdi ould Said ould El Bachir
   name_language: EN
   strong: true
@@ -34,11 +58,11 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Abu Walid al Sahrawi
+- whole_name: Adnan Abu Waleed al-Sahrawi
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '117904'
+  logical_id: '117902'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -54,11 +78,11 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Adnan Abu Waleed al-Sahrawi
+- whole_name: Abu Walid al Sahrawi
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '117902'
+  logical_id: '117904'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -69,30 +93,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '117901'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: عدنان أبو وليد الصحراوي
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '149802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Adnan Abou Walid Al-Sahraoui
-  function: "Former spokesperson of the Mouvement pour l’Unification et le Jihad en
-    Afrique de l’Ouest (MUJAO). \nEmir of the Al-Mourabitoun group in Mali. \nPledged
-    allegiance to Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida
-    in Iraq."
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '117907'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

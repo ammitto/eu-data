@@ -14,6 +14,84 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Abu Nussaiba
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161395'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/338 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
+- first_name: Andreas Martin
+  last_name: MÜLLER
+  whole_name: Andreas Martin MÜLLER
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '161393'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/338 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
+- whole_name: Mr Akam
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161401'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/338 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
+- whole_name: Abu Shahid
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161400'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/338 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
+- whole_name: Yasser Murat
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161402'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/338 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
+- whole_name: Abu  Miqdad
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161403'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/338 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
+- whole_name: M. Akam
+  gender: M
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '161416'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/338 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
 - whole_name: Miqdad
   gender: M
   name_language: EN
@@ -82,84 +160,6 @@ name_aliases:
     publication_date: '2024-01-16'
     number_title: 2024/338 (OJ L16012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
-- whole_name: Abu Shahid
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161400'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/338 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
-- whole_name: Mr Akam
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161401'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/338 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
-- whole_name: Yasser Murat
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161402'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/338 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
-- whole_name: Abu  Miqdad
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161403'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/338 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
-- whole_name: Abu Nussaiba
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161395'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/338 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
-- first_name: Andreas Martin
-  last_name: MÜLLER
-  whole_name: Andreas Martin MÜLLER
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '161393'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/338 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
-- whole_name: M. Akam
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '161416'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/338 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
 citizenships:
 - country_iso2_code: DE
   country_description: GERMANY
@@ -189,21 +189,21 @@ birthdates:
     number_title: 2024/338 (OJ L16012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
 identifications:
-- identification_type_code: id
-  number: '5210375966'
-  country_iso2_code: DE
-  regulation_language: en
-  logical_id: '161391'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-16'
-    number_title: 2024/338 (OJ L16012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
 - identification_type_code: passport
   number: C73TV06C9
   country_iso2_code: DE
   regulation_language: en
   logical_id: '161392'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-16'
+    number_title: 2024/338 (OJ L16012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400338
+- identification_type_code: id
+  number: '5210375966'
+  country_iso2_code: DE
+  regulation_language: en
+  logical_id: '161391'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-16'

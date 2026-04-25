@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Виктор
-  middle_name: Иванович
-  last_name: ЗИНЬКОВ
-  whole_name: Виктор Иванович ЗИНЬКОВ
+- first_name: Viktor
+  middle_name: Ivanovitj
+  last_name: Zinkov
+  whole_name: Viktor Ivanovitj Zinkov
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '154312'
+  logical_id: '155215'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -43,34 +43,34 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Viktor
-  middle_name: Ivanovitj
-  last_name: Zinkov
-  whole_name: Viktor Ivanovitj Zinkov
+- first_name: Виктор
+  middle_name: Иванович
+  last_name: ЗИНЬКОВ
+  whole_name: Виктор Иванович ЗИНЬКОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '155215'
+  logical_id: '154312'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 citizenships:
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- country_iso2_code: UA
+  country_description: UKRAINE
   regulation_language: en
-  logical_id: '154309'
+  logical_id: '154310'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- country_iso2_code: UA
-  country_description: UKRAINE
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '154310'
+  logical_id: '154309'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

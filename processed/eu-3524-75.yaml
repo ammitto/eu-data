@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Hamás
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156186'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
 - whole_name: Brigády Izz ad-Dína al-Kassáma
   name_language: CS
   strong: true
@@ -35,20 +45,21 @@ name_aliases:
     publication_date: '2025-01-31'
     number_title: 2025/206 (L 202500206)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
-- whole_name: Hamas-Izz al-Din al-Qassem
+- whole_name: Hamas Izzaddín al-Kassám
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '330'
+  logical_id: '156185'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2003-12-22'
-    number_title: 2003/902/EC (OJ L340)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF
-- whole_name: Hamás
-  name_language: CS
+    publication_date: '2023-07-21'
+    number_title: 2023/1505 (OJ L184)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+- whole_name: Χαμάς
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '156186'
+  logical_id: '156140'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-21'
@@ -74,23 +85,12 @@ name_aliases:
     publication_date: '2023-07-21'
     number_title: 2023/1505 (OJ L184)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Hamas Izzaddín al-Kassám
-  name_language: SK
+- whole_name: Hamas-Izz al-Din al-Qassem
   strong: true
   regulation_language: en
-  logical_id: '156185'
+  logical_id: '330'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
-- whole_name: Χαμάς
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '156140'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-21'
-    number_title: 2023/1505 (OJ L184)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1505
+    publication_date: '2003-12-22'
+    number_title: 2003/902/EC (OJ L340)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:340:0063:0064:EN:PDF

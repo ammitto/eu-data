@@ -14,31 +14,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Korlátolt felelősségű társaság „R-STROY”
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167272'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: ООО “Р-СТРОЙ
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166682'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: R-Stroy Kft.
   name_language: HU
   strong: true
   regulation_language: en
   logical_id: '167271'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Limited Liability Company “R STROY”
+  function: A construction company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166684'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -54,12 +45,21 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Limited Liability Company “R STROY”
-  function: A construction company
-  name_language: EN
+- whole_name: ООО “Р-СТРОЙ
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '166684'
+  logical_id: '166682'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Korlátolt felelősségű társaság „R-STROY”
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167272'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

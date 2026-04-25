@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Societatea cu  răspundere limitată «Krafttek»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '177351'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: sociedade de  responsabilidade limitada  “Krafttek”
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '177352'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Crafftech« Kft"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177353'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Krafttek« Kft
   name_language: HU
   strong: true
@@ -74,13 +44,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Limited Liability Company  “Krafttek”
-  function: LLC “Krafttek” is a significant system integrator and software developer
-    in Russia.
+- whole_name: LLC “Krafttek”
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177359'
+  logical_id: '177357'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -96,11 +64,43 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: LLC “Krafttek”
+- whole_name: Limited Liability Company  “Krafttek”
+  function: LLC “Krafttek” is a significant system integrator and software developer
+    in Russia.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177357'
+  logical_id: '177359'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Societatea cu  răspundere limitată «Krafttek»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177351'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: sociedade de  responsabilidade limitada  “Krafttek”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177352'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: "»Crafftech« Kft"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177353'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

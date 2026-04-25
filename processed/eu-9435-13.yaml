@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: عبدلله مهرابی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '147583'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2430 (OJ L318-I )
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
 - first_name: Abdollah
   last_name: MEHRABI
   whole_name: Abdollah MEHRABI
@@ -30,17 +41,6 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- whole_name: عبدلله مهرابی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '147583'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2430 (OJ L318-I )
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2430
 citizenships:
 - country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)

@@ -15,16 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Сергей Николаевич СТАНКЕВИЧ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '119632'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-03-15'
-    number_title: 2019/409 (OJ L73)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0409&from=EN
 - whole_name: Sergey Nikolayevich STANKEVICH
   function: Head of Border Directorate of the Federal Security Service of the Russian
     Federation for “Republic of Crimea and City of Sevastopol”, Rear Admiral.
@@ -32,6 +22,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '119630'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-03-15'
+    number_title: 2019/409 (OJ L73)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0409&from=EN
+- whole_name: Сергей Николаевич СТАНКЕВИЧ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '119632'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-03-15'

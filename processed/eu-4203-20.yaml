@@ -14,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: KOREA HYOKSIN EXPORT AND IMPORT CORPORATION
-  strong: true
-  regulation_language: en
-  logical_id: '7198'
-  regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2017-08-31'
-    number_title: 2017/1509 (OJ L224)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 - whole_name: Korea Hyoksin Trading Corporation
   function: A DPRK company based in Pyongyang that is subordinate to Korea Ryonbong
     General Corporation.
   strong: true
   regulation_language: en
   logical_id: '7197'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2017-08-31'
+    number_title: 2017/1509 (OJ L224)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
+- whole_name: KOREA HYOKSIN EXPORT AND IMPORT CORPORATION
+  strong: true
+  regulation_language: en
+  logical_id: '7198'
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2017-08-31'

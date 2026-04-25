@@ -14,41 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Sociedade de  responsabilidade limitada  “Aeroscan”
-  name_language: PT
+- whole_name: OOO “Аэроскан”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '177269'
+  logical_id: '177272'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Aeroscan« Korlátolt Felelősségű Társaság"
-  name_language: HU
+- whole_name: LLC “Aeroscan”
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177270'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Aeroscan-yhtiö
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '177267'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Societatea cu  răspundere limitată «Aeroscan»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '177268'
+  logical_id: '177273'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -87,21 +67,41 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: LLC “Aeroscan”
-  name_language: EN
+- whole_name: "»Aeroscan« Korlátolt Felelősségű Társaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '177273'
+  logical_id: '177270'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: OOO “Аэроскан”
-  name_language: RU
+- whole_name: Aeroscan-yhtiö
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '177272'
+  logical_id: '177267'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Societatea cu  răspundere limitată «Aeroscan»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177268'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Sociedade de  responsabilidade limitada  “Aeroscan”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177269'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

@@ -14,6 +14,46 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: KIM Soukwang
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '116475'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: KIM Su-Kwang
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '116476'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: KIM Son-Kwang
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '116477'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: 김수광
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '142087'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: KIM Su-gwang
   gender: M
   strong: true
@@ -34,13 +74,11 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: KIM Su Gwang
-  function: Diplomat, DPRK Embassy, Belarus; identified by the Panel of Experts as
-    an agent of the Reconnaissance General Bureau
+- whole_name: KIM Sou-Gwang
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '116480'
+  logical_id: '116478'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
@@ -56,51 +94,13 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: KIM Sou-Gwang
+- whole_name: KIM Su Gwang
+  function: Diplomat, DPRK Embassy, Belarus; identified by the Panel of Experts as
+    an agent of the Reconnaissance General Bureau
   gender: M
   strong: true
   regulation_language: en
-  logical_id: '116478'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: KIM Son-Kwang
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '116477'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: KIM Su-Kwang
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '116476'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: KIM Soukwang
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '116475'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: 김수광
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '142087'
+  logical_id: '116480'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

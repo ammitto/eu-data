@@ -14,22 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АО «НИИ «Полюс» им. М.Ф Стельмаха»
-  name_language: RU
+- whole_name: Instituto de Investigación Polyus
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '163252'
+  logical_id: '164074'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: JSC Polyus Research Institute of M. F. Stelmakh
-  function: Polyus Research Institute is a Russian military industry company
-  name_language: EN
+- whole_name: АО «НИИ «Полюс» им. М.Ф Стельмаха»
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163253'
+  logical_id: '163252'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -45,11 +44,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Instituto de Investigación Polyus
-  name_language: ES
+- whole_name: JSC Polyus Research Institute of M. F. Stelmakh
+  function: Polyus Research Institute is a Russian military industry company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '164074'
+  logical_id: '163253'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

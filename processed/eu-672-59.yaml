@@ -14,14 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Mohammed
-  last_name: Tufail
-  whole_name: Mohammed Tufail
-  function: Served as a director of Ummah Tameer e-Nau (UTN)
+- whole_name: Tufail, Sheik Mohammed
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '1668'
+  logical_id: '1670'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -37,11 +34,14 @@ name_aliases:
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Tufail, Sheik Mohammed
+- first_name: Mohammed
+  last_name: Tufail
+  whole_name: Mohammed Tufail
+  function: Served as a director of Ummah Tameer e-Nau (UTN)
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '1670'
+  logical_id: '1668'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

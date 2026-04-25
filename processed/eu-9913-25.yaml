@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Schejk Muhammad Khalid
+  last_name: HANAFI
+  whole_name: Schejk Muhammad Khalid HANAFI
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151520'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 - first_name: Šejk Muhammad Khalid
   last_name: HANAFI
   whole_name: Šejk Muhammad Khalid HANAFI
@@ -22,19 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151554'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- first_name: šejk Muhammad Chalíl
-  last_name: HANAFÍ
-  whole_name: šejk Muhammad Chalíl HANAFÍ
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '151541'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -51,19 +51,6 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- first_name: Schejk Muhammad Khalid
-  last_name: HANAFI
-  whole_name: Schejk Muhammad Khalid HANAFI
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151520'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
 - first_name: Sheikh Muhammad Khalid
   last_name: HANAFI
   whole_name: Sheikh Muhammad Khalid HANAFI
@@ -74,6 +61,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151413'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- first_name: šejk Muhammad Chalíl
+  last_name: HANAFÍ
+  whole_name: šejk Muhammad Chalíl HANAFÍ
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '151541'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'

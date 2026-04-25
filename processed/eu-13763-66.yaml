@@ -72,6 +72,46 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: NII Steel - osakeyhtiö
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '179482'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Societatea pe acțiuni NII Steel
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '179483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Výzkumný institut oceli
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '179484'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Акционерно дружество  - Научноизследователски  институт Стали
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '179485'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Научно-исследовательский  институт стали
   name_language: RU
   strong: true
@@ -122,46 +162,6 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: NII Steel - osakeyhtiö
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '179482'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Societatea pe acțiuni NII Steel
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '179483'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Výzkumný institut oceli
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '179484'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Акционерно дружество  - Научноизследователски  институт Стали
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '179485'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: АО НИИ Стали
   name_language: RU
   strong: true
@@ -206,16 +206,6 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: regnumber
-  number: '1027739081556'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '179315'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: taxid
   number: '7713070243'
   country_iso2_code: RU
@@ -231,6 +221,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179314'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: regnumber
+  number: '1027739081556'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '179315'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

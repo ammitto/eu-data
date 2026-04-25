@@ -53,20 +53,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 identifications:
 - identification_type_code: regnumber
-  number: '10101920830'
+  number: IR30068GN
   country_iso2_code: IR
   regulation_language: en
-  logical_id: '178422'
+  logical_id: '178423'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 - identification_type_code: regnumber
-  number: IR30068GN
+  number: '10101920830'
   country_iso2_code: IR
   regulation_language: en
-  logical_id: '178423'
+  logical_id: '178422'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

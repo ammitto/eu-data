@@ -14,17 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Biroul de stat de proiectare în domeniul construcțiilor de mașini „Raduga”
-    SA
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151260'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Federalno državno unitarno poduzeće  Međunarodna izvještajna  agencija
     ,ROSSIYA  SEGODNYA’”
   name_language: HR
@@ -47,37 +36,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Staats machinebouw- en ontwerpbureau “Raduga”
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '151209'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Państwowe Biuro Projektowe Budowy Maszyn „Raduga” S.A.
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '151149'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société par actions Bureau d’études d’État pour la construction mécanique
-    "Raduga"
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151123'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Акционерное общество 'Государственное машиностроительное конструкторское
     бюро "РАДУГА" имени А.Я. Березняка'
   name_language: RU
@@ -95,6 +53,48 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150179'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Société par actions Bureau d’études d’État pour la construction mécanique
+    "Raduga"
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151123'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Staats machinebouw- en ontwerpbureau “Raduga”
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151209'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Biroul de stat de proiectare în domeniul construcțiilor de mașini „Raduga”
+    SA
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '151260'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Państwowe Biuro Projektowe Budowy Maszyn „Raduga” S.A.
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '151149'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

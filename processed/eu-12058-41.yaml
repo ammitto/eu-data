@@ -14,17 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Evgeniy
-  middle_name: Aleksandrovich
-  last_name: SOBOLEV
-  whole_name: Evgeniy Aleksandrovich SOBOLEV
-  function: Head of the penitentiary service of the Russian occupation authorities
-    in the Kherson region
+- first_name: Евгений
+  middle_name: Александрович
+  last_name: Соболев
+  whole_name: Евгений Александрович Соболев
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '168415'
+  logical_id: '168413'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-22'
@@ -44,15 +42,17 @@ name_aliases:
     publication_date: '2024-07-22'
     number_title: 2024/2008 (OJ L22072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402008
-- first_name: Евгений
-  middle_name: Александрович
-  last_name: Соболев
-  whole_name: Евгений Александрович Соболев
+- first_name: Evgeniy
+  middle_name: Aleksandrovich
+  last_name: SOBOLEV
+  whole_name: Evgeniy Aleksandrovich SOBOLEV
+  function: Head of the penitentiary service of the Russian occupation authorities
+    in the Kherson region
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '168413'
+  logical_id: '168415'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-22'

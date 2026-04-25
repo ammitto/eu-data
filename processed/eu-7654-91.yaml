@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Белан
-  middle_name: Багаудинович
-  last_name: ХАМЧИЕВ
-  whole_name: Белан Багаудинович ХАМЧИЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136700'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Belan
   middle_name: Bagaudinovich
   last_name: KHAMCHIEV
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136701'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Белан
+  middle_name: Багаудинович
+  last_name: ХАМЧИЕВ
+  whole_name: Белан Багаудинович ХАМЧИЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136700'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

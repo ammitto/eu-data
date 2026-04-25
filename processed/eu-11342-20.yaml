@@ -14,43 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Razdolye Implementation Center LLC
-  function: A Russian IT company that develops products for the Russian military-industrial
-    complex.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163232'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Oбщество с ограниченной ответственностью “внедренческий центр ‘Раздолье’”
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '163226'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Razdole
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '163230'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: sociedad de responsabilidad limitada Razdolye Implementation Center
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '163925'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -76,11 +44,21 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: VC Razdole
+- whole_name: Razdole
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163227'
+  logical_id: '163230'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: VC Razdolye
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163229'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -96,11 +74,33 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: VC Razdolye
+- whole_name: VC Razdole
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '163229'
+  logical_id: '163227'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Razdolye Implementation Center LLC
+  function: A Russian IT company that develops products for the Russian military-industrial
+    complex.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '163232'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: sociedad de responsabilidad limitada Razdolye Implementation Center
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '163925'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

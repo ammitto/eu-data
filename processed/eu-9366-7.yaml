@@ -24,21 +24,21 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: AB KOMZ
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '158653'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: AO КОМЗ
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '147121'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: AB KOMZ
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '158653'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

@@ -14,12 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Николай Алексеевич ОВЧИННИКОВ
+- whole_name: Nikolaj Ovčinikov
   gender: M
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '162872'
+  logical_id: '163734'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Nikolaj Ovčinnikov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '163735'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -40,23 +51,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Nikolaj Ovčinnikov
+- whole_name: Николай Алексеевич ОВЧИННИКОВ
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163735'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Nikolaj Ovčinikov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '163734'
+  logical_id: '162872'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

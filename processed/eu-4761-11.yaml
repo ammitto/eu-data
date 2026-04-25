@@ -16,21 +16,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu Luqman
-  strong: true
-  regulation_language: en
-  logical_id: '118410'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-10-18'
-    number_title: 2018/1562 (OJ L261 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2018:261I:FULL&from=EN
 - first_name: ANJEM
   last_name: CHOUDARY
   whole_name: ANJEM CHOUDARY
   strong: true
   regulation_language: en
   logical_id: '118409'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-10-18'
+    number_title: 2018/1562 (OJ L261 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2018:261I:FULL&from=EN
+- whole_name: Abu Luqman
+  strong: true
+  regulation_language: en
+  logical_id: '118410'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-10-18'

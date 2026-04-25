@@ -14,33 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Уладзімір Уладзіміравіч НАВУМАЎ
+- whole_name: Vladimir Vladimirovitj NAUMOV
   gender: M
-  name_language: BE
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '102662'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Vladimir Vladimirovich NAUMOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '4775'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-02-26'
-    number_title: 2021/339 (OJ L68)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Владимир Владимирович НАУМОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '8614'
+  logical_id: '13051'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'
@@ -52,6 +31,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '13050'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- whole_name: Уладзімір Уладзіміравіч НАВУМАЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '102662'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'
@@ -69,12 +59,22 @@ name_aliases:
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
-- whole_name: Vladimir Vladimirovitj NAUMOV
+- whole_name: Владимир Владимирович НАУМОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '13051'
+  logical_id: '8614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-02-26'
+    number_title: 2021/339 (OJ L68)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- whole_name: Vladimir Vladimirovich NAUMOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '4775'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-02-26'

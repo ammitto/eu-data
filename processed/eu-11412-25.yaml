@@ -14,32 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oľga
-  last_name: Nikišinová
-  whole_name: Oľga Nikišinová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164225'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Olga
-  last_name: Nikišina
-  whole_name: Olga Nikišina
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164226'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Olga
   middle_name: Vladimirovna
   last_name: NIKISHINA
@@ -65,6 +39,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164227'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- first_name: Olga
+  last_name: Nikišina
+  whole_name: Olga Nikišina
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164226'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- first_name: Oľga
+  last_name: Nikišinová
+  whole_name: Oľga Nikišinová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '164225'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -97,21 +97,21 @@ birthdates:
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 identifications:
-- identification_type_code: fiscalcode
-  number: '402403008600'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '164224'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - identification_type_code: passport
   number: '2908332215'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '164223'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- identification_type_code: fiscalcode
+  number: '402403008600'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '164224'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

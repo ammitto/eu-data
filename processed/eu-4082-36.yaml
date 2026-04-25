@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Glocom
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '124488'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - whole_name: International Golden Services
   name_language: EN
   strong: true
@@ -66,6 +56,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '114607'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Glocom
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '124488'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

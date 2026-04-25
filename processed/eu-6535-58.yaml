@@ -35,23 +35,23 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aliaksandr Uladzimiravich PALULEKH
-  function: Head of the Frunzensky District Police Department of Minsk
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130999'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Аляксандр Уладзіміравіч ПАЛУЛЕХ
   gender: M
   name_language: BE
   strong: true
   regulation_language: en
   logical_id: '130996'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Aleksandr Vladimirovitj POLULECH
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '130995'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -68,12 +68,12 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aleksandr Vladimirovitj POLULECH
+- whole_name: Aliaksandr Uladzimiravich PALULEKH
+  function: Head of the Frunzensky District Police Department of Minsk
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130995'
+  logical_id: '130999'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

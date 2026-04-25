@@ -14,6 +14,31 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Andrey
+  middle_name: Leonidovich
+  last_name: TERLIKOV
+  whole_name: Andrey Leonidovich TERLIKOV
+  function: General Director of JSC “UKBTM”
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '162367'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Андрей Леонидович ТЕРЛИКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '162366'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Andrej Těrlikov
   gender: M
   name_language: CS
@@ -31,31 +56,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164048'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Андрей Леонидович ТЕРЛИКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '162366'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Andrey
-  middle_name: Leonidovich
-  last_name: TERLIKOV
-  whole_name: Andrey Leonidovich TERLIKOV
-  function: General Director of JSC “UKBTM”
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '162367'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

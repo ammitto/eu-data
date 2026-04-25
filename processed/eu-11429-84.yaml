@@ -16,13 +16,28 @@ subject_type:
 name_aliases:
 - first_name: Наталия
   middle_name: Николаевна
-  last_name: Дудар
-  whole_name: Наталия Николаевна Дудар
+  last_name: ДУДАРЬ
+  whole_name: Наталия Николаевна ДУДАРЬ
   gender: F
-  name_language: BG
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '164575'
+  logical_id: '164328'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Natalia
+  middle_name: Nikolaevna
+  last_name: DUDAR
+  whole_name: Natalia Nikolaevna DUDAR
+  function: Judge at the Basmanny District Court in Moscow
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '164329'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -44,20 +59,6 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Natalija
   middle_name: Nikolajevna
-  last_name: Dudarová
-  whole_name: Natalija Nikolajevna Dudarová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164689'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Natalija
-  middle_name: Nikolajevna
   last_name: Dudar
   whole_name: Natalija Nikolajevna Dudar
   gender: F
@@ -70,16 +71,15 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Natalia
-  middle_name: Nikolaevna
-  last_name: DUDAR
-  whole_name: Natalia Nikolaevna DUDAR
-  function: Judge at the Basmanny District Court in Moscow
+- first_name: Natalija
+  middle_name: Nikolajevna
+  last_name: Dudarová
+  whole_name: Natalija Nikolajevna Dudarová
   gender: F
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '164329'
+  logical_id: '164689'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -87,13 +87,13 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Наталия
   middle_name: Николаевна
-  last_name: ДУДАРЬ
-  whole_name: Наталия Николаевна ДУДАРЬ
+  last_name: Дудар
+  whole_name: Наталия Николаевна Дудар
   gender: F
-  name_language: RU
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '164328'
+  logical_id: '164575'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

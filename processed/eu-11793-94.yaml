@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Сергей
-  middle_name: Григорьевич
-  last_name: МУЗЫЧЕНКО
-  whole_name: Сергей Григорьевич МУЗЫЧЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166945'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Sergey
   middle_name: Grigorievich
   last_name: MUZYCHENKO
@@ -40,6 +26,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166946'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Сергей
+  middle_name: Григорьевич
+  last_name: МУЗЫЧЕНКО
+  whole_name: Сергей Григорьевич МУЗЫЧЕНКО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166945'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

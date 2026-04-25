@@ -14,11 +14,52 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: De open vennootschap op aandelen “MAZ”
+- whole_name: ОАО  "Минский автомобильный завод"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '129964'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Open vennootschap op aandelen “Minsk Automobile Works” - Beheermaatschappij
+    van “BELAVTOMAZ” Holding
   name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '130819'
+  logical_id: '135486'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: ААТ «Мінскі  аўтамабільны завод»
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '129965'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: OJSC “MAZ”
+  strong: true
+  regulation_language: en
+  logical_id: '129966'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Minskii  Avtomobilnyi Zavod (MAZ)
+  function: "OJSC Minsk Automobile Plant is one of the biggest \nstate-owned automotive
+    manufacturers in Belarus."
+  strong: true
+  regulation_language: en
+  logical_id: '129967'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -29,6 +70,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130818'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: De open vennootschap op aandelen “MAZ”
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '130819'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Minskii Avtomobilni Zavod (MAZ)
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '130820'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -176,67 +237,6 @@ name_aliases:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Open vennootschap op aandelen “Minsk Automobile Works” - Beheermaatschappij
-    van “BELAVTOMAZ” Holding
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '135486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Minskii Avtomobilni Zavod (MAZ)
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '130820'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: ОАО  "Минский автомобильный завод"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '129964'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: ААТ «Мінскі  аўтамабільны завод»
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '129965'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: OJSC “MAZ”
-  strong: true
-  regulation_language: en
-  logical_id: '129966'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Minskii  Avtomobilnyi Zavod (MAZ)
-  function: "OJSC Minsk Automobile Plant is one of the biggest \nstate-owned automotive
-    manufacturers in Belarus."
-  strong: true
-  regulation_language: en
-  logical_id: '129967'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 addresses:
 - street: Socialisticheskaya 2
   city: Minsk

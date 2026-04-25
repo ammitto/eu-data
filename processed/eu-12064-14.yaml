@@ -14,21 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Pierre Celestin RURAKABIJE
-  function: Deputy Commander of the “Commando de recherche et d’action en profondeur”
-    (CRAP) of the Forces Démocratiques pour la Libération du Rwanda / Forces Combattantes
-    Abacunguzi (FDLR/FOCA)
+- first_name: Simba
+  last_name: Guillaume
+  whole_name: Simba Guillaume
   gender: M
-  title: Lieutenant-Colonel
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '168487'
+  logical_id: '168483'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-12-09'
-    number_title: 2024/3107 (OJ L10122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403107
+    publication_date: '2024-07-26'
+    number_title: 2024/2065(OJ L202402065)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
 - first_name: Guillaume
   last_name: NGABO
   whole_name: Guillaume NGABO
@@ -54,19 +52,21 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2065(OJ L202402065)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
-- first_name: Simba
-  last_name: Guillaume
-  whole_name: Simba Guillaume
+- whole_name: Pierre Celestin RURAKABIJE
+  function: Deputy Commander of the “Commando de recherche et d’action en profondeur”
+    (CRAP) of the Forces Démocratiques pour la Libération du Rwanda / Forces Combattantes
+    Abacunguzi (FDLR/FOCA)
   gender: M
+  title: Lieutenant-Colonel
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '168483'
+  logical_id: '168487'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2065(OJ L202402065)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402065
+    publication_date: '2024-12-09'
+    number_title: 2024/3107 (OJ L10122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403107
 - first_name: Samba
   last_name: Guillaume
   whole_name: Samba Guillaume

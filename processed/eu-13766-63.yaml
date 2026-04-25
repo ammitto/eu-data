@@ -25,12 +25,44 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Întreprinderea unitară de stat a Republicii Populare Luhansk «Lugansk
-    Communications»
-  name_language: RO
+- whole_name: Государственное Унитарное редприятие Луганской Народной Республики Луганские
+    Коммуникации
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179493'
+  logical_id: '179351'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Държавно единно предприятие  на Луганската народна  република „Лугански  Комуникации“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '179497'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Κρατική διαχειριστική επιχείρηση  της Λαϊκής Δημοκρατίας του  Λουγκάνσκ
+    “Lugansk Communications”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '179496'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Entreprise unitaire d'État de la République populaire de  Lougansk “Lugansk
+    Communications”
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '179495'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -81,44 +113,12 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Государственное Унитарное редприятие Луганской Народной Республики Луганские
-    Коммуникации
-  name_language: RU
+- whole_name: Întreprinderea unitară de stat a Republicii Populare Luhansk «Lugansk
+    Communications»
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '179351'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Държавно единно предприятие  на Луганската народна  република „Лугански  Комуникации“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '179497'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Κρατική διαχειριστική επιχείρηση  της Λαϊκής Δημοκρατίας του  Λουγκάνσκ
-    “Lugansk Communications”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '179496'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Entreprise unitaire d'État de la République populaire de  Lougansk “Lugansk
-    Communications”
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '179495'
+  logical_id: '179493'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -136,6 +136,17 @@ name_aliases:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 addresses:
+- street: Yeremenko sq. 73
+  city: Luhansk
+  country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '179346'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - street: Marska Street 261
   city: Lugansk
   country_iso2_code: UA
@@ -148,33 +159,22 @@ addresses:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- street: Yeremenko sq. 73
-  city: Luhansk
-  country_iso2_code: UA
-  country_description: UKRAINE
-  regulation_language: en
-  logical_id: '179346'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: regnumber
-  number: '1229400032839'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '179349'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: taxid
   number: '9403009411'
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '179348'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: regnumber
+  number: '1229400032839'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '179349'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

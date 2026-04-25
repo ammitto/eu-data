@@ -14,38 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Old Vector Korlátolt Felelősségű Társaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '179491'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Kumpanija b’Responsabbiltà Limitata Old Vector
-  name_language: MT
-  strong: true
-  regulation_language: en
-  logical_id: '179490'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Limited Liability Company Old Vector
-  function: The issuer of A7A5, a stable coin which is backed by fiat rouble deposits
-    in the bank accounts of PSB Bank
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179344'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Общество с ограниченной  ответственностью Олд Вектор
   name_language: RU
   strong: true
@@ -66,11 +34,13 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Дружество с ограничена  отговорност „Олд Вектор“
-  name_language: BG
+- whole_name: Limited Liability Company Old Vector
+  function: The issuer of A7A5, a stable coin which is backed by fiat rouble deposits
+    in the bank accounts of PSB Bank
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179492'
+  logical_id: '179344'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -81,6 +51,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '179489'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Kumpanija b’Responsabbiltà Limitata Old Vector
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '179490'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Old Vector Korlátolt Felelősségű Társaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '179491'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Дружество с ограничена  отговорност „Олд Вектор“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '179492'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -100,11 +100,11 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: other
-  number: '33504589'
-  country_iso2_code: '00'
+- identification_type_code: regnumber
+  number: 311479-3301-ООО
+  country_iso2_code: KG
   regulation_language: en
-  logical_id: '179340'
+  logical_id: '179341'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -120,11 +120,11 @@ identifications:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- identification_type_code: regnumber
-  number: 311479-3301-ООО
-  country_iso2_code: KG
+- identification_type_code: other
+  number: '33504589'
+  country_iso2_code: '00'
   regulation_language: en
-  logical_id: '179341'
+  logical_id: '179340'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

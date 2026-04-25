@@ -15,24 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Open Joint Stock Company ‘Foreign Economic Association’ ‘Technopromexport’
-  strong: true
-  regulation_language: en
-  logical_id: '113794'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-08-04'
-    number_title: 2017/1417 (OJ L203)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1417&qid=1502198727659&from=EN
-- whole_name: Открытое акционерное общество Внешнеэкономическое объединение Технопромэкспорт
-  strong: true
-  regulation_language: en
-  logical_id: '113793'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-08-04'
-    number_title: 2017/1417 (OJ L203)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1417&qid=1502198727659&from=EN
 - whole_name: OAO ‘VO Technopromexport’ (OAO ‘VO TPE’)
   function: Contracting party  with  Siemens Gas  Turbine technologies OOO, OAO ‘VO
     TPE’ purchased gas  turbines declared to  be  destined for a  power  plant  in  Taman,
@@ -47,6 +29,24 @@ name_aliases:
     publication_date: '2019-09-13'
     number_title: 2019/1403 (OJ L236)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:236:FULL&from=EN
+- whole_name: Открытое акционерное общество Внешнеэкономическое объединение Технопромэкспорт
+  strong: true
+  regulation_language: en
+  logical_id: '113793'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-08-04'
+    number_title: 2017/1417 (OJ L203)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1417&qid=1502198727659&from=EN
+- whole_name: Open Joint Stock Company ‘Foreign Economic Association’ ‘Technopromexport’
+  strong: true
+  regulation_language: en
+  logical_id: '113794'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-08-04'
+    number_title: 2017/1417 (OJ L203)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1417&qid=1502198727659&from=EN
 addresses:
 - street: Novyi Arbat str., 15, building 2
   city: Moscow
@@ -62,20 +62,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:236:FULL&from=EN
 identifications:
 - identification_type_code: regnumber
-  number: '1067746244026'
+  number: '7705713236'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '113809'
+  logical_id: '113808'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-04'
     number_title: 2017/1417 (OJ L203)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1417&qid=1502198727659&from=EN
 - identification_type_code: regnumber
-  number: '7705713236'
+  number: '1067746244026'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '113808'
+  logical_id: '113809'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-04'

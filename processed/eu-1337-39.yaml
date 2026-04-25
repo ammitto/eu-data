@@ -15,10 +15,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Adib Shaban Al-Ani
+- whole_name: Adib Sha’ban
+  title: Dr.
   strong: true
   regulation_language: en
-  logical_id: '3262'
+  logical_id: '3263'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-06-10'
@@ -33,11 +34,10 @@ name_aliases:
     publication_date: '2004-06-10'
     number_title: 1086/2004 (OJ L207)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:207:0010:0012:EN:PDF
-- whole_name: Adib Sha’ban
-  title: Dr.
+- whole_name: Adib Shaban Al-Ani
   strong: true
   regulation_language: en
-  logical_id: '3263'
+  logical_id: '3262'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-06-10'

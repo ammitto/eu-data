@@ -15,23 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ivan
-  middle_name: Dmitrievich
-  last_name: POPOV
-  whole_name: Ivan Dmitrievich POPOV
-  function: member of the Missile Pre-Planning unit at the Main Computing Centre of
-    the General Staff (GVC) of Russia’s Armed Forces General Staff
-  gender: M
-  title: Major
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '146797'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-14'
-    number_title: 2023/806 (OJ L101)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
-- first_name: Ivan
   middle_name: Dmitrijevitj
   last_name: POPOV
   whole_name: Ivan Dmitrijevitj POPOV
@@ -54,6 +37,23 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146796'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-14'
+    number_title: 2023/806 (OJ L101)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
+- first_name: Ivan
+  middle_name: Dmitrievich
+  last_name: POPOV
+  whole_name: Ivan Dmitrievich POPOV
+  function: member of the Missile Pre-Planning unit at the Main Computing Centre of
+    the General Staff (GVC) of Russia’s Armed Forces General Staff
+  gender: M
+  title: Major
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '146797'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

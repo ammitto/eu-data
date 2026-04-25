@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Александр
-  last_name: КАЛИНИН
-  whole_name: Александр КАЛИНИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '153790'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1046 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1046
 - first_name: Aleksandr
   last_name: Kalinin
   whole_name: Aleksandr Kalinin
@@ -42,20 +29,33 @@ name_aliases:
     publication_date: '2023-05-30'
     number_title: 2023/1046 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1046
-citizenships:
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- first_name: Александр
+  last_name: КАЛИНИН
+  whole_name: Александр КАЛИНИН
+  gender: M
+  name_language: RU
+  strong: true
   regulation_language: en
-  logical_id: '153788'
+  logical_id: '153790'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
     number_title: 2023/1046 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1046
+citizenships:
 - country_iso2_code: MD
   country_description: MOLDOVA, REPUBLIC OF
   regulation_language: en
   logical_id: '153789'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1046 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1046
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '153788'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
@@ -68,11 +68,11 @@ birthdates:
   day_of_month: 16
   month_of_year: 2
   year: 1977
-  city: Balti
+  city: Bălți
   country_iso2_code: MD
   country_description: MOLDOVA, REPUBLIC OF
   regulation_language: en
-  logical_id: '153787'
+  logical_id: '153799'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
@@ -84,11 +84,11 @@ birthdates:
   day_of_month: 16
   month_of_year: 2
   year: 1977
-  city: Bălți
+  city: Balti
   country_iso2_code: MD
   country_description: MOLDOVA, REPUBLIC OF
   regulation_language: en
-  logical_id: '153799'
+  logical_id: '153787'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'

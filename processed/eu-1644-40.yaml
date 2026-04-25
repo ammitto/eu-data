@@ -15,16 +15,20 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Grupo de Industrias de Armamento
-  name_language: ES
+- whole_name: Armament Industries Group
+  function: Armament Industries Group (AIG) manufacturers and services a variety of
+    small arms and light weapons, including large- and medium-calibre guns and related
+    technology. AIG conducts the majority of its procurement activity through Hadid
+    Industries Complex.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161973'
+  logical_id: '5438'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - whole_name: Groupe des industries de l'armement
   name_language: FR
   strong: true
@@ -45,20 +49,16 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Armament Industries Group
-  function: Armament Industries Group (AIG) manufacturers and services a variety of
-    small arms and light weapons, including large- and medium-calibre guns and related
-    technology. AIG conducts the majority of its procurement activity through Hadid
-    Industries Complex.
-  name_language: EN
+- whole_name: Grupo de Industrias de Armamento
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '5438'
+  logical_id: '161973'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Grupa Przemysłowa ds. Uzbrojenia
   name_language: PL
   strong: true

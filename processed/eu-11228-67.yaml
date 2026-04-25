@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Semjon Maškaucan
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164102'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Semyon
   middle_name: Alexeyevich
   last_name: MASHKAUTSAN
@@ -35,6 +24,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162536'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Semjon Maškaucan
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '164102'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -52,23 +52,23 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Семен Алексеевич МАШКАУЦАН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '162534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Салах Алексеевич МАШКАУЦАН
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '162533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Семен Алексеевич МАШКАУЦАН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '162534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

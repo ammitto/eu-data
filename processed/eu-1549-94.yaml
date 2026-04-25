@@ -14,6 +14,35 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: احمد زكي عزت زكي
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '174368'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: Abu Usama
+  strong: true
+  regulation_language: en
+  logical_id: '4245'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-10-06'
+    number_title: 1629/2005 (OJ L260)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:260:0009:0010:EN:PDF
+- whole_name: Rif’at Salim
+  strong: true
+  regulation_language: en
+  logical_id: '4244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-10-06'
+    number_title: 1629/2005 (OJ L260)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:260:0009:0010:EN:PDF
 - first_name: Zaki
   middle_name: Ezat Zaki
   last_name: Ahmed
@@ -24,35 +53,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4243'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Rif’at Salim
-  strong: true
-  regulation_language: en
-  logical_id: '4244'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-10-06'
-    number_title: 1629/2005 (OJ L260)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:260:0009:0010:EN:PDF
-- whole_name: Abu Usama
-  strong: true
-  regulation_language: en
-  logical_id: '4245'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-10-06'
-    number_title: 1629/2005 (OJ L260)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:260:0009:0010:EN:PDF
-- whole_name: احمد زكي عزت زكي
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '174368'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'

@@ -84,12 +84,11 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
-  year: 1985
-  city: Dahyan
+  city: Sa'dah Governorate
   country_iso2_code: YE
   country_description: YEMEN
   regulation_language: en
-  logical_id: '2278'
+  logical_id: '2279'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2014-12-18'
@@ -97,11 +96,12 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_365_R_0007&from=EN
 - circa: true
   calendar_type: GREGORIAN
-  city: Sa'dah Governorate
+  year: 1985
+  city: Dahyan
   country_iso2_code: YE
   country_description: YEMEN
   regulation_language: en
-  logical_id: '2279'
+  logical_id: '2278'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2014-12-18'

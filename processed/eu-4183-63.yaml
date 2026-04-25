@@ -14,60 +14,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Green Pine Associated Corporation
-  function: Green Pine Associated Corporation (‘Green Pine’) has taken over many of
-    the activities of the Korea Mining Development Trading Corporation (KOMID). KOMID
-    was designated by the Sanctions Committee in April 2009 and is North Korea's primary
-    arms dealer and main exporter of goods and equipment related to ballistic missiles
-    and conventional weapons.
+- whole_name: Natural Resources Development and Investment Corporation
   strong: true
   regulation_language: en
-  logical_id: '8403'
-  regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2017-08-31'
-    number_title: 2017/1509 (OJ L224)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- whole_name: Saeng Pil Trading Corporation
-  strong: true
-  regulation_language: en
-  logical_id: '113153'
+  logical_id: '113156'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-18'
     number_title: 2017/1330 (OJ L185)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
-- whole_name: Cho'ngsong United Trading Company
+- whole_name: Ku'm- haeryong Company LTD
   strong: true
   regulation_language: en
-  logical_id: '113162'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-18'
-    number_title: 2017/1330 (OJ L185)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
-- whole_name: Chongsong Yonhap
-  strong: true
-  regulation_language: en
-  logical_id: '113161'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-18'
-    number_title: 2017/1330 (OJ L185)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
-- whole_name: Ch'o'ngsong Yo'nhap
-  strong: true
-  regulation_language: en
-  logical_id: '113160'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-18'
-    number_title: 2017/1330 (OJ L185)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
-- whole_name: National Resources Development and Investment Corporation
-  strong: true
-  regulation_language: en
-  logical_id: '113154'
+  logical_id: '113157'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-18'
@@ -82,19 +41,19 @@ name_aliases:
     publication_date: '2017-07-18'
     number_title: 2017/1330 (OJ L185)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
-- whole_name: Natural Resources Development and Investment Corporation
+- whole_name: National Resources Development and Investment Corporation
   strong: true
   regulation_language: en
-  logical_id: '113156'
+  logical_id: '113154'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-18'
     number_title: 2017/1330 (OJ L185)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
-- whole_name: Ku'm- haeryong Company LTD
+- whole_name: Saeng Pil Trading Corporation
   strong: true
   regulation_language: en
-  logical_id: '113157'
+  logical_id: '113153'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-18'
@@ -118,13 +77,54 @@ name_aliases:
     publication_date: '2017-07-18'
     number_title: 2017/1330 (OJ L185)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
+- whole_name: Ch'o'ngsong Yo'nhap
+  strong: true
+  regulation_language: en
+  logical_id: '113160'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-18'
+    number_title: 2017/1330 (OJ L185)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
+- whole_name: Chongsong Yonhap
+  strong: true
+  regulation_language: en
+  logical_id: '113161'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-18'
+    number_title: 2017/1330 (OJ L185)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
+- whole_name: Cho'ngsong United Trading Company
+  strong: true
+  regulation_language: en
+  logical_id: '113162'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-18'
+    number_title: 2017/1330 (OJ L185)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1330&from=EN
+- whole_name: Green Pine Associated Corporation
+  function: Green Pine Associated Corporation (‘Green Pine’) has taken over many of
+    the activities of the Korea Mining Development Trading Corporation (KOMID). KOMID
+    was designated by the Sanctions Committee in April 2009 and is North Korea's primary
+    arms dealer and main exporter of goods and equipment related to ballistic missiles
+    and conventional weapons.
+  strong: true
+  regulation_language: en
+  logical_id: '8403'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2017-08-31'
+    number_title: 2017/1509 (OJ L224)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 addresses:
-- street: Chilgol-1 dong
+- street: Rakrang No. 1
   city: Pyongyang
   country_iso2_code: KP
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
-  logical_id: '113163'
+  logical_id: '113164'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-18'
@@ -152,12 +152,12 @@ addresses:
     publication_date: '2017-08-31'
     number_title: 2017/1509 (OJ L224)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- street: Rakrang No. 1
+- street: Chilgol-1 dong
   city: Pyongyang
   country_iso2_code: KP
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF
   regulation_language: en
-  logical_id: '113164'
+  logical_id: '113163'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-18'

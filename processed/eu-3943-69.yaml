@@ -15,14 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Konstantin
-  middle_name: Michajlovitj
-  last_name: BACHAREV
-  whole_name: Konstantin Michajlovitj BACHAREV
+  middle_name: Mikhailovici
+  last_name: BAHAREV
+  whole_name: Konstantin Mikhailovici BAHAREV
   gender: M
-  name_language: SV
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '158583'
+  logical_id: '158458'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -40,14 +40,13 @@ name_aliases:
     number_title: 2020/398 (OJ L78)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
 - first_name: Konstantin
-  middle_name: Mikhailovici
-  last_name: BAHAREV
-  whole_name: Konstantin Mikhailovici BAHAREV
+  last_name: Bacharev
+  whole_name: Konstantin Bacharev
   gender: M
-  name_language: RO
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '158458'
+  logical_id: '158311'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -73,13 +72,14 @@ name_aliases:
     number_title: 2020/1267 (OJ L298)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.298.01.0001.01.ENG&toc=OJ:L:2020:298:TOC
 - first_name: Konstantin
-  last_name: Bacharev
-  whole_name: Konstantin Bacharev
+  middle_name: Michajlovitj
+  last_name: BACHAREV
+  whole_name: Konstantin Michajlovitj BACHAREV
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '158311'
+  logical_id: '158583'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

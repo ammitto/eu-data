@@ -17,36 +17,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: MOATASSAM
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109284'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-05-05'
-    number_title: 2016/690 (OJ L120)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_120_R_0001&from=EN
-- whole_name: ALMUATESEM BELLAH MUAMMER QADHAFI
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109286'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-05-05'
-    number_title: 2016/690 (OJ L120)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_120_R_0001&from=EN
-- whole_name: MUTASSIM BILLAH ABUMINYAR QADHAFI
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109285'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-22'
-    number_title: 2017/489 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
 - first_name: Mutassim
   last_name: QADHAFI
   whole_name: Mutassim QADHAFI
@@ -80,20 +50,37 @@ name_aliases:
     publication_date: '2016-05-05'
     number_title: 2016/690 (OJ L120)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_120_R_0001&from=EN
-birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1976
-  city: Tripoli
-  country_iso2_code: LY
-  country_description: LIBYA
+- whole_name: MOATASSAM
+  name_language: EN
+  strong: true
   regulation_language: en
-  logical_id: '1461'
+  logical_id: '109284'
   regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2011-03-03'
-    number_title: 204/2011 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:058:0001:0013:EN:PDF
+  - regulation_type: amendment
+    publication_date: '2016-05-05'
+    number_title: 2016/690 (OJ L120)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_120_R_0001&from=EN
+- whole_name: MUTASSIM BILLAH ABUMINYAR QADHAFI
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109285'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-22'
+    number_title: 2017/489 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
+- whole_name: ALMUATESEM BELLAH MUAMMER QADHAFI
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109286'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-05-05'
+    number_title: 2016/690 (OJ L120)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_120_R_0001&from=EN
+birthdates:
 - birthdate: '1974-02-05'
   circa: false
   calendar_type: GREGORIAN
@@ -110,6 +97,19 @@ birthdates:
     publication_date: '2017-03-22'
     number_title: 2017/489 (OJ L76)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1976
+  city: Tripoli
+  country_iso2_code: LY
+  country_description: LIBYA
+  regulation_language: en
+  logical_id: '1461'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2011-03-03'
+    number_title: 204/2011 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:058:0001:0013:EN:PDF
 identifications:
 - identification_type_code: passport
   number: B/001897

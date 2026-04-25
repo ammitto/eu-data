@@ -28,12 +28,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Наталия Владимировна КОМАРОВА
+- whole_name: Natalija Komarova
   gender: F
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '162784'
+  logical_id: '163665'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -50,12 +50,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Natalija Komarova
+- whole_name: Наталия Владимировна КОМАРОВА
   gender: F
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163665'
+  logical_id: '162784'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -90,18 +90,6 @@ birthdates:
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 addresses:
-- street: ул. Мира, д. 5
-  city: Ханты- Мансийск
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  zip_code: '62800'
-  regulation_language: en
-  logical_id: '162780'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - street: 5 Mira str.
   city: Khanty-Mansiysk
   country_iso2_code: RU
@@ -109,6 +97,18 @@ addresses:
   zip_code: '628006'
   regulation_language: en
   logical_id: '162781'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- street: ул. Мира, д. 5
+  city: Ханты- Мансийск
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  zip_code: '62800'
+  regulation_language: en
+  logical_id: '162780'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

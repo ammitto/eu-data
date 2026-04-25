@@ -14,6 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Mohamed
+  last_name: Aouani
+  whole_name: Mohamed Aouani
+  strong: true
+  regulation_language: en
+  logical_id: '18471'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-01-16'
+    number_title: 2015/64 (OJ L11)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:011:FULL&from=EN
+- whole_name: Abu Obeida
+  strong: true
+  regulation_language: en
+  logical_id: '8441'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-01-19'
+    number_title: 36/2011 (OJ L14)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
 - whole_name: Mohamed Ben Belgacem Awani
   strong: true
   regulation_language: en
@@ -23,6 +43,26 @@ name_aliases:
     publication_date: '2011-01-19'
     number_title: 36/2011 (OJ L14)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
+- first_name: Al-As’ad
+  last_name: Ben Hani
+  whole_name: Al-As’ad Ben Hani
+  strong: true
+  regulation_language: en
+  logical_id: '8439'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-01-19'
+    number_title: 36/2011 (OJ L14)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
+- whole_name: Mohamed Abu Abda
+  strong: true
+  regulation_language: en
+  logical_id: '4911'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-08-10'
+    number_title: 1210/2006 (OJ L219)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:219:0014:0019:EN:PDF
 - first_name: Mohamed
   last_name: Lakhal
   whole_name: Mohamed Lakhal
@@ -46,46 +86,6 @@ name_aliases:
     publication_date: '2006-08-10'
     number_title: 1210/2006 (OJ L219)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:219:0014:0019:EN:PDF
-- whole_name: Mohamed Abu Abda
-  strong: true
-  regulation_language: en
-  logical_id: '4911'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-08-10'
-    number_title: 1210/2006 (OJ L219)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:219:0014:0019:EN:PDF
-- first_name: Mohamed
-  last_name: Aouani
-  whole_name: Mohamed Aouani
-  strong: true
-  regulation_language: en
-  logical_id: '18471'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-01-16'
-    number_title: 2015/64 (OJ L11)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:011:FULL&from=EN
-- whole_name: Abu Obeida
-  strong: true
-  regulation_language: en
-  logical_id: '8441'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-01-19'
-    number_title: 36/2011 (OJ L14)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
-- first_name: Al-As’ad
-  last_name: Ben Hani
-  whole_name: Al-As’ad Ben Hani
-  strong: true
-  regulation_language: en
-  logical_id: '8439'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-01-19'
-    number_title: 36/2011 (OJ L14)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
 citizenships:
 - country_iso2_code: TN
   country_description: TUNISIA

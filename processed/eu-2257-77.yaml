@@ -37,15 +37,6 @@ name_aliases:
     number_title: 1330/2008 (OJ L345)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:345:0060:0061:EN:PDF
 citizenships:
-- country_iso2_code: MA
-  country_description: MOROCCO
-  regulation_language: en
-  logical_id: '563'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - country_iso2_code: DE
   country_description: GERMANY
   regulation_language: en
@@ -55,6 +46,15 @@ citizenships:
     publication_date: '2008-12-23'
     number_title: 1330/2008 (OJ L345)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:345:0060:0061:EN:PDF
+- country_iso2_code: MA
+  country_description: MOROCCO
+  regulation_language: en
+  logical_id: '563'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 birthdates:
 - birthdate: '1969-12-20'
   circa: false

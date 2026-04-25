@@ -14,15 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mansour Thaer
-  strong: true
-  regulation_language: en
-  logical_id: '7358'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - first_name: Isam
   middle_name: Ali Mohamed
   last_name: Alouche
@@ -31,6 +22,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1975'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
+- whole_name: Mansour Thaer
+  strong: true
+  regulation_language: en
+  logical_id: '7358'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-11-18'
@@ -47,6 +47,18 @@ citizenships:
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1972
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '1170'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - birthdate: '1974-03-21'
   circa: false
   calendar_type: GREGORIAN
@@ -63,15 +75,3 @@ birthdates:
     publication_date: '2006-08-30'
     number_title: 1286/2006 (OJ L235)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:235:0014:0016:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1972
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '1170'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF

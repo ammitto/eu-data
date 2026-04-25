@@ -14,12 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: وسيم بديع الأسد
+- first_name: Wasim Badia
+  last_name: AL-ASAD
+  whole_name: Wasim Badia AL-ASAD
   gender: M
-  name_language: AR
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '152782'
+  logical_id: '153074'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'
@@ -38,14 +40,12 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- first_name: Wasim Badia
-  last_name: AL-ASAD
-  whole_name: Wasim Badia AL-ASAD
+- whole_name: وسيم بديع الأسد
   gender: M
-  name_language: SV
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '153074'
+  logical_id: '152782'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

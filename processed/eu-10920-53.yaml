@@ -18,19 +18,6 @@ name_aliases:
   last_name: Karazij
   whole_name: Anatolij Karazij
   gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160877'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Anatolij
-  last_name: Karazij
-  whole_name: Anatolij Karazij
-  gender: M
   name_language: CS
   strong: true
   regulation_language: en
@@ -53,6 +40,20 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Anatoli
+  middle_name: Aleksandrovich
+  last_name: KARAZYI
+  whole_name: Anatoli Aleksandrovich KARAZYI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159728'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Anatolij
   middle_name: Aleksandrovitj
   last_name: KARAZIJ
@@ -62,6 +63,33 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160659'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Anatolij
+  last_name: Karazij
+  whole_name: Anatolij Karazij
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160877'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Anatoli
+  middle_name: Aleksandrovich
+  last_name: KARAZAI
+  whole_name: Anatoli Aleksandrovich KARAZAI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159727'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -105,34 +133,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159729'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Anatoli
-  middle_name: Aleksandrovich
-  last_name: KARAZAI
-  whole_name: Anatoli Aleksandrovich KARAZAI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159727'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Anatoli
-  middle_name: Aleksandrovich
-  last_name: KARAZYI
-  whole_name: Anatoli Aleksandrovich KARAZYI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159728'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

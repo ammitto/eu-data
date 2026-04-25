@@ -16,18 +16,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Firas
-  last_name: Ahmad
-  whole_name: Firas Ahmad
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '119191'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-01-21'
-    number_title: 2019/84 (OJ L18 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
-- first_name: Firas
   last_name: AHMED
   whole_name: Firas AHMED
   function: Firas Ahmed is the Director of the Security Office of Institute 1000,
@@ -37,6 +25,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '119192'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-01-21'
+    number_title: 2019/84 (OJ L18 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
+- first_name: Firas
+  last_name: Ahmad
+  whole_name: Firas Ahmad
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '119191'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-01-21'

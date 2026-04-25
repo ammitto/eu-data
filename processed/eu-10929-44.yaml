@@ -14,14 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Константин
-  last_name: Мазуревски
-  whole_name: Константин Мазуревски
+- first_name: Konstantin
+  last_name: Mazurevskij
+  whole_name: Konstantin Mazurevskij
   gender: M
-  name_language: BG
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '161237'
+  logical_id: '160896'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -41,13 +41,15 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Konstantin
-  last_name: Mazurevskij
-  whole_name: Konstantin Mazurevskij
+  middle_name: Sergeevich
+  last_name: MAZUREVSKY
+  whole_name: Konstantin Sergeevich MAZUREVSKY
+  function: Member of the Central Election Commission of the Russian Federation
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160896'
+  logical_id: '159792'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -67,16 +69,14 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Konstantin
-  middle_name: Sergeevich
-  last_name: MAZUREVSKY
-  whole_name: Konstantin Sergeevich MAZUREVSKY
-  function: Member of the Central Election Commission of the Russian Federation
+- first_name: Константин
+  last_name: Мазуревски
+  whole_name: Константин Мазуревски
   gender: M
-  name_language: EN
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '159792'
+  logical_id: '161237'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

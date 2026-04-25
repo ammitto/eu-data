@@ -16,10 +16,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Muhammad Jamal Abduh
+- whole_name: Muhammad Jamal Abd-Al Rahim Ahmad Al-Kashif
   strong: true
   regulation_language: en
-  logical_id: '17602'
+  logical_id: '17591'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-11-05'
+    number_title: 1091/2013 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
+- whole_name: Muhammad Jamal Abdo Al-Kashif
+  strong: true
+  regulation_language: en
+  logical_id: '17592'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-11-05'
@@ -43,19 +52,19 @@ name_aliases:
     publication_date: '2013-11-05'
     number_title: 1091/2013 (OJ L293)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
-- whole_name: Muhammad Jamal Abd-Al Rahim Ahmad Al-Kashif
+- whole_name: Muhammad Jamal Abduh
   strong: true
   regulation_language: en
-  logical_id: '17591'
+  logical_id: '17602'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-11-05'
     number_title: 1091/2013 (OJ L293)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
-- whole_name: Muhammad Jamal Abdo Al-Kashif
+- whole_name: Mohammad Jamal Abdo Ahmed
   strong: true
   regulation_language: en
-  logical_id: '17592'
+  logical_id: '17601'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-11-05'
@@ -70,10 +79,10 @@ name_aliases:
     publication_date: '2013-11-05'
     number_title: 1091/2013 (OJ L293)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
-- whole_name: Mohammad Jamal Abdo Ahmed
+- whole_name: Muhammad Jamal Abd-Al Rahim Al-Kashif
   strong: true
   regulation_language: en
-  logical_id: '17601'
+  logical_id: '17594'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-11-05'
@@ -133,15 +142,6 @@ name_aliases:
     publication_date: '2013-11-05'
     number_title: 1091/2013 (OJ L293)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
-- whole_name: Muhammad Jamal Abd-Al Rahim Al-Kashif
-  strong: true
-  regulation_language: en
-  logical_id: '17594'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-11-05'
-    number_title: 1091/2013 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
 citizenships:
 - country_iso2_code: EG
   country_description: EGYPT
@@ -153,6 +153,21 @@ citizenships:
     number_title: 1091/2013 (OJ L293)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
 birthdates:
+- birthdate: '1964-02-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 2
+  year: 1964
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '2032'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-11-05'
+    number_title: 1091/2013 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
 - birthdate: '1964-01-01'
   circa: false
   calendar_type: GREGORIAN
@@ -164,21 +179,6 @@ birthdates:
   country_description: EGYPT
   regulation_language: en
   logical_id: '2031'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-11-05'
-    number_title: 1091/2013 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:293:0036:0037:en:PDF
-- birthdate: '1964-02-01'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 1
-  month_of_year: 2
-  year: 1964
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '2032'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-11-05'

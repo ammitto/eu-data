@@ -15,31 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: SEPCO
+- whole_name: Safety Equipment Procurement Inc.
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159427'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Safety Equipment Procurement Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159428'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: SAFEty Equipment Procurement Company
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '162187'
+  logical_id: '159425'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -55,11 +35,21 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Safety Equipment Procurement Inc.
+- whole_name: SEPCO
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '159425'
+  logical_id: '159427'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Safety Equipment Procurement Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159428'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -85,6 +75,16 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: SAFEty Equipment Procurement Company
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '162187'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Biztonsági Felszerelések Beszerzési  Vállalata
   name_language: HU
   strong: true

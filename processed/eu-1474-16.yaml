@@ -14,6 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Rachid
+  strong: true
+  regulation_language: en
+  logical_id: '15141'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-18'
+    number_title: 34/2012 (OJ L15)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
 - first_name: Abdelkader
   last_name: Laagoub
   whole_name: Abdelkader Laagoub
@@ -25,15 +34,6 @@ name_aliases:
     publication_date: '2005-08-03'
     number_title: 1278/2005 (OJ L202)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:202:0034:0035:EN:PDF
-- whole_name: Rachid
-  strong: true
-  regulation_language: en
-  logical_id: '15141'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-18'
-    number_title: 34/2012 (OJ L15)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
 citizenships:
 - country_iso2_code: MA
   country_description: MOROCCO

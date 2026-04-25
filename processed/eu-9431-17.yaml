@@ -14,10 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ministry of Rocket Industry
+- whole_name: Ministerio de la Industria de los Cohetes
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '147431'
+  logical_id: '147529'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -37,16 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147429'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2429 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Ministerio de la Industria de los Cohetes
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '147529'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -187,6 +178,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147530'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2429 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: Ministry of Rocket Industry
+  strong: true
+  regulation_language: en
+  logical_id: '147431'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'

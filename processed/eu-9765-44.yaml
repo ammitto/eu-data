@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Specijalni tehnološki centar d.o.o.
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '151322'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Speciaal Technologie Centrum  Ltd.
   name_language: NL
   strong: true
@@ -34,21 +44,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Centrul pentru tehnologie specială SRL
-  name_language: RO
+- whole_name: Специальный Технологический Центр
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151262'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Specijalni tehnološki centar d.o.o.
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '151322'
+  logical_id: '150188'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -75,11 +75,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Специальный Технологический Центр
-  name_language: RU
+- whole_name: Centrul pentru tehnologie specială SRL
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '150188'
+  logical_id: '151262'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Юлия Вячеславовна ШИЛОВА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175975'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/958 (OJ L202500958)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
 - whole_name: Yulia Viacheslavovna SHILOVA
   function: 'Yulia Shilova is a federal judge at Court district Petushinsky in Russia.
     She was appointed in 2022 by decree of Vladimir Putin. Yulia Shilova was the appointed
@@ -25,17 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175976'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/958 (OJ L202500958)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
-- whole_name: Юлия Вячеславовна ШИЛОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175975'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

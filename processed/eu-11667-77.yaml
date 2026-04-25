@@ -14,56 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Belarussische Republikanische Junge Union
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '167191'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: União da Juventude Republicana da Bielorrússia
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '167192'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Uniunea Republicană a Tineretului din Belarus
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '167193'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Belarussische Republikeinse Jeugdunie
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '167194'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Belarusz Köztársasági Ifjúsági Unió
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167195'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Valko-Venäjän tasavaltalainen nuorisoliitto
   name_language: FI
   strong: true
@@ -113,6 +63,56 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166243'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Belarussische Republikanische Junge Union
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '167191'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: União da Juventude Republicana da Bielorrússia
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '167192'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Uniunea Republicană a Tineretului din Belarus
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '167193'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Belarussische Republikeinse Jeugdunie
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '167194'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Belarusz Köztársasági Ifjúsági Unió
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '167195'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

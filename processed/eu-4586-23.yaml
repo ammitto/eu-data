@@ -17,10 +17,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Al-Dabachi
+- whole_name: Al Dabbashi
   strong: true
   regulation_language: en
-  logical_id: '117259'
+  logical_id: '118340'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-09-25'
+    number_title: 2018/1285 (OJ L240
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
+- whole_name: The Uncle
+  strong: true
+  regulation_language: en
+  logical_id: '117257'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-06-15'
@@ -37,6 +46,15 @@ name_aliases:
     publication_date: '2018-09-25'
     number_title: 2018/1285 (OJ L240
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
+- whole_name: Al-Dabachi
+  strong: true
+  regulation_language: en
+  logical_id: '117259'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-06-15'
+    number_title: 2018/870 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 - whole_name: Al Ammu
   strong: true
   regulation_language: en
@@ -46,28 +64,10 @@ name_aliases:
     publication_date: '2018-06-15'
     number_title: 2018/870 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
-- whole_name: Al Dabbashi
-  strong: true
-  regulation_language: en
-  logical_id: '118340'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-09-25'
-    number_title: 2018/1285 (OJ L240
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
 - whole_name: Al-Ahwal
   strong: true
   regulation_language: en
   logical_id: '117256'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-06-15'
-    number_title: 2018/870 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
-- whole_name: The Uncle
-  strong: true
-  regulation_language: en
-  logical_id: '117257'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-06-15'
@@ -111,16 +111,6 @@ addresses:
     publication_date: '2018-06-15'
     number_title: 2018/870 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
-- city: Dbabsha-Sabratah
-  country_iso2_code: LY
-  country_description: LIBYA
-  regulation_language: en
-  logical_id: '122755'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-03-06'
-    number_title: 2020/371 (OJ L71)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0371&from=EN
 - city: Garabulli
   country_iso2_code: LY
   country_description: LIBYA
@@ -131,6 +121,16 @@ addresses:
     publication_date: '2018-06-15'
     number_title: 2018/870 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
+- city: Dbabsha-Sabratah
+  country_iso2_code: LY
+  country_description: LIBYA
+  regulation_language: en
+  logical_id: '122755'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-03-06'
+    number_title: 2020/371 (OJ L71)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0371&from=EN
 identifications:
 - identification_type_code: passport
   number: LY53FP76

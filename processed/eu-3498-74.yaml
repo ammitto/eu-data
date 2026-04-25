@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Imad
+  last_name: HAMSHO
+  whole_name: Imad HAMSHO
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166970'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Emad
   last_name: HAMSHO
   whole_name: Emad HAMSHO
@@ -31,13 +44,26 @@ name_aliases:
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Imad
-  last_name: HAMSHO
-  whole_name: Imad HAMSHO
+  last_name: Hamchu
+  whole_name: Imad Hamchu
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '166970'
+  logical_id: '130476'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Imad
+  last_name: Hmisho
+  whole_name: Imad Hmisho
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '18593'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -179,32 +205,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130475'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Imad
-  last_name: Hamchu
-  whole_name: Imad Hamchu
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '130476'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Imad
-  last_name: Hmisho
-  whole_name: Imad Hmisho
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '18593'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

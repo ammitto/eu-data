@@ -15,6 +15,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Sergei
+  middle_name: Evgenevich
+  last_name: NARYSHKIN
+  whole_name: Sergei Evgenevich NARYSHKIN
+  function: "Director of the Foreign Intelligence Service of the Russian Federation
+    as of October 2016. \nPermanent member and Secretary of the Security Council of
+    the Russian Federation."
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '17711'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Сергей Евгеньевич НАРЫШКИН
   gender: M
   name_language: EN
@@ -35,23 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151809'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Sergei
-  middle_name: Evgenevich
-  last_name: NARYSHKIN
-  whole_name: Sergei Evgenevich NARYSHKIN
-  function: "Director of the Foreign Intelligence Service of the Russian Federation
-    as of October 2016. \nPermanent member and Secretary of the Security Council of
-    the Russian Federation."
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '17711'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

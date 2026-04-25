@@ -14,21 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Strojgazmontaż-Most OOO
-  name_language: PL
+- whole_name: ООО СГМ-Мост
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '152447'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Strojgazmontazj-Most OOO
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '152588'
+  logical_id: '124268'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -44,21 +34,21 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Stroygazmontazh-Most OOO
-  name_language: EN
+- whole_name: Strojgazmontazj-Most OOO
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '117794'
+  logical_id: '152588'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: ООО СГМ-Мост
-  name_language: RU
+- whole_name: Stroygazmontazh-Most OOO
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '124268'
+  logical_id: '117794'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -84,6 +74,16 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Strojgazmontaż-Most OOO
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '152447'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 addresses:
 - street: Barklaya street 6, building 7
   city: Moscow

@@ -14,35 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oleg
-  middle_name: Michajlovič
-  last_name: SVIRIDENKO
-  whole_name: Oleg Michajlovič SVIRIDENKO
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '153939'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Oleg
-  middle_name: Mikhailovich
-  last_name: SVIRIDENKO
-  whole_name: Oleg Mikhailovich SVIRIDENKO
-  function: Deputy Minister of Justice of the Russian Federation
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153597'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Олег
   middle_name: Михайлович
   last_name: СВИРИДЕНКО
@@ -58,6 +29,20 @@ name_aliases:
     number_title: 2023/1098 (OJ L145)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Oleg
+  middle_name: Michajlovič
+  last_name: SVIRIDENKO
+  whole_name: Oleg Michajlovič SVIRIDENKO
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '153939'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Oleg
   middle_name: Michajlovitj
   last_name: SVIRIDENKO
   whole_name: Oleg Michajlovitj SVIRIDENKO
@@ -66,6 +51,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153922'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Oleg
+  middle_name: Mikhailovich
+  last_name: SVIRIDENKO
+  whole_name: Oleg Mikhailovich SVIRIDENKO
+  function: Deputy Minister of Justice of the Russian Federation
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153597'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

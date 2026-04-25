@@ -14,34 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Svetlana Saveljevová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164067'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Светлана Владимировна САВЕЛЬЕВА
   gender: F
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '162438'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Světlana Saveljeva
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164066'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -56,6 +34,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162439'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Svetlana Saveljevová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '164067'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Světlana Saveljeva
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164066'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

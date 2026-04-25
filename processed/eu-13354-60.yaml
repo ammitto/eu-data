@@ -60,6 +60,16 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
+- identification_type_code: regnumber
+  number: '1021401062187'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '177042'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: taxid
   number: '1435032049'
   country_iso2_code: RU
@@ -75,16 +85,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177040'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- identification_type_code: regnumber
-  number: '1021401062187'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '177042'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

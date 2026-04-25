@@ -15,15 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Les Signataires par le Sang
-  strong: true
-  regulation_language: en
-  logical_id: '17808'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-06-13'
-    number_title: 630/2014 (OJ L174)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_174_R_0011&from=EN
 - whole_name: Al Mouakaoune Biddam
   strong: true
   regulation_language: en
@@ -33,10 +24,10 @@ name_aliases:
     publication_date: '2014-06-13'
     number_title: 630/2014 (OJ L174)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_174_R_0011&from=EN
-- whole_name: Those Who Sign in Blood
+- whole_name: Les Signataires par le Sang
   strong: true
   regulation_language: en
-  logical_id: '17810'
+  logical_id: '17808'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-06-13'
@@ -46,6 +37,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '17809'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-06-13'
+    number_title: 630/2014 (OJ L174)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_174_R_0011&from=EN
+- whole_name: Those Who Sign in Blood
+  strong: true
+  regulation_language: en
+  logical_id: '17810'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-06-13'

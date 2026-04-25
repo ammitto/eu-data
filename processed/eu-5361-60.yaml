@@ -15,6 +15,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Lumonde
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '121962'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-02-13'
+    number_title: 2020/189 (OJ L40I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.040.01.0001.01.ENG&toc=OJ:L:2020:040I:TOC
 - whole_name: Lumu
   gender: M
   strong: true
@@ -30,16 +40,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '121964'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-02-13'
-    number_title: 2020/189 (OJ L40I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.040.01.0001.01.ENG&toc=OJ:L:2020:040I:TOC
-- whole_name: Lumonde
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '121962'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-02-13'

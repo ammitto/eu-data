@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hamidreza
-  last_name: Sharifi-Tehrani
-  whole_name: Hamidreza Sharifi-Tehrani
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '156003'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1496 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
 - first_name: Hamid Reza
   last_name: Sharifi-Tehrani
   whole_name: Hamid Reza Sharifi-Tehrani
@@ -66,14 +53,14 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1496 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
-- first_name: Hamidreza
-  last_name: SHARIFI TEHRANI
-  whole_name: Hamidreza SHARIFI TEHRANI
+- first_name: Hamid Reza
+  last_name: Sharifi-Tehrani
+  whole_name: Hamid Reza Sharifi-Tehrani
   gender: M
-  name_language: EN
+  name_language: LV
   strong: true
   regulation_language: en
-  logical_id: '155979'
+  logical_id: '156005'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -104,14 +91,27 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1496 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
+- first_name: Hamidreza
+  last_name: Sharifi-Tehrani
+  whole_name: Hamidreza Sharifi-Tehrani
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '156003'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1496 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
 - first_name: Hamid Reza
   last_name: Sharifi-Tehrani
   whole_name: Hamid Reza Sharifi-Tehrani
   gender: M
-  name_language: LV
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '156005'
+  logical_id: '156002'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -130,14 +130,14 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1496 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1496
-- first_name: Hamid Reza
-  last_name: Sharifi-Tehrani
-  whole_name: Hamid Reza Sharifi-Tehrani
+- first_name: Hamidreza
+  last_name: SHARIFI TEHRANI
+  whole_name: Hamidreza SHARIFI TEHRANI
   gender: M
-  name_language: NL
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156002'
+  logical_id: '155979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

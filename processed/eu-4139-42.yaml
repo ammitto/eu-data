@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Chol-song
+  last_name: Cho
+  whole_name: Chol-song Cho
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '161784'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - first_name: Chol Song
   last_name: Jo
   whole_name: Chol Song Jo
@@ -24,19 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113864'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Chol-song
-  last_name: Cho
-  whole_name: Chol-song Cho
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '161784'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

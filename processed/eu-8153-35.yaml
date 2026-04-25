@@ -15,47 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yevgeniy
-  middle_name: Viktorovich
-  last_name: PRIGOZHIN
-  whole_name: Yevgeniy Viktorovich PRIGOZHIN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '139819'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
-- first_name: Jevgenij
-  middle_name: Viktorovitj
-  last_name: PRIGOZJIN
-  whole_name: Jevgenij Viktorovitj PRIGOZJIN
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139821'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-21'
-    number_title: 2022/658 (OJ L120)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0658
-- first_name: Evguéni
-  last_name: Prigojine
-  whole_name: Evguéni Prigojine
-  gender: M
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '158184'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Евгений
   middle_name: Викторович
   last_name: ПРИГОЖИН
@@ -70,19 +29,6 @@ name_aliases:
     publication_date: '2022-04-21'
     number_title: 2022/658 (OJ L120)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0658
-- first_name: Jewgienij
-  last_name: Prigożyn
-  whole_name: Jewgienij Prigożyn
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '158227'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Jevgenij
   last_name: Prigožin
   whole_name: Jevgenij Prigožin
@@ -96,6 +42,60 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Jewgienij
+  last_name: Prigożyn
+  whole_name: Jewgienij Prigożyn
+  gender: M
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '158227'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Evguéni
+  last_name: Prigojine
+  whole_name: Evguéni Prigojine
+  gender: M
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '158184'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Jevgenij
+  middle_name: Viktorovitj
+  last_name: PRIGOZJIN
+  whole_name: Jevgenij Viktorovitj PRIGOZJIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139821'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-21'
+    number_title: 2022/658 (OJ L120)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0658
+- first_name: Yevgeniy
+  middle_name: Viktorovich
+  last_name: PRIGOZHIN
+  whole_name: Yevgeniy Viktorovich PRIGOZHIN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '139819'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

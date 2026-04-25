@@ -25,17 +25,6 @@ name_aliases:
     publication_date: '2022-10-17'
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
-- whole_name: ROSTAMI Mohammad
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167898'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - whole_name: ROSTAMI CHESHMEH GACHI Mohammed
   function: Head of Iran’s Morality Police. He was head of the Kermanshah Public Security
     Police from early 2014 until early 2019 and held senior positions in the Iranian
@@ -56,6 +45,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167896'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- whole_name: ROSTAMI Mohammad
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167898'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'
@@ -99,21 +99,21 @@ birthdates:
     number_title: 2022/1955 (OJ L269I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 identifications:
-- identification_type_code: id
-  number: '111936'
-  country_iso2_code: IR
-  regulation_language: en
-  logical_id: '167895'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-17'
-    number_title: 2022/1955 (OJ L269I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
 - identification_type_code: other
   number: '13821'
   country_iso2_code: IR
   regulation_language: en
   logical_id: '167894'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-17'
+    number_title: 2022/1955 (OJ L269I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1955
+- identification_type_code: id
+  number: '111936'
+  country_iso2_code: IR
+  regulation_language: en
+  logical_id: '167895'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-17'

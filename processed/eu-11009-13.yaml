@@ -25,17 +25,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: az „Orosz Tudományos Akadémia S.A. Lebedevről elnevezett Precíziós Mechanikai
-    és Számítástechnikai Intézete” Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '161092'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: az Orosz Tudományos Akadémia S.A. Lebedevről elnevezett Precíziós Mechanikai
     és Számítástechnikai Intézete
   name_language: HU
@@ -47,31 +36,22 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Lebedev Precíziós Mechanikai és Számítógép-Tervező Intézet
+- whole_name: az „Orosz Tudományos Akadémia S.A. Lebedevről elnevezett Precíziós Mechanikai
+    és Számítástechnikai Intézete” Rt.
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '161090'
+  logical_id: '161092'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: ITMIVT Rt.
-  name_language: HU
+- whole_name: Lebedevov inštitút pre presnú mechaniku a počítačové inžinierstvo
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '161089'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Lebedev-Instituut voor preciziemechanica en informatietechnologie
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '160801'
+  logical_id: '161093'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -88,11 +68,31 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Lebedevov inštitút pre presnú mechaniku a počítačové inžinierstvo
-  name_language: SK
+- whole_name: Institut Lebedev de mécanique de précision et d’ingénierie informatique
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '161093'
+  logical_id: '160600'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: ITMIVT Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161089'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Lebedev Precíziós Mechanikai és Számítógép-Tervező Intézet
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '161090'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -115,16 +115,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160263'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Institut Lebedev de mécanique de précision et d’ingénierie informatique
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160600'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -156,6 +146,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160260'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Lebedev-Instituut voor preciziemechanica en informatietechnologie
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '160801'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

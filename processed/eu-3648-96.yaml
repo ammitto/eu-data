@@ -15,16 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aleksandr Michajlovitj NOSATOV
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '137430'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-11'
-    number_title: 2022/408 (OJ L84)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
 - whole_name: Alexander Mihailovich NOSATOV
   function: Former Commander of the Black Sea Fleet, Rear-Admiral. Currently Admiral,
     Chief of the Main Staff of the Russian Navy.
@@ -42,6 +32,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106260'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-11'
+    number_title: 2022/408 (OJ L84)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.084.01.0002.01.ENG&toc=OJ%3AL%3A2022%3A084%3ATOC
+- whole_name: Aleksandr Michajlovitj NOSATOV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137430'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-03-11'

@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: محمد شاليش
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '152797'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - first_name: Mohammad
   last_name: SHALISH
   whole_name: Mohammad SHALISH
@@ -33,6 +22,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- whole_name: محمد شاليش
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '152797'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

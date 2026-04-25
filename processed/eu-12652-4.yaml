@@ -16,6 +16,22 @@ subject_type:
 name_aliases:
 - first_name: Caryslia
   middle_name: Beatriz
+  last_name: RODRÍGUEZ RODRÍGUEZ
+  whole_name: Caryslia Beatriz RODRÍGUEZ RODRÍGUEZ
+  function: President of the Supreme Court of Justice of Venezuela (TSJ) and President
+    of the Electoral Chamber of the TSJ
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '172363'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-10'
+    number_title: 2025/44 (OJ L10012025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
+- first_name: Caryslia
+  middle_name: Beatriz
   last_name: RODRÍGUEZ RODRÍGUEZIN
   whole_name: Caryslia Beatriz RODRÍGUEZ RODRÍGUEZIN
   gender: F
@@ -37,22 +53,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172365'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-10'
-    number_title: 2025/44 (OJ L10012025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
-- first_name: Caryslia
-  middle_name: Beatriz
-  last_name: RODRÍGUEZ RODRÍGUEZ
-  whole_name: Caryslia Beatriz RODRÍGUEZ RODRÍGUEZ
-  function: President of the Supreme Court of Justice of Venezuela (TSJ) and President
-    of the Electoral Chamber of the TSJ
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '172363'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-10'

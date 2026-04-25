@@ -85,6 +85,17 @@ name_aliases:
     publication_date: '2015-12-24'
     number_title: 2015/2454 (OJ L339)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_339_R_0003&from=EN
+- last_name: Ngakosset
+  whole_name: Ngakosset
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-12-24'
+    number_title: 2015/2454 (OJ L339)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_339_R_0003&from=EN
 - first_name: Eugène
   middle_name: BARRET
   last_name: NGAÏKOSSET
@@ -102,17 +113,6 @@ name_aliases:
     publication_date: '2018-05-08'
     number_title: 2018/698 (OJ L117 I)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0698&from=EN
-- last_name: Ngakosset
-  whole_name: Ngakosset
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107483'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-12-24'
-    number_title: 2015/2454 (OJ L339)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_339_R_0003&from=EN
 birthdates:
 - birthdate: '1967-10-08'
   circa: false

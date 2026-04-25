@@ -14,12 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Vladimir Petrušenko
+- first_name: Vladimir
+  middle_name: Georgievich
+  last_name: PETRUSHENKO
+  whole_name: Vladimir Georgievich PETRUSHENKO
+  function: General Director of JSC Design Bureau of Mechanical Engineering
   gender: M
-  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '164060'
+  logical_id: '162399'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -36,15 +39,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Vladimir
-  middle_name: Georgievich
-  last_name: PETRUSHENKO
-  whole_name: Vladimir Georgievich PETRUSHENKO
-  function: General Director of JSC Design Bureau of Mechanical Engineering
+- whole_name: Vladimir Petrušenko
   gender: M
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '162399'
+  logical_id: '164060'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

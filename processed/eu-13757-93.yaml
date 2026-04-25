@@ -14,12 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Юлия Сергеевна  ВЕЛИЧКО
+- first_name: Yulia
+  middle_name: Sergeevna
+  last_name: VELICHKO
+  whole_name: Yulia Sergeevna VELICHKO
+  function: First Deputy Minister of the so-called Ministry of Culture of the so-called
+    Luhansk People’s Republic
   gender: F
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179249'
+  logical_id: '179251'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -36,17 +41,12 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- first_name: Yulia
-  middle_name: Sergeevna
-  last_name: VELICHKO
-  whole_name: Yulia Sergeevna VELICHKO
-  function: First Deputy Minister of the so-called Ministry of Culture of the so-called
-    Luhansk People’s Republic
+- whole_name: Юлия Сергеевна  ВЕЛИЧКО
   gender: F
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '179251'
+  logical_id: '179249'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

@@ -14,22 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ЧВК Конвой
-  name_language: RU
+- whole_name: Empresa Militar Privada Convoy
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '160423'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Military-security organisation “Convoy”
-  function: a Russian Private Military Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160424'
+  logical_id: '160781'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -46,101 +35,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Empresa Militar Privada Convoy
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '160781'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: empresa militar privada Convoy
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160782'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: Det privata militära företaget Convoy
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '160783'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: ιδιωτική στρατιωτική εταιρεία Convoy
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '161272'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Частното военно дружество Convoy
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '161273'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: private militære virksomhed Convoy
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '161274'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Private Military Company Convoy
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160615'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: société militaire privée Convoy
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160616'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Soukromá vojenská společnost Konvoj
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '161158'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Privatno vojno društvo Convoy
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '161159'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -201,6 +100,107 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161157'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Soukromá vojenská společnost Konvoj
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '161158'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Privatno vojno društvo Convoy
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '161159'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Private Military Company Convoy
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160615'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: société militaire privée Convoy
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160616'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: ιδιωτική στρατιωτική εταιρεία Convoy
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '161272'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Частното военно дружество Convoy
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '161273'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: private militære virksomhed Convoy
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '161274'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: empresa militar privada Convoy
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160782'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Military-security organisation “Convoy”
+  function: a Russian Private Military Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160424'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: ЧВК Конвой
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160423'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -16,6 +16,20 @@ subject_type:
 name_aliases:
 - first_name: Antonio
   middle_name: José
+  last_name: MENESES RODRÍGUEZT
+  whole_name: Antonio José MENESES RODRÍGUEZT
+  gender: M
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '172398'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-10'
+    number_title: 2025/44 (OJ L10012025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
+- first_name: Antonio
+  middle_name: José
   last_name: MENESES  RODRÍGUEZ
   whole_name: Antonio José MENESES  RODRÍGUEZ
   function: Secretary-General of the National Electoral Council of Venezuela (CNE)
@@ -24,20 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172399'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-10'
-    number_title: 2025/44 (OJ L10012025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
-- first_name: Antonio
-  middle_name: José
-  last_name: MENESES RODRÍGUEZT
-  whole_name: Antonio José MENESES RODRÍGUEZT
-  gender: M
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '172398'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-10'

@@ -15,11 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: G-9
+- whole_name: G9 Fanmi e Alye
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176987'
+  logical_id: '176985'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2025-07-08'
@@ -35,51 +35,11 @@ name_aliases:
     publication_date: '2025-07-08'
     number_title: UNLI Haiti 9.07.2025
     publication_url: https://press.un.org/en/2025/sc16113.doc.htm
-- whole_name: G9 Fanmi e Alye
+- whole_name: G-9
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176985'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2025-07-08'
-    number_title: UNLI Haiti 9.07.2025
-    publication_url: https://press.un.org/en/2025/sc16113.doc.htm
-- whole_name: The Revolutionary Forces of the G9 Family and Allies
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176984'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2025-07-08'
-    number_title: UNLI Haiti 9.07.2025
-    publication_url: https://press.un.org/en/2025/sc16113.doc.htm
-- whole_name: Fòs Revolisyonè G9 an Fanmi e Alye
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176983'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2025-07-08'
-    number_title: UNLI Haiti 9.07.2025
-    publication_url: https://press.un.org/en/2025/sc16113.doc.htm
-- whole_name: G-Pèp
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176982'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2025-07-08'
-    number_title: UNLI Haiti 9.07.2025
-    publication_url: https://press.un.org/en/2025/sc16113.doc.htm
-- whole_name: VIV ANSANM
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176989'
+  logical_id: '176987'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2025-07-08'
@@ -95,11 +55,51 @@ name_aliases:
     publication_date: '2025-07-08'
     number_title: UNLI Haiti 9.07.2025
     publication_url: https://press.un.org/en/2025/sc16113.doc.htm
+- whole_name: VIV ANSANM
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176989'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2025-07-08'
+    number_title: UNLI Haiti 9.07.2025
+    publication_url: https://press.un.org/en/2025/sc16113.doc.htm
 - whole_name: G-People
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '176981'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2025-07-08'
+    number_title: UNLI Haiti 9.07.2025
+    publication_url: https://press.un.org/en/2025/sc16113.doc.htm
+- whole_name: G-Pèp
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176982'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2025-07-08'
+    number_title: UNLI Haiti 9.07.2025
+    publication_url: https://press.un.org/en/2025/sc16113.doc.htm
+- whole_name: Fòs Revolisyonè G9 an Fanmi e Alye
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176983'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2025-07-08'
+    number_title: UNLI Haiti 9.07.2025
+    publication_url: https://press.un.org/en/2025/sc16113.doc.htm
+- whole_name: The Revolutionary Forces of the G9 Family and Allies
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176984'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2025-07-08'

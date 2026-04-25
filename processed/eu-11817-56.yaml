@@ -14,6 +14,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Aleksandr
+  middle_name: Ivanovich
+  last_name: MOROZ
+  whole_name: Aleksandr Ivanovich MOROZ
+  function: General director of the Belarusian Optical-Mechanical Association "BelOMO"
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167056'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Александр
   middle_name: Иванович
   last_name: МОРОЗ
@@ -41,21 +56,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- first_name: Aleksandr
-  middle_name: Ivanovich
-  last_name: MOROZ
-  whole_name: Aleksandr Ivanovich MOROZ
-  function: General director of the Belarusian Optical-Mechanical Association "BelOMO"
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167056'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS
@@ -98,21 +98,21 @@ addresses:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 identifications:
-- identification_type_code: fiscalcode
-  number: IDI3858983
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '167053'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - identification_type_code: id
   number: 3150675A015PB3
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '167054'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- identification_type_code: fiscalcode
+  number: IDI3858983
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '167053'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

@@ -17,6 +17,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Aminullah Amin Quddus
+  function: Governor of Saripul Province (Afghanistan) under the Taliban regime.
+  title: Maulavi
+  strong: true
+  regulation_language: en
+  logical_id: '15998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - first_name: Muhammad
   last_name: Yusuf
   whole_name: Muhammad Yusuf
@@ -34,17 +45,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '101712'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- whole_name: Aminullah Amin Quddus
-  function: Governor of Saripul Province (Afghanistan) under the Taliban regime.
-  title: Maulavi
-  strong: true
-  regulation_language: en
-  logical_id: '15998'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

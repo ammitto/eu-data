@@ -15,6 +15,19 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ali Asghar
+  last_name: NOROUZI
+  whole_name: Ali Asghar NOROUZI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152988'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/846 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
+- first_name: Ali Asghar
   last_name: NOUROUZI
   whole_name: Ali Asghar NOUROUZI
   function: chairman of the board of directors of the Islamic Revolutionary Guard
@@ -24,19 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152989'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/846 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0846
-- first_name: Ali Asghar
-  last_name: NOROUZI
-  whole_name: Ali Asghar NOROUZI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152988'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

@@ -14,12 +14,36 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abdurrahim
-  last_name: Bashir
-  whole_name: Abdurrahim Bashir
+- first_name: Abdul
+  middle_name: Rahim
+  last_name: Ba’aysir
+  whole_name: Abdul Rahim Ba’aysir
   strong: true
   regulation_language: en
-  logical_id: '14014'
+  logical_id: '14009'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-07-30'
+    number_title: 748/2011 (OJ L198)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
+- first_name: Abdul
+  middle_name: Rahim
+  last_name: Bashir
+  whole_name: Abdul Rahim Bashir
+  strong: true
+  regulation_language: en
+  logical_id: '14010'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-07-30'
+    number_title: 748/2011 (OJ L198)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
+- first_name: Abdurrahman
+  last_name: Bashir
+  whole_name: Abdurrahman Bashir
+  strong: true
+  regulation_language: en
+  logical_id: '14024'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-07-30'
@@ -42,41 +66,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14022'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-07-30'
-    number_title: 748/2011 (OJ L198)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
-- first_name: Abdurrochim
-  last_name: Ba’asyir
-  whole_name: Abdurrochim Ba’asyir
-  strong: true
-  regulation_language: en
-  logical_id: '14021'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-07-30'
-    number_title: 748/2011 (OJ L198)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
-- first_name: Abdul
-  middle_name: Rahim
-  last_name: Ba’aysir
-  whole_name: Abdul Rahim Ba’aysir
-  strong: true
-  regulation_language: en
-  logical_id: '14009'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-07-30'
-    number_title: 748/2011 (OJ L198)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
-- first_name: Abdul
-  middle_name: Rahim
-  last_name: Bashir
-  whole_name: Abdul Rahim Bashir
-  strong: true
-  regulation_language: en
-  logical_id: '14010'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-07-30'
@@ -117,12 +106,12 @@ name_aliases:
     publication_date: '2011-07-30'
     number_title: 748/2011 (OJ L198)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
-- first_name: Abdurrahman
+- first_name: Abdurrahim
   last_name: Bashir
-  whole_name: Abdurrahman Bashir
+  whole_name: Abdurrahim Bashir
   strong: true
   regulation_language: en
-  logical_id: '14024'
+  logical_id: '14014'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-07-30'
@@ -193,6 +182,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14020'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-07-30'
+    number_title: 748/2011 (OJ L198)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
+- first_name: Abdurrochim
+  last_name: Ba’asyir
+  whole_name: Abdurrochim Ba’asyir
+  strong: true
+  regulation_language: en
+  logical_id: '14021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-07-30'

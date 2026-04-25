@@ -14,16 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Viktar
-  middle_name: Piatrovich
-  last_name: LUTTSAU
-  whole_name: Viktar Piatrovich LUTTSAU
-  function: Head of the medical unit of Prison No. 1 in Grodno
+- first_name: Віктар
+  middle_name: Пятровіч
+  last_name: ЛУТЦАЎ
+  whole_name: Віктар Пятровіч ЛУТЦАЎ
   gender: M
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '170932'
+  logical_id: '170930'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -43,29 +42,16 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Віктар
-  middle_name: Пятровіч
-  last_name: ЛУТЦАЎ
-  whole_name: Віктар Пятровіч ЛУТЦАЎ
+- first_name: Viktar
+  middle_name: Piatrovich
+  last_name: LUTTSAU
+  whole_name: Viktar Piatrovich LUTTSAU
+  function: Head of the medical unit of Prison No. 1 in Grodno
   gender: M
-  name_language: BE
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '170930'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Виктор
-  middle_name: Петрович
-  last_name: ЛУТЦЕВ
-  whole_name: Виктор Петрович ЛУТЦЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '170929'
+  logical_id: '170932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -92,6 +78,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172238'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Виктор
+  middle_name: Петрович
+  last_name: ЛУТЦЕВ
+  whole_name: Виктор Петрович ЛУТЦЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '170929'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

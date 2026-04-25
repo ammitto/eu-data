@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»Yuzhny Flot« Korlátolt Felelősségű Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173380'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: South Fleet Kft.
   name_language: HU
   strong: true
@@ -39,6 +29,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '173379'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»Yuzhny Flot« Korlátolt Felelősségű Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173380'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -74,11 +74,16 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: LLC Yuzhny Flot
+- whole_name: Limited Liability Company Yuzhny Flot
+  function: LLC Yuzhny Flot (South Fleet) is a company managed by SKF Arktika, a company
+    belonging to the Sovcomflot group. LLC Yuzhny Flot carryies out transportation
+    of crude oil and oil products by sea, including for export purposes, by managing
+    numerous tankers involved in such export.
+  title: 'Type of entity: Limited Liability Company'
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172804'
+  logical_id: '172806'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -94,16 +99,11 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Limited Liability Company Yuzhny Flot
-  function: LLC Yuzhny Flot (South Fleet) is a company managed by SKF Arktika, a company
-    belonging to the Sovcomflot group. LLC Yuzhny Flot carryies out transportation
-    of crude oil and oil products by sea, including for export purposes, by managing
-    numerous tankers involved in such export.
-  title: 'Type of entity: Limited Liability Company'
+- whole_name: LLC Yuzhny Flot
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '172806'
+  logical_id: '172804'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

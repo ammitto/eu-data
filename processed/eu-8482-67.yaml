@@ -14,29 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Marija
-  middle_name: Aleksejevna
-  last_name: LVOVA-BELOVA
-  whole_name: Marija Aleksejevna LVOVA-BELOVA
+- first_name: Maria
+  middle_name: Alexejevna
+  last_name: Lvova-Belová
+  whole_name: Maria Alexejevna Lvova-Belová
   gender: F
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '142383'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Мария
-  middle_name: Алексеевна
-  last_name: ЛЬВОВА-БЕЛОВА
-  whole_name: Мария Алексеевна ЛЬВОВА-БЕЛОВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '141847'
+  logical_id: '152315'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -57,15 +43,29 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Maria
-  middle_name: Alexejevna
-  last_name: Lvova-Belová
-  whole_name: Maria Alexejevna Lvova-Belová
+- first_name: Мария
+  middle_name: Алексеевна
+  last_name: ЛЬВОВА-БЕЛОВА
+  whole_name: Мария Алексеевна ЛЬВОВА-БЕЛОВА
   gender: F
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '152315'
+  logical_id: '141847'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Marija
+  middle_name: Aleksejevna
+  last_name: LVOVA-BELOVA
+  whole_name: Marija Aleksejevna LVOVA-BELOVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '142383'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

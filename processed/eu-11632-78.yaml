@@ -14,14 +14,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Arťom
-  last_name: Marčevskij
-  whole_name: Arťom Marčevskij
+- first_name: Artem
+  middle_name: Pavlovich
+  last_name: MARCHEVSKIJ
+  whole_name: Artem Pavlovich MARCHEVSKIJ
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '166001'
+  logical_id: '165984'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1493 (OJ L27052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401493
+- first_name: Артьом
+  last_name: Марчевский
+  whole_name: Артьом Марчевский
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '165999'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -41,14 +55,14 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1493 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401493
-- first_name: Артьом
-  last_name: Марчевский
-  whole_name: Артьом Марчевский
+- first_name: Arťom
+  last_name: Marčevskij
+  whole_name: Arťom Marčevskij
   gender: M
-  name_language: BG
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '165999'
+  logical_id: '166001'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -69,20 +83,6 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1493 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401493
-- first_name: Артем
-  middle_name: Павлович
-  last_name: МАРЧЕВСЬКИ
-  whole_name: Артем Павлович МАРЧЕВСЬКИ
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '165982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1493 (OJ L27052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401493
 - first_name: Artěm
   middle_name: Pavlovič
   last_name: MARČEVSKIJ
@@ -97,15 +97,15 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1493 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401493
-- first_name: Artem
-  middle_name: Pavlovich
-  last_name: MARCHEVSKIJ
-  whole_name: Artem Pavlovich MARCHEVSKIJ
+- first_name: Артем
+  middle_name: Павлович
+  last_name: МАРЧЕВСЬКИ
+  whole_name: Артем Павлович МАРЧЕВСЬКИ
   gender: M
-  name_language: EN
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '165984'
+  logical_id: '165982'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

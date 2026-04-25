@@ -14,51 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Artěm
-  middle_name: Pavlovič
-  last_name: MARČEVSKIJ
-  whole_name: Artěm Pavlovič MARČEVSKIJ
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175695'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - first_name: Artem
   middle_name: Pavlovich
-  last_name: MARCHEVSKIY
-  whole_name: Artem Pavlovich MARCHEVSKIY
+  last_name: MARCHEVSKYI
+  whole_name: Artem Pavlovich MARCHEVSKYI
+  function: Politician, media producer, propagandist
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175696'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Артем Павлович МАРЧЕВСЬКИЙ
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '175694'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Артем Павлович МАРЧЕВСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175693'
+  logical_id: '175698'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -80,33 +45,68 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - first_name: Artem
   middle_name: Pavlovich
-  last_name: MARCHEVSKYI
-  whole_name: Artem Pavlovich MARCHEVSKYI
-  function: Politician, media producer, propagandist
+  last_name: MARCHEVSKIY
+  whole_name: Artem Pavlovich MARCHEVSKIY
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175698'
+  logical_id: '175696'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- first_name: Artěm
+  middle_name: Pavlovič
+  last_name: MARČEVSKIJ
+  whole_name: Artěm Pavlovič MARČEVSKIJ
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175695'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Артем Павлович МАРЧЕВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175693'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Артем Павлович МАРЧЕВСЬКИЙ
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '175694'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 citizenships:
-- country_iso2_code: IL
-  country_description: ISRAEL
+- country_iso2_code: UA
+  country_description: UKRAINE
   regulation_language: en
-  logical_id: '175690'
+  logical_id: '175691'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- country_iso2_code: UA
-  country_description: UKRAINE
+- country_iso2_code: IL
+  country_description: ISRAEL
   regulation_language: en
-  logical_id: '175691'
+  logical_id: '175690'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

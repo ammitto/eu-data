@@ -28,15 +28,29 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Лидия
-  middle_name: Михайловна
-  last_name: СУЛЬТЕЕВА
-  whole_name: Лидия Михайловна СУЛЬТЕЕВА
+- first_name: Lidija
+  middle_name: Michajlovna
+  last_name: Sultějeva
+  whole_name: Lidija Michajlovna Sultějeva
   gender: F
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '159858'
+  logical_id: '160917'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Lidia
+  middle_name: Michajlovna
+  last_name: Sultejeva
+  whole_name: Lidia Michajlovna Sultejeva
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160918'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -57,29 +71,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Lidia
-  middle_name: Michajlovna
-  last_name: Sultejeva
-  whole_name: Lidia Michajlovna Sultejeva
+- first_name: Лидия
+  middle_name: Михайловна
+  last_name: СУЛЬТЕЕВА
+  whole_name: Лидия Михайловна СУЛЬТЕЕВА
   gender: F
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160918'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Lidija
-  middle_name: Michajlovna
-  last_name: Sultějeva
-  whole_name: Lidija Michajlovna Sultějeva
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160917'
+  logical_id: '159858'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

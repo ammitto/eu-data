@@ -17,6 +17,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Abdul Haq
+  last_name: Wasiq
+  whole_name: Abdul Haq Wasiq
+  strong: true
+  regulation_language: en
+  logical_id: '18297'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-08'
+    number_title: 1057/2014 (OJ L293)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
 - first_name: Abdul-Haq
   last_name: Wassiq
   whole_name: Abdul-Haq Wassiq
@@ -41,17 +52,6 @@ name_aliases:
     publication_date: '2011-08-02'
     number_title: 753/2011 (OJ L199)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
-- first_name: Abdul Haq
-  last_name: Wasiq
-  whole_name: Abdul Haq Wasiq
-  strong: true
-  regulation_language: en
-  logical_id: '18297'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-08'
-    number_title: 1057/2014 (OJ L293)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_293_R_0001&from=EN
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -63,19 +63,6 @@ citizenships:
     number_title: 753/2011 (OJ L199)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1971
-  city: Gharib village, Khogyani District, Ghazni province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '1844'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-03-15'
-    number_title: 263/2014 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0263&from=EN
 - circa: true
   calendar_type: GREGORIAN
   year: 1975
@@ -84,6 +71,19 @@ birthdates:
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '1013'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-03-15'
+    number_title: 263/2014 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0263&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1971
+  city: Gharib village, Khogyani District, Ghazni province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '1844'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-03-15'

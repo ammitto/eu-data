@@ -41,7 +41,44 @@ name_aliases:
   gender: F
   strong: true
   regulation_language: en
-  logical_id: '116710'
+  logical_id: '116707'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-03-13'
+    number_title: 2020/398 (OJ L78)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
+- whole_name: Інна Миколаївна ГУЗЄЄВА
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '116708'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-03-13'
+    number_title: 2020/398 (OJ L78)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
+- first_name: Inna
+  middle_name: Mykolayivna
+  last_name: HUZIEIEVA
+  whole_name: Inna Mykolayivna HUZIEIEVA
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '116709'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-03-13'
+    number_title: 2020/398 (OJ L78)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
+- first_name: Inna
+  middle_name: Nikolayevna
+  last_name: GUZEYEVA
+  whole_name: Inna Nikolayevna GUZEYEVA
+  function: Deputy Chair of the Crimea Electoral Commission.
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '116706'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'
@@ -67,44 +104,7 @@ name_aliases:
   gender: F
   strong: true
   regulation_language: en
-  logical_id: '116707'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-03-13'
-    number_title: 2020/398 (OJ L78)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
-- first_name: Inna
-  middle_name: Mykolayivna
-  last_name: HUZIEIEVA
-  whole_name: Inna Mykolayivna HUZIEIEVA
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '116709'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-03-13'
-    number_title: 2020/398 (OJ L78)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
-- whole_name: Інна Миколаївна ГУЗЄЄВА
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '116708'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-03-13'
-    number_title: 2020/398 (OJ L78)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
-- first_name: Inna
-  middle_name: Nikolayevna
-  last_name: GUZEYEVA
-  whole_name: Inna Nikolayevna GUZEYEVA
-  function: Deputy Chair of the Crimea Electoral Commission.
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '116706'
+  logical_id: '116710'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'

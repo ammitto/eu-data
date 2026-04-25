@@ -16,24 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Haji Loi Lala
-  strong: true
-  regulation_language: en
-  logical_id: '103970'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2011-08-02'
-    number_title: 753/2011 (OJ L199)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
-- whole_name: Loi Agha
-  strong: true
-  regulation_language: en
-  logical_id: '103971'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2011-08-02'
-    number_title: 753/2011 (OJ L199)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
 - whole_name: Agha Jan Alizai
   strong: true
   regulation_language: en
@@ -90,6 +72,24 @@ name_aliases:
     publication_date: '2011-08-02'
     number_title: 753/2011 (OJ L199)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
+- whole_name: Haji Loi Lala
+  strong: true
+  regulation_language: en
+  logical_id: '103970'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2011-08-02'
+    number_title: 753/2011 (OJ L199)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
+- whole_name: Loi Agha
+  strong: true
+  regulation_language: en
+  logical_id: '103971'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2011-08-02'
+    number_title: 753/2011 (OJ L199)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -101,6 +101,30 @@ citizenships:
     number_title: 753/2011 (OJ L199)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
 birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1967
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '103963'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2011-08-02'
+    number_title: 753/2011 (OJ L199)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1957
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '1307'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2011-08-02'
+    number_title: 753/2011 (OJ L199)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
   city: Kandahar
@@ -128,32 +152,6 @@ birthdates:
     publication_date: '2011-08-02'
     number_title: 753/2011 (OJ L199)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
-- circa: true
-  calendar_type: GREGORIAN
-  city: Yatimchai village
-  region: Helmand Province
-  place: Musa Qala District
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '111140'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1957
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '1307'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2011-08-02'
-    number_title: 753/2011 (OJ L199)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
 - birthdate: '1963-10-15'
   circa: false
   calendar_type: GREGORIAN
@@ -169,15 +167,17 @@ birthdates:
     publication_date: '2011-08-02'
     number_title: 753/2011 (OJ L199)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
-- circa: false
+- circa: true
   calendar_type: GREGORIAN
-  year: 1967
-  country_iso2_code: '00'
-  country_description: UNKNOWN
+  city: Yatimchai village
+  region: Helmand Province
+  place: Musa Qala District
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '103963'
+  logical_id: '111140'
   regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2011-08-02'
-    number_title: 753/2011 (OJ L199)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN

@@ -16,55 +16,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Maalim Selman Ali
-  strong: true
-  regulation_language: en
-  logical_id: '18312'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-20'
-    number_title: 1104/2014 (OJ L301)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0003&from=EN
-- whole_name: Ma'alim Selman
-  strong: true
-  regulation_language: en
-  logical_id: '18313'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-20'
-    number_title: 1104/2014 (OJ L301)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0003&from=EN
-- whole_name: Ma'alin Sulayman
-  strong: true
-  regulation_language: en
-  logical_id: '18314'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-20'
-    number_title: 1104/2014 (OJ L301)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0003&from=EN
 - whole_name: Maalim Salman
   strong: true
   regulation_language: en
   logical_id: '18306'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-20'
-    number_title: 1104/2014 (OJ L301)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0003&from=EN
-- whole_name: Ma'alim Suleiman
-  strong: true
-  regulation_language: en
-  logical_id: '18310'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-10-20'
-    number_title: 1104/2014 (OJ L301)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0003&from=EN
-- whole_name: Maalim Salman Ali
-  strong: true
-  regulation_language: en
-  logical_id: '18311'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-20'
@@ -92,6 +47,51 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18309'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-20'
+    number_title: 1104/2014 (OJ L301)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0003&from=EN
+- whole_name: Ma'alim Suleiman
+  strong: true
+  regulation_language: en
+  logical_id: '18310'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-20'
+    number_title: 1104/2014 (OJ L301)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0003&from=EN
+- whole_name: Maalim Salman Ali
+  strong: true
+  regulation_language: en
+  logical_id: '18311'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-20'
+    number_title: 1104/2014 (OJ L301)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0003&from=EN
+- whole_name: Ma'alin Sulayman
+  strong: true
+  regulation_language: en
+  logical_id: '18314'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-20'
+    number_title: 1104/2014 (OJ L301)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0003&from=EN
+- whole_name: Maalim Selman Ali
+  strong: true
+  regulation_language: en
+  logical_id: '18312'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-10-20'
+    number_title: 1104/2014 (OJ L301)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0003&from=EN
+- whole_name: Ma'alim Selman
+  strong: true
+  regulation_language: en
+  logical_id: '18313'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-20'

@@ -45,16 +45,6 @@ name_aliases:
     publication_date: '2024-01-22'
     number_title: 2024/384 (OJ L22012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
-- whole_name: Military Industrial Corporation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '161737'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-22'
-    number_title: 2024/384 (OJ L22012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
 - whole_name: Military Industry Corporation
   name_language: EN
   strong: true
@@ -70,6 +60,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '161639'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-22'
+    number_title: 2024/384 (OJ L22012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400384
+- whole_name: Military Industrial Corporation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161737'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-22'

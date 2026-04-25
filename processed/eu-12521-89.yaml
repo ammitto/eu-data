@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vishan Nochaevic
-  last_name: MIZAYEV
-  whole_name: Vishan Nochaevic MIZAYEV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171247'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3188 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
 - first_name: Visa Nokhayevich
   last_name: MIZAEV
   whole_name: Visa Nokhayevich MIZAEV
@@ -41,27 +28,14 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3188 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
-- first_name: Виса Нохаевич
-  last_name: МИЗАЕВ
-  whole_name: Виса Нохаевич МИЗАЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171248'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3188 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
-- first_name: Vysa Nokhaevich
-  last_name: MIZAEV
-  whole_name: Vysa Nokhaevich MIZAEV
+- first_name: Oleg
+  last_name: SHISHKIN
+  whole_name: Oleg SHISHKIN
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '171246'
+  logical_id: '171244'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -80,14 +54,40 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3188 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
-- first_name: Oleg
-  last_name: SHISHKIN
-  whole_name: Oleg SHISHKIN
+- first_name: Vysa Nokhaevich
+  last_name: MIZAEV
+  whole_name: Vysa Nokhaevich MIZAEV
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '171244'
+  logical_id: '171246'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3188 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
+- first_name: Vishan Nochaevic
+  last_name: MIZAYEV
+  whole_name: Vishan Nochaevic MIZAYEV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171247'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3188 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403188
+- first_name: Виса Нохаевич
+  last_name: МИЗАЕВ
+  whole_name: Виса Нохаевич МИЗАЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171248'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

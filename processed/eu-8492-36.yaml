@@ -29,20 +29,20 @@ name_aliases:
     publication_date: '2022-07-21'
     number_title: 2022/1270 (OJ L193)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Сергей Семёнович СОБЯНИН
-  strong: true
-  regulation_language: en
-  logical_id: '141906'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Sergej  Semjonovitj SOBJANIN
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '142354'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Сергей Семёнович СОБЯНИН
+  strong: true
+  regulation_language: en
+  logical_id: '141906'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

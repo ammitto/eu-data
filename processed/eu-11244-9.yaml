@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedad anónima abierta Krasnoe Znamya
-  name_language: ES
+- whole_name: Cuideachta Comhstoic Oscailte
+  name_language: GL
   strong: true
   regulation_language: en
-  logical_id: '163891'
+  logical_id: '164022'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -29,6 +29,76 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163639'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: sociedad anónima abierta Krasnoe Znamya
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '163891'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: publikt aktiebolag
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '164019'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: otvorená akciová spoločnosť
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '164016'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Отворено акционерно дружество
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '164018'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: otwarta spółka akcyjna
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '164017'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Nyilvánosan Működő Részvénytársaság
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '164020'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: "„Krasnoe Znamya” Üzem Nyrt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '164021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -59,76 +129,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162649'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Nyilvánosan Működő Részvénytársaság
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '164020'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Cuideachta Comhstoic Oscailte
-  name_language: GL
-  strong: true
-  regulation_language: en
-  logical_id: '164022'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: otvorená akciová spoločnosť
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164016'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: otwarta spółka akcyjna
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '164017'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Отворено акционерно дружество
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '164018'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: publikt aktiebolag
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '164019'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: "„Krasnoe Znamya” Üzem Nyrt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '164021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

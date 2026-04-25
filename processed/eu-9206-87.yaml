@@ -14,91 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Iraani Islamivabariigi ringhääling
-  name_language: ET
+- whole_name: Az Iráni Iszlám Köztársaság Műsorszolgáltatási Hatósága
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '147552'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2428 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Státní vysílání Íránské islámské republiky
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '147553'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2428 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Sociedad de Radiodifusión de la República Islámica de Irán
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '147554'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2428 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Radio Televisione della Repubblica islamica dell'Iran
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '147555'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2428 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Radiotelevizija Islamske Republike Irana
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '147556'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2428 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Radio-télévision de la République islamique d’Iran
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '147557'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2428 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Radiotelevizija Islamske republike Iran
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '147558'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2428 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Vysielacia spoločnosť Iránskej islamskej republiky
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '147559'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2428 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Societatea de Radiodifuziune și Televiziune a Republicii Islamice Iran
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '147560'
+  logical_id: '147562'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -114,11 +34,91 @@ name_aliases:
     publication_date: '2022-12-12'
     number_title: 2022/2428 (OJ L318I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Az Iráni Iszlám Köztársaság Műsorszolgáltatási Hatósága
-  name_language: HU
+- whole_name: Societatea de Radiodifuziune și Televiziune a Republicii Islamice Iran
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '147562'
+  logical_id: '147560'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2428 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: Vysielacia spoločnosť Iránskej islamskej republiky
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '147559'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2428 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: Radiotelevizija Islamske republike Iran
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '147558'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2428 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: Radio-télévision de la République islamique d’Iran
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '147557'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2428 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: Radiotelevizija Islamske Republike Irana
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '147556'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2428 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: Radio Televisione della Repubblica islamica dell'Iran
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '147555'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2428 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: Sociedad de Radiodifusión de la República Islámica de Irán
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '147554'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2428 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: Státní vysílání Íránské islámské republiky
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '147553'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2428 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: Iraani Islamivabariigi ringhääling
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '147552'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -129,16 +129,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147551'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2428 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: سازمان صدا و سيمای جمهوری اسلامی ايران
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '146481'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -157,6 +147,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2428 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: سازمان صدا و سيمای جمهوری اسلامی ايران
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '146481'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'

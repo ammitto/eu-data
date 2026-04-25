@@ -14,26 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Vologdský opticko-mechanický závod, a. s.
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '160984'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JSC “Vologda Optical and Mechanical Plant”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '160071'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: JSC VOMZ
   name_language: EN
   strong: true
@@ -54,11 +34,21 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО ВОМЗ
-  name_language: RU
+- whole_name: Vologdský opticko-mechanický závod, a. s.
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160068'
+  logical_id: '160984'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: VOMZ Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160985'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -69,6 +59,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160986'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: АО ВОМЗ
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160068'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JSC “Vologda Optical and Mechanical Plant”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '160071'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -104,16 +114,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: VOMZ Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160985'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 addresses:
 - street: Maltseva str., 54
   city: Vologda
@@ -128,11 +128,11 @@ addresses:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 identifications:
-- identification_type_code: regnumber
-  number: '1023500882437'
+- identification_type_code: fiscalcode
+  number: '3525023010'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '160067'
+  logical_id: '160066'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -148,11 +148,11 @@ identifications:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- identification_type_code: fiscalcode
-  number: '3525023010'
+- identification_type_code: regnumber
+  number: '1023500882437'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '160066'
+  logical_id: '160067'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

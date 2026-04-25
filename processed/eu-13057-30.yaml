@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Акционерно дружество „Ейрбург“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '175236'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: "»Airburg« Részvénytársaság"
   name_language: HU
   strong: true
@@ -24,11 +34,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Акционерно дружество „Ейрбург“
-  name_language: BG
+- whole_name: AO “Airburg”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175236'
+  logical_id: '175045'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC “Airburg”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175044'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -59,26 +79,6 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: AO “Airburg”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175045'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: JSC “Airburg”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175044'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
 - street: March 8 Street, St. 49
   city: City of Yekaterinburg, G Yekaterinburg
@@ -94,6 +94,16 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
+- identification_type_code: regnumber
+  number: '1216600040194'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175043'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '6671172432'
   country_iso2_code: RU
@@ -109,16 +119,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175041'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: regnumber
-  number: '1216600040194'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175043'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

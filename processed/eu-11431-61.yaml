@@ -44,20 +44,6 @@ name_aliases:
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Vsevolod
-  middle_name: Ľvovič
-  last_name: Vukolov
-  whole_name: Vsevolod Ľvovič Vukolov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164691'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Vsevolod
   middle_name: Lvovič
   last_name: Vukolov
   whole_name: Vsevolod Lvovič Vukolov
@@ -94,6 +80,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164650'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Vsevolod
+  middle_name: Ľvovič
+  last_name: Vukolov
+  whole_name: Vsevolod Ľvovič Vukolov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '164691'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

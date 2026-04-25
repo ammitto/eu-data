@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Галина
-  middle_name: Петровна
-  last_name: ХОВАНСКАЯ
-  whole_name: Галина Петровна ХОВАНСКАЯ
+- first_name: Galina
+  middle_name: Petrovna
+  last_name: KHOVANSKAYA
+  whole_name: Galina Petrovna KHOVANSKAYA
+  function: Member of the State Duma
   gender: F
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '134230'
+  logical_id: '134231'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -38,15 +38,15 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- first_name: Galina
-  middle_name: Petrovna
-  last_name: KHOVANSKAYA
-  whole_name: Galina Petrovna KHOVANSKAYA
-  function: Member of the State Duma
+- first_name: Галина
+  middle_name: Петровна
+  last_name: ХОВАНСКАЯ
+  whole_name: Галина Петровна ХОВАНСКАЯ
   gender: F
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '134231'
+  logical_id: '134230'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

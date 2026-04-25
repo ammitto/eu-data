@@ -14,15 +14,31 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oleg
-  middle_name: Vladimirovitš
-  last_name: Sevostjanov
-  whole_name: Oleg Vladimirovitš Sevostjanov
+- first_name: Олег
+  middle_name: Владимирович
+  last_name: СЕВОСТЬЯНОВ
+  whole_name: Олег Владимирович СЕВОСТЬЯНОВ
   gender: M
-  name_language: FI
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '164649'
+  logical_id: '164334'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Oleg
+  middle_name: Vladimirovich
+  last_name: SEVOSTYANOV
+  whole_name: Oleg Vladimirovich SEVOSTYANOV
+  function: Head of the Department of the Ministry of Justice of Russia for the Yamalo-Nenets
+    Autonomous Okrug
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '164335'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -42,15 +58,15 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Олег
-  middle_name: Владимирович
-  last_name: СЕВОСТЬЯНОВ
-  whole_name: Олег Владимирович СЕВОСТЬЯНОВ
+- first_name: Oleg
+  middle_name: Vladimirovitš
+  last_name: Sevostjanov
+  whole_name: Oleg Vladimirovitš Sevostjanov
   gender: M
-  name_language: RU
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '164334'
+  logical_id: '164649'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -65,22 +81,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164690'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Oleg
-  middle_name: Vladimirovich
-  last_name: SEVOSTYANOV
-  whole_name: Oleg Vladimirovich SEVOSTYANOV
-  function: Head of the Department of the Ministry of Justice of Russia for the Yamalo-Nenets
-    Autonomous Okrug
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '164335'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

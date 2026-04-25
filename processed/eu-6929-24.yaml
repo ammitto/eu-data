@@ -28,23 +28,23 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1249 (OJ L29042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401249
-- whole_name: Daw Nu Mya Zan
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '133448'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1249 (OJ L29042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401249
 - whole_name: Daw Nu Mara Zan
   gender: F
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '165240'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1249 (OJ L29042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401249
+- whole_name: Daw Nu Mya Zan
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '133448'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'

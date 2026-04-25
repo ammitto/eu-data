@@ -14,29 +14,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: اﻟﺤﺮاﺷﻲ
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '161438'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
 - whole_name: ﻋﺒﺪ اﻟﻌﺎﻟﻲ اﺑﻮ ذر
   name_language: AR
   strong: true
   regulation_language: en
   logical_id: '161439'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: Abdelali Abou Dher
-  strong: true
-  regulation_language: en
-  logical_id: '7886'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: El Harrachi
-  strong: true
-  regulation_language: en
-  logical_id: '7887'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
@@ -64,11 +56,19 @@ name_aliases:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: اﻟﺤﺮاﺷﻲ
-  name_language: AR
+- whole_name: Abdelali Abou Dher
   strong: true
   regulation_language: en
-  logical_id: '161438'
+  logical_id: '7886'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: El Harrachi
+  strong: true
+  regulation_language: en
+  logical_id: '7887'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'

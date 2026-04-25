@@ -16,17 +16,6 @@ subject_type:
 name_aliases:
 - whole_name: Vladimir Michejčik
   gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '163660'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Vladimir Michejčik
-  gender: M
   name_language: SK
   strong: true
   regulation_language: en
@@ -36,12 +25,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Владимир Владимирович МИХЕЙЧИК
+- whole_name: Vladimir Michejčik
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '162760'
+  logical_id: '163660'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -57,6 +46,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '162761'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Владимир Владимирович МИХЕЙЧИК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '162760'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

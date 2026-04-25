@@ -15,34 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Miroslav
-  middle_name: Vladimirovitj
-  last_name: RUDENKO
-  whole_name: Miroslav Vladimirovitj RUDENKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '137441'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Мирослав
-  middle_name: Владимирович
-  last_name: РУДЕНКО
-  whole_name: Мирослав Владимирович РУДЕНКО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '18134'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Miroslav
   middle_name: Vladimirovich
   last_name: RUDENKO
   whole_name: Miroslav Vladimirovich RUDENKO
@@ -59,15 +31,15 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Myroslav
-  middle_name: Volodymyrovytj
-  last_name: RUDENKO
-  whole_name: Myroslav Volodymyrovytj RUDENKO
+- first_name: Мирослав
+  middle_name: Владимирович
+  last_name: РУДЕНКО
+  whole_name: Мирослав Владимирович РУДЕНКО
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '137440'
+  logical_id: '18134'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -96,6 +68,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '111346'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Myroslav
+  middle_name: Volodymyrovytj
+  last_name: RUDENKO
+  whole_name: Myroslav Volodymyrovytj RUDENKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137440'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Miroslav
+  middle_name: Vladimirovitj
+  last_name: RUDENKO
+  whole_name: Miroslav Vladimirovitj RUDENKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '137441'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

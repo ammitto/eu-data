@@ -44,14 +44,13 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Andrej
-  middle_name: Jurjevitj
-  last_name: SJUTOV
-  whole_name: Andrej Jurjevitj SJUTOV
+  last_name: Šutov
+  whole_name: Andrej Šutov
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160663'
+  logical_id: '160886'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -71,13 +70,14 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Andrej
-  last_name: Šutov
-  whole_name: Andrej Šutov
+  middle_name: Jurjevitj
+  last_name: SJUTOV
+  whole_name: Andrej Jurjevitj SJUTOV
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160886'
+  logical_id: '160663'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

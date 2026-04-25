@@ -14,19 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Feliciano
-  middle_name: Semborio
-  last_name: Delos Reyes (jr)
-  whole_name: Feliciano Semborio Delos Reyes (jr)
-  title: Ustadz
-  strong: true
-  regulation_language: en
-  logical_id: '6521'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
 - whole_name: Abubakar Abdillah
   strong: true
   regulation_language: en
@@ -40,6 +27,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6523'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- first_name: Feliciano
+  middle_name: Semborio
+  last_name: Delos Reyes (jr)
+  whole_name: Feliciano Semborio Delos Reyes (jr)
+  title: Ustadz
+  strong: true
+  regulation_language: en
+  logical_id: '6521'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'

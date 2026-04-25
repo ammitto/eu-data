@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Olga
-  middle_name: Aleksandrovna
-  last_name: MAKEJEVA
-  whole_name: Olga Aleksandrovna MAKEJEVA
+- first_name: Ольга
+  middle_name: Александровна
+  last_name: МАКЕЕВА
+  whole_name: Ольга Александровна МАКЕЕВА
   gender: F
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '139413'
+  logical_id: '138422'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -42,20 +42,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Ольга
-  middle_name: Александровна
-  last_name: МАКЕЕВА
-  whole_name: Ольга Александровна МАКЕЕВА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '138422'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Olga
   middle_name: Alexandrovna
   last_name: MAKEEVA
@@ -68,6 +54,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138423'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Olga
+  middle_name: Aleksandrovna
+  last_name: MAKEJEVA
+  whole_name: Olga Aleksandrovna MAKEJEVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139413'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

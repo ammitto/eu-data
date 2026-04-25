@@ -67,16 +67,16 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1964
-  city: Mirmadaw village, Gereshk District, Helmand Province
+  city: Mirmandaw village, Nahr-e Saraj District, Helmand Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1913'
+  logical_id: '1912'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
   year: 1964
@@ -93,22 +93,33 @@ birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1964
-  city: Mirmandaw village, Nahr-e Saraj District, Helmand Province
+  city: Mirmadaw village, Gereshk District, Helmand Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1912'
+  logical_id: '1913'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+addresses:
+- street: Kachray Road
+  city: Pashtunabad, Quetta, Baluchistan Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '2293'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-addresses:
-- city: Chaman, Baluchistan Province
+- city: Nasrullah Khan Chowk, Pashtunabad Area, Baluchistan Province
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
-  logical_id: '2295'
+  logical_id: '2294'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
@@ -125,38 +136,17 @@ addresses:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- city: Nasrullah Khan Chowk, Pashtunabad Area, Baluchistan Province
+- city: Chaman, Baluchistan Province
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
-  logical_id: '2294'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Kachray Road
-  city: Pashtunabad, Quetta, Baluchistan Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '2293'
+  logical_id: '2295'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
 identifications:
-- identification_type_code: id
-  number: '585629'
-  country_iso2_code: AF
-  regulation_language: en
-  logical_id: '803'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
 - identification_type_code: id
   number: '5420250161699'
   country_iso2_code: PK
@@ -177,3 +167,13 @@ identifications:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- identification_type_code: id
+  number: '585629'
+  country_iso2_code: AF
+  regulation_language: en
+  logical_id: '803'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF

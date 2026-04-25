@@ -189,21 +189,21 @@ addresses:
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 identifications:
-- identification_type_code: id
-  number: '973406'
-  country_iso2_code: YE
-  regulation_language: en
-  logical_id: '174642'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 - identification_type_code: passport
   number: '00344994'
   country_iso2_code: YE
   regulation_language: en
   logical_id: '174643'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- identification_type_code: id
+  number: '973406'
+  country_iso2_code: YE
+  regulation_language: en
+  logical_id: '174642'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'

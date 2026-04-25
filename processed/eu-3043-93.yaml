@@ -108,23 +108,23 @@ name_aliases:
     number_title: 793/2014 (OJ L217)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:217:FULL&from=EN
 addresses:
-- street: Al Thawraa Street, P.O. Box 2330
-  city: Damascus
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
-  regulation_language: en
-  logical_id: '2604'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-07-22'
-    number_title: 793/2014 (OJ L217)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:217:FULL&from=EN
 - street: Al-Hameh, Damascus Countryside, P.O. Box 2230
   city: Damascus
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '2605'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-07-22'
+    number_title: 793/2014 (OJ L217)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:217:FULL&from=EN
+- street: Al Thawraa Street, P.O. Box 2330
+  city: Damascus
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '2604'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-07-22'

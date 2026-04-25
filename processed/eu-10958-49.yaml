@@ -34,46 +34,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: S.A. BUREAU SPÉCIAL D’ÉTUDES D’INGÉNIERIE MÉCANIQUE DES TRANSPORTS
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '160561'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: sociedad anónima Special Design Bureau of Transport Mechanical Engineering
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '160697'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: Spetsmash Rt.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160942'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: JÁRMŰGÉPÉSZETI SZAKOSÍTOTT TERVEZŐIRODA RT.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '160943'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: СПЕЦИАЛЬНОЕ КОНСТРУКТОРСКОЕ БЮРО ТРАНСПОРТНОГО МАШИНОСТРОЕНИЯ
   name_language: RU
   strong: true
@@ -99,6 +59,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160941'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: sociedad anónima Special Design Bureau of Transport Mechanical Engineering
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '160697'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: JÁRMŰGÉPÉSZETI SZAKOSÍTOTT TERVEZŐIRODA RT.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160943'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: Spetsmash Rt.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '160942'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: S.A. BUREAU SPÉCIAL D’ÉTUDES D’INGÉNIERIE MÉCANIQUE DES TRANSPORTS
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '160561'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

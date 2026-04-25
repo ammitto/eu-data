@@ -55,11 +55,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Ya Mahdi AG Industrial Research Complex
-  name_language: EN
+- whole_name: Grupo de Industrias Ya Mahdi
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '158937'
+  logical_id: '161982'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -85,11 +85,11 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Grupo de Industrias Ya Mahdi
-  name_language: ES
+- whole_name: گروه صنایع موشکی یا مهدی عج
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '161982'
+  logical_id: '158940'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -105,28 +105,17 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: گروه صنایع موشکی یا مهدی عج
-  name_language: FA
+- whole_name: Ya Mahdi AG Industrial Research Complex
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158940'
+  logical_id: '158937'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 addresses:
-- street: Khorasan Road, Lavizan, Parchin
-  city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '158944'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
@@ -153,6 +142,17 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '162218'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- street: Khorasan Road, Lavizan, Parchin
+  city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '158944'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

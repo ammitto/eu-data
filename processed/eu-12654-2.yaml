@@ -16,20 +16,6 @@ subject_type:
 name_aliases:
 - first_name: Inocencio
   middle_name: Antonio
-  last_name: FIGUEROA ARIZALETAN
-  whole_name: Inocencio Antonio FIGUEROA ARIZALETAN
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '172380'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-10'
-    number_title: 2025/44 (OJ L10012025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
-- first_name: Inocencio
-  middle_name: Antonio
   last_name: FIGUEROA ARIZALETA
   whole_name: Inocencio Antonio FIGUEROA ARIZALETA
   function: Judge at the Constitutional Chamber of the Supreme Court of Justice of
@@ -46,13 +32,13 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
 - first_name: Inocencio
   middle_name: Antonio
-  last_name: FIGUEROA ARIZALETA
-  whole_name: Inocencio Antonio FIGUEROA ARIZALETA
+  last_name: FIGUEROA ARIZALETAN
+  whole_name: Inocencio Antonio FIGUEROA ARIZALETAN
   gender: M
-  name_language: CS
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '172381'
+  logical_id: '172380'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-10'
@@ -67,6 +53,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172379'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-10'
+    number_title: 2025/44 (OJ L10012025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
+- first_name: Inocencio
+  middle_name: Antonio
+  last_name: FIGUEROA ARIZALETA
+  whole_name: Inocencio Antonio FIGUEROA ARIZALETA
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '172381'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-10'

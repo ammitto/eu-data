@@ -14,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrey
-  middle_name: Leonidovich
-  last_name: SIGUTA
-  whole_name: Andrey Leonidovich SIGUTA
-  function: Russian-appointed acting head of the military-civilian administration
-    of the Melitopol district
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146938'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Андрій
   middle_name: Леонідович
   last_name: СІГУТА
@@ -52,6 +37,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146936'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Andrey
+  middle_name: Leonidovich
+  last_name: SIGUTA
+  whole_name: Andrey Leonidovich SIGUTA
+  function: Russian-appointed acting head of the military-civilian administration
+    of the Melitopol district
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146938'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

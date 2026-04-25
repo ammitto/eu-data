@@ -16,43 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: محمد علي الحبو
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '130856'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-22'
-    number_title: 2021/1016 (OJ L222I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
-- whole_name: Habu
-  strong: true
-  regulation_language: en
-  logical_id: '130857'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-22'
-    number_title: 2021/1016 (OJ L222I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
-- whole_name: Mohammad Ali Al Habbo
-  strong: true
-  regulation_language: en
-  logical_id: '130865'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-22'
-    number_title: 2021/1016 (OJ L222I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
-- whole_name: Mohamad Abdulkarim
-  strong: true
-  regulation_language: en
-  logical_id: '130864'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-22'
-    number_title: 2021/1016 (OJ L222I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
 - whole_name: Muhammad Abd-al-Karim
   strong: true
   regulation_language: en
@@ -62,10 +25,10 @@ name_aliases:
     publication_date: '2021-06-22'
     number_title: 2021/1016 (OJ L222I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
-- whole_name: Al-Hebo
+- whole_name: Alhobo
   strong: true
   regulation_language: en
-  logical_id: '130862'
+  logical_id: '130860'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-22'
@@ -80,10 +43,10 @@ name_aliases:
     publication_date: '2021-06-22'
     number_title: 2021/1016 (OJ L222I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
-- whole_name: Alhobo
+- whole_name: Al-Hebo
   strong: true
   regulation_language: en
-  logical_id: '130860'
+  logical_id: '130862'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-22'
@@ -107,6 +70,43 @@ name_aliases:
     publication_date: '2021-06-22'
     number_title: 2021/1016 (OJ L222I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
+- whole_name: Habu
+  strong: true
+  regulation_language: en
+  logical_id: '130857'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-22'
+    number_title: 2021/1016 (OJ L222I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
+- whole_name: محمد علي الحبو
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '130856'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-22'
+    number_title: 2021/1016 (OJ L222I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
+- whole_name: Mohamad Abdulkarim
+  strong: true
+  regulation_language: en
+  logical_id: '130864'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-22'
+    number_title: 2021/1016 (OJ L222I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
+- whole_name: Mohammad Ali Al Habbo
+  strong: true
+  regulation_language: en
+  logical_id: '130865'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-22'
+    number_title: 2021/1016 (OJ L222I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
 citizenships:
 - country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
@@ -118,17 +118,17 @@ citizenships:
     number_title: 2021/1016 (OJ L222I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
 birthdates:
-- birthdate: '1983-03-15'
+- birthdate: '1983-10-01'
   circa: false
   calendar_type: GREGORIAN
-  day_of_month: 15
-  month_of_year: 3
+  day_of_month: 1
+  month_of_year: 10
   year: 1983
   city: Raqqa
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '130849'
+  logical_id: '130850'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-22'
@@ -150,38 +150,38 @@ birthdates:
     publication_date: '2021-06-22'
     number_title: 2021/1016 (OJ L222I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
-- birthdate: '1983-10-01'
+- birthdate: '1983-03-15'
   circa: false
   calendar_type: GREGORIAN
-  day_of_month: 1
-  month_of_year: 10
+  day_of_month: 15
+  month_of_year: 3
   year: 1983
   city: Raqqa
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '130850'
+  logical_id: '130849'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-22'
     number_title: 2021/1016 (OJ L222I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
 addresses:
-- city: Raqqa
-  country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
-  regulation_language: en
-  logical_id: '130846'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-22'
-    number_title: 2021/1016 (OJ L222I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
 - city: Gaziantep
   country_iso2_code: TR
   country_description: TURKEY
   regulation_language: en
   logical_id: '130847'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-22'
+    number_title: 2021/1016 (OJ L222I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
+- city: Raqqa
+  country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
+  regulation_language: en
+  logical_id: '130846'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-22'
@@ -198,21 +198,21 @@ identifications:
     publication_date: '2021-06-22'
     number_title: 2021/1016 (OJ L222I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
-- identification_type_code: passport
-  number: '00814L001424'
-  country_iso2_code: SY
-  regulation_language: en
-  logical_id: '130855'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-22'
-    number_title: 2021/1016 (OJ L222I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
 - identification_type_code: id
   number: '10716775'
   country_iso2_code: SY
   regulation_language: en
   logical_id: '130854'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-22'
+    number_title: 2021/1016 (OJ L222I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.222.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A222I%3ATOC
+- identification_type_code: passport
+  number: '00814L001424'
+  country_iso2_code: SY
+  regulation_language: en
+  logical_id: '130855'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-22'

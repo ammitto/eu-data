@@ -88,21 +88,21 @@ birthdates:
     number_title: 2018/1934 (OJ L314)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1934&from=EN
 addresses:
-- city: Unity State,South Sudan
-  country_iso2_code: SS
-  country_description: SOUTH SUDAN
-  regulation_language: en
-  logical_id: '105598'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-12-11'
-    number_title: 2018/1934 (OJ L314)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1934&from=EN
 - city: Wau, Western Bahr El Ghazal, South Sudan
   country_iso2_code: SS
   country_description: SOUTH SUDAN
   regulation_language: en
   logical_id: '105597'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-12-11'
+    number_title: 2018/1934 (OJ L314)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1934&from=EN
+- city: Unity State,South Sudan
+  country_iso2_code: SS
+  country_description: SOUTH SUDAN
+  regulation_language: en
+  logical_id: '105598'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-12-11'

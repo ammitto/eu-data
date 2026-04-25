@@ -14,6 +14,27 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: ФГУП Атомфлот
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150855'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Atomflot
+  function: Russian company that maintains Russia’s icebreaker fleet
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150856'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Rosatomflot
   name_language: EN
   strong: true
@@ -39,27 +60,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150854'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: ФГУП Атомфлот
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150855'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Atomflot
-  function: Russian company that maintains Russia’s icebreaker fleet
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150856'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

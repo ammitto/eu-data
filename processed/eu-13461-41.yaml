@@ -14,33 +14,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Întreprinderea deținută de statul federal «Rețeaua Rusă de Televiziune
+    și Radiodifuziune»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177788'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
 - whole_name: Федеральное государственное унитарное предприятие “Российская телевизионная
     и радиовещательная сеть”
   strong: true
   regulation_language: en
   logical_id: '177797'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Федерално държавно предприятие „Руска мрежа за телевизионно и радиоразпръскване“
-    (РТРС)
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '177796'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Föderales staatseigenes Unternehmen ‚Russian Television and Radio Broadcasting
-    Network‘ (RTRS)
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '177795'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -84,12 +73,33 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: "»Orosz Televíziós és Rádiós Műsorszolgáltató Hálózat« szövetségi állami
-    tulajdonú vállalat"
-  name_language: HU
+- whole_name: Föderales staatseigenes Unternehmen ‚Russian Television and Radio Broadcasting
+    Network‘ (RTRS)
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '177791'
+  logical_id: '177795'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Федерално държавно предприятие „Руска мрежа за телевизионно и радиоразпръскване“
+    (РТРС)
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '177796'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1444 (OJ L202501444)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
+- whole_name: Empresa pública federal Rede de teledifusão e radiodifusão russa (RTRS)
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -106,22 +116,12 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Empresa pública federal Rede de teledifusão e radiodifusão russa (RTRS)
-  name_language: PT
+- whole_name: "»Orosz Televíziós és Rádiós Műsorszolgáltató Hálózat« szövetségi állami
+    tulajdonú vállalat"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '177789'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1444 (OJ L202501444)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
-- whole_name: Întreprinderea deținută de statul federal «Rețeaua Rusă de Televiziune
-    și Radiodifuziune»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '177788'
+  logical_id: '177791'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -152,20 +152,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
 identifications:
 - identification_type_code: regnumber
-  number: '1027739456084'
+  number: '7717127211'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '177786'
+  logical_id: '177787'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
     number_title: 2025/1444 (OJ L202501444)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501444
 - identification_type_code: regnumber
-  number: '7717127211'
+  number: '1027739456084'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '177787'
+  logical_id: '177786'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

@@ -14,24 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Encep Nurjaman (birth name)
-  strong: true
-  regulation_language: en
-  logical_id: '2108'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-17'
-    number_title: 577/2011 (OJ L159)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
-- whole_name: Isamudin Ridwan
-  strong: true
-  regulation_language: en
-  logical_id: '5798'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
 - whole_name: Hambali
   strong: true
   regulation_language: en
@@ -62,15 +44,15 @@ name_aliases:
     publication_date: '2003-02-04'
     number_title: 215/2003 (OJ L28)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:028:0041:0042:EN:PDF
-- whole_name: Isomuddin, Nurjaman Riduan
+- whole_name: Encep Nurjaman (birth name)
   strong: true
   regulation_language: en
-  logical_id: '5892'
+  logical_id: '2108'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+    publication_date: '2011-06-17'
+    number_title: 577/2011 (OJ L159)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
 - first_name: Nurjaman
   middle_name: Riduan
   last_name: Isamuddin
@@ -93,6 +75,15 @@ name_aliases:
     publication_date: '2007-07-18'
     number_title: 844/2007 (OJ L186)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Isomuddin, Nurjaman Riduan
+  strong: true
+  regulation_language: en
+  logical_id: '5892'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
 - whole_name: Hambali Ending Hambali
   strong: true
   regulation_language: en
@@ -106,6 +97,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '5797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- whole_name: Isamudin Ridwan
+  strong: true
+  regulation_language: en
+  logical_id: '5798'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-07-18'

@@ -24,16 +24,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Open Joint Stock Company “Biysk Production Association ‘Sibpribormash’”
-  function: OJSC “Biysk Production Association ‘Sibpribormash’” (OJSC BPO SIBPRIBORMASH)
-    is a military industrial company, which ultimately belongs to the State Corporation
-    Rostec. The company develops military equipment and weapons, including fuses for
-    ammunitions systems and components for multiple-launch rocket systems.
-  title: Open Joint Stock Company
+- whole_name: OJSC BPO SIBPRIBORMASH
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175483'
+  logical_id: '175481'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: OAO “Бийское производственное объединение ‘Сибприбормаш’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175480'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -50,11 +55,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: OJSC BPO SIBPRIBORMASH
+- whole_name: Open Joint Stock Company “Biysk Production Association ‘Sibpribormash’”
+  function: OJSC “Biysk Production Association ‘Sibpribormash’” (OJSC BPO SIBPRIBORMASH)
+    is a military industrial company, which ultimately belongs to the State Corporation
+    Rostec. The company develops military equipment and weapons, including fuses for
+    ammunitions systems and components for multiple-launch rocket systems.
+  title: Open Joint Stock Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175481'
+  logical_id: '175483'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -65,16 +75,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175478'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: OAO “Бийское производственное объединение ‘Сибприбормаш’”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175480'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -94,11 +94,11 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: other
-  number: '220401001'
+- identification_type_code: fiscalcode
+  number: '2204056679'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '175475'
+  logical_id: '175476'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -114,11 +114,11 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: fiscalcode
-  number: '2204056679'
+- identification_type_code: other
+  number: '220401001'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '175476'
+  logical_id: '175475'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

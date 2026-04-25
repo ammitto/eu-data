@@ -14,24 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Limited Liability Company "Trading House "Lobaev Arms"
-  function: LLC "Trading House "Lobaev Arms" (Lobaev Arms) is a retail seller of weapons,
-    including Lobaev Arms rifles, and ammunition.
-  title: Limited Liability Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174791'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: ООО Торговый Дом Лобаев Армс
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '174789'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Sociedade de intermediação “Lobaev Arms”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '175220'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -47,11 +44,14 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Sociedade de intermediação “Lobaev Arms”
-  name_language: PT
+- whole_name: Limited Liability Company "Trading House "Lobaev Arms"
+  function: LLC "Trading House "Lobaev Arms" (Lobaev Arms) is a retail seller of weapons,
+    including Lobaev Arms rifles, and ammunition.
+  title: Limited Liability Company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175220'
+  logical_id: '174791'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -102,21 +102,21 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: fiscalcode
-  number: '4018011096'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '174786'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: other
   number: '401801001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '174785'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: fiscalcode
+  number: '4018011096'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '174786'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

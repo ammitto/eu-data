@@ -14,47 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dmitrij
-  middle_name: Viktorovitj
-  last_name: KOMNOV
-  whole_name: Dmitrij Viktorovitj KOMNOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '153930'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Dmitrij
-  last_name: Komnov
-  whole_name: Dmitrij Komnov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '153938'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Dmitrij
-  middle_name: Viktorovič
-  last_name: KOMNOV
-  whole_name: Dmitrij Viktorovič KOMNOV
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '153947'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
 - first_name: Дмитрий
   middle_name: Викторович
   last_name: КОМНОВ
@@ -80,6 +39,47 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153660'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Dmitrij
+  middle_name: Viktorovič
+  last_name: KOMNOV
+  whole_name: Dmitrij Viktorovič KOMNOV
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '153947'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Dmitrij
+  middle_name: Viktorovitj
+  last_name: KOMNOV
+  whole_name: Dmitrij Viktorovitj KOMNOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '153930'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Dmitrij
+  last_name: Komnov
+  whole_name: Dmitrij Komnov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '153938'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

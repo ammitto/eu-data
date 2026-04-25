@@ -103,23 +103,6 @@ name_aliases:
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
 birthdates:
-- birthdate: '1965-12-30'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 30
-  month_of_year: 12
-  year: 1965
-  city: Simferopol
-  region: Crimea
-  country_iso2_code: UA
-  country_description: UKRAINE
-  regulation_language: en
-  logical_id: '114346'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-03-13'
-    number_title: 2020/398 (OJ L78)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
 - birthdate: '1962-12-19'
   circa: false
   calendar_type: GREGORIAN
@@ -148,6 +131,23 @@ birthdates:
   country_description: UKRAINE
   regulation_language: en
   logical_id: '122926'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-03-13'
+    number_title: 2020/398 (OJ L78)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
+- birthdate: '1965-12-30'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 30
+  month_of_year: 12
+  year: 1965
+  city: Simferopol
+  region: Crimea
+  country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '114346'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'

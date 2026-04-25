@@ -14,12 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Limited Liability Company Construction Bureau of Integrated Systems
-  function: Part of the Lobaev group which manufactures high-precision rifles
-  name_language: EN
+- whole_name: ООО "КБИС"
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '176476'
+  logical_id: '176481'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: ООО "Конструкторское Бюро Интегрированньтх Систем”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176478'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -36,11 +45,51 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: ООО "Конструкторское Бюро Интегрированньтх Систем”
-  name_language: RU
+- whole_name: Integrált Rendszerek Tervezőirodája Kft.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '176478'
+  logical_id: '176475'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: KBIS Kft.
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '176474'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Integrált Rendszerek Építőirodája« Korlátolt Felelősségű Társaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '176473'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: LLC Design Bureau of Integration Systems
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176472'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Gabinete de fabrico de sistemas integrados
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '176471'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -66,61 +115,12 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: ООО "КБИС"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Integrált Rendszerek Építőirodája« Korlátolt Felelősségű Társaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '176473'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: KBIS Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '176474'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Integrált Rendszerek Tervezőirodája Kft.
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '176475'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Gabinete de fabrico de sistemas integrados
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '176471'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: LLC Design Bureau of Integration Systems
+- whole_name: Limited Liability Company Construction Bureau of Integrated Systems
+  function: Part of the Lobaev group which manufactures high-precision rifles
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176472'
+  logical_id: '176476'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -140,21 +140,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: other
-  number: '401801001'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '176469'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
   number: '1037703022158'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '176468'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: other
+  number: '401801001'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '176469'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

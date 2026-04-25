@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Emad Abu
+  last_name: ZURAIQ
+  whole_name: Emad Abu ZURAIQ
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152831'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - first_name: Imad Abu
   last_name: ZUREIQ
   whole_name: Imad Abu ZUREIQ
@@ -28,19 +41,6 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Imad Abu
-  last_name: ZREIK
-  whole_name: Imad Abu ZREIK
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152830'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - whole_name: عماد أبو زريق
   gender: M
   name_language: AR
@@ -52,14 +52,14 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- first_name: Emad Abu
-  last_name: ZURAIQ
-  whole_name: Emad Abu ZURAIQ
+- first_name: Imad Abu
+  last_name: ZREIK
+  whole_name: Imad Abu ZREIK
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152831'
+  logical_id: '152830'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

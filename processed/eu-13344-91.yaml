@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Владимир Олегович КУРЬЯНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Vladimir Olegovich KURYANOV
   function: Since 22 June 2023, Vladimir Kuryanov has been the acting Rector of the
     V.I. Vernadsky Crimean Federal University. He is supporting policies which contribute
@@ -36,6 +25,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176994'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Владимир Олегович КУРЬЯНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176993'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

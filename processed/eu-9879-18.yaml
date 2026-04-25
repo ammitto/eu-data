@@ -64,6 +64,26 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: ПАО Красногорский завод им. С.А. Зверева
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '150832'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: PJSC “Krasnogorsk Plant named after S.A. Zvereva”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150834'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: Société publique par actions "Usine de Krasnogorsk du nom de S.A. Zvereva"
   name_language: FR
   strong: true
@@ -85,16 +105,6 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: PJSC “Krasnogorsk Plant named after S.A. Zvereva”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150834'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
 - whole_name: PJSC »Krasnogorsk Plant«, navngivet efter »S.A. Zvereva«
   name_language: DA
   strong: true
@@ -110,16 +120,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '150831'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: ПАО Красногорский завод им. С.А. Зверева
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '150832'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -15,6 +15,67 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Professor Musharaf
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110774'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
+- whole_name: David Amos Mazengo
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110775'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
+- whole_name: Talengelanimiro
+  strong: true
+  regulation_language: en
+  logical_id: '15133'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-07'
+    number_title: 7/2012 (OJ L4)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
+- first_name: Nicolas
+  last_name: Luumu
+  whole_name: Nicolas Luumu
+  strong: true
+  regulation_language: en
+  logical_id: '15132'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-07'
+    number_title: 7/2012 (OJ L4)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
+- first_name: Hussein
+  last_name: Muhammad
+  whole_name: Hussein Muhammad
+  strong: true
+  regulation_language: en
+  logical_id: '15131'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-07'
+    number_title: 7/2012 (OJ L4)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
+- whole_name: Julius Elius Mashauri
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110776'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-07'
+    number_title: 2017/199 (OJ L32)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
 - first_name: Jamil
   last_name: Mukulu
   whole_name: Jamil Mukulu
@@ -27,12 +88,13 @@ name_aliases:
     publication_date: '2012-01-07'
     number_title: 7/2012 (OJ L4)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
-- first_name: Hussein
-  last_name: Muhammad
-  whole_name: Hussein Muhammad
+- last_name: Musharaf
+  whole_name: Musharaf
+  function: Commander, Allied Democratic Forces
+  title: Professor
   strong: true
   regulation_language: en
-  logical_id: '15131'
+  logical_id: '15124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-01-07'
@@ -61,85 +123,12 @@ name_aliases:
     publication_date: '2017-02-07'
     number_title: 2017/199 (OJ L32)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
-- first_name: Nicolas
-  last_name: Luumu
-  whole_name: Nicolas Luumu
+- first_name: Musezi
+  last_name: Talengelanimiro
+  whole_name: Musezi Talengelanimiro
   strong: true
   regulation_language: en
-  logical_id: '15132'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-07'
-    number_title: 7/2012 (OJ L4)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
-- whole_name: Talengelanimiro
-  strong: true
-  regulation_language: en
-  logical_id: '15133'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-07'
-    number_title: 7/2012 (OJ L4)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
-- whole_name: Professor Musharaf
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110774'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
-- whole_name: David Amos Mazengo
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110775'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
-- whole_name: Julius Elius Mashauri
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110776'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-07'
-    number_title: 2017/199 (OJ L32)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0199&from=EN
-- last_name: Musharaf
-  whole_name: Musharaf
-  function: Commander, Allied Democratic Forces
-  title: Professor
-  strong: true
-  regulation_language: en
-  logical_id: '15124'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-07'
-    number_title: 7/2012 (OJ L4)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
-- first_name: Alilabaki
-  last_name: Kyagulanyi
-  whole_name: Alilabaki Kyagulanyi
-  strong: true
-  regulation_language: en
-  logical_id: '15130'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-07'
-    number_title: 7/2012 (OJ L4)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
-- first_name: Abdullah
-  last_name: Junjuaka
-  whole_name: Abdullah Junjuaka
-  strong: true
-  regulation_language: en
-  logical_id: '15129'
+  logical_id: '15127'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-01-07'
@@ -156,12 +145,23 @@ name_aliases:
     publication_date: '2012-01-07'
     number_title: 7/2012 (OJ L4)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
-- first_name: Musezi
-  last_name: Talengelanimiro
-  whole_name: Musezi Talengelanimiro
+- first_name: Abdullah
+  last_name: Junjuaka
+  whole_name: Abdullah Junjuaka
   strong: true
   regulation_language: en
-  logical_id: '15127'
+  logical_id: '15129'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-07'
+    number_title: 7/2012 (OJ L4)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:004:0001:0002:EN:PDF
+- first_name: Alilabaki
+  last_name: Kyagulanyi
+  whole_name: Alilabaki Kyagulanyi
+  strong: true
+  regulation_language: en
+  logical_id: '15130'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-01-07'

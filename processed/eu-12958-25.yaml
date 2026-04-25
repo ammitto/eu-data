@@ -57,16 +57,6 @@ birthdates:
     publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
 identifications:
 - identification_type_code: birthcert
-  number: '225889221'
-  country_iso2_code: IR
-  regulation_language: en
-  logical_id: '174473'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-04-14'
-    number_title: 2025/776 (OJ L202500776)
-    publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
-- identification_type_code: birthcert
   number: '1565'
   country_iso2_code: IR
   regulation_language: en
@@ -81,6 +71,16 @@ identifications:
   country_iso2_code: IR
   regulation_language: en
   logical_id: '174475'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-04-14'
+    number_title: 2025/776 (OJ L202500776)
+    publication_url: http://data.europa.eu/eli/reg_impl/2025/776/oj
+- identification_type_code: birthcert
+  number: '225889221'
+  country_iso2_code: IR
+  regulation_language: en
+  logical_id: '174473'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-04-14'

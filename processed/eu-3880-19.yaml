@@ -16,32 +16,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Naser
-  last_name: MALEKI
-  whole_name: Naser MALEKI
-  function: Head of Shahid Hemmat Industrial Group (SHIG), which is designated under
-    resolution 1737(2006) for its role in Iran’s ballistic missile programme.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '5164'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: ناصرملکی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '158958'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Naser
   last_name: MAALEKI
   whole_name: Naser MAALEKI
   gender: M
@@ -62,6 +36,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158960'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Naser
+  last_name: MALEKI
+  whole_name: Naser MALEKI
+  function: Head of Shahid Hemmat Industrial Group (SHIG), which is designated under
+    resolution 1737(2006) for its role in Iran’s ballistic missile programme.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5164'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
+- whole_name: ناصرملکی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '158958'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -91,16 +91,6 @@ birthdates:
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 identifications:
-- identification_type_code: passport
-  number: A0003039
-  country_iso2_code: IR
-  regulation_language: en
-  logical_id: '112835'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-06-24'
-    number_title: 2017/1124 (OJ L163)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1124&from=EN
 - identification_type_code: other
   number: '0035011785'
   country_iso2_code: IR
@@ -111,3 +101,13 @@ identifications:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- identification_type_code: passport
+  number: A0003039
+  country_iso2_code: IR
+  regulation_language: en
+  logical_id: '112835'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-06-24'
+    number_title: 2017/1124 (OJ L163)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1124&from=EN

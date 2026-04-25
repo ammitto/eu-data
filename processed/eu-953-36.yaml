@@ -14,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Abd Al-Meguid
-  last_name: Al-Zandani
-  whole_name: Abd Al-Meguid Al-Zandani
-  strong: true
-  regulation_language: en
-  logical_id: '4853'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-08-04'
-    number_title: 1189/2006 (OJ L214)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:214:0021:0028:EN:PDF
-- first_name: Abd Al-Majid
-  last_name: Al-Zindani
-  whole_name: Abd Al-Majid Al-Zindani
-  strong: true
-  regulation_language: en
-  logical_id: '2475'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-08-04'
-    number_title: 1189/2006 (OJ L214)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:214:0021:0028:EN:PDF
 - first_name: Abdelmajid
   last_name: Al-Zindani
   whole_name: Abdelmajid Al-Zindani
@@ -55,6 +33,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '2473'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-08-04'
+    number_title: 1189/2006 (OJ L214)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:214:0021:0028:EN:PDF
+- first_name: Abd Al-Majid
+  last_name: Al-Zindani
+  whole_name: Abd Al-Majid Al-Zindani
+  strong: true
+  regulation_language: en
+  logical_id: '2475'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-08-04'
+    number_title: 1189/2006 (OJ L214)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:214:0021:0028:EN:PDF
+- first_name: Abd Al-Meguid
+  last_name: Al-Zandani
+  whole_name: Abd Al-Meguid Al-Zandani
+  strong: true
+  regulation_language: en
+  logical_id: '4853'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-08-04'

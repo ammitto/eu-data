@@ -14,31 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Alexandr Kašlev
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '171987'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- first_name: Александр
-  middle_name: Сергеевич
-  last_name: КАШЛЕВ
-  whole_name: Александр Сергеевич КАШЛЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171142'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - first_name: Alexander
   middle_name: Sergeevich
   last_name: KASHLEV
@@ -61,6 +36,31 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171986'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Alexandr Kašlev
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '171987'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- first_name: Александр
+  middle_name: Сергеевич
+  last_name: КАШЛЕВ
+  whole_name: Александр Сергеевич КАШЛЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171142'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

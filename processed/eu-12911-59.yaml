@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Juri Tšorny
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '174163'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Juryj Čorny
   gender: M
   name_language: SK
@@ -36,12 +25,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Juryj Čorny
+- whole_name: Yuri Nikolaevich  CHERNYI
   gender: M
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174165'
+  logical_id: '174168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -58,23 +47,23 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Juryj Čorny
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '174165'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Юрый Мікалаевіч  ЧОРНЫ
   gender: M
   name_language: BE
   strong: true
   regulation_language: en
   logical_id: '174167'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Yuri Nikolaevich  CHERNYI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '174168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -92,19 +81,18 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1981
-  country_iso2_code: BY
-  country_description: BELARUS
+- whole_name: Juri Tšorny
+  gender: M
+  name_language: FI
+  strong: true
   regulation_language: en
-  logical_id: '174160'
+  logical_id: '174163'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1979
@@ -124,6 +112,18 @@ birthdates:
   country_description: BELARUS
   regulation_language: en
   logical_id: '174161'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1981
+  country_iso2_code: BY
+  country_description: BELARUS
+  regulation_language: en
+  logical_id: '174160'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

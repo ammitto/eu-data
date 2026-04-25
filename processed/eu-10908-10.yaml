@@ -14,29 +14,27 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Olena
-  middle_name: Oleksandrivna
-  last_name: SJAPUROVA
-  whole_name: Olena Oleksandrivna SJAPUROVA
+- first_name: Elena
+  last_name: Šapurova
+  whole_name: Elena Šapurova
   gender: F
-  name_language: SV
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '160649'
+  logical_id: '160861'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Jelena
-  middle_name: Aleksandrovna
-  last_name: SJAPUROVA
-  whole_name: Jelena Aleksandrovna SJAPUROVA
+  last_name: Šapurova
+  whole_name: Jelena Šapurova
   gender: F
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '160650'
+  logical_id: '160862'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -71,13 +69,14 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Jelena
-  last_name: Šapurova
-  whole_name: Jelena Šapurova
+  middle_name: Aleksandrovna
+  last_name: SJAPUROVA
+  whole_name: Jelena Aleksandrovna SJAPUROVA
   gender: F
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160862'
+  logical_id: '160650'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -113,14 +112,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Elena
-  last_name: Šapurova
-  whole_name: Elena Šapurova
+- first_name: Olena
+  middle_name: Oleksandrivna
+  last_name: SJAPUROVA
+  whole_name: Olena Oleksandrivna SJAPUROVA
   gender: F
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160861'
+  logical_id: '160649'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -14,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Диана Витальевна ПАНЧЕНКО
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180256'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2568 (OJ L202502568)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
 - whole_name: Diana Vitaliivna PANCHENKO
   function: |-
     Diana Panchenko is a Ukrainian-born journalist and propagandist. She produces and diffuses anti-Ukrainian, pro-Russian, anti-NATO narratives.
@@ -36,16 +46,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180257'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-12-15'
-    number_title: 2025/2568 (OJ L202502568)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
-- whole_name: Диана Витальевна ПАНЧЕНКО
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180256'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'

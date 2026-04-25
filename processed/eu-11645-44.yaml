@@ -14,16 +14,25 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yaroslav
-  middle_name: Yuryevich
-  last_name: DRONOV
-  whole_name: Yaroslav Yuryevich DRONOV
-  function: Singer
+- first_name: Jaroslav
+  last_name: Dronov
+  whole_name: Jaroslav Dronov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '167137'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Shaman
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '166111'
+  logical_id: '166109'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -43,25 +52,16 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Shaman
+- first_name: Yaroslav
+  middle_name: Yuryevich
+  last_name: DRONOV
+  whole_name: Yaroslav Yuryevich DRONOV
+  function: Singer
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '166109'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Jaroslav
-  last_name: Dronov
-  whole_name: Jaroslav Dronov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '167137'
+  logical_id: '166111'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

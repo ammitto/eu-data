@@ -14,24 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ahmed Balol
-  strong: true
-  regulation_language: en
-  logical_id: '111556'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-21'
-    number_title: 2017/480 (OJ L75)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0480&from=EN
-- whole_name: Ahmad Muhammad Ballul
-  strong: true
-  regulation_language: en
-  logical_id: '111555'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-21'
-    number_title: 2017/480 (OJ L75)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0480&from=EN
 - whole_name: Ahmad BALLUL
   function: Holds the rank of Major General, a  senior officer and Com­mander of the
     Syrian Arab Air and Air Defence Forces, in post after May 2011.
@@ -45,6 +27,15 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Ahmad Muhammad Ballul
+  strong: true
+  regulation_language: en
+  logical_id: '111555'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-21'
+    number_title: 2017/480 (OJ L75)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0480&from=EN
 - whole_name: أحمد بلول
   gender: M
   name_language: AR
@@ -56,6 +47,15 @@ name_aliases:
     publication_date: '2020-05-29'
     number_title: 2020/716 (OJ L168)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+- whole_name: Ahmed Balol
+  strong: true
+  regulation_language: en
+  logical_id: '111556'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-21'
+    number_title: 2017/480 (OJ L75)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0480&from=EN
 birthdates:
 - birthdate: '1954-10-10'
   circa: false

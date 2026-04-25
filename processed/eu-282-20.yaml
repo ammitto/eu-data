@@ -29,20 +29,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Svetlana
-  middle_name: Sergejevna
-  last_name: ZJUROVA
-  whole_name: Svetlana Sergejevna ZJUROVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '151837'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Светлана
   middle_name: Сергеевна
   last_name: ЖУРОВА
@@ -52,6 +38,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '18161'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Svetlana
+  middle_name: Sergejevna
+  last_name: ZJUROVA
+  whole_name: Svetlana Sergejevna ZJUROVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '151837'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

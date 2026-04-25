@@ -14,48 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ААТ "БМЗ - кіруючая  кампанія холдынгу "БМК"
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '156766'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: société par actions ouverte “BSW (BMZ) – management company of ‘BMC’
-    holding
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '156795'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: ОАО "БМЗ - управляющая компания холдинга "БМК"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156768'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Открытое акционерное общество "Белорусский металлургический завод -
-    управляющая компания холдинга "Белорусская  металлургическая компания"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156769'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - whole_name: OJSC “BSW (BMZ) - management company of “BMC” holding”
   name_language: EN
   strong: true
@@ -72,27 +30,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156771'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Адкрытае акцыянернае таварыства "Беларускі металургічны завод - кіруючая
-    кампанія холдынгу "Беларуская металургічная кампанія"
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '156767'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Offene Aktiengesellschaft ‚BSW (BMZ) — management company of ‚BMC‘ holding‘
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '156791'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -140,65 +77,33 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: OJSC „BSW  (BMZ) – správcovská  spoločnosť holdingu BMC“
-  name_language: SK
+- whole_name: Offene Aktiengesellschaft ‚Byelorussian Steel Works‘ — management company
+    of ‚Byelorusssian Metallurgical Company‘ holding‘
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '156823'
+  logical_id: '156790'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Otvorená akciová spoločnosť „Bieloruský metalurgický  závod – správcovská
-    spoločnosť podniku „Bieloruská metalurgická spoločnosť“
-  name_language: SK
+- whole_name: Offene Aktiengesellschaft ‚BSW (BMZ) — management company of ‚BMC‘ holding‘
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '156824'
+  logical_id: '156791'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Veřejná akciová společnost „BSW – správcovská společnost  holdingu  „BMC“
-    “
-  name_language: CS
+- whole_name: société par actions ouverte “BSW (BMZ) – management company of ‘BMC’
+    holding
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '156825'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Avoin osakeyhtiö ”Byelorussian Steel Works –  management company of
-    ”Byelorussian Metallurgical Company” holding”
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '156834'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: "«SA BSW (BMZ) –  societate de administrare a  holdingului „BMC”»"
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '156835'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Societatea deschisă pe acțiuni «Byelorussian Steel Works – societate
-    de administrare a holdingului „Belorussian Metallurgical Company”»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '156836'
+  logical_id: '156795'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -311,12 +216,107 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- whole_name: Offene Aktiengesellschaft ‚Byelorussian Steel Works‘ — management company
-    of ‚Byelorusssian Metallurgical Company‘ holding‘
-  name_language: DE
+- whole_name: Avoin osakeyhtiö ”Byelorussian Steel Works –  management company of
+    ”Byelorussian Metallurgical Company” holding”
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '156790'
+  logical_id: '156834'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: "«SA BSW (BMZ) –  societate de administrare a  holdingului „BMC”»"
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '156835'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Societatea deschisă pe acțiuni «Byelorussian Steel Works – societate
+    de administrare a holdingului „Belorussian Metallurgical Company”»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '156836'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: OJSC „BSW  (BMZ) – správcovská  spoločnosť holdingu BMC“
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156823'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Otvorená akciová spoločnosť „Bieloruský metalurgický  závod – správcovská
+    spoločnosť podniku „Bieloruská metalurgická spoločnosť“
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156824'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Veřejná akciová společnost „BSW – správcovská společnost  holdingu  „BMC“
+    “
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156825'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: ААТ "БМЗ - кіруючая  кампанія холдынгу "БМК"
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '156766'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Адкрытае акцыянернае таварыства "Беларускі металургічны завод - кіруючая
+    кампанія холдынгу "Беларуская металургічная кампанія"
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '156767'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: ОАО "БМЗ - управляющая компания холдинга "БМК"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156768'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- whole_name: Открытое акционерное общество "Белорусский металлургический завод -
+    управляющая компания холдинга "Белорусская  металлургическая компания"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156769'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

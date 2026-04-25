@@ -29,23 +29,23 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Сильвен АФУА
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175788'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - whole_name: Egountchi BEHANZIN
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '175787'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Сильвен АФУА
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175788'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

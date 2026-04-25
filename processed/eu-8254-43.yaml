@@ -14,13 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: German Nikolaevich KULEMIN
-  function: Major of the 64th Separate Motorized Rifle Brigade of the 35th Army of
-    Russian Federation
-  gender: M
+- whole_name: German  Nikolajevitj KULEMIN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '140186'
+  logical_id: '141105'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -36,11 +34,13 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
-- whole_name: German  Nikolajevitj KULEMIN
-  name_language: SV
+- whole_name: German Nikolaevich KULEMIN
+  function: Major of the 64th Separate Motorized Rifle Brigade of the 35th Army of
+    Russian Federation
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '141105'
+  logical_id: '140186'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

@@ -14,38 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- last_name: BAHTIYAR
-  whole_name: BAHTIYAR
-  strong: true
-  regulation_language: en
-  logical_id: '177492'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1396 (OJ L202501396)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
-- first_name: Ibrahim
-  last_name: KURD
-  whole_name: Ibrahim KURD
-  strong: true
-  regulation_language: en
-  logical_id: '177494'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1396 (OJ L202501396)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
-- first_name: Ramin
-  last_name: EBRAHIMIHARKIAN
-  whole_name: Ramin EBRAHIMIHARKIAN
-  strong: true
-  regulation_language: en
-  logical_id: '177495'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1396 (OJ L202501396)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
 - first_name: Nihat Abdulkadir
   last_name: ASAN
   whole_name: Nihat Abdulkadir ASAN
@@ -77,12 +45,44 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1396 (OJ L202501396)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
+- first_name: Ibrahim
+  last_name: KURD
+  whole_name: Ibrahim KURD
+  strong: true
+  regulation_language: en
+  logical_id: '177494'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1396 (OJ L202501396)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
+- first_name: Ramin
+  last_name: EBRAHIMIHARKIAN
+  whole_name: Ramin EBRAHIMIHARKIAN
+  strong: true
+  regulation_language: en
+  logical_id: '177495'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1396 (OJ L202501396)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
 - first_name: Nihat
   last_name: ASHAN
   whole_name: Nihat ASHAN
   strong: true
   regulation_language: en
   logical_id: '177493'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1396 (OJ L202501396)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
+- last_name: BAHTIYAR
+  whole_name: BAHTIYAR
+  strong: true
+  regulation_language: en
+  logical_id: '177492'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -132,21 +132,21 @@ birthdates:
     number_title: 2025/1396 (OJ L202501396)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
 identifications:
-- identification_type_code: passport
-  number: U13927927
-  country_iso2_code: TR
-  regulation_language: en
-  logical_id: '177490'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1396 (OJ L202501396)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
 - identification_type_code: id
   number: '2751062326'
   country_iso2_code: IR
   regulation_language: en
   logical_id: '177491'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1396 (OJ L202501396)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
+- identification_type_code: passport
+  number: U13927927
+  country_iso2_code: TR
+  regulation_language: en
+  logical_id: '177490'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

@@ -14,6 +14,36 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Iгар
+  middle_name: Анатольевiч
+  last_name: ПЛЫШЭЎСКI
+  whole_name: Iгар Анатольевiч ПЛЫШЭЎСКI
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '125559'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Igar
+  middle_name: Anatolievich
+  last_name: PLYSHEUSKI
+  whole_name: Igar Anatolievich PLYSHEUSKI
+  function: "Managing Director of OOO Bergia Group,  \nformer Member of the Central
+    Electoral Commission (CEC)"
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '125560'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Ihor
   middle_name: Anatolievich
   last_name: PLYSHEVSKIY
@@ -37,36 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127952'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Igar
-  middle_name: Anatolievich
-  last_name: PLYSHEUSKI
-  whole_name: Igar Anatolievich PLYSHEUSKI
-  function: "Managing Director of OOO Bergia Group,  \nformer Member of the Central
-    Electoral Commission (CEC)"
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '125560'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Iгар
-  middle_name: Анатольевiч
-  last_name: ПЛЫШЭЎСКI
-  whole_name: Iгар Анатольевiч ПЛЫШЭЎСКI
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '125559'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

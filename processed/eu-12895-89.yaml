@@ -14,34 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Dzianis Duk
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '173998'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Dzjanis Duk
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '173999'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Denis Vladimirovich  DUK
+- whole_name: Dzianis  Uladzimiravich DUK
+  function: Member of the Central Election Commission
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174002'
+  logical_id: '174003'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -58,6 +37,39 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Денис Владимирович  ДУК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174000'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Dzjanis Duk
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '173999'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Dzianis Duk
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '173998'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Dzjanis Duk
   gender: M
   name_language: FI
@@ -69,24 +81,12 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Dzianis  Uladzimiravich DUK
-  function: Member of the Central Election Commission
+- whole_name: Denis Vladimirovich  DUK
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '174003'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Денис Владимирович  ДУК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174000'
+  logical_id: '174002'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

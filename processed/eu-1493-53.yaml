@@ -14,6 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ricardo
+  middle_name: Perez
+  last_name: Ayeras
+  whole_name: Ricardo Perez Ayeras
+  strong: true
+  regulation_language: en
+  logical_id: '6496'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
 - first_name: Abdul
   middle_name: Kareem
   last_name: Ayeras
@@ -26,19 +38,13 @@ name_aliases:
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Isaac Jay Galang Perez
+- first_name: Abdul
+  middle_name: Karim
+  last_name: Ayeras
+  whole_name: Abdul Karim Ayeras
   strong: true
   regulation_language: en
-  logical_id: '6501'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- whole_name: Jimboy
-  strong: true
-  regulation_language: en
-  logical_id: '6500'
+  logical_id: '6498'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
@@ -55,13 +61,19 @@ name_aliases:
     publication_date: '2008-06-20'
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- first_name: Ricardo
-  middle_name: Perez
-  last_name: Ayeras
-  whole_name: Ricardo Perez Ayeras
+- whole_name: Jimboy
   strong: true
   regulation_language: en
-  logical_id: '6496'
+  logical_id: '6500'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- whole_name: Isaac Jay Galang Perez
+  strong: true
+  regulation_language: en
+  logical_id: '6501'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
@@ -71,18 +83,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '6502'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
-- first_name: Abdul
-  middle_name: Karim
-  last_name: Ayeras
-  whole_name: Abdul Karim Ayeras
-  strong: true
-  regulation_language: en
-  logical_id: '6498'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'
@@ -116,21 +116,21 @@ birthdates:
     number_title: 580/2008 (OJ L161)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
 addresses:
-- city: Barangay Tigib, Ayungon, Negros Oriental
-  country_iso2_code: PH
-  country_description: PHILIPPINES
-  regulation_language: en
-  logical_id: '1171'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2008-06-20'
-    number_title: 580/2008 (OJ L161)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
 - city: Barangay Mangayao, Tagkawayan, Quezon
   country_iso2_code: PH
   country_description: PHILIPPINES
   regulation_language: en
   logical_id: '1170'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2008-06-20'
+    number_title: 580/2008 (OJ L161)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
+- city: Barangay Tigib, Ayungon, Negros Oriental
+  country_iso2_code: PH
+  country_description: PHILIPPINES
+  regulation_language: en
+  logical_id: '1171'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2008-06-20'

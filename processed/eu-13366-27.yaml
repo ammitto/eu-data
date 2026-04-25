@@ -15,21 +15,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC “Research Institute of Modern Telecommunication Technologies”
+- whole_name: АО “НИИ СТТ”
   strong: true
   regulation_language: en
-  logical_id: '177121'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Акционерное Общество “Научно Исследовательский Институт Современных
-    Телекоммуникационных Технологий”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '177122'
+  logical_id: '177119'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -51,6 +40,17 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Акционерное Общество “Научно Исследовательский Институт Современных
+    Телекоммуникационных Технологий”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '177122'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: AO “NII STT”
   strong: true
   regulation_language: en
@@ -60,10 +60,10 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: АО “НИИ СТТ”
+- whole_name: JSC “Research Institute of Modern Telecommunication Technologies”
   strong: true
   regulation_language: en
-  logical_id: '177119'
+  logical_id: '177121'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -83,21 +83,21 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: taxid
-  number: '6730046954'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '177117'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: regnumber
   number: '1026701461160'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177118'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: taxid
+  number: '6730046954'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '177117'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

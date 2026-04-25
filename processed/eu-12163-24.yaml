@@ -14,23 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Мікіта Святаслававіч РАЧЫЛОЎСКI
+- first_name: Mikita
+  last_name: Račylouski
+  whole_name: Mikita Račylouski
   gender: M
-  name_language: BE
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '169210'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Никита Святославович РАЧИЛОВСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '169209'
+  logical_id: '169525'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -52,6 +43,30 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- first_name: Nikita
+  last_name: Račilovskij
+  whole_name: Nikita Račilovskij
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169524'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Никита Святославович РАЧИЛОВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '169209'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Nikita Sviatoslavovich RACHILOVSKYI
   gender: M
   name_language: EN
@@ -63,27 +78,12 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- first_name: Mikita
-  last_name: Račylouski
-  whole_name: Mikita Račylouski
+- whole_name: Мікіта Святаслававіч РАЧЫЛОЎСКI
   gender: M
-  name_language: CS
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '169525'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- first_name: Nikita
-  last_name: Račilovskij
-  whole_name: Nikita Račilovskij
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '169524'
+  logical_id: '169210'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

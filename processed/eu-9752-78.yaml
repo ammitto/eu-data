@@ -14,73 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Întreprinderea de cercetare și producție „Uzina  producătoare de instrumente  «Tyfun»
-    din Kaluga
-  name_language: RO
+- whole_name: Kalugoje įsikūrusi prietaisų  gamykla „Typhoon JSC“
+  name_language: LT
   strong: true
   regulation_language: en
-  logical_id: '151250'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Kaluga-based Instrument-Making Plant Typhoon JSC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '150108'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- whole_name: In Kaloega gebaseerd Instrument-Making Plant Typhoon JSC
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '151203'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: onderzoeks- en productieonderneming “Kaluga  instrument-making plant  “Tyfun””
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '151202'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Plant Typhoon JSC – fábrica  de instrumentos sediada em  Kaluga
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '151185'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Zakłady Produkcji Sprzętu  Typhoon S.A. z siedzibą w Kałudze
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '151143'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Société par actions Typhoon, usine de fabrication d’instruments, établie
-    à Kaluga
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '151117'
+  logical_id: '151300'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -96,11 +34,41 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Kalugoje įsikūrusi prietaisų  gamykla „Typhoon JSC“
-  name_language: LT
+- whole_name: Zakłady Produkcji Sprzętu  Typhoon S.A. z siedzibą w Kałudze
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '151300'
+  logical_id: '151143'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Plant Typhoon JSC – fábrica  de instrumentos sediada em  Kaluga
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '151185'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: onderzoeks- en productieonderneming “Kaluga  instrument-making plant  “Tyfun””
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151202'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: In Kaloega gebaseerd Instrument-Making Plant Typhoon JSC
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '151203'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -116,10 +84,23 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Typhoon
+- whole_name: Întreprinderea de cercetare și producție „Uzina  producătoare de instrumente  «Tyfun»
+    din Kaluga
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '150107'
+  logical_id: '151250'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Société par actions Typhoon, usine de fabrication d’instruments, établie
+    à Kaluga
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '151117'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -165,6 +146,25 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Typhoon
+  strong: true
+  regulation_language: en
+  logical_id: '150107'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: Kaluga-based Instrument-Making Plant Typhoon JSC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150108'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
 addresses:
 - street: Voskresenskiy per, 28
   city: Kaluga

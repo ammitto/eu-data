@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Сергей
-  middle_name: Михайлович
-  last_name: СОКОЛ
-  whole_name: Сергей Михайлович СОКОЛ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '134402'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Sergej
   middle_name: Michajlovitj
   last_name: SOKOL
@@ -59,6 +45,20 @@ name_aliases:
     publication_date: '2024-03-13'
     number_title: 2024/849 (OJ L13032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Сергей
+  middle_name: Михайлович
+  last_name: СОКОЛ
+  whole_name: Сергей Михайлович СОКОЛ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '134402'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 birthdates:
 - birthdate: '1970-12-17'
   circa: false

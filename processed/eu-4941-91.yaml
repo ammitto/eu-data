@@ -31,18 +31,6 @@ name_aliases:
     number_title: 2019/84 (OJ L18 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
 - first_name: Walid
-  last_name: Zughayb
-  whole_name: Walid Zughayb
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '119186'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-01-21'
-    number_title: 2019/84 (OJ L18 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
-- first_name: Walid
   last_name: Zgha'ib
   whole_name: Walid Zgha'ib
   gender: M
@@ -61,6 +49,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '119188'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-01-21'
+    number_title: 2019/84 (OJ L18 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0084&from=EN
+- first_name: Walid
+  last_name: Zughayb
+  whole_name: Walid Zughayb
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '119186'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-01-21'

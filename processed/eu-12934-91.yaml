@@ -14,92 +14,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Белорусские Лотереи
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '174317'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Републиканско  еднолично предприятие „Беларуски лотарии“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '174316'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Republican unitary enterprise Belorusskiye Loterei
   function: Runs lotteries
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '174319'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Беларускія Латарэі
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '174318'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: La empresa unitaria de la República Belorusskiye Loterei
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '174315'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Tasavallan unitaariyritys Belorusskiye Loterei
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '174298'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Republiško unitarno podjetje Belorusskiye Loterei
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '174299'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Štátny unitárny podnik Belorusskije Loterei
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '174300'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-27'
-    number_title: 2025/631 (OJ L202500631)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
-- whole_name: Întreprinderea  unitară de stat Loteria  Belarusă
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '174301'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -115,11 +35,61 @@ name_aliases:
     publication_date: '2025-03-27'
     number_title: 2025/631 (OJ L202500631)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Întreprinderea  unitară de stat Loteria  Belarusă
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '174301'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Štátny unitárny podnik Belorusskije Loterei
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '174300'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Republiško unitarno podjetje Belorusskiye Loterei
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '174299'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Tasavallan unitaariyritys Belorusskiye Loterei
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '174298'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
 - whole_name: Państwowe jednolite  przedsiębiorstwo »Belorusskiye Loterei
   name_language: PL
   strong: true
   regulation_language: en
   logical_id: '174303'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Беларускія Латарэі
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '174318'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'
@@ -230,6 +200,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '174314'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: La empresa unitaria de la República Belorusskiye Loterei
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '174315'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Републиканско  еднолично предприятие „Беларуски лотарии“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '174316'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-27'
+    number_title: 2025/631 (OJ L202500631)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500631
+- whole_name: Белорусские Лотереи
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '174317'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-27'

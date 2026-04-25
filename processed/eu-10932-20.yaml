@@ -43,20 +43,6 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Boris
-  middle_name: Safarovitj
-  last_name: EBZEJEV
-  whole_name: Boris Safarovitj EBZEJEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160671'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Борис
   last_name: Ебзеев
   whole_name: Борис Ебзеев
@@ -71,13 +57,14 @@ name_aliases:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Boris
-  last_name: Ebzejev
-  whole_name: Boris Ebzejev
+  middle_name: Safarovitj
+  last_name: EBZEJEV
+  whole_name: Boris Safarovitj EBZEJEV
   gender: M
-  name_language: SK
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '160901'
+  logical_id: '160671'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -91,6 +78,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160902'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Boris
+  last_name: Ebzejev
+  whole_name: Boris Ebzejev
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160901'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

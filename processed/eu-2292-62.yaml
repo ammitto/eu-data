@@ -27,18 +27,6 @@ name_aliases:
     number_title: 1285/2011 (OJ L328)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:328:0034:0035:EN:PDF
 - first_name: Anwar
-  middle_name: Nasser Abdulla
-  last_name: Aulaqi
-  whole_name: Anwar Nasser Abdulla Aulaqi
-  strong: true
-  regulation_language: en
-  logical_id: '8237'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-12-10'
-    number_title: 1285/2011 (OJ L328)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:328:0034:0035:EN:PDF
-- first_name: Anwar
   middle_name: Nasser Abdullah
   last_name: Aulaqi
   whole_name: Anwar Nasser Abdullah Aulaqi
@@ -51,11 +39,12 @@ name_aliases:
     number_title: 1285/2011 (OJ L328)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:328:0034:0035:EN:PDF
 - first_name: Anwar
-  last_name: al-Awlaqi
-  whole_name: Anwar al-Awlaqi
+  middle_name: Nasser Abdulla
+  last_name: Aulaqi
+  whole_name: Anwar Nasser Abdulla Aulaqi
   strong: true
   regulation_language: en
-  logical_id: '8234'
+  logical_id: '8237'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-12-10'
@@ -95,20 +84,31 @@ name_aliases:
     publication_date: '2011-12-10'
     number_title: 1285/2011 (OJ L328)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:328:0034:0035:EN:PDF
-citizenships:
-- country_iso2_code: US
-  country_description: UNITED STATES
+- first_name: Anwar
+  last_name: al-Awlaqi
+  whole_name: Anwar al-Awlaqi
+  strong: true
   regulation_language: en
-  logical_id: '598'
+  logical_id: '8234'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-12-10'
     number_title: 1285/2011 (OJ L328)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:328:0034:0035:EN:PDF
+citizenships:
 - country_iso2_code: YE
   country_description: YEMEN
   regulation_language: en
   logical_id: '599'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-12-10'
+    number_title: 1285/2011 (OJ L328)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:328:0034:0035:EN:PDF
+- country_iso2_code: US
+  country_description: UNITED STATES
+  regulation_language: en
+  logical_id: '598'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-12-10'

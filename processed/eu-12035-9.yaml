@@ -14,63 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ferma lui Moshe
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '168341'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-15'
-    number_title: 2024/1960 (OJ L15072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
-- whole_name: Tirza-völgyi gazdaság telep
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '168340'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-15'
-    number_title: 2024/1960 (OJ L15072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
-- whole_name: Moshe’s Farm
-  function: An illegal outpost established in 2020 near the Hamra settlement in the
-    West Bank, also called ‘Tirza Valley Farm’
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168343'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-15'
-    number_title: 2024/1960 (OJ L15072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
-- whole_name: Tirza Valley Farm Outpost
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-15'
-    number_title: 2024/1960 (OJ L15072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
 - whole_name: החווה של משה
   name_language: HE
   strong: true
   regulation_language: en
   logical_id: '168332'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-15'
-    number_title: 2024/1960 (OJ L15072024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
-- whole_name: Moshe farm
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '168333'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-15'
@@ -116,6 +64,16 @@ name_aliases:
     publication_date: '2024-07-15'
     number_title: 2024/1960 (OJ L15072024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
+- whole_name: Moshe farm
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '168333'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-15'
+    number_title: 2024/1960 (OJ L15072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
 - whole_name: Mošeho farma
   name_language: CS
   strong: true
@@ -131,6 +89,48 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '168339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-15'
+    number_title: 2024/1960 (OJ L15072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
+- whole_name: Tirza-völgyi gazdaság telep
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '168340'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-15'
+    number_title: 2024/1960 (OJ L15072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
+- whole_name: Ferma lui Moshe
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '168341'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-15'
+    number_title: 2024/1960 (OJ L15072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
+- whole_name: Tirza Valley Farm Outpost
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-15'
+    number_title: 2024/1960 (OJ L15072024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401960
+- whole_name: Moshe’s Farm
+  function: An illegal outpost established in 2020 near the Hamra settlement in the
+    West Bank, also called ‘Tirza Valley Farm’
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168343'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-15'

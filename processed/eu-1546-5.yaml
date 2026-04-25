@@ -16,10 +16,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Omar Sab’awi Ibrahim Hasan Al-Tikriti
+- whole_name: Umar Ahmad Ali Al-Alusi
   strong: true
   regulation_language: en
-  logical_id: '4206'
+  logical_id: '4208'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'
@@ -34,10 +34,10 @@ name_aliases:
     publication_date: '2005-08-04'
     number_title: 1286/2005 (OJ L203)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
-- whole_name: Umar Ahmad Ali Al-Alusi
+- whole_name: Omar Sab’awi Ibrahim Hasan Al-Tikriti
   strong: true
   regulation_language: en
-  logical_id: '4208'
+  logical_id: '4206'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'
@@ -111,20 +111,20 @@ addresses:
     publication_date: '2005-08-04'
     number_title: 1286/2005 (OJ L203)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
-- country_iso2_code: YE
-  country_description: YEMEN
-  regulation_language: en
-  logical_id: '863'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-08-04'
-    number_title: 1286/2005 (OJ L203)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
 - city: Damascus
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
   logical_id: '861'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-08-04'
+    number_title: 1286/2005 (OJ L203)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:203:0017:0018:EN:PDF
+- country_iso2_code: YE
+  country_description: YEMEN
+  regulation_language: en
+  logical_id: '863'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-04'

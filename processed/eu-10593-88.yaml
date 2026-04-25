@@ -14,6 +14,34 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ksenija
+  middle_name: Pjatrouna
+  last_name: LEBEDZEVA
+  whole_name: Ksenija Pjatrouna LEBEDZEVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156909'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Ксенія
+  middle_name: Пятроўна
+  last_name: ЛЕБЕДЗЕВА
+  whole_name: Ксенія Пятроўна ЛЕБЕДЗЕВА
+  gender: F
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '156450'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Xenija
   middle_name: Piatrovna
   last_name: LEBEDZEVOVÁ
@@ -23,6 +51,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156980'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Ksenija
+  middle_name: Petrovna
+  last_name: LEBEDEVA
+  whole_name: Ksenija Petrovna LEBEDEVA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156908'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -80,48 +122,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156981'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Ксенія
-  middle_name: Пятроўна
-  last_name: ЛЕБЕДЗЕВА
-  whole_name: Ксенія Пятроўна ЛЕБЕДЗЕВА
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '156450'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Ksenija
-  middle_name: Petrovna
-  last_name: LEBEDEVA
-  whole_name: Ksenija Petrovna LEBEDEVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156908'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Ksenija
-  middle_name: Pjatrouna
-  last_name: LEBEDZEVA
-  whole_name: Ksenija Pjatrouna LEBEDZEVA
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156909'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

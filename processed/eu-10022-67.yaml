@@ -27,19 +27,6 @@ name_aliases:
     publication_date: '2023-04-24'
     number_title: 2023/844 (OJ L109 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- first_name: Noah
-  last_name: ZAYTAR
-  whole_name: Noah ZAYTAR
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '152819'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - whole_name: نوح زعيتر
   gender: M
   name_language: AR
@@ -59,6 +46,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152820'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
+- first_name: Noah
+  last_name: ZAYTAR
+  whole_name: Noah ZAYTAR
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '152819'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

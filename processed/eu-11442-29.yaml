@@ -15,20 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Jurij
-  middle_name: Vasilievič
-  last_name: Sitnikov
-  whole_name: Jurij Vasilievič Sitnikov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '164702'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Jurij
   middle_name: Vasiljevič
   last_name: Sitnikov
   whole_name: Jurij Vasiljevič Sitnikov
@@ -56,15 +42,15 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Juri
-  middle_name: Vasiljevitš
+- first_name: Jurij
+  middle_name: Vasilievič
   last_name: Sitnikov
-  whole_name: Juri Vasiljevitš Sitnikov
+  whole_name: Jurij Vasilievič Sitnikov
   gender: M
-  name_language: FI
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '164661'
+  logical_id: '164702'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'
@@ -94,6 +80,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164392'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Juri
+  middle_name: Vasiljevitš
+  last_name: Sitnikov
+  whole_name: Juri Vasiljevitš Sitnikov
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '164661'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

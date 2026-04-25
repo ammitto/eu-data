@@ -16,20 +16,10 @@ subject_type:
   classification_code: P
 name_aliases:
 - whole_name: Sab'awi Ibrahim Hassan Al-Tikriti
-  function: Presidential Advisor
+  function: Director of General Security, early 1990s
   strong: true
   regulation_language: en
-  logical_id: '145'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2003-07-08'
-    number_title: 1210/2003 (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
-- whole_name: Sab'awi Ibrahim Hassan Al-Tikriti
-  function: Chief, Iraqi Intelligence Services, 1990 to 1991
-  strong: true
-  regulation_language: en
-  logical_id: '147'
+  logical_id: '146'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -46,10 +36,20 @@ name_aliases:
     number_title: 1210/2003 (OJ L169)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - whole_name: Sab'awi Ibrahim Hassan Al-Tikriti
-  function: Director of General Security, early 1990s
+  function: Chief, Iraqi Intelligence Services, 1990 to 1991
   strong: true
   regulation_language: en
-  logical_id: '146'
+  logical_id: '147'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2003-07-08'
+    number_title: 1210/2003 (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
+- whole_name: Sab'awi Ibrahim Hassan Al-Tikriti
+  function: Presidential Advisor
+  strong: true
+  regulation_language: en
+  logical_id: '145'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
