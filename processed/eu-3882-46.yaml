@@ -28,16 +28,6 @@ name_aliases:
     publication_date: '2017-05-30'
     number_title: 2017/906 (OJ L139)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0906&from=EN
-- whole_name: Oumar Younous M'Betibangui
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106149'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-09-03'
-    number_title: 2015/1485 (OJ L229)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_229_R_0001&from=EN
 - first_name: Omar
   last_name: Younous
   whole_name: Omar Younous
@@ -45,6 +35,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106151'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-09-03'
+    number_title: 2015/1485 (OJ L229)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_229_R_0001&from=EN
+- whole_name: Oumar Sodiam
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106150'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-09-03'
@@ -62,11 +62,11 @@ name_aliases:
     publication_date: '2015-12-24'
     number_title: 2015/2454 (OJ L339)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_339_R_0003&from=EN
-- whole_name: Oumar Sodiam
+- whole_name: Oumar Younous M'Betibangui
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '106150'
+  logical_id: '106149'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-09-03'
@@ -99,11 +99,11 @@ birthdates:
     number_title: 2015/2454 (OJ L339)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_339_R_0003&from=EN
 addresses:
-- city: Bria
-  country_iso2_code: CF
-  country_description: CENTRAL AFRICAN REPUBLIC
+- city: Tullus, southern Darfur
+  country_iso2_code: SD
+  country_description: SUDAN
   regulation_language: en
-  logical_id: '106147'
+  logical_id: '106145'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-09-03'
@@ -119,11 +119,11 @@ addresses:
     publication_date: '2015-09-03'
     number_title: 2015/1485 (OJ L229)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_229_R_0001&from=EN
-- city: Tullus, southern Darfur
-  country_iso2_code: SD
-  country_description: SUDAN
+- city: Bria
+  country_iso2_code: CF
+  country_description: CENTRAL AFRICAN REPUBLIC
   regulation_language: en
-  logical_id: '106145'
+  logical_id: '106147'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-09-03'

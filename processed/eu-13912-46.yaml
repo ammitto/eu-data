@@ -37,19 +37,19 @@ name_aliases:
     number_title: 2025/2568 (OJ L202502568)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
 citizenships:
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
+- country_iso2_code: US
+  country_description: UNITED STATES
   regulation_language: en
-  logical_id: '180202'
+  logical_id: '180203'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'
     number_title: 2025/2568 (OJ L202502568)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
-- country_iso2_code: US
-  country_description: UNITED STATES
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
   regulation_language: en
-  logical_id: '180203'
+  logical_id: '180202'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'

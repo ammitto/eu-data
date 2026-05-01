@@ -16,42 +16,6 @@ subject_type:
 name_aliases:
 - first_name: Andrey
   middle_name: Vladimirovich
-  last_name: CHEREZOV
-  whole_name: Andrey Vladimirovich CHEREZOV
-  function: "Former Vice-Minister for \nEnergy of the Russian \nFederation."
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '113781'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Andrej Vladimirovitj TJEREZOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '131444'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Andrej Wladimirowitsch TSCHERESOW
-  gender: M
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '131445'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-09-13'
-    number_title: 2021/1464 (OJ L321)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- first_name: Andrey
-  middle_name: Vladimirovich
   last_name: TSCHERESOW
   whole_name: Andrey Vladimirovich TSCHERESOW
   gender: M
@@ -73,6 +37,42 @@ name_aliases:
     publication_date: '2020-03-13'
     number_title: 2020/398 (OJ L78)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
+- whole_name: Andrej Vladimirovitj TJEREZOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '131444'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- first_name: Andrey
+  middle_name: Vladimirovich
+  last_name: CHEREZOV
+  whole_name: Andrey Vladimirovich CHEREZOV
+  function: "Former Vice-Minister for \nEnergy of the Russian \nFederation."
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '113781'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
+- whole_name: Andrej Wladimirowitsch TSCHERESOW
+  gender: M
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '131445'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-09-13'
+    number_title: 2021/1464 (OJ L321)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
 birthdates:
 - birthdate: '1967-10-12'
   circa: false

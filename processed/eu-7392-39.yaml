@@ -14,61 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Petr
-  middle_name: Olegovich
-  last_name: TOLSTOY
-  whole_name: Petr Olegovich TOLSTOY
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '135332'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Pyotr
-  middle_name: Olegovich
-  last_name: TOLSTOY
-  whole_name: Pyotr Olegovich TOLSTOY
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '142842'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Pjotr
-  middle_name: Olegovitj
-  last_name: TOLSTOJ
-  whole_name: Pjotr Olegovitj TOLSTOJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '135412'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Pjotr
-  last_name: Tolstoj
-  whole_name: Pjotr Tolstoj
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152107'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Пётр
   middle_name: Олегович
   last_name: ТОЛСТОЙ
@@ -101,6 +46,61 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Pyotr
+  middle_name: Olegovich
+  last_name: TOLSTOY
+  whole_name: Pyotr Olegovich TOLSTOY
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '142842'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Pjotr
+  middle_name: Olegovitj
+  last_name: TOLSTOJ
+  whole_name: Pjotr Olegovitj TOLSTOJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '135412'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Petr
+  middle_name: Olegovich
+  last_name: TOLSTOY
+  whole_name: Petr Olegovich TOLSTOY
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '135332'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Pjotr
+  last_name: Tolstoj
+  whole_name: Pjotr Tolstoj
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152107'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

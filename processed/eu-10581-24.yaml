@@ -14,22 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Siarhei
-  middle_name: Vasilyevich
-  last_name: MASLIUKOU
-  whole_name: Siarhei Vasilyevich MASLIUKOU
-  function: Head colonel of the internal service of the educational colony n°2 in
-    Bobruysk
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156363'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Sergey
   middle_name: Vasilyevich
   last_name: MASLIUKOV
@@ -44,29 +28,17 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Сергей
-  middle_name: Васильевич
-  last_name: МАСЛЮКОВ
-  whole_name: Сергей Васильевич МАСЛЮКОВ
+- first_name: Siarhei
+  middle_name: Vasilyevich
+  last_name: MASLIUKOU
+  whole_name: Siarhei Vasilyevich MASLIUKOU
+  function: Head colonel of the internal service of the educational colony n°2 in
+    Bobruysk
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156361'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Сяргей
-  middle_name: Васільевіч
-  last_name: МАСЛЮКОЎ
-  whole_name: Сяргей Васільевіч МАСЛЮКОЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '156360'
+  logical_id: '156363'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -86,6 +58,20 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Сяргей
+  middle_name: Васільевіч
+  last_name: МАСЛЮКОЎ
+  whole_name: Сяргей Васільевіч МАСЛЮКОЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '156360'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Sergej
   middle_name: Vasiljevitj
   last_name: MASLJUKOV
@@ -95,6 +81,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156887'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Сергей
+  middle_name: Васильевич
+  last_name: МАСЛЮКОВ
+  whole_name: Сергей Васильевич МАСЛЮКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156361'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

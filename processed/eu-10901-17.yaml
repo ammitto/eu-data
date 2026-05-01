@@ -14,43 +14,29 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Сергей
-  middle_name: Яўгенавіч
-  last_name: ЛАГАДЗЮК
-  whole_name: Сергей Яўгенавіч ЛАГАДЗЮК
+- first_name: Sergej
+  middle_name: Jevgenjevitj
+  last_name: LAGODJUK
+  whole_name: Sergej Jevgenjevitj LAGODJUK
   gender: M
-  name_language: BE
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159602'
+  logical_id: '160639'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Сергей
-  middle_name: Евгеньевич
-  last_name: ЛАГОДЮК
-  whole_name: Сергей Евгеньевич ЛАГОДЮК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159603'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Siarhei
-  middle_name: Evgenievich
+- first_name: Serhej
+  middle_name: Jauhenavitj
   last_name: LAHADZIUK
-  whole_name: Siarhei Evgenievich LAHADZIUK
+  whole_name: Serhej Jauhenavitj LAHADZIUK
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '159604'
+  logical_id: '160638'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -73,15 +59,29 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Sergej
-  middle_name: Jevgenjevitj
-  last_name: LAGODJUK
-  whole_name: Sergej Jevgenjevitj LAGODJUK
+- first_name: Siarhei
+  middle_name: Evgenievich
+  last_name: LAHADZIUK
+  whole_name: Siarhei Evgenievich LAHADZIUK
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160639'
+  logical_id: '159604'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Сергей
+  middle_name: Евгеньевич
+  last_name: ЛАГОДЮК
+  whole_name: Сергей Евгеньевич ЛАГОДЮК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159603'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -100,28 +100,15 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Sergej
-  last_name: Lagadzjuk
-  whole_name: Sergej Lagadzjuk
+- first_name: Сергей
+  middle_name: Яўгенавіч
+  last_name: ЛАГАДЗЮК
+  whole_name: Сергей Яўгенавіч ЛАГАДЗЮК
   gender: M
-  name_language: CS
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '160846'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Serhej
-  middle_name: Jauhenavitj
-  last_name: LAHADZIUK
-  whole_name: Serhej Jauhenavitj LAHADZIUK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160638'
+  logical_id: '159602'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -135,6 +122,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160847'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Sergej
+  last_name: Lagadzjuk
+  whole_name: Sergej Lagadzjuk
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160846'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

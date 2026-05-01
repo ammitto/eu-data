@@ -31,19 +31,6 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Andrej
-  last_name: Rybakov
-  whole_name: Andrej Rybakov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '172252'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Андрей
   middle_name: Алексеевич
   last_name: РЫБАКОВ
@@ -53,6 +40,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170981'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Andrej
+  last_name: Rybakov
+  whole_name: Andrej Rybakov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '172252'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -116,11 +116,11 @@ birthdates:
   day_of_month: 11
   month_of_year: 7
   year: 1976
-  city: Mohiliow
+  city: Mogilev
   country_iso2_code: BY
   country_description: BELARUS
   regulation_language: en
-  logical_id: '170978'
+  logical_id: '170979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -132,11 +132,11 @@ birthdates:
   day_of_month: 11
   month_of_year: 7
   year: 1976
-  city: Mogilev
+  city: Mohiliow
   country_iso2_code: BY
   country_description: BELARUS
   regulation_language: en
-  logical_id: '170979'
+  logical_id: '170978'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Svjatlana
-  middle_name: Pjatrouna
-  last_name: KATSUBA
-  whole_name: Svjatlana Pjatrouna KATSUBA
+- first_name: Святлана
+  middle_name: Пятроўна
+  last_name: КАЦУБА
+  whole_name: Святлана Пятроўна КАЦУБА
   gender: F
-  name_language: SV
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '127961'
+  logical_id: '125547'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -45,34 +45,6 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Светлана
-  middle_name: Петровна
-  last_name: КАЦУБО
-  whole_name: Светлана Петровна КАЦУБО
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '125546'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Святлана
-  middle_name: Пятроўна
-  last_name: КАЦУБА
-  whole_name: Святлана Пятроўна КАЦУБА
-  gender: F
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '125547'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Svetlana
   middle_name: Petrovna
   last_name: KATSUBO
@@ -82,6 +54,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '125549'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Svjatlana
+  middle_name: Pjatrouna
+  last_name: KATSUBA
+  whole_name: Svjatlana Pjatrouna KATSUBA
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '127961'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Светлана
+  middle_name: Петровна
+  last_name: КАЦУБО
+  whole_name: Светлана Петровна КАЦУБО
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '125546'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

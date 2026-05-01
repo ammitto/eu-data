@@ -150,16 +150,6 @@ addresses:
     number_title: 2021/549 (OJ L109)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 identifications:
-- identification_type_code: passport
-  number: '01461558'
-  country_iso2_code: QA
-  regulation_language: en
-  logical_id: '129091'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-30'
-    number_title: 2021/549 (OJ L109)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
 - identification_type_code: id
   number: '25463400086'
   country_iso2_code: QA
@@ -175,6 +165,16 @@ identifications:
   country_iso2_code: QA
   regulation_language: en
   logical_id: '886'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-30'
+    number_title: 2021/549 (OJ L109)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.109.01.0077.01.ENG&toc=OJ%3AL%3A2021%3A109%3ATOC
+- identification_type_code: passport
+  number: '01461558'
+  country_iso2_code: QA
+  regulation_language: en
+  logical_id: '129091'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-30'

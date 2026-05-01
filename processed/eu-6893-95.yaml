@@ -29,6 +29,17 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Leonid Ivanovitj BABASJOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '133826'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-21'
+    number_title: 2022/236 (OJ L40)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
 - first_name: Леонид
   middle_name: Иванович
   last_name: БАБАШОВ
@@ -43,17 +54,6 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Leonid Ivanovitj BABASJOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '133826'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-21'
-    number_title: 2022/236 (OJ L40)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.040.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A040%3ATOC
 birthdates:
 - birthdate: '1966-01-31'
   circa: false

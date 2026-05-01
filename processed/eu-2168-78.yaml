@@ -14,15 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Muhammad Ashraf Manshah
-  strong: true
-  regulation_language: en
-  logical_id: '17552'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-08-06'
-    number_title: 754/2013 (OJ L210)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
 - first_name: Haji
   middle_name: M.
   last_name: Ashraf
@@ -35,15 +26,6 @@ name_aliases:
     publication_date: '2009-03-07'
     number_title: 184/2009 (OJ L63)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
-- whole_name: Muhammad Ashraf Munsha
-  strong: true
-  regulation_language: en
-  logical_id: '17553'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-08-06'
-    number_title: 754/2013 (OJ L210)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
 - first_name: Haji
   middle_name: Muhammad
   last_name: Ashraf
@@ -56,6 +38,24 @@ name_aliases:
     publication_date: '2009-03-07'
     number_title: 184/2009 (OJ L63)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
+- whole_name: Muhammad Ashraf Manshah
+  strong: true
+  regulation_language: en
+  logical_id: '17552'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-08-06'
+    number_title: 754/2013 (OJ L210)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
+- whole_name: Muhammad Ashraf Munsha
+  strong: true
+  regulation_language: en
+  logical_id: '17553'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-08-06'
+    number_title: 754/2013 (OJ L210)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
 citizenships:
 - country_iso2_code: PK
   country_description: PAKISTAN
@@ -117,21 +117,21 @@ identifications:
     publication_date: '2013-08-06'
     number_title: 754/2013 (OJ L210)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
-- identification_type_code: id
-  number: '24492025390'
-  country_iso2_code: PK
-  regulation_language: en
-  logical_id: '863'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2013-08-06'
-    number_title: 754/2013 (OJ L210)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
 - identification_type_code: passport
   number: AT0712501
   country_iso2_code: PK
   regulation_language: en
   logical_id: '860'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2013-08-06'
+    number_title: 754/2013 (OJ L210)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:210:0024:0025:EN:PDF
+- identification_type_code: id
+  number: '24492025390'
+  country_iso2_code: PK
+  regulation_language: en
+  logical_id: '863'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2013-08-06'

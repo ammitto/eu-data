@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Елена Игоревна МИЛЬСКАЯ
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '166767'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Elena
   middle_name: Igorevna
   last_name: MILSKAYA
@@ -40,6 +29,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166768'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Елена Игоревна МИЛЬСКАЯ
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '166767'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

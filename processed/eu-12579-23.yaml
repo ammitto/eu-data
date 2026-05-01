@@ -14,15 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yong Bok
+- first_name: Young Bok
   last_name: KIM
-  whole_name: Yong Bok KIM
-  function: Deputy Chief of the General Staff of the Korean People’s Army
+  whole_name: Young Bok KIM
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '171491'
+  logical_id: '171489'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -39,14 +38,15 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- first_name: Young Bok
+- first_name: Yong Bok
   last_name: KIM
-  whole_name: Young Bok KIM
+  whole_name: Yong Bok KIM
+  function: Deputy Chief of the General Staff of the Korean People’s Army
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '171489'
+  logical_id: '171491'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

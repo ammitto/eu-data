@@ -15,12 +15,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Engineer Ismail
+- first_name: Abdullahi Osman Mohamed
+  last_name: Caddow
+  whole_name: Abdullahi Osman Mohamed Caddow
+  function: senior explosive expert responsible for the overall management of al-Shabaab’s
+    explosives operations and manufacturing
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158043'
+  logical_id: '158049'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-12'
@@ -50,16 +54,12 @@ name_aliases:
     publication_date: '2023-06-12'
     number_title: 2023/1147 (OJ L151 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1147
-- first_name: Abdullahi Osman Mohamed
-  last_name: Caddow
-  whole_name: Abdullahi Osman Mohamed Caddow
-  function: senior explosive expert responsible for the overall management of al-Shabaab’s
-    explosives operations and manufacturing
+- whole_name: Engineer Ismail
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158049'
+  logical_id: '158043'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-12'

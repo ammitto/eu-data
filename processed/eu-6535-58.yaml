@@ -14,33 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aleksandr Vladimirovich POLULEKH
+- whole_name: Aljaksandr Uladzimiravitj PALULECH
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '130998'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Александр Владимирович ПОЛУЛЕХ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '130997'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Аляксандр Уладзіміравіч ПАЛУЛЕХ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '130996'
+  logical_id: '130994'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -57,12 +36,22 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Aljaksandr Uladzimiravitj PALULECH
+- whole_name: Аляксандр Уладзіміравіч ПАЛУЛЕХ
   gender: M
-  name_language: SV
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '130994'
+  logical_id: '130996'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Aleksandr Vladimirovich POLULEKH
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130998'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -74,6 +63,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130999'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Александр Владимирович ПОЛУЛЕХ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '130997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

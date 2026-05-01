@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Oleg
-  middle_name: Anatoljevitj
-  last_name: BARANOV
-  whole_name: Oleg Anatoljevitj BARANOV
+- first_name: Олег
+  middle_name: Анатольевич
+  last_name: БАРАНОВ
+  whole_name: Олег Анатольевич БАРАНОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '156048'
+  logical_id: '155529'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -44,15 +44,15 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Олег
-  middle_name: Анатольевич
-  last_name: БАРАНОВ
-  whole_name: Олег Анатольевич БАРАНОВ
+- first_name: Oleg
+  middle_name: Anatoljevitj
+  last_name: BARANOV
+  whole_name: Oleg Anatoljevitj BARANOV
   gender: M
-  name_language: RU
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '155529'
+  logical_id: '156048'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

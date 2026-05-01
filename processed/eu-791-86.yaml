@@ -18,15 +18,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Allah Dad Tabeeb
+- whole_name: Allah Dad Tayyab
+  title: Haji
   strong: true
   regulation_language: en
-  logical_id: '102173'
+  logical_id: '5965'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+    publication_date: '2012-06-26'
+    number_title: 543/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 - first_name: Allah Dad
   middle_name: Tayeb Wali
   last_name: Muhammad
@@ -42,16 +43,15 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Allah Dad Tayyab
-  title: Haji
+- whole_name: Allah Dad Tabeeb
   strong: true
   regulation_language: en
-  logical_id: '5965'
+  logical_id: '102173'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 543/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN

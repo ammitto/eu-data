@@ -222,18 +222,6 @@ addresses:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 1, Shop number 1584 Furqan (variant Fahr Khan) Center, Chalhor
-    Mal Road
-  city: Quetta, Baluchistan Province
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '2325'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
 - street: Branch Office 8
   city: Lakri City, Helmand Province
   country_iso2_code: AF
@@ -245,12 +233,13 @@ addresses:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 4 Hazar Joft
-  city: Garmser District, Helmand Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
+- street: Branch Office 1, Shop number 1584 Furqan (variant Fahr Khan) Center, Chalhor
+    Mal Road
+  city: Quetta, Baluchistan Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
   regulation_language: en
-  logical_id: '2335'
+  logical_id: '2325'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'
@@ -267,6 +256,28 @@ addresses:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- street: Branch Office 4 Hazar Joft
+  city: Garmser District, Helmand Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2335'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
+- street: Branch Office 11 Aziz Market, in front of Azizi Bank
+  city: Waish Border, Spin Boldak District, Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2343'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-07-17'
+    number_title: 643/2012 (OJ L187)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
 - street: Branch Office 3 Lashkar Gah Bazaar
   city: Helmand Province
   country_iso2_code: AF
@@ -289,17 +300,6 @@ addresses:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 2 Safar Bazaar
-  city: Garmser District, Helmand Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2330'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-07-17'
-    number_title: 643/2012 (OJ L187)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
 - street: Branch Office 1, Shop number 1, 1st Floor Kadari Place, Abdul Samad Khan
     Street (next to Fatima Jena Road)
   city: Quetta, Baluchistan Province
@@ -312,12 +312,12 @@ addresses:
     publication_date: '2012-07-17'
     number_title: 643/2012 (OJ L187)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:187:0013:0017:EN:PDF
-- street: Branch Office 11 Aziz Market, in front of Azizi Bank
-  city: Waish Border, Spin Boldak District, Kandahar Province
+- street: Branch Office 2 Safar Bazaar
+  city: Garmser District, Helmand Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '2343'
+  logical_id: '2330'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-07-17'

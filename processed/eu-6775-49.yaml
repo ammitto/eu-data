@@ -14,23 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Stanislav Jevgenjevitj DYTJKO
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '132723'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2195 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
 - whole_name: Станислав Евгеньевич Дычко
   gender: M
   name_language: RU
   strong: true
   regulation_language: en
   logical_id: '132547'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2195 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.445.01.0010.01.ENG&toc=OJ%3AL%3A2021%3A445I%3ATOC
+- whole_name: Stanislav Jevgenjevitj DYTJKO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '132723'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-13'

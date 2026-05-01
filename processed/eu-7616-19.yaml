@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrej
-  middle_name: Igorevič
-  last_name: Melničenko
-  whole_name: Andrej Igorevič Melničenko
-  gender: M
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '152343'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Andrey
   middle_name: Igorevich
   last_name: MELNICHENKO
@@ -39,32 +25,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-15'
-    number_title: 2025/527 (OJ L202500527)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
-- first_name: Andrej
-  last_name: Melničenko
-  whole_name: Andrej Melničenko
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152175'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Andriej
-  last_name: Mielniczenko
-  whole_name: Andriej Mielniczenko
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '173938'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-15'
@@ -92,6 +52,46 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Andriej
+  last_name: Mielniczenko
+  whole_name: Andriej Mielniczenko
+  gender: M
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '173938'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-15'
+    number_title: 2025/527 (OJ L202500527)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- first_name: Andrej
+  last_name: Melničenko
+  whole_name: Andrej Melničenko
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152175'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Andrej
+  middle_name: Igorevič
+  last_name: Melničenko
+  whole_name: Andrej Igorevič Melničenko
+  gender: M
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '152343'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

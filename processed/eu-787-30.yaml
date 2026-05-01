@@ -14,6 +14,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Umar Uthman
+  strong: true
+  regulation_language: en
+  logical_id: '1690'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-02-09'
+    number_title: 110/2010 (OJ L36)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
+- whole_name: Abu Umar Umar
+  strong: true
+  regulation_language: en
+  logical_id: '1689'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-02-09'
+    number_title: 110/2010 (OJ L36)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
 - whole_name: Al-Samman Uthman
   strong: true
   regulation_language: en
@@ -41,10 +59,10 @@ name_aliases:
     publication_date: '2010-02-09'
     number_title: 110/2010 (OJ L36)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
-- whole_name: Omar Mohammed Othman
+- whole_name: Abu Qatada Al-Filistini
   strong: true
   regulation_language: en
-  logical_id: '7731'
+  logical_id: '1684'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-02-09'
@@ -72,28 +90,10 @@ name_aliases:
     publication_date: '2002-05-29'
     number_title: 881/2002 (OJ L139)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:139:0009:0022:EN:PDF
-- whole_name: Umar Uthman
+- whole_name: Omar Mohammed Othman
   strong: true
   regulation_language: en
-  logical_id: '1690'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-02-09'
-    number_title: 110/2010 (OJ L36)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
-- whole_name: Abu Umar Umar
-  strong: true
-  regulation_language: en
-  logical_id: '1689'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-02-09'
-    number_title: 110/2010 (OJ L36)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
-- whole_name: Abu Qatada Al-Filistini
-  strong: true
-  regulation_language: en
-  logical_id: '1684'
+  logical_id: '7731'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-02-09'

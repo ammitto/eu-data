@@ -14,6 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Александр Сергеевич КУЗНЕЦОВ
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '132526'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2192 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2192&from=EN
+- whole_name: Alexander Sergeevich KUZNETSOV
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '132527'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-13'
+    number_title: 2021/2192 (OJ L445I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2192&from=EN
 - whole_name: Aleksandr Sergeevich KUZNETSOV
   function: Commander of 1st Attack and Reconnaissance Company of the Wagner Group
   gender: M
@@ -31,26 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132711'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2192 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2192&from=EN
-- whole_name: Alexander Sergeevich KUZNETSOV
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '132527'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-13'
-    number_title: 2021/2192 (OJ L445I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R2192&from=EN
-- whole_name: Александр Сергеевич КУЗНЕЦОВ
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '132526'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-13'

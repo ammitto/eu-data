@@ -14,21 +14,13 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО Авиационные  Системы и Комплексы
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '179797'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: LLC ASK
+- whole_name: LLC Aviation Systems and  Complexes
+  function: A Russian developer and manufacturer of unmanned aerial vehicles (UAVs).
+    It manufactures the first-person view UAV ASK X-2 used by the Russian Armed Forces
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179798'
+  logical_id: '179799'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -44,13 +36,21 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: LLC Aviation Systems and  Complexes
-  function: A Russian developer and manufacturer of unmanned aerial vehicles (UAVs).
-    It manufactures the first-person view UAV ASK X-2 used by the Russian Armed Forces
+- whole_name: ООО Авиационные  Системы и Комплексы
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '179797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: LLC ASK
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179799'
+  logical_id: '179798'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

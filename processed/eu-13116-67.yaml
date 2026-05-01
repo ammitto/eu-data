@@ -50,18 +50,6 @@ name_aliases:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 addresses:
-- street: Room 1, 3rd Floor, Workshop No. 8 - Jinghe Street,
-  city: Wuhan
-  region: Dongxihu District
-  country_iso2_code: CN
-  country_description: CHINA
-  regulation_language: en
-  logical_id: '175559'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - street: The 3nd floor, Building 8, Xinghong
   city: Dongxihu District
   region: Wuhan, Hubei,
@@ -69,6 +57,18 @@ addresses:
   country_description: CHINA
   regulation_language: en
   logical_id: '175558'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- street: Room 1, 3rd Floor, Workshop No. 8 - Jinghe Street,
+  city: Wuhan
+  region: Dongxihu District
+  country_iso2_code: CN
+  country_description: CHINA
+  regulation_language: en
+  logical_id: '175559'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

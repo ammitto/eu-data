@@ -115,15 +115,6 @@ addresses:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- country_iso2_code: BD
-  country_description: BANGLADESH
-  regulation_language: en
-  logical_id: '1750'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-17'
-    number_title: 577/2011 (OJ L159)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
 - street: PO box 548
   region: Illinois
   country_iso2_code: US
@@ -136,14 +127,20 @@ addresses:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- street: 8820 Mobile Avenue, 1A
-  city: Oak Lawn
-  region: Illinois
-  country_iso2_code: US
-  country_description: UNITED STATES
-  zip_code: '60453'
+- country_iso2_code: BD
+  country_description: BANGLADESH
   regulation_language: en
-  logical_id: '300'
+  logical_id: '1750'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-17'
+    number_title: 577/2011 (OJ L159)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
+- city: Khartoum
+  country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '161574'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
@@ -159,11 +156,14 @@ addresses:
     publication_date: '2011-06-17'
     number_title: 577/2011 (OJ L159)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
-- city: Khartoum
-  country_iso2_code: SD
-  country_description: SUDAN
+- street: 8820 Mobile Avenue, 1A
+  city: Oak Lawn
+  region: Illinois
+  country_iso2_code: US
+  country_description: UNITED STATES
+  zip_code: '60453'
   regulation_language: en
-  logical_id: '161574'
+  logical_id: '300'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'

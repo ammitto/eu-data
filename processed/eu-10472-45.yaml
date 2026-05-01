@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: فریدون محمدی سقایی
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '155746'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1498 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1498
 - first_name: Fereydoun Mohammadi
   last_name: SAGHAEI
   whole_name: Fereydoun Mohammadi SAGHAEI
@@ -24,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155747'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1498 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1498
-- whole_name: فریدون محمدی سقایی
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '155746'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

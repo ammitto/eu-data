@@ -80,6 +80,18 @@ citizenships:
     number_title: 184/2009 (OJ L63)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
 birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1943
+  country_iso2_code: IN
+  country_description: INDIA
+  regulation_language: en
+  logical_id: '1113'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-03-07'
+    number_title: 184/2009 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
 - birthdate: '1943-08-17'
   circa: false
   calendar_type: GREGORIAN
@@ -102,18 +114,6 @@ birthdates:
   country_description: INDIA
   regulation_language: en
   logical_id: '1114'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-03-07'
-    number_title: 184/2009 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:063:0011:0012:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1943
-  country_iso2_code: IN
-  country_description: INDIA
-  regulation_language: en
-  logical_id: '1113'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2009-03-07'

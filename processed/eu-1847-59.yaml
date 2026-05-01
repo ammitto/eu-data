@@ -17,96 +17,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Център за отбранителни технологии и научни изследвания
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '5473'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Centro de Investigación Tecnológica y Científica de Defensa
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '5478'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Instituto de Investigación Pedagógica/Moassese Amozeh Va Tahgiaghati
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '5479'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Raziskovalni center za obrambno tehnologijo in znanost
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '5483'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Raziskovalni center za izobraževanje/Moassese Amozeh Va Tahgiaghati
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '5484'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Středisko obranné technologie a vědeckého výzkumu
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '5494'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Vzdělávací výzkumný institut/Moassese Amozeh Va Tahgiaghati
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '5495'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Centrum obrannej technológie a vedeckého výskumu
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '5498'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
-- whole_name: Vzdelávací výskumný inštitút Moassese Amozeh Va Tahgiaghati
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '5503'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-04-24'
-    number_title: 2007/242/EC (OJ L106)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
 - whole_name: Centre de recherche sur les sciences et les technologies de la défense
   name_language: FR
   strong: true
@@ -406,6 +316,96 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Център за отбранителни технологии и научни изследвания
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '5473'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Centro de Investigación Tecnológica y Científica de Defensa
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '5478'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Instituto de Investigación Pedagógica/Moassese Amozeh Va Tahgiaghati
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '5479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Raziskovalni center za obrambno tehnologijo in znanost
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '5483'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Raziskovalni center za izobraževanje/Moassese Amozeh Va Tahgiaghati
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '5484'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Středisko obranné technologie a vědeckého výzkumu
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '5494'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Vzdělávací výzkumný institut/Moassese Amozeh Va Tahgiaghati
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '5495'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Centrum obrannej technológie a vedeckého výskumu
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '5498'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
+- whole_name: Vzdelávací výskumný inštitút Moassese Amozeh Va Tahgiaghati
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '5503'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-04-24'
+    number_title: 2007/242/EC (OJ L106)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:106:0051:0054:EN:PDF
 addresses:
 - street: Pasdaran Av.
   city: Tehran

@@ -15,19 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Toe
-  last_name: YI
-  whole_name: Toe YI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159013'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-06'
-    number_title: 2023/2722 (OJ L05122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
-- first_name: Toe
   last_name: UI
   whole_name: Toe UI
   function: Deputy Minister of Home Affairs, Myanmar
@@ -42,6 +29,19 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- first_name: Toe
+  last_name: YI
+  whole_name: Toe YI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '159013'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-06'
+    number_title: 2023/2722 (OJ L05122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302722
 citizenships:
 - country_iso2_code: MM
   country_description: MYANMAR

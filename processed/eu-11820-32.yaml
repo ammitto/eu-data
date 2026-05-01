@@ -14,74 +14,12 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: sociedade por ações de capital aberto «Associação Ótica e Mecânica Bielorrussa»
-  name_language: PT
+- whole_name: Ανοικτή συμμετοχική εταιρεία «Minsk Mechanical Plant named after S.I.
+    Vavilov» — διαχειριστική εταιρεία υπό την ελέγχουσα εταιρεία «BelOMO»
+  name_language: EL
   strong: true
   regulation_language: en
-  logical_id: '167122'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: ОАО “Белорусское  оптико-механическое объединение”
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '167730'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: OJSC „Białoruskie Stowarzyszenie Optyczno- Mechaniczne”
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '167124'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Publiczna spółka akcyjna „Mińskie Zakłady Mechaniczne im. Wawiłowa”
-    – spółka zarządzająca holdingiem „BelOMO”
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '167125'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Belarussische organisatie voor optisch-mechanische toepassingen
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '167126'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Societatea deschisă pe acțiuni «Uzina mecanică din Minsk denumită după
-    S.I. Vavilov» - societate de administrare care face parte din holdingul «BelOMO»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '167121'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: "»Belarusz Optikai és Mechanikai Szövetség« Nyrt. OJSC »Belarusian Optical
-    and Mechanical Association«"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '167131'
+  logical_id: '167133'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -99,33 +37,43 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Ανοικτή συμμετοχική εταιρεία «Minsk Mechanical Plant named after S.I.
-    Vavilov» — διαχειριστική εταιρεία υπό την ελέγχουσα εταιρεία «BelOMO»
-  name_language: EL
+- whole_name: "»Belarusz Optikai és Mechanikai Szövetség« Nyrt. OJSC »Belarusian Optical
+    and Mechanical Association«"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '167133'
+  logical_id: '167131'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Otvorená akciová spoločnosť „Minsk Mechanical Plant S.I. Vavilova“ –
-    správcovská spoločnosť holdingu „BelOMO“
-  name_language: SK
+- whole_name: Belarussische organisatie voor optisch-mechanische toepassingen
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '167134'
+  logical_id: '167126'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Běloruské  opticko-mechanické sdružení ‚BelOMO‘
-  name_language: CS
+- whole_name: Publiczna spółka akcyjna „Mińskie Zakłady Mechaniczne im. Wawiłowa”
+    – spółka zarządzająca holdingiem „BelOMO”
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '167625'
+  logical_id: '167125'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: OJSC „Białoruskie Stowarzyszenie Optyczno- Mechaniczne”
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '167124'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -137,6 +85,38 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167123'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: sociedade por ações de capital aberto «Associação Ótica e Mecânica Bielorrussa»
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '167122'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Societatea deschisă pe acțiuni «Uzina mecanică din Minsk denumită după
+    S.I. Vavilov» - societate de administrare care face parte din holdingul «BelOMO»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '167121'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Otvorená akciová spoločnosť „Minsk Mechanical Plant S.I. Vavilova“ –
+    správcovská spoločnosť holdingu „BelOMO“
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '167134'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -184,11 +164,31 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: ОАО “Белорусское  оптико-механическое объединение”
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '167730'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: BelOMO
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '167729'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- whole_name: Běloruské  opticko-mechanické sdružení ‚BelOMO‘
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '167625'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -208,20 +208,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 identifications:
 - identification_type_code: other
-  number: '14541426'
+  number: '100185185'
   country_iso2_code: BY
   regulation_language: en
-  logical_id: '167073'
+  logical_id: '167074'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - identification_type_code: other
-  number: '100185185'
+  number: '14541426'
   country_iso2_code: BY
   regulation_language: en
-  logical_id: '167074'
+  logical_id: '167073'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

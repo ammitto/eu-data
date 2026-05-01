@@ -14,48 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aleh
-  middle_name: Genadzevich
-  last_name: ARLOU
-  whole_name: Aleh Genadzevich ARLOU
-  function: Businessperson operating in Belarus. Owner of Ruzekspeditsiya LLC.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '170976'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Aleh
-  last_name: Arlov
-  whole_name: Aleh Arlov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '172251'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Олег
-  middle_name: Геннадьевич
-  last_name: ОРЛОВ
-  whole_name: Олег Геннадьевич ОРЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '170972'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Алег
   middle_name: Генадзевіч
   last_name: АРЛОЎ
@@ -79,6 +37,48 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170975'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Aleh
+  last_name: Arlov
+  whole_name: Aleh Arlov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '172251'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Aleh
+  middle_name: Genadzevich
+  last_name: ARLOU
+  whole_name: Aleh Genadzevich ARLOU
+  function: Businessperson operating in Belarus. Owner of Ruzekspeditsiya LLC.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '170976'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Олег
+  middle_name: Геннадьевич
+  last_name: ОРЛОВ
+  whole_name: Олег Геннадьевич ОРЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '170972'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

@@ -142,26 +142,6 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1208&from=EN
 identifications:
 - identification_type_code: passport
-  number: B002606
-  country_iso2_code: SD
-  regulation_language: en
-  logical_id: '117879'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-08-13'
-    number_title: 2018/1115 (OJ L204)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
-- identification_type_code: passport
-  number: D00001369
-  country_iso2_code: SS
-  regulation_language: en
-  logical_id: '117882'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-08-13'
-    number_title: 2018/1115 (OJ L204)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
-- identification_type_code: passport
   number: DA025963
   country_iso2_code: UG
   regulation_language: en
@@ -172,10 +152,10 @@ identifications:
     number_title: 2019/1208 (OJ L 191)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1208&from=EN
 - identification_type_code: passport
-  number: S00004370
-  country_iso2_code: SS
+  number: B002606
+  country_iso2_code: SD
   regulation_language: en
-  logical_id: '117883'
+  logical_id: '117879'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-13'
@@ -192,10 +172,30 @@ identifications:
     number_title: 2018/1115 (OJ L204)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
 - identification_type_code: passport
+  number: S00004370
+  country_iso2_code: SS
+  regulation_language: en
+  logical_id: '117883'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-08-13'
+    number_title: 2018/1115 (OJ L204)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
+- identification_type_code: passport
   number: '003606'
   country_iso2_code: SD
   regulation_language: en
   logical_id: '117881'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-08-13'
+    number_title: 2018/1115 (OJ L204)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1115&from=EN
+- identification_type_code: passport
+  number: D00001369
+  country_iso2_code: SS
+  regulation_language: en
+  logical_id: '117882'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-08-13'

@@ -101,11 +101,11 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: regnumber
-  number: '1097746813010'
+- identification_type_code: other
+  number: '771501001'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '174796'
+  logical_id: '174794'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -121,11 +121,11 @@ identifications:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- identification_type_code: other
-  number: '771501001'
+- identification_type_code: regnumber
+  number: '1097746813010'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '174794'
+  logical_id: '174796'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

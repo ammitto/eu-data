@@ -14,6 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Abdul Rahman
+  last_name: Yasin
+  whole_name: Abdul Rahman Yasin
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '1190'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-05-20'
+    number_title: 866/2003 (OJ L124)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
 - whole_name: Abdul Rahman S. Taha
   strong: true
   regulation_language: en
@@ -49,18 +61,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1194'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-05-20'
-    number_title: 866/2003 (OJ L124)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
-- first_name: Abdul Rahman
-  last_name: Yasin
-  whole_name: Abdul Rahman Yasin
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '1190'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-05-20'
@@ -114,21 +114,21 @@ identifications:
     publication_date: '2003-05-20'
     number_title: 866/2003 (OJ L124)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
-- identification_type_code: passport
-  number: '27082171'
-  country_iso2_code: US
-  regulation_language: en
-  logical_id: '8'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2003-05-20'
-    number_title: 866/2003 (OJ L124)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
 - identification_type_code: other
   number: M0887925
   country_iso2_code: IQ
   regulation_language: en
   logical_id: '9'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2003-05-20'
+    number_title: 866/2003 (OJ L124)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:124:0019:0022:EN:PDF
+- identification_type_code: passport
+  number: '27082171'
+  country_iso2_code: US
+  regulation_language: en
+  logical_id: '8'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2003-05-20'

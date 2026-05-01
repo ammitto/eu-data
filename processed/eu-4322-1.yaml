@@ -36,10 +36,10 @@ birthdates:
   calendar_type: GREGORIAN
   year: 1947
   city: Bor
-  country_iso2_code: SS
-  country_description: SOUTH SUDAN
+  country_iso2_code: SD
+  country_description: SUDAN
   regulation_language: en
-  logical_id: '115292'
+  logical_id: '167474'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-18'
@@ -49,10 +49,10 @@ birthdates:
   calendar_type: GREGORIAN
   year: 1947
   city: Bor
-  country_iso2_code: SD
-  country_description: SUDAN
+  country_iso2_code: SS
+  country_description: SOUTH SUDAN
   regulation_language: en
-  logical_id: '167474'
+  logical_id: '115292'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-18'

@@ -93,15 +93,6 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 citizenships:
-- country_iso2_code: RS
-  country_description: SERBIA
-  regulation_language: en
-  logical_id: '140923'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - country_iso2_code: HR
   country_description: CROATIA
   regulation_language: en
@@ -111,6 +102,15 @@ citizenships:
     publication_date: '2022-06-03'
     number_title: 2022/878 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- country_iso2_code: RS
+  country_description: SERBIA
+  regulation_language: en
+  logical_id: '140923'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 birthdates:
 - birthdate: '1977-04-21'
   circa: false

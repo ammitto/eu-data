@@ -34,11 +34,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: АО 195 РЗ РАВ
-  name_language: RU
+- whole_name: Uzina pentru repararea rachetelor și armamentului de artilerie 195
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '150865'
+  logical_id: '151071'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -54,21 +54,11 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: OPEN JOINT STOCK COMPANY “195 REPAIR PLANTS RACKET-ARTILLERY ARMS”
-  name_language: EN
+- whole_name: АО 195 РЗ РАВ
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '150864'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-25'
-    number_title: 2023/429 (OJ L59 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- whole_name: Uzina pentru repararea rachetelor și armamentului de artilerie 195
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '151071'
+  logical_id: '150865'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -89,6 +79,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151073'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-25'
+    number_title: 2023/429 (OJ L59 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
+- whole_name: OPEN JOINT STOCK COMPANY “195 REPAIR PLANTS RACKET-ARTILLERY ARMS”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '150864'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

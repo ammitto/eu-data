@@ -14,24 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: MZKT OJSC
+- whole_name: MZKT Nyrt.
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175491'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Minsk Wheel Tractor Plant
-  function: Minsk Wheel Tractor Plant is a Belarusian military industry company that
-    develops military vehicles for the Russian Armed Forces and is supporting Russia’s
-    defence capabilities.
-  title: Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175494'
+  logical_id: '175488'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -56,6 +43,30 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Fábrica de Tratores de Rodas de Minsk
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '175487'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Minsk Wheel Tractor Plant
+  function: Minsk Wheel Tractor Plant is a Belarusian military industry company that
+    develops military vehicles for the Russian Armed Forces and is supporting Russia’s
+    defence capabilities.
+  title: Joint Stock Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175494'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: ОАО “Минский завод колёсных тягачей”
   name_language: RU
   strong: true
@@ -66,21 +77,10 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: MZKT Nyrt.
-  name_language: HU
+- whole_name: MZKT OJSC
   strong: true
   regulation_language: en
-  logical_id: '175488'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Fábrica de Tratores de Rodas de Minsk
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '175487'
+  logical_id: '175491'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -14,12 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Евгений  Алексеевич  ВРУБЛЕВСКИЙ
+- whole_name: Yauhen Aliakseevich  URUBLEUSKI
+  function: "Senior Police Sergeant of \nthe Akrestina Offenders' \nIsolation Centre"
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '130022'
+  logical_id: '130025'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Evgenii Alekseevich VRUBLEVSKII
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130024'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -31,6 +41,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130023'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Евгений  Алексеевич  ВРУБЛЕВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '130022'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -53,27 +74,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130790'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Evgenii Alekseevich VRUBLEVSKII
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130024'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Yauhen Aliakseevich  URUBLEUSKI
-  function: "Senior Police Sergeant of \nthe Akrestina Offenders' \nIsolation Centre"
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130025'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

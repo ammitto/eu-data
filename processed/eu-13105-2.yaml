@@ -14,21 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: 61.a Fábrica de Reparação de Veículos Blindados
-  name_language: PT
+- whole_name: Joint Stock Company “61st Armored Vehicle Repair Plant”
+  function: JSC “61st Armored Vehicle Repair Plant” is a Russian military industry
+    company specialised in the production of military combat vehicles and the repair
+    and maintenance of tanks (including T-80 tanks) used in Russia’s war of aggression
+    against Ukraine.
+  title: Joint Stock Company
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175456'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»61st Armored Vehicle Repair Plant« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175459'
+  logical_id: '175465'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -44,11 +39,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО “61 Бронетанковый ремонтный завод”
-  name_language: RU
+- whole_name: "»61st Armored Vehicle Repair Plant« Részvénytársaság"
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175461'
+  logical_id: '175459'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -59,6 +54,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175458'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»61 Аrmored repair plant« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175457'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: 61.a Fábrica de Reparação de Veículos Blindados
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '175456'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Акционерное общество “61 Бронетанковый ремонтный завод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175462'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -84,36 +109,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Joint Stock Company “61st Armored Vehicle Repair Plant”
-  function: JSC “61st Armored Vehicle Repair Plant” is a Russian military industry
-    company specialised in the production of military combat vehicles and the repair
-    and maintenance of tanks (including T-80 tanks) used in Russia’s war of aggression
-    against Ukraine.
-  title: Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175465'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»61 Аrmored repair plant« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '175457'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Акционерное общество “61 Бронетанковый ремонтный завод”
+- whole_name: АО “61 Бронетанковый ремонтный завод”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175462'
+  logical_id: '175461'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -133,21 +133,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: regnumber
-  number: '1097847131678'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175455'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '7819310752'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175454'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: regnumber
+  number: '1097847131678'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175455'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

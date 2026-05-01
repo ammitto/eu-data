@@ -14,11 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Специалните оперативни сили
-  name_language: BG
+- whole_name: Különleges műveleti  erők
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '148023'
+  logical_id: '147851'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Forze per operazioni  speciali
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '147685'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -114,6 +124,16 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Специалните оперативни сили
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '148023'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Erioperatsiooniväed
   name_language: ET
   strong: true
@@ -197,26 +217,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147816'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Forze per operazioni  speciali
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '147685'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Különleges műveleti  erők
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '147851'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

@@ -15,71 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ya Mahdi Industries Group
+- whole_name: YMA College
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '5213'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Ya Mahdi Industrial Complex
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158933'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Ya-Mahdi Aircraft Manufacturing
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158934'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Ya Mahdi Group
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158935'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Grupo de Industrias Ya Mahdi
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '161982'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: YMA Research & Industrial Complex
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158938'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: O Mahdi Aircraft Manufacturing
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158939'
+  logical_id: '158941'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -95,11 +35,61 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: YMA College
+- whole_name: O Mahdi Aircraft Manufacturing
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158941'
+  logical_id: '158939'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Ya Mahdi Industries Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '5213'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: YMA Research & Industrial Complex
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158938'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Ya-Mahdi Aircraft Manufacturing
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158934'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Grupo de Industrias Ya Mahdi
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '161982'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- whole_name: Ya Mahdi Group
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158935'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -115,17 +105,17 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-addresses:
-- city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
+- whole_name: Ya Mahdi Industrial Complex
+  name_language: EN
+  strong: true
   regulation_language: en
-  logical_id: '158943'
+  logical_id: '158933'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+addresses:
 - street: Noboniad Sq.
   city: Tehran
   country_iso2_code: IR
@@ -142,6 +132,16 @@ addresses:
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '162218'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '158943'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

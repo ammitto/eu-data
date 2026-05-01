@@ -53,19 +53,6 @@ birthdates:
 - circa: true
   calendar_type: GREGORIAN
   year: 1965
-  city: Jelawur village, Arghandab District, Kandahar province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '989'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1965
   city: Siyachoy village, Panjwai District, Kandahar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -76,3 +63,16 @@ birthdates:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1965
+  city: Jelawur village, Arghandab District, Kandahar province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '989'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN

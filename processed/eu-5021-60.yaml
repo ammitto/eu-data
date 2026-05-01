@@ -16,6 +16,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: لادن بن محمد أسامة حمزة
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '174390'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 - first_name: Hamza  Usama  Muhammad
   last_name: bin Laden
   whole_name: Hamza  Usama  Muhammad bin Laden
@@ -29,17 +40,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '119596'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: لادن بن محمد أسامة حمزة
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '174390'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'

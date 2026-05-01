@@ -14,61 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Asociația Obștească – Asociația Oamenilor cu Epoleți “Scutul Poporului”
-  name_language: MO
+- whole_name: Publiek verbond – Verbond van mannen met epauletten “Scutul Poporului”
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '163619'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-22'
-    number_title: 2024/739 (OJ L22022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
-- whole_name: Scutul Poporului
-  name_language: MO
-  strong: true
-  regulation_language: en
-  logical_id: '163620'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-22'
-    number_title: 2024/739 (OJ L22022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
-- whole_name: grupo "Scutul Poporului"
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '163622'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-22'
-    number_title: 2024/739 (OJ L22022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
-- whole_name: Stowarzyszenie publiczne – „stowarzyszenie osób z epoletami”
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '163623'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-22'
-    number_title: 2024/739 (OJ L22022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
-- whole_name: Társadalmi szervezet – Váll-Lapos Emberek Szövetsége »Scutul Poporului«
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '163624'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-22'
-    number_title: 2024/739 (OJ L22022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
-- whole_name: Обществено сдружение — Сдружение на хората с пагони „Народен щит“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '163625'
+  logical_id: '163627'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-22'
@@ -84,11 +34,51 @@ name_aliases:
     publication_date: '2024-02-22'
     number_title: 2024/739 (OJ L22022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
-- whole_name: Publiek verbond – Verbond van mannen met epauletten “Scutul Poporului”
-  name_language: NL
+- whole_name: Обществено сдружение — Сдружение на хората с пагони „Народен щит“
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '163627'
+  logical_id: '163625'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-22'
+    number_title: 2024/739 (OJ L22022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
+- whole_name: Társadalmi szervezet – Váll-Lapos Emberek Szövetsége »Scutul Poporului«
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '163624'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-22'
+    number_title: 2024/739 (OJ L22022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
+- whole_name: Stowarzyszenie publiczne – „stowarzyszenie osób z epoletami”
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '163623'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-22'
+    number_title: 2024/739 (OJ L22022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
+- whole_name: grupo "Scutul Poporului"
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '163622'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-22'
+    number_title: 2024/739 (OJ L22022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
+- whole_name: Scutul Poporului
+  name_language: MO
+  strong: true
+  regulation_language: en
+  logical_id: '163620'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-22'
@@ -104,6 +94,16 @@ name_aliases:
     publication_date: '2024-02-22'
     number_title: 2024/739 (OJ L22022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
+- whole_name: Assoċjazzjoni  Pubblika – Association of People with Epaulettes "Scutul  Poporului"
+  name_language: MT
+  strong: true
+  regulation_language: en
+  logical_id: '163634'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-22'
+    number_title: 2024/739 (OJ L22022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
 - whole_name: Cumann Poiblí – Association of People with Epaulettes ‘Scutul  Poporului’
   name_language: GA
   strong: true
@@ -114,11 +114,11 @@ name_aliases:
     publication_date: '2024-02-22'
     number_title: 2024/739 (OJ L22022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202400739
-- whole_name: Assoċjazzjoni  Pubblika – Association of People with Epaulettes "Scutul  Poporului"
-  name_language: MT
+- whole_name: Asociația Obștească – Asociația Oamenilor cu Epoleți “Scutul Poporului”
+  name_language: MO
   strong: true
   regulation_language: en
-  logical_id: '163634'
+  logical_id: '163619'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-22'

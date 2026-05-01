@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Юрий
-  middle_name: Александрович
-  last_name: ФОМИН
-  whole_name: Юрий Александрович ФОМИН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '155550'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Jurij
   last_name: Fomin
   whole_name: Jurij Fomin
@@ -51,6 +37,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155551'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Юрий
+  middle_name: Александрович
+  last_name: ФОМИН
+  whole_name: Юрий Александрович ФОМИН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '155550'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

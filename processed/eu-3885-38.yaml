@@ -85,50 +85,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1963
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '108093'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-12'
-    number_title: 2016/354 (OJ L67)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1965
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '108091'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-12'
-    number_title: 2016/354 (OJ L67)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1959
-  region: Omoro County, Gulu District
-  place: Palaro Village, Palaro Parish
+  year: 1961
+  place: Atyak
   country_iso2_code: UG
   country_description: UGANDA
   regulation_language: en
-  logical_id: '108096'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-12'
-    number_title: 2016/354 (OJ L67)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
-- circa: false
-  calendar_type: GREGORIAN
-  month_of_year: 7
-  year: 1961
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '108089'
+  logical_id: '108094'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-12'
@@ -151,25 +113,13 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
 - circa: false
   calendar_type: GREGORIAN
-  year: 1960
-  place: Odek, Omoro, Gulu
+  year: 1959
+  region: Omoro County, Gulu District
+  place: Palaro Village, Palaro Parish
   country_iso2_code: UG
   country_description: UGANDA
   regulation_language: en
-  logical_id: '108095'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-12'
-    number_title: 2016/354 (OJ L67)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
-- circa: false
-  calendar_type: GREGORIAN
-  month_of_year: 4
-  year: 1963
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '108087'
+  logical_id: '108096'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-12'
@@ -190,12 +140,49 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
 - circa: false
   calendar_type: GREGORIAN
+  month_of_year: 7
   year: 1961
-  place: Atyak
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '108089'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-12'
+    number_title: 2016/354 (OJ L67)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1960
+  place: Odek, Omoro, Gulu
   country_iso2_code: UG
   country_description: UGANDA
   regulation_language: en
-  logical_id: '108094'
+  logical_id: '108095'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-12'
+    number_title: 2016/354 (OJ L67)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1965
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '108091'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-12'
+    number_title: 2016/354 (OJ L67)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1963
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '108093'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-12'
@@ -216,17 +203,20 @@ birthdates:
     publication_date: '2016-03-12'
     number_title: 2016/354 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
-addresses:
-- city: Vakaga
-  country_iso2_code: CF
-  country_description: CENTRAL AFRICAN REPUBLIC
+- circa: false
+  calendar_type: GREGORIAN
+  month_of_year: 4
+  year: 1963
+  country_iso2_code: '00'
+  country_description: UNKNOWN
   regulation_language: en
-  logical_id: '108109'
+  logical_id: '108087'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-12'
     number_title: 2016/354 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
+addresses:
 - city: Haut-Uolo
   country_iso2_code: CD
   country_description: CONGO, Democratic Republic of (was Zaire)
@@ -237,11 +227,11 @@ addresses:
     publication_date: '2016-03-12'
     number_title: 2016/354 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
-- city: Basse-Kotto
-  country_iso2_code: CF
-  country_description: CENTRAL AFRICAN REPUBLIC
+- city: Kafia Kingi
+  country_iso2_code: '00'
+  country_description: UNKNOWN
   regulation_language: en
-  logical_id: '108107'
+  logical_id: '108102'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-12'
@@ -252,6 +242,16 @@ addresses:
   country_description: CONGO, Democratic Republic of (was Zaire)
   regulation_language: en
   logical_id: '108103'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-12'
+    number_title: 2016/354 (OJ L67)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
+- city: Basse-Kotto
+  country_iso2_code: CF
+  country_description: CENTRAL AFRICAN REPUBLIC
+  regulation_language: en
+  logical_id: '108107'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-12'
@@ -277,11 +277,11 @@ addresses:
     publication_date: '2016-03-12'
     number_title: 2016/354 (OJ L67)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0354&rid=1
-- city: Kafia Kingi
-  country_iso2_code: '00'
-  country_description: UNKNOWN
+- city: Vakaga
+  country_iso2_code: CF
+  country_description: CENTRAL AFRICAN REPUBLIC
   regulation_language: en
-  logical_id: '108102'
+  logical_id: '108109'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-12'

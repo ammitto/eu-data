@@ -45,12 +45,11 @@ name_aliases:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1948
-  city: Anefif (Kidal)
-  country_iso2_code: ML
-  country_description: MALI
+  year: 1949
+  country_iso2_code: SD
+  country_description: SUDAN
   regulation_language: en
-  logical_id: '2248'
+  logical_id: '1474'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-20'
@@ -58,11 +57,12 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_301_R_0002&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1949
-  country_iso2_code: SD
-  country_description: SUDAN
+  year: 1948
+  city: Anefif (Kidal)
+  country_iso2_code: ML
+  country_description: MALI
   regulation_language: en
-  logical_id: '1474'
+  logical_id: '2248'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2014-10-20'
@@ -79,16 +79,6 @@ addresses:
     number_title: 2017/489 (OJ L76)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
 identifications:
-- identification_type_code: other
-  number: 073/ SPICRE
-  country_iso2_code: ML
-  regulation_language: en
-  logical_id: '898'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-01-19'
-    number_title: 2016/44 (OJ L12)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0044&rid=1
 - identification_type_code: passport
   number: B0515260
   country_iso2_code: ML
@@ -99,3 +89,13 @@ identifications:
     publication_date: '2017-03-22'
     number_title: 2017/489 (OJ L76)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
+- identification_type_code: other
+  number: 073/ SPICRE
+  country_iso2_code: ML
+  regulation_language: en
+  logical_id: '898'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-01-19'
+    number_title: 2016/44 (OJ L12)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0044&rid=1

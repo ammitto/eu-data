@@ -23,6 +23,15 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: OPJC “Vyatsko-Polyanskiy Machine-Buildingplant ‘Molot’”
+  strong: true
+  regulation_language: en
+  logical_id: '175410'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Limited Liability Company “Molot-Oruzhie”
   function: LLC “Molot-Oruzhie” is a Russian company designing and manufacturing weapons,
     in particular shotguns of the Vepr-12 series, for the Armed Forces of the Russian
@@ -37,10 +46,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: OPJC “Vyatsko-Polyanskiy Machine-Buildingplant ‘Molot’”
+- whole_name: Oбщество с ограниченной ответственностью “Молот-Оружие”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175410'
+  logical_id: '175413'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -51,16 +61,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Oбщество с ограниченной ответственностью “Молот-Оружие”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175413'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

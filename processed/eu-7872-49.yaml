@@ -72,20 +72,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Jekatěrina
-  middle_name: Vladimirovna
-  last_name: TICHONOVA
-  whole_name: Jekatěrina Vladimirovna TICHONOVA
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152191'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Jekaterina
   middle_name: Vladimirovna
   last_name: TICHONOVOVÁ
@@ -95,6 +81,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152214'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Jekatěrina
+  middle_name: Vladimirovna
+  last_name: TICHONOVA
+  whole_name: Jekatěrina Vladimirovna TICHONOVA
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152191'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

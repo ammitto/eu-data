@@ -14,19 +14,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Aviatrans Anstalt
+- whole_name: Aviatrans Establishment
   strong: true
   regulation_language: en
-  logical_id: '2848'
+  logical_id: '2849'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-05-25'
     number_title: 785/2006 (OJ L138)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:138:0007:0009:EN:PDF
-- whole_name: Aviatrans Establishment
+- whole_name: Aviatrans Anstalt
   strong: true
   regulation_language: en
-  logical_id: '2849'
+  logical_id: '2848'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-05-25'

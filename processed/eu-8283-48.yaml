@@ -34,15 +34,6 @@ name_aliases:
     publication_date: '2022-06-03'
     number_title: 2022/876 (OJ L153)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
-- whole_name: Open Joint Stock Company “Naftan”
-  strong: true
-  regulation_language: en
-  logical_id: '140375'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/876 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
 - whole_name: Отворено акционерно дружество „Naftan“
   name_language: BG
   strong: true
@@ -186,6 +177,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '140374'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/876 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.153.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A153%3ATOC
+- whole_name: Open Joint Stock Company “Naftan”
+  strong: true
+  regulation_language: en
+  logical_id: '140375'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

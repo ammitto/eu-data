@@ -14,12 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Abu-Khalil
+- first_name: Khaled A.
+  last_name: Al-Fauwaz
+  whole_name: Khaled A. Al-Fauwaz
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '161430'
+  logical_id: '1932'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- first_name: Khalid Abdulrahman H.
+  last_name: Al Fawaz
+  whole_name: Khalid Abdulrahman H. Al Fawaz
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '5597'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
@@ -49,6 +63,28 @@ name_aliases:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: خالد عبد الرحمن حمد الفواز
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '161429'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
+- whole_name: Abu-Khalil
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '161430'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-17'
+    number_title: 2024/372 (OJ L18012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
 - first_name: Khalid Abd Al-Rahman Hamd
   last_name: Al-Fawaz
   whole_name: Khalid Abd Al-Rahman Hamd Al-Fawaz
@@ -57,18 +93,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '1930'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- first_name: Khalid Abdulrahman H.
-  last_name: Al Fawaz
-  whole_name: Khalid Abdulrahman H. Al Fawaz
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '5597'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'
@@ -87,29 +111,6 @@ name_aliases:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- whole_name: خالد عبد الرحمن حمد الفواز
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '161429'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- first_name: Khalik
-  last_name: Al Fawwaz
-  whole_name: Khalik Al Fawwaz
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '1934'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-17'
-    number_title: 2024/372 (OJ L18012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
 - first_name: Khalid
   last_name: Al-Fawwaz
   whole_name: Khalid Al-Fawwaz
@@ -122,14 +123,13 @@ name_aliases:
     publication_date: '2024-01-17'
     number_title: 2024/372 (OJ L18012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400372
-- first_name: Khaled A.
-  last_name: Al-Fauwaz
-  whole_name: Khaled A. Al-Fauwaz
+- first_name: Khalik
+  last_name: Al Fawwaz
+  whole_name: Khalik Al Fawwaz
   gender: M
-  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '1932'
+  logical_id: '1934'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-17'

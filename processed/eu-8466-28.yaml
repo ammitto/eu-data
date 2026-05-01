@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Володимир
+  middle_name: Валерiйович
+  last_name: РОГОВ
+  whole_name: Володимир Валерiйович РОГОВ
+  gender: M
+  name_language: UK
+  strong: true
+  regulation_language: en
+  logical_id: '141759'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Vladimir
   middle_name: Valerjevitj
   last_name: ROGOV
@@ -42,20 +56,6 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Володимир
-  middle_name: Валерiйович
-  last_name: РОГОВ
-  whole_name: Володимир Валерiйович РОГОВ
-  gender: M
-  name_language: UK
-  strong: true
-  regulation_language: en
-  logical_id: '141759'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Volodimir
   middle_name: Valeryovich
   last_name: ROGOV
@@ -65,20 +65,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152004'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Volodymyr
-  middle_name: Valerijovytj
-  last_name: ROGOV
-  whole_name: Volodymyr Valerijovytj ROGOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '142341'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -95,6 +81,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141761'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Volodymyr
+  middle_name: Valerijovytj
+  last_name: ROGOV
+  whole_name: Volodymyr Valerijovytj ROGOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '142341'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

@@ -15,26 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: "»KNIRTI« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '172133'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: "»Kalugai Rádiómérnöki Kutatóintézet« Rt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '172134'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: АO “Калужский научно-исследовательский радиотехнический институт”
   name_language: RU
   strong: true
@@ -54,6 +34,16 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: "»KNIRTI« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '172133'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: JSC “Kaluga Research Institute of Radio Engineering”
   function: JSC “Kaluga Research Institute of Radio Engineering” (JSC KNIRTI) is one
     of the main military-industrial companies in the Kaluga region.
@@ -61,6 +51,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171680'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: "»Kalugai Rádiómérnöki Kutatóintézet« Rt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '172134'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -90,11 +90,11 @@ addresses:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 identifications:
-- identification_type_code: regnumber
-  number: '1124011001058'
+- identification_type_code: fiscalcode
+  number: '4007017378'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '171676'
+  logical_id: '172132'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -110,11 +110,11 @@ identifications:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- identification_type_code: fiscalcode
-  number: '4007017378'
+- identification_type_code: regnumber
+  number: '1124011001058'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '172132'
+  logical_id: '171676'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

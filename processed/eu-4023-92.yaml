@@ -15,6 +15,54 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Arthur
+  strong: true
+  regulation_language: en
+  logical_id: '113500'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-27'
+    number_title: 2017/1390 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
+- whole_name: Sedoy
+  strong: true
+  regulation_language: en
+  logical_id: '113499'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-27'
+    number_title: 2017/1390 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
+- first_name: Murad
+  middle_name: Iraklievich
+  last_name: Margoshvili
+  whole_name: Murad Iraklievich Margoshvili
+  strong: true
+  regulation_language: en
+  logical_id: '113498'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-27'
+    number_title: 2017/1390 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
+- whole_name: George
+  strong: true
+  regulation_language: en
+  logical_id: '113501'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-27'
+    number_title: 2017/1390 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
+- whole_name: John
+  strong: true
+  regulation_language: en
+  logical_id: '113502'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-27'
+    number_title: 2017/1390 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
 - whole_name: Lava
   strong: true
   regulation_language: en
@@ -28,6 +76,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113504'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-07-27'
+    number_title: 2017/1390 (OJ L195)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
+- whole_name: Zurab Iraklievich Margoshvili
+  strong: true
+  regulation_language: en
+  logical_id: '113508'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'
@@ -55,63 +112,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113507'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-27'
-    number_title: 2017/1390 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: Zurab Iraklievich Margoshvili
-  strong: true
-  regulation_language: en
-  logical_id: '113508'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-27'
-    number_title: 2017/1390 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- first_name: Murad
-  middle_name: Iraklievich
-  last_name: Margoshvili
-  whole_name: Murad Iraklievich Margoshvili
-  strong: true
-  regulation_language: en
-  logical_id: '113498'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-27'
-    number_title: 2017/1390 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: Sedoy
-  strong: true
-  regulation_language: en
-  logical_id: '113499'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-27'
-    number_title: 2017/1390 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: John
-  strong: true
-  regulation_language: en
-  logical_id: '113502'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-27'
-    number_title: 2017/1390 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: George
-  strong: true
-  regulation_language: en
-  logical_id: '113501'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-07-27'
-    number_title: 2017/1390 (OJ L195)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1390&from=EN
-- whole_name: Arthur
-  strong: true
-  regulation_language: en
-  logical_id: '113500'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-07-27'

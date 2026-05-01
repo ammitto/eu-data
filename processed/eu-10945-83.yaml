@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ivan
+  middle_name: Ivanovitj
+  last_name: ZIMA
+  whole_name: Ivan Ivanovitj ZIMA
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '160684'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Иван
   middle_name: Иванович
   last_name: ЗИМА
@@ -38,20 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159875'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Ivan
-  middle_name: Ivanovitj
-  last_name: ZIMA
-  whole_name: Ivan Ivanovitj ZIMA
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '160684'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -14,35 +14,33 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Κύριο Κέντρο Ειδικών Τεχνολογιών (GTsST) της Κεντρικής Διεύθυνσης του
-    Γενικού Επιτελείου των Ενόπλων Δυνάμεων της Ρωσικής Ομοσπονδίας (GU/GRU)
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '165466'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Centre principal des technologies spéciales (GTsST) de la direction
-    générale du renseignement de l'état-major des forces armées de la Fédération de
-    Russie (GU/GRU)
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '165469'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Hauptzentrum für Spezialtechnologien (GTsST) der Hauptdirektion des
-    Generalstabs der Streitkräfte der Russischen Föderation (GU/GRU)
+- whole_name: Feldpostnummer 74455
   name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '165472'
+  logical_id: '165473'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Centro Principal de Tecnologías Especiales (GTsST) del Mando Principal
+    del Estado Mayor de la Defensa de las Fuerzas Armadas de la Federación de Rusia
+    (GU/GRU)
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '165480'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: código 74455
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '165481'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -95,49 +93,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165531'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: código postal de campanha 74455
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '165484'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Centro Principal de Tecnologias Especiais (GTsST) da Direção-Geral de
-    Informações do Estado- -Maior-General das Forças Armadas da Federação da Rússia
-    (GU/GRU)
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '165485'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: 74455 katonai azonosító FPN-számon
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '165493'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Az Oroszországi Föderáció fegyveres erői vezérkara Főigazgatóságának
-    (GU/GRU) Különleges Technológiai Főközpontja (GTsST)
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '165494'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -206,12 +161,44 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Glavni centar za posebne tehnologije (GTsST) glavne uprave glavnog stožera
-    oružanih snaga Ruske Federacije (GU/GRU)
-  name_language: HR
+- whole_name: código postal de campanha 74455
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '165539'
+  logical_id: '165484'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Centro Principal de Tecnologias Especiais (GTsST) da Direção-Geral de
+    Informações do Estado- -Maior-General das Forças Armadas da Federação da Rússia
+    (GU/GRU)
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '165485'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: 74455 katonai azonosító FPN-számon
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '165493'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Az Oroszországi Föderáció fegyveres erői vezérkara Főigazgatóságának
+    (GU/GRU) Különleges Technológiai Főközpontja (GTsST)
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '165494'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -343,6 +330,28 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Glavni centar za posebne tehnologije (GTsST) glavne uprave glavnog stožera
+    oružanih snaga Ruske Federacije (GU/GRU)
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '165539'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Main Centre for Special Technologies (GTsST) of the Main Directorate
+    of the General Staff of the Armed Forces of the Russian Federation (GU/GRU)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '125013'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
 - whole_name: Подразделение 74455
   name_language: BG
   strong: true
@@ -385,12 +394,35 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Main Centre for Special Technologies (GTsST) of the Main Directorate
-    of the General Staff of the Armed Forces of the Russian Federation (GU/GRU)
-  name_language: EN
+- whole_name: Hauptzentrum für Spezialtechnologien (GTsST) der Hauptdirektion des
+    Generalstabs der Streitkräfte der Russischen Föderation (GU/GRU)
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '125013'
+  logical_id: '165472'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Centre principal des technologies spéciales (GTsST) de la direction
+    générale du renseignement de l'état-major des forces armées de la Fédération de
+    Russie (GU/GRU)
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '165469'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Κύριο Κέντρο Ειδικών Τεχνολογιών (GTsST) της Κεντρικής Διεύθυνσης του
+    Γενικού Επιτελείου των Ενόπλων Δυνάμεων της Ρωσικής Ομοσπονδίας (GU/GRU)
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '165466'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -406,64 +438,22 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: código 74455
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '165481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Centro Principal de Tecnologías Especiales (GTsST) del Mando Principal
-    del Estado Mayor de la Defensa de las Fuerzas Armadas de la Federación de Rusia
-    (GU/GRU)
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '165480'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Feldpostnummer 74455
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '165473'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Venäjän federaation asevoimien yleisesikunnan pääosaston (GU/GRU) erikoisteknologioiden
-    pääkeskus (GTsST)
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '165535'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: kenttäpostinumeronsa 74455
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '165534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-17'
-    number_title: 2024/1390 (OJ L17052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
 - whole_name: brojem vojne pošte 74455
   name_language: HR
   strong: true
   regulation_language: en
   logical_id: '165538'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Główny Ośrodek Specjalnych Technologii (GTsST) Głównego Zarządu Sztabu
+    Generalnego Sił Zbrojnych Federacji Rosyjskiej (GU GRU)
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '165490'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'
@@ -479,12 +469,22 @@ name_aliases:
     publication_date: '2024-05-17'
     number_title: 2024/1390 (OJ L17052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
-- whole_name: Główny Ośrodek Specjalnych Technologii (GTsST) Głównego Zarządu Sztabu
-    Generalnego Sił Zbrojnych Federacji Rosyjskiej (GU GRU)
-  name_language: PL
+- whole_name: kenttäpostinumeronsa 74455
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '165490'
+  logical_id: '165534'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-17'
+    number_title: 2024/1390 (OJ L17052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401390
+- whole_name: Venäjän federaation asevoimien yleisesikunnan pääosaston (GU/GRU) erikoisteknologioiden
+    pääkeskus (GTsST)
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '165535'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-17'

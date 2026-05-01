@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Евгений
+  middle_name: Петрович
+  last_name: ГРАБЧАК
+  whole_name: Евгений Петрович ГРАБЧАК
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '113786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Jevgenij
   middle_name: Petrovitj
   last_name: GRABTJAK
@@ -40,20 +54,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113785'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Евгений
-  middle_name: Петрович
-  last_name: ГРАБЧАК
-  whole_name: Евгений Петрович ГРАБЧАК
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '113786'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

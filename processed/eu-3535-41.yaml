@@ -14,32 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Adib Nimr
-  last_name: Salameh
-  whole_name: Adib Nimr Salameh
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109866'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Mohammed Adib
-  last_name: Salameh
-  whole_name: Mohammed Adib Salameh
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109867'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - whole_name: أديب نمر سلامة
   gender: M
   name_language: AR
@@ -103,6 +77,32 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '109868'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Mohammed Adib
+  last_name: Salameh
+  whole_name: Mohammed Adib Salameh
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109867'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Adib Nimr
+  last_name: Salameh
+  whole_name: Adib Nimr Salameh
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109866'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

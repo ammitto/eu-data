@@ -15,33 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Aram
-  last_name: Gabreľanov
-  whole_name: Aram Gabreľanov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '167006'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Арам
-  middle_name: Ашотович
-  last_name: ГАБРЕЛЯНОВ
-  whole_name: Арам Ашотович ГАБРЕЛЯНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '165594'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Aram
   last_name: Gabreljanov
   whole_name: Aram Gabreljanov
   gender: M
@@ -49,6 +22,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167007'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Aram
+  last_name: Gabreľanov
+  whole_name: Aram Gabreľanov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '167006'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -64,6 +50,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '165595'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Арам
+  middle_name: Ашотович
+  last_name: ГАБРЕЛЯНОВ
+  whole_name: Арам Ашотович ГАБРЕЛЯНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '165594'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

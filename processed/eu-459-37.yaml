@@ -166,6 +166,15 @@ addresses:
     publication_date: '2012-01-18'
     number_title: 34/2012 (OJ L15)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
+- country_iso2_code: TN
+  country_description: TUNISIA
+  regulation_language: en
+  logical_id: '2217'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-01-18'
+    number_title: 34/2012 (OJ L15)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
 - country_iso2_code: NE
   country_description: NIGER
   regulation_language: en
@@ -188,15 +197,6 @@ addresses:
   country_description: ALGERIA
   regulation_language: en
   logical_id: '2201'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-01-18'
-    number_title: 34/2012 (OJ L15)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:015:0001:0019:EN:PDF
-- country_iso2_code: TN
-  country_description: TUNISIA
-  regulation_language: en
-  logical_id: '2217'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-01-18'

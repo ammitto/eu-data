@@ -18,6 +18,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Al-Kawthar Hawala
+  strong: true
+  regulation_language: en
+  logical_id: '115808'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-03-09'
+    number_title: 2018/349 (OJ L67)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
 - whole_name: AL-KAWTHAR MONEY EXCHANGE
   function: Facilitated financial transactions on behalf of companies associated with
     Islamic State in Iraq and the Levant (ISIL), listed as Al-Qaida in Iraq (QDe.115).
@@ -44,15 +53,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '115809'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-03-09'
-    number_title: 2018/349 (OJ L67)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0349&from=EN
-- whole_name: Al-Kawthar Hawala
-  strong: true
-  regulation_language: en
-  logical_id: '115808'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-03-09'

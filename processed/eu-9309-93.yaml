@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Роберт
-  middle_name: Петрович
-  last_name: БАРАНОВ
-  whole_name: Роберт Петрович БАРАНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146900'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Robert
   middle_name: Petrovich
   last_name: BARANOV
@@ -59,6 +45,20 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Роберт
+  middle_name: Петрович
+  last_name: БАРАНОВ
+  whole_name: Роберт Петрович БАРАНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146900'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION
@@ -104,20 +104,20 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 identifications:
 - identification_type_code: fiscalcode
-  number: '502239120417'
+  number: '012190931739'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '157516'
+  logical_id: '157517'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'
     number_title: 2023/806 (OJ L101)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0806
 - identification_type_code: fiscalcode
-  number: '012190931739'
+  number: '502239120417'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '157517'
+  logical_id: '157516'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-14'

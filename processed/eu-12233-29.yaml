@@ -14,12 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: علی شادمانی
+- first_name: Ali
+  last_name: SHADMANI
+  whole_name: Ali SHADMANI
+  function: Deputy coordinator of Khatam al-Anbiya Central Headquarters
   gender: M
-  name_language: FA
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '170056'
+  logical_id: '170057'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'
@@ -38,15 +41,12 @@ name_aliases:
     publication_date: '2024-10-14'
     number_title: 2024/2697 (OJL14102024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2697&qid=1728978549327
-- first_name: Ali
-  last_name: SHADMANI
-  whole_name: Ali SHADMANI
-  function: Deputy coordinator of Khatam al-Anbiya Central Headquarters
+- whole_name: علی شادمانی
   gender: M
-  name_language: EN
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '170057'
+  logical_id: '170056'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-10-14'

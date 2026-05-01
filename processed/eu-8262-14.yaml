@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Aleksandr Vladimirovitj KOPYLOV
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '141119'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/878 (OJ L153)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
 - whole_name: Александр Владимирович КОПЫЛОВ
   name_language: RU
   strong: true
@@ -41,6 +31,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '140240'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/878 (OJ L153)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0878&from=EN
+- whole_name: Aleksandr Vladimirovitj KOPYLOV
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '141119'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

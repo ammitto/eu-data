@@ -102,6 +102,16 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 identifications:
 - identification_type_code: other
+  number: '7706228218'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175821'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- identification_type_code: other
   number: '772501001'
   country_iso2_code: RU
   regulation_language: en
@@ -116,16 +126,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175822'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- identification_type_code: other
-  number: '7706228218'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175821'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

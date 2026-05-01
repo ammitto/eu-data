@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Дина
-  middle_name: Ивановна
-  last_name: ОЮН
-  whole_name: Дина Ивановна ОЮН
+- first_name: Dina
+  middle_name: Ivanovna
+  last_name: OYUN
+  whole_name: Dina Ivanovna OYUN
+  function: Member of the Federation Council
   gender: F
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '137089'
+  logical_id: '137090'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'
@@ -38,15 +38,15 @@ name_aliases:
     publication_date: '2022-03-09'
     number_title: 2022/396 (OJ L80)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.080.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A080%3ATOC
-- first_name: Dina
-  middle_name: Ivanovna
-  last_name: OYUN
-  whole_name: Dina Ivanovna OYUN
-  function: Member of the Federation Council
+- first_name: Дина
+  middle_name: Ивановна
+  last_name: ОЮН
+  whole_name: Дина Ивановна ОЮН
   gender: F
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '137090'
+  logical_id: '137089'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

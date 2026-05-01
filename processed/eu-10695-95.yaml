@@ -14,42 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Yevgeniy
-  middle_name: Valerievich
-  last_name: BUBICH
-  whole_name: Yevgeniy Valerievich BUBICH
+- first_name: Jauhen
+  middle_name: Valerjevitj
+  last_name: BUBITJ
+  whole_name: Jauhen Valerjevitj BUBITJ
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '157290'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Jaŭhen
-  last_name: Bubič
-  whole_name: Jaŭhen Bubič
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '157285'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Яўген
-  middle_name: Валер’евiч
-  last_name: БУБIЧ
-  whole_name: Яўген Валер’евiч БУБIЧ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '157288'
+  logical_id: '157287'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -83,31 +56,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Yauhen
+- first_name: Yevgeniy
   middle_name: Valerievich
   last_name: BUBICH
-  whole_name: Yauhen Valerievich BUBICH
-  function: Head of Penal Colony No.°2; Lieutenant colonel of the internal service
-    (Belarus)
+  whole_name: Yevgeniy Valerievich BUBICH
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '157291'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Jauhen
-  middle_name: Valerjevitj
-  last_name: BUBITJ
-  whole_name: Jauhen Valerjevitj BUBITJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '157287'
+  logical_id: '157290'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -122,6 +79,49 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157289'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Jaŭhen
+  last_name: Bubič
+  whole_name: Jaŭhen Bubič
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '157285'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Яўген
+  middle_name: Валер’евiч
+  last_name: БУБIЧ
+  whole_name: Яўген Валер’евiч БУБIЧ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '157288'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Yauhen
+  middle_name: Valerievich
+  last_name: BUBICH
+  whole_name: Yauhen Valerievich BUBICH
+  function: Head of Penal Colony No.°2; Lieutenant colonel of the internal service
+    (Belarus)
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157291'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

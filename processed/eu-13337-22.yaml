@@ -62,12 +62,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1985
+  year: 1984
   city: Teheran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '176945'
+  logical_id: '176946'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -75,12 +75,12 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - circa: false
   calendar_type: GREGORIAN
-  year: 1984
+  year: 1985
   city: Teheran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '176946'
+  logical_id: '176945'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

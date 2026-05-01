@@ -14,14 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Julia
-  last_name: Klymenková
-  whole_name: Julia Klymenková
+- first_name: Yulia
+  middle_name: Aleksandrovna
+  last_name: KLYMENKO
+  whole_name: Yulia Aleksandrovna KLYMENKO
+  function: "Leader of “Yug Molodoy” movement; \nChairperson of the regional wing
+    of the “Young Guard” of President Putin’s “United Russia” party"
   gender: F
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '160922'
+  logical_id: '159880'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -36,6 +39,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160685'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Julia
+  last_name: Klymenková
+  whole_name: Julia Klymenková
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '160922'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -77,22 +93,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '159879'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Yulia
-  middle_name: Aleksandrovna
-  last_name: KLYMENKO
-  whole_name: Yulia Aleksandrovna KLYMENKO
-  function: "Leader of “Yug Molodoy” movement; \nChairperson of the regional wing
-    of the “Young Guard” of President Putin’s “United Russia” party"
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '159880'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

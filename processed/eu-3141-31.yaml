@@ -16,6 +16,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Sally-Anne
+  middle_name: Frances
+  last_name: Jones
+  whole_name: Sally-Anne Frances Jones
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106537'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - whole_name: Sakinah Hussain
   gender: F
   name_language: EN
@@ -33,20 +47,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '106637'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- first_name: Sally-Anne
-  middle_name: Frances
-  last_name: Jones
-  whole_name: Sally-Anne Frances Jones
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106537'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

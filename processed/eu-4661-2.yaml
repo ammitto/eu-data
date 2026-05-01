@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: АД „Институт Гипростроймост – Санкт-Петербург“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '128644'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: АО Институт Гипростроймост – Санкт-Петербург
   strong: true
   regulation_language: en
@@ -33,70 +23,11 @@ name_aliases:
     publication_date: '2018-07-31'
     number_title: 2018/1072 (OJ L194)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.194.01.0027.01.ENG&toc=OJ:L:2018:194:TOC
-- whole_name: AO “Institute Giprostroymost — Saint-Petersburg”
-  strong: true
-  regulation_language: en
-  logical_id: '117766'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-07-31'
-    number_title: 2018/1072 (OJ L194)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.194.01.0027.01.ENG&toc=OJ:L:2018:194:TOC
-- whole_name: AO „Institut Giprostroymost - Sankt Petersburg“
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '128642'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: AO ”Giprostrojmostinstitutet – Sankt Petersburg”
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '128643'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
 - whole_name: Delniška družba „Institute Giprostroymost — Saint-Petersburg“
   name_language: SL
   strong: true
   regulation_language: en
   logical_id: '128649'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: AO “Institute Giprostroymost — São Petersburgo”
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '128645'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: AO Institute Giprostroymost - Sankt Petersburg (AO Instytut Giprostrojmost)
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '128646'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-15'
-    number_title: 2021/446 (OJ L87)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
-- whole_name: AO “Institute Giprostroymost — St. Petersburg”
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '128647'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-15'
@@ -112,6 +43,75 @@ name_aliases:
     publication_date: '2021-03-15'
     number_title: 2021/446 (OJ L87)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: AO “Institute Giprostroymost — St. Petersburg”
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '128647'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: AO Institute Giprostroymost - Sankt Petersburg (AO Instytut Giprostrojmost)
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '128646'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: AO “Institute Giprostroymost — São Petersburgo”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '128645'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: АД „Институт Гипростроймост – Санкт-Петербург“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '128644'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: AO ”Giprostrojmostinstitutet – Sankt Petersburg”
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '128643'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-15'
+    number_title: 2021/446 (OJ L87)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.087.01.0019.01.ENG&toc=OJ%3AL%3A2021%3A087%3ATOC
+- whole_name: AO „Institut Giprostroymost - Sankt Petersburg“
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '128642'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: AO “Institute Giprostroymost — Saint-Petersburg”
+  strong: true
+  regulation_language: en
+  logical_id: '117766'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-07-31'
+    number_title: 2018/1072 (OJ L194)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.194.01.0027.01.ENG&toc=OJ:L:2018:194:TOC
 addresses:
 - street: 7 Yablochkova street
   city: St. Petersburg

@@ -113,20 +113,10 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 identifications:
 - identification_type_code: other
-  number: '1107746720322'
+  number: '504401001'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '163375'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- identification_type_code: regnumber
-  number: '1107746720322'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '163377'
+  logical_id: '163374'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -142,11 +132,21 @@ identifications:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- identification_type_code: regnumber
+  number: '1107746720322'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '163377'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - identification_type_code: other
-  number: '504401001'
+  number: '1107746720322'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '163374'
+  logical_id: '163375'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

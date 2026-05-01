@@ -14,24 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Michail
-  last_name: Bedunkevič
-  whole_name: Michail Bedunkevič
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '169510'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - whole_name: Міхаіл Пятровіч БЯДУНКЕВIЧ
   gender: M
   name_language: BE
   strong: true
   regulation_language: en
   logical_id: '169140'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Михаил Петрович БЕДУНКЕВИЧ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '169139'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -63,17 +62,6 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Михаил Петрович БЕДУНКЕВИЧ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '169139'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
 - first_name: Michail
   last_name: Bjadunkevič
   whole_name: Michail Bjadunkevič
@@ -81,6 +69,18 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169511'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- first_name: Michail
+  last_name: Bedunkevič
+  whole_name: Michail Bedunkevič
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '169510'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

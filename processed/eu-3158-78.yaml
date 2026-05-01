@@ -59,19 +59,19 @@ birthdates:
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 addresses:
-- country_iso2_code: SY
-  country_description: SYRIAN ARAB REPUBLIC
+- country_iso2_code: GB
+  country_description: UNITED KINGDOM
   regulation_language: en
-  logical_id: '106595'
+  logical_id: '106594'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- country_iso2_code: GB
-  country_description: UNITED KINGDOM
+- country_iso2_code: SY
+  country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '106594'
+  logical_id: '106595'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'

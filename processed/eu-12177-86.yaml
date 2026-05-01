@@ -14,12 +14,36 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Игорь Федорович ЗЕМЦОВ
+- whole_name: Iгар Фёдаравіч ЗЯМЦОЎ
   gender: M
-  name_language: RU
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '169308'
+  logical_id: '169309'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Igor Fedorovich ZEMTSOV
+  function: Judge of the Mogilev Regional Court
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169310'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-26'
+    number_title: 2024/2113 (OJ L 202402113)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
+- whole_name: Ihar Fiodaravich ZIAMTSAU
+  function: Judge of the Mogilev Regional Court.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '169311'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -38,24 +62,12 @@ name_aliases:
     publication_date: '2024-07-26'
     number_title: 2024/2113 (OJ L 202402113)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Igor Fedorovich ZEMTSOV
-  function: Judge of the Mogilev Regional Court
+- whole_name: Игорь Федорович ЗЕМЦОВ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '169310'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Iгар Фёдаравіч ЗЯМЦОЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '169309'
+  logical_id: '169308'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'
@@ -69,18 +81,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '169549'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-26'
-    number_title: 2024/2113 (OJ L 202402113)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202402113
-- whole_name: Ihar Fiodaravich ZIAMTSAU
-  function: Judge of the Mogilev Regional Court.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '169311'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-26'

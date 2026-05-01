@@ -15,32 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Nelli
-  last_name: Parutencová
-  whole_name: Nelli Parutencová
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '170271'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-14'
-    number_title: 2024/2700 (OJ L14102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
-- first_name: Nelli
-  last_name: Parutencová
-  whole_name: Nelli Parutencová
-  gender: F
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '170279'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-10-14'
-    number_title: 2024/2700 (OJ L14102024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
-- first_name: Nelli
   last_name: PARUTENCO
   whole_name: Nelli PARUTENCO
   function: |-
@@ -56,6 +30,32 @@ name_aliases:
     publication_date: '2025-04-28'
     number_title: 2025/817 (OJ L202500817)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500817
+- first_name: Nelli
+  last_name: Parutencová
+  whole_name: Nelli Parutencová
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '170279'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-14'
+    number_title: 2024/2700 (OJ L14102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
+- first_name: Nelli
+  last_name: Parutencová
+  whole_name: Nelli Parutencová
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '170271'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-10-14'
+    number_title: 2024/2700 (OJ L14102024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402700
 citizenships:
 - country_iso2_code: MD
   country_description: MOLDOVA, REPUBLIC OF

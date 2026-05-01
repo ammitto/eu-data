@@ -14,54 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Boubaker
-  middle_name: Ben Habib
-  last_name: Ben Al-Hakim
-  whole_name: Boubaker Ben Habib Ben Al-Hakim
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106539'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - whole_name: Abu-Muqatil al-Tunisi
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '106642'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: Abou Mouqatel
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106643'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: Abou al Moukatel
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106644'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-10-09'
-    number_title: 2015/1815 (OJ L264)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
-- whole_name: Boubaker el Hakim
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '106645'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-10-09'
@@ -77,6 +34,39 @@ name_aliases:
     publication_date: '2015-10-09'
     number_title: 2015/1815 (OJ L264)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- whole_name: Boubaker el Hakim
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106645'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- whole_name: Abou al Moukatel
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106644'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
+- first_name: Boubaker
+  middle_name: Ben Habib
+  last_name: Ben Al-Hakim
+  whole_name: Boubaker Ben Habib Ben Al-Hakim
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106539'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 - whole_name: El Hakim Boubakeur
   name_language: EN
   strong: true
@@ -87,6 +77,16 @@ name_aliases:
     publication_date: '2016-07-01'
     number_title: 2016/1063 (OJ L177)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1063&from=EN
+- whole_name: Abou Mouqatel
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '106643'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-10-09'
+    number_title: 2015/1815 (OJ L264)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_264_R_0002&from=EN
 citizenships:
 - country_iso2_code: FR
   country_description: FRANCE

@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Al-Habib ben Ahmad ben al-Tayib al-Lubiri
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '15138'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 - first_name: Habib
   middle_name: Ben Ahmed
   last_name: Al-Loubiri
@@ -24,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '3373'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
-- whole_name: Al-Habib ben Ahmad ben al-Tayib al-Lubiri
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '15138'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'
@@ -101,21 +101,21 @@ addresses:
     number_title: 2024/328 (OJ L15012024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 identifications:
-- identification_type_code: passport
-  number: M788439
-  country_iso2_code: TN
-  regulation_language: en
-  logical_id: '166'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-01-15'
-    number_title: 2024/328 (OJ L15012024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
 - identification_type_code: fiscalcode
   number: LBR HBB 61S17 Z352F
   country_iso2_code: IT
   regulation_language: en
   logical_id: '161368'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-01-15'
+    number_title: 2024/328 (OJ L15012024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400328
+- identification_type_code: passport
+  number: M788439
+  country_iso2_code: TN
+  regulation_language: en
+  logical_id: '166'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-01-15'

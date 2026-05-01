@@ -14,41 +14,41 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Esercito popolare coreano
-  name_language: IT
+- whole_name: Korea rahvaarmee
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '143041'
+  logical_id: '143066'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Koreas Folkehær
-  name_language: DA
+- whole_name: Korejská lidová armáda
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '143080'
+  logical_id: '143062'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Korejas Tautas armija
-  name_language: LV
+- whole_name: Armata Populară Coreeană
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '143071'
+  logical_id: '143058'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Korėjos liaudies armija
-  name_language: LT
+- whole_name: Корейска народна армия
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '143067'
+  logical_id: '143055'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
@@ -136,6 +136,56 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Koreanska folkarmén
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143063'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Korean kansanarmeija
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '143064'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Korėjos liaudies armija
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '143067'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Korejas Tautas armija
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '143071'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Koreas Folkehær
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '143080'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: Koreaans  Volksleger
   name_language: NL
   strong: true
@@ -151,6 +201,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143027'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Esercito popolare coreano
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '143041'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'
@@ -191,66 +251,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143052'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Корейска народна армия
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '143055'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Armata Populară Coreeană
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '143058'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Korejská lidová armáda
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '143062'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Koreanska folkarmén
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143063'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Korean kansanarmeija
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '143064'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Korea rahvaarmee
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '143066'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

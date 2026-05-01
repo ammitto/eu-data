@@ -125,6 +125,21 @@ birthdates:
     publication_date: '2011-06-17'
     number_title: 577/2011 (OJ L159)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
+- birthdate: '1968-12-18'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 18
+  month_of_year: 12
+  year: 1968
+  country_iso2_code: TN
+  country_description: TUNISIA
+  regulation_language: en
+  logical_id: '1614'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-17'
+    number_title: 577/2011 (OJ L159)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
 - birthdate: '1968-05-25'
   circa: false
   calendar_type: GREGORIAN
@@ -136,21 +151,6 @@ birthdates:
   country_description: ITALY
   regulation_language: en
   logical_id: '1583'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-17'
-    number_title: 577/2011 (OJ L159)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:159:0069:0085:EN:PDF
-- birthdate: '1968-12-18'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 18
-  month_of_year: 12
-  year: 1968
-  country_iso2_code: TN
-  country_description: TUNISIA
-  regulation_language: en
-  logical_id: '1614'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-06-17'

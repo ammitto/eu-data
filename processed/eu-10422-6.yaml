@@ -14,29 +14,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexej
-  middle_name: Ivanovič
-  last_name: GIRIČEV
-  whole_name: Alexej Ivanovič GIRIČEV
+- first_name: Alexey
+  middle_name: Ivanovich
+  last_name: GIRICHEV
+  whole_name: Alexey Ivanovich GIRICHEV
+  function: |-
+    Former Regional head of the FSIN in Vladimir region (Federal Penitentiary Service) (until March 2023);
+    current deputy head of FSIN
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156072'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Aleksej
-  middle_name: Ivanovitj
-  last_name: GIRITJEV
-  whole_name: Aleksej Ivanovitj GIRITJEV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156057'
+  logical_id: '155583'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -56,23 +45,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Alexey
-  middle_name: Ivanovich
-  last_name: GIRICHEV
-  whole_name: Alexey Ivanovich GIRICHEV
-  function: |-
-    Former Regional head of the FSIN in Vladimir region (Federal Penitentiary Service) (until March 2023);
-    current deputy head of FSIN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155583'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Aleksej
   last_name: Giričev
   whole_name: Aleksej Giričev
@@ -81,6 +53,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156041'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Aleksej
+  middle_name: Ivanovitj
+  last_name: GIRITJEV
+  whole_name: Aleksej Ivanovitj GIRITJEV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156057'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Alexej
+  middle_name: Ivanovič
+  last_name: GIRIČEV
+  whole_name: Alexej Ivanovič GIRIČEV
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156072'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

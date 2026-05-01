@@ -29,20 +29,6 @@ name_aliases:
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Denis
-  middle_name: Sergejevitj
-  last_name: KURASJOV
-  whole_name: Denis Sergejevitj KURASJOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '158633'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Denis
   middle_name: Sergejevič
   last_name: Kurašov
   whole_name: Denis Sergejevič Kurašov
@@ -65,6 +51,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158531'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Denis
+  middle_name: Sergejevitj
+  last_name: KURASJOV
+  whole_name: Denis Sergejevitj KURASJOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '158633'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

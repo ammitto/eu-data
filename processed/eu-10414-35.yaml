@@ -15,30 +15,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Natalia
-  middle_name: Alexejevna
-  last_name: SERGUNINOVÁ
-  whole_name: Natalia Alexejevna SERGUNINOVÁ
+  last_name: Serguninová
+  whole_name: Natalia Serguninová
   gender: F
-  name_language: SK
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '156065'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Natalia
-  middle_name: Alekseevna
-  last_name: SERGUNINA
-  whole_name: Natalia Alekseevna SERGUNINA
-  function: "Deputy Mayor in the Government of Moscow; \nHead of the Apparatus of
-    the Mayor and Government of Moscow"
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155541'
+  logical_id: '156035'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -53,6 +36,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156050'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Natalia
+  middle_name: Alexejevna
+  last_name: SERGUNINOVÁ
+  whole_name: Natalia Alexejevna SERGUNINOVÁ
+  gender: F
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156065'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -73,13 +70,16 @@ name_aliases:
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Natalia
-  last_name: Serguninová
-  whole_name: Natalia Serguninová
+  middle_name: Alekseevna
+  last_name: SERGUNINA
+  whole_name: Natalia Alekseevna SERGUNINA
+  function: "Deputy Mayor in the Government of Moscow; \nHead of the Apparatus of
+    the Mayor and Government of Moscow"
   gender: F
-  name_language: CS
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156035'
+  logical_id: '155541'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

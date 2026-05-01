@@ -15,6 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Fazal
+  last_name: Rahim
+  whole_name: Fazal Rahim
+  strong: true
+  regulation_language: en
+  logical_id: '15736'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-14'
+    number_title: 215/2012 (OJ L74)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
 - first_name: Fazel
   last_name: Rahim
   whole_name: Fazel Rahim
@@ -48,17 +59,6 @@ name_aliases:
     publication_date: '2012-03-14'
     number_title: 215/2012 (OJ L74)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
-- first_name: Fazal
-  last_name: Rahim
-  whole_name: Fazal Rahim
-  strong: true
-  regulation_language: en
-  logical_id: '15736'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-14'
-    number_title: 215/2012 (OJ L74)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -70,17 +70,14 @@ citizenships:
     number_title: 215/2012 (OJ L74)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
 birthdates:
-- birthdate: '1973-01-24'
-  circa: false
+- circa: false
   calendar_type: GREGORIAN
-  day_of_month: 24
-  month_of_year: 1
-  year: 1973
+  year: 1977
   city: Kabul
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1766'
+  logical_id: '1764'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-14'
@@ -99,14 +96,17 @@ birthdates:
     publication_date: '2012-03-14'
     number_title: 215/2012 (OJ L74)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
-- circa: false
+- birthdate: '1973-01-24'
+  circa: false
   calendar_type: GREGORIAN
-  year: 1977
+  day_of_month: 24
+  month_of_year: 1
+  year: 1973
   city: Kabul
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1764'
+  logical_id: '1766'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-14'
@@ -129,23 +129,23 @@ birthdates:
     number_title: 215/2012 (OJ L74)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
 addresses:
-- street: Apt. 45, block 21 Microrayan 3rd
-  city: Kabul
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2254'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-14'
-    number_title: 215/2012 (OJ L74)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
 - street: A2 City Computer Plaza, Shar- e-Now
   city: Kabul
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '2253'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-14'
+    number_title: 215/2012 (OJ L74)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:074:0004:0005:EN:PDF
+- street: Apt. 45, block 21 Microrayan 3rd
+  city: Kabul
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2254'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-03-14'

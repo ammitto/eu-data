@@ -14,6 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: 안정혁
+  strong: true
+  regulation_language: en
+  logical_id: '142094'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: 안종혁
   strong: true
   regulation_language: en
@@ -32,15 +41,6 @@ name_aliases:
     publication_date: '2017-08-31'
     number_title: 2017/1509 (OJ L224)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- whole_name: 안정혁
-  strong: true
-  regulation_language: en
-  logical_id: '142094'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: AN Jong Hyuk
   function: Representative of Saeng Pil Trading Corporation, an alias of Green Pine
     Associated Corporation, and DPRK diplomat in Egypt.

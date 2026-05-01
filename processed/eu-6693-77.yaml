@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Анатоль
-  middle_name: Пятровiч
-  last_name: ЛАПО
-  whole_name: Анатоль Пятровiч ЛАПО
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '131970'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Анатолии
   middle_name: Петрович
   last_name: ч ЛАППО
@@ -56,15 +42,15 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Anatolij
-  middle_name: Petrovitj
-  last_name: LAPPO
-  whole_name: Anatolij Petrovitj LAPPO
+- first_name: Анатоль
+  middle_name: Пятровiч
+  last_name: ЛАПО
+  whole_name: Анатоль Пятровiч ЛАПО
   gender: M
-  name_language: SV
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '132329'
+  logical_id: '131970'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -82,20 +68,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '131972'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Anatoliy
-  middle_name: Petrovich
-  last_name: LAPPO
-  whole_name: Anatoliy Petrovich LAPPO
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '131971'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -129,6 +101,20 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Anatolij
+  middle_name: Petrovitj
+  last_name: LAPPO
+  whole_name: Anatolij Petrovitj LAPPO
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '132329'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Анатолий
   last_name: Лапо
   whole_name: Анатолий Лапо
@@ -136,6 +122,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164174'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Anatoliy
+  middle_name: Petrovich
+  last_name: LAPPO
+  whole_name: Anatoliy Petrovich LAPPO
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '131971'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

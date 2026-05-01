@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Nikolaj
+  last_name: Rogaščuk
+  whole_name: Nikolaj Rogaščuk
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152108'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Николай
   middle_name: Михайлович
   last_name: РОГАЩУК
@@ -29,13 +42,14 @@ name_aliases:
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Nikolaj
-  last_name: Rogaščuk
-  whole_name: Nikolaj Rogaščuk
+  middle_name: Michajlovitj
+  last_name: ROGASJTJUK
+  whole_name: Nikolaj Michajlovitj ROGASJTJUK
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '152108'
+  logical_id: '136010'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -52,20 +66,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '135884'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Nikolaj
-  middle_name: Michajlovitj
-  last_name: ROGASJTJUK
-  whole_name: Nikolaj Michajlovitj ROGASJTJUK
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '136010'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

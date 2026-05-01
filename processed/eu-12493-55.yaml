@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Александр
-  middle_name: Юрьевич
-  last_name: АЗАРЕНКОВ
-  whole_name: Александр Юрьевич АЗАРЕНКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171135'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - first_name: Alexander
   middle_name: Yurievich
   last_name: AZARENKOV
@@ -39,6 +25,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171136'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- first_name: Александър
+  last_name: Азаренков
+  whole_name: Александър Азаренков
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '171952'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -57,14 +56,15 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- first_name: Александър
-  last_name: Азаренков
-  whole_name: Александър Азаренков
+- first_name: Александр
+  middle_name: Юрьевич
+  last_name: АЗАРЕНКОВ
+  whole_name: Александр Юрьевич АЗАРЕНКОВ
   gender: M
-  name_language: BG
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '171952'
+  logical_id: '171135'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -97,21 +97,21 @@ birthdates:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 identifications:
-- identification_type_code: fiscalcode
-  number: '644919379909'
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '171134'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: passport
   number: 2402 605068
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '171133'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- identification_type_code: fiscalcode
+  number: '644919379909'
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '171134'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

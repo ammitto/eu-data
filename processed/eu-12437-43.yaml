@@ -28,19 +28,6 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Aleh
-  last_name: Piatrov
-  whole_name: Aleh Piatrov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '172255'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Олег
   middle_name: Владимирович
   last_name: ПЕТРОВ
@@ -55,15 +42,16 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Oleg
-  middle_name: Vladimirovich
-  last_name: PETROV
-  whole_name: Oleg Vladimirovich PETROV
+- first_name: Aleh
+  middle_name: Uladzimiravych
+  last_name: PIATROU
+  whole_name: Aleh Uladzimiravych PIATROU
+  function: Part-owner of Vlate Logistik LLC, a transport and storage company
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '171009'
+  logical_id: '171010'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'
@@ -83,15 +71,27 @@ name_aliases:
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Aleh
-  middle_name: Uladzimiravych
-  last_name: PIATROU
-  whole_name: Aleh Uladzimiravych PIATROU
-  function: Part-owner of Vlate Logistik LLC, a transport and storage company
+  last_name: Piatrov
+  whole_name: Aleh Piatrov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '172255'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Oleg
+  middle_name: Vladimirovich
+  last_name: PETROV
+  whole_name: Oleg Vladimirovich PETROV
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '171010'
+  logical_id: '171009'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

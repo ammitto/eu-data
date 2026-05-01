@@ -64,21 +64,21 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО “УМЗ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '160046'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - whole_name: sociedad anónima “Planta Mecánica de Ulyanovsk”
   name_language: ES
   strong: true
   regulation_language: en
   logical_id: '160712'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- whole_name: АО “Ульяновский Механический Завод”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '160047'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -104,11 +104,11 @@ name_aliases:
     publication_date: '2023-12-18'
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- whole_name: АО “Ульяновский Механический Завод”
+- whole_name: АО “УМЗ”
   name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '160047'
+  logical_id: '160046'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'
@@ -129,6 +129,16 @@ addresses:
     number_title: 2023/2875 (OJ L18122023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 identifications:
+- identification_type_code: other
+  number: '732701001'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '160050'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - identification_type_code: fiscalcode
   number: '7303026762'
   country_iso2_code: RU
@@ -144,16 +154,6 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '160045'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- identification_type_code: other
-  number: '732701001'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '160050'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Сергей
-  middle_name: Евгеньевич
-  last_name: ЦИВИЛЕВ
-  whole_name: Сергей Евгеньевич ЦИВИЛЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '143311'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-13'
-    number_title: 2024/849 (OJ L13032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
 - first_name: Sergey
   middle_name: Evgenievich
   last_name: TSIVILEV
@@ -52,6 +38,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164825'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-13'
+    number_title: 2024/849 (OJ L13032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400849
+- first_name: Сергей
+  middle_name: Евгеньевич
+  last_name: ЦИВИЛЕВ
+  whole_name: Сергей Евгеньевич ЦИВИЛЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '143311'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -85,11 +85,11 @@ birthdates:
   day_of_month: 21
   month_of_year: 9
   year: 1961
-  city: Zhdanov
+  city: Mariupol
   country_iso2_code: UA
   country_description: UKRAINE
   regulation_language: en
-  logical_id: '143308'
+  logical_id: '164473'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'
@@ -101,11 +101,11 @@ birthdates:
   day_of_month: 21
   month_of_year: 9
   year: 1961
-  city: Mariupol
+  city: Zhdanov
   country_iso2_code: UA
   country_description: UKRAINE
   regulation_language: en
-  logical_id: '164473'
+  logical_id: '143308'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-13'

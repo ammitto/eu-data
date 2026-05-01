@@ -24,20 +24,6 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Joint Stock Company “NPO Stekloplastik named after N.N. Trofimov”
-  function: JSC “NPO Stekloplastik named after N.N. Trofimov” is the largest scientific
-    and production centre in Russia dedicated to creating glass fibre materials and
-    their composites.
-  title: Joint Stock Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176913'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: "»NPO Stekloplastik named after N.N. Trofimov« Részvénytársaság"
   name_language: HU
   strong: true
@@ -58,21 +44,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Sociedade por ações “NPO Stekloplastik denominada em honra de N.N. Trofimov”
-  name_language: PT
+- whole_name: NPO Stekloplastik
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177261'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Акционерное Общество “НПО Стеклопластик имени Н.Н. Трофимова”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176912'
+  logical_id: '176910'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -88,11 +64,35 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: NPO Stekloplastik
+- whole_name: Акционерное Общество “НПО Стеклопластик имени Н.Н. Трофимова”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176912'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Joint Stock Company “NPO Stekloplastik named after N.N. Trofimov”
+  function: JSC “NPO Stekloplastik named after N.N. Trofimov” is the largest scientific
+    and production centre in Russia dedicated to creating glass fibre materials and
+    their composites.
+  title: Joint Stock Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '176910'
+  logical_id: '176913'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Sociedade por ações “NPO Stekloplastik denominada em honra de N.N. Trofimov”
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '177261'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -112,16 +112,6 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: regnumber
-  number: '1035008852097'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '176909'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: taxid
   number: '5044000039'
   country_iso2_code: RU
@@ -137,6 +127,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '176907'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: regnumber
+  number: '1035008852097'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '176909'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

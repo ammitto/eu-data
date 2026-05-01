@@ -137,16 +137,6 @@ identifications:
     publication_date: '2017-08-25'
     number_title: 2017/1500 (OJ L219)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1500&from=EN
-- identification_type_code: drivinglicence
-  number: 892124B
-  country_iso2_code: TT
-  regulation_language: en
-  logical_id: '113979'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-08-25'
-    number_title: 2017/1500 (OJ L219)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1500&from=EN
 - identification_type_code: id
   number: '19860222007'
   country_iso2_code: TT
@@ -157,11 +147,11 @@ identifications:
     publication_date: '2017-08-25'
     number_title: 2017/1500 (OJ L219)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1500&from=EN
-- identification_type_code: birthcert
-  number: B394445
+- identification_type_code: drivinglicence
+  number: 892124B
   country_iso2_code: TT
   regulation_language: en
-  logical_id: '113980'
+  logical_id: '113979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-25'
@@ -172,6 +162,16 @@ identifications:
   country_iso2_code: TT
   regulation_language: en
   logical_id: '113978'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-08-25'
+    number_title: 2017/1500 (OJ L219)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1500&from=EN
+- identification_type_code: birthcert
+  number: B394445
+  country_iso2_code: TT
+  regulation_language: en
+  logical_id: '113980'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-08-25'

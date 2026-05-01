@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Андрей Вадимович МИХАЙЛИЧЕНКО
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '180405'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-11-20'
-    number_title: 2025/2356 (OJ L202502356)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502356
 - whole_name: Andrey Vadimovich MIKHAILICHENKO
   function: |-
     Deputy Director for Security and Operational Work of Pre-Trial Detention Centre No. 2 of the Main Directorate of the Federal Penitentiary Service for the Rostov Oblast, Russian Federation
@@ -34,6 +24,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180406'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-11-20'
+    number_title: 2025/2356 (OJ L202502356)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502356
+- whole_name: Андрей Вадимович МИХАЙЛИЧЕНКО
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '180405'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-11-20'

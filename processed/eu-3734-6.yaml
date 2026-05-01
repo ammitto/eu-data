@@ -57,12 +57,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1953
+  year: 1954
   city: Rushashi (Northern Province)
   country_iso2_code: RW
   country_description: RWANDA
   regulation_language: en
-  logical_id: '1315'
+  logical_id: '1317'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-12-23'
@@ -70,12 +70,12 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:341:0011:0014:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  year: 1954
+  year: 1953
   city: Rushashi (Northern Province)
   country_iso2_code: RW
   country_description: RWANDA
   regulation_language: en
-  logical_id: '1317'
+  logical_id: '1315'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2010-12-23'

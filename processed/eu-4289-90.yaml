@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: 량수니오
-  gender: M
-  name_language: KO
-  strong: true
-  regulation_language: en
-  logical_id: '142099'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3152 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403152
 - first_name: Su Nyo
   last_name: RYANG
   whole_name: Su Nyo RYANG
@@ -38,6 +27,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '115166'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3152 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403152
+- whole_name: 량수니오
+  gender: M
+  name_language: KO
+  strong: true
+  regulation_language: en
+  logical_id: '142099'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

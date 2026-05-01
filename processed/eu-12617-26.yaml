@@ -14,56 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Donbass Development Corporation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171774'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Corporația de Stat «Corporația pentru Dezvoltarea Donbasului»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '171968'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: КОРПОРАЦИЯ РАЗВИТИЯ ДОНБАССА
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171772'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: ГК “КОРПОРАЦИЯ РАЗВИТИЯ ДОНБАССА”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '171773'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
-- whole_name: Donyec Fejlesztési Vállalat
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '171960'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: ГОСУДАРСТВЕННЫЙ КОНЦЕРН “КОРПОРАЦИЯ РАЗВИТИЯ ДОНБАССА”
   name_language: RU
   strong: true
@@ -92,6 +42,56 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '171961'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Donyec Fejlesztési Vállalat
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '171960'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Donbass Development Corporation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171774'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: ГК “КОРПОРАЦИЯ РАЗВИТИЯ ДОНБАССА”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171773'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: КОРПОРАЦИЯ РАЗВИТИЯ ДОНБАССА
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '171772'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: Corporația de Stat «Corporația pentru Dezvoltarea Donbasului»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '171968'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

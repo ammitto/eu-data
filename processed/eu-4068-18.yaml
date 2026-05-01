@@ -15,6 +15,18 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Jo
+  middle_name: Chun
+  last_name: Ryong
+  whole_name: Jo Chun Ryong
+  strong: true
+  regulation_language: en
+  logical_id: '113600'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-12-09'
+    number_title: 2016/2215 (OJ L334)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R2215&from=EN
 - first_name: Cho
   middle_name: Chun
   last_name: Ryong
@@ -23,18 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '113601'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-12-09'
-    number_title: 2016/2215 (OJ L334)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R2215&from=EN
-- first_name: Jo
-  middle_name: Chun
-  last_name: Ryong
-  whole_name: Jo Chun Ryong
-  strong: true
-  regulation_language: en
-  logical_id: '113600'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-12-09'

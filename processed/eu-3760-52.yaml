@@ -20,24 +20,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Haji Maluk
-  strong: true
-  regulation_language: en
-  logical_id: '14734'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
-- whole_name: Allah Muhammad
-  strong: true
-  regulation_language: en
-  logical_id: '18301'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - first_name: Malik
   last_name: Noorzai
   whole_name: Malik Noorzai
@@ -88,6 +70,24 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Haji Maluk
+  strong: true
+  regulation_language: en
+  logical_id: '14734'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Allah Muhammad
+  strong: true
+  regulation_language: en
+  logical_id: '18301'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 citizenships:
 - country_iso2_code: AF
   country_description: AFGHANISTAN
@@ -163,22 +163,22 @@ birthdates:
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 addresses:
+- city: Kalay Rangin, Spin Boldak District, Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2290'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 543/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 - street: Boghra Road
   city: Miralzei Village, Chaman, Baluchistan Province
   country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
   logical_id: '2289'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 543/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
-- city: Kalay Rangin, Spin Boldak District, Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2290'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2012-06-26'

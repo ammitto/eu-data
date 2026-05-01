@@ -15,6 +15,42 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Abdulkadir Mohamed
+  last_name: Abdulkadir
+  whole_name: Abdulkadir Mohamed Abdulkadir
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-17'
+    number_title: 2024/1724 (OJ L20240617)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
+- last_name: Abdukadir
+  whole_name: Abdukadir
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167482'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-17'
+    number_title: 2024/1724 (OJ L20240617)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
+- whole_name: Ikrima
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167478'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-17'
+    number_title: 2024/1724 (OJ L20240617)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
 - first_name: Abdikadir Mohamed
   last_name: Abdikadir
   whole_name: Abdikadir Mohamed Abdikadir
@@ -29,13 +65,13 @@ name_aliases:
     publication_date: '2024-06-17'
     number_title: 2024/1724 (OJ L20240617)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
-- last_name: Abdukadir
-  whole_name: Abdukadir
+- last_name: Abdulkadir
+  whole_name: Abdulkadir
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167482'
+  logical_id: '167480'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'
@@ -54,56 +90,20 @@ name_aliases:
     publication_date: '2024-06-17'
     number_title: 2024/1724 (OJ L20240617)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
-- whole_name: Ikrima
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167478'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-17'
-    number_title: 2024/1724 (OJ L20240617)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
-- last_name: Abdulkadir
-  whole_name: Abdulkadir
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167480'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-17'
-    number_title: 2024/1724 (OJ L20240617)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
-- first_name: Abdulkadir Mohamed
-  last_name: Abdulkadir
-  whole_name: Abdulkadir Mohamed Abdulkadir
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167479'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-17'
-    number_title: 2024/1724 (OJ L20240617)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
 citizenships:
-- country_iso2_code: SO
-  country_description: SOMALIA
-  regulation_language: en
-  logical_id: '167487'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-17'
-    number_title: 2024/1724 (OJ L20240617)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
 - country_iso2_code: KE
   country_description: KENYA
   regulation_language: en
   logical_id: '167486'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-17'
+    number_title: 2024/1724 (OJ L20240617)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401724
+- country_iso2_code: SO
+  country_description: SOMALIA
+  regulation_language: en
+  logical_id: '167487'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-17'

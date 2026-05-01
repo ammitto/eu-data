@@ -15,14 +15,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Eun Song
+- first_name: Un Song
   last_name: Ri
-  whole_name: Eun Song Ri
+  whole_name: Un Song Ri
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '115059'
+  logical_id: '115058'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'
@@ -41,14 +41,14 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Un Song
+- first_name: Eun Song
   last_name: Ri
-  whole_name: Un Song Ri
+  whole_name: Eun Song Ri
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '115058'
+  logical_id: '115059'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

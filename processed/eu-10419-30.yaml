@@ -14,42 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Dmitrij
-  middle_name: Ivanovitj
+- first_name: Dmitry
+  middle_name: Ivanovich
   last_name: MAKORIN
-  whole_name: Dmitrij Ivanovitj MAKORIN
+  whole_name: Dmitry Ivanovich MAKORIN
+  function: Deputy head of IK-6 prison in Melekhovo, Vladimir Region
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156055'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Dmitrij
-  middle_name: Ivanovič
-  last_name: MAKORIN
-  whole_name: Dmitrij Ivanovič MAKORIN
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156070'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Dmitrij
-  last_name: Makorin
-  whole_name: Dmitrij Makorin
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156039'
+  logical_id: '155566'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -69,16 +43,42 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Dmitry
-  middle_name: Ivanovich
+- first_name: Dmitrij
+  middle_name: Ivanovitj
   last_name: MAKORIN
-  whole_name: Dmitry Ivanovich MAKORIN
-  function: Deputy head of IK-6 prison in Melekhovo, Vladimir Region
+  whole_name: Dmitrij Ivanovitj MAKORIN
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '155566'
+  logical_id: '156055'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Dmitrij
+  last_name: Makorin
+  whole_name: Dmitrij Makorin
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '156039'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Dmitrij
+  middle_name: Ivanovič
+  last_name: MAKORIN
+  whole_name: Dmitrij Ivanovič MAKORIN
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156070'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

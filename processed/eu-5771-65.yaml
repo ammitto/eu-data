@@ -162,15 +162,6 @@ name_aliases:
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 citizenships:
-- country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '174625'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
 - country_iso2_code: SA
   country_description: SAUDI ARABIA
   regulation_language: en
@@ -180,33 +171,16 @@ citizenships:
     publication_date: '2025-03-21'
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1977
-  city: Al-Madinah
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
-  regulation_language: en
-  logical_id: '174611'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1976
-  city: Sangrar, Sindh Province
-  country_iso2_code: PK
+- country_iso2_code: PK
   country_description: PAKISTAN
   regulation_language: en
-  logical_id: '174609'
+  logical_id: '174625'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+birthdates:
 - circa: false
   calendar_type: GREGORIAN
   year: 1977
@@ -228,6 +202,32 @@ birthdates:
   country_description: SAUDI ARABIA
   regulation_language: en
   logical_id: '174608'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1977
+  city: Al-Madinah
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
+  regulation_language: en
+  logical_id: '174611'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1976
+  city: Sangrar, Sindh Province
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '174609'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'

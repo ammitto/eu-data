@@ -15,18 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Do Chun
-  last_name: Pak
-  whole_name: Do Chun Pak
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '112351'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 - first_name: To-chun
   last_name: Pak
   whole_name: To-chun Pak
@@ -39,6 +27,18 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Do Chun
+  last_name: Pak
+  whole_name: Do Chun Pak
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '112351'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 - first_name: To Chun
   last_name: Pak
   whole_name: To Chun Pak

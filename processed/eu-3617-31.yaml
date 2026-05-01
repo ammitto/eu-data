@@ -84,11 +84,11 @@ name_aliases:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
-  place: Mayan, Unity State
+  place: Mayom County Unity State
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '111319'
+  logical_id: '111320'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
@@ -96,11 +96,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
 - circa: true
   calendar_type: GREGORIAN
-  place: Mayom County Unity State
+  place: Mayan, Unity State
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '111320'
+  logical_id: '111319'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'

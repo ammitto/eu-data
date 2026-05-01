@@ -15,23 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Denis
-  middle_name: Vladimirovich
-  last_name: KOLESNIKOV
-  whole_name: Denis Vladimirovich KOLESNIKOV
-  function: Head of the Investigative Department at the Investigative Committee of
-    the Russian Federation
-  gender: M
-  title: Lieutenant General
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153621'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Denis
   middle_name: Vladimirovitj
   last_name: KOLESNIKOV
   whole_name: Denis Vladimirovitj KOLESNIKOV
@@ -68,6 +51,23 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153620'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Denis
+  middle_name: Vladimirovich
+  last_name: KOLESNIKOV
+  whole_name: Denis Vladimirovich KOLESNIKOV
+  function: Head of the Investigative Department at the Investigative Committee of
+    the Russian Federation
+  gender: M
+  title: Lieutenant General
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153621'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

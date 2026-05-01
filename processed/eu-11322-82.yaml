@@ -14,23 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Grigorij Grigorjev
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '163713'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Grigorij Grigorijev
   gender: M
   name_language: CS
   strong: true
   regulation_language: en
   logical_id: '163712'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Grigorij Grigorjev
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '163713'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

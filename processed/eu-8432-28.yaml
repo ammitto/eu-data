@@ -14,10 +14,10 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ali Mohamed Rage Cali Dheer
+- whole_name: Ali Dheere
   strong: true
   regulation_language: en
-  logical_id: '141633'
+  logical_id: '141635'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-28'
@@ -28,6 +28,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141637'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-28'
+    number_title: 2022/340 (OJ L56)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.056.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A056%3ATOC
+- whole_name: Ali Mohamed Rage Cali Dheer
+  strong: true
+  regulation_language: en
+  logical_id: '141633'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-28'
@@ -46,15 +55,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141634'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-28'
-    number_title: 2022/340 (OJ L56)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.056.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A056%3ATOC
-- whole_name: Ali Dheere
-  strong: true
-  regulation_language: en
-  logical_id: '141635'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-28'

@@ -28,20 +28,6 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Арцём
-  middle_name: Канстанцiнавiч
-  last_name: ДУНЬКА
-  whole_name: Арцём Канстанцiнавiч ДУНЬКА
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '126700'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Артем
   middle_name: Константинович
   last_name: ДУНЬКО
@@ -51,6 +37,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '126699'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Арцём
+  middle_name: Канстанцiнавiч
+  last_name: ДУНЬКА
+  whole_name: Арцём Канстанцiнавiч ДУНЬКА
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '126700'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

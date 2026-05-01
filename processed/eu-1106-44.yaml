@@ -35,23 +35,23 @@ addresses:
     publication_date: '2004-05-15'
     number_title: 979/2004 (OJ L180)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
-- street: Hai Al-Wahda, Lane 15, Area 902, Office 10
-  city: Baghdad
-  country_iso2_code: IQ
-  country_description: IRAQ
-  regulation_language: en
-  logical_id: '460'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2004-05-15'
-    number_title: 979/2004 (OJ L180)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
 - street: Hai Babil, Lane 11, District 929
   city: Baghdad
   country_iso2_code: IQ
   country_description: IRAQ
   regulation_language: en
   logical_id: '459'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2004-05-15'
+    number_title: 979/2004 (OJ L180)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:180:0009:0019:EN:PDF
+- street: Hai Al-Wahda, Lane 15, Area 902, Office 10
+  city: Baghdad
+  country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '460'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-05-15'

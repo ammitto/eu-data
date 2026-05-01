@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: U Tayza Kyaw
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '133811'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-04-30'
+    number_title: 2024/1249 (OJ L29042024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401249
 - whole_name: Tayza  Kyaw
   function: "Commander of the Bureau of Special Operations No. 3 (BSO 3), which is
     in charge of the operations of the Western Regional Military Headquarters and
@@ -25,17 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '133460'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-04-30'
-    number_title: 2024/1249 (OJ L29042024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401249
-- whole_name: U Tayza Kyaw
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '133811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-04-30'

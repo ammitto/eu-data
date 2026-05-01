@@ -14,54 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Urząd Administracji  Morskiej
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '143009'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Maritime Administration of DPR Korea
-  strong: true
-  regulation_language: en
-  logical_id: '120604'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-07-17'
-    number_title: 2019/1207 (OJ L191)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1207&from=EN
-- whole_name: Bureau  administratif maritime
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '143002'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: 조선민주주의인민공화국 국가해사감독국
-  strong: true
-  regulation_language: en
-  logical_id: '142132'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: meresõidu  haldusbüroo
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '143082'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: Pomorski upravni urad
   name_language: SL
   strong: true
@@ -82,6 +34,64 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: 조선민주주의인민공화국 국가해사감독국
+  strong: true
+  regulation_language: en
+  logical_id: '142132'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Urząd Administracji  Morskiej
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '143009'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Administration  maritime de la RPD de  Corée
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '143003'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Bureau  administratif maritime
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '143002'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: meresõidu  haldusbüroo
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '143082'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Maritime Administration of DPR Korea
+  strong: true
+  regulation_language: en
+  logical_id: '120604'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-07-17'
+    number_title: 2019/1207 (OJ L191)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1207&from=EN
 - whole_name: Морска  администрация на КНДР
   name_language: BG
   strong: true
@@ -132,6 +142,26 @@ name_aliases:
     publication_date: '2022-08-01'
     number_title: 2022/1331 (OJ L201)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Oficina Administrativa Marítima
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '143012'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: Administración  Marítima de la RPDC
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '143013'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: Administração  Marítima da RPD da Coreia
   name_language: PT
   strong: true
@@ -161,36 +191,6 @@ name_aliases:
     publication_date: '2019-07-17'
     number_title: 2019/1207 (OJ L191)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R1207&from=EN
-- whole_name: Oficina Administrativa Marítima
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '143012'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Administración  Marítima de la RPDC
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '143013'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: Administration  maritime de la RPD de  Corée
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '143003'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 addresses:
 - street: Ryonhwa-2Dong, Central District
   city: Pyongyang

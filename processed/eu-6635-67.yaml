@@ -14,28 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Magomed Farmanovitj Magomedov
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '131632'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
-- whole_name: Magomed Farmanowitsch MAGOMEDOW
-  gender: M
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '131631'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 - first_name: Magomed
   middle_name: Farmanovich
   last_name: MAGOMEDOV
@@ -54,6 +32,39 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Magomed Farmanowitsch MAGOMEDOW
+  gender: M
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '131631'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
+- whole_name: Mahomet Farmanowicz Mahomedow
+  gender: M
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '131633'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
+- whole_name: Magomed Farmanovitj Magomedov
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '131632'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 - first_name: Магомед
   middle_name: Фарманович
   last_name: МАГОМЕДОВ
@@ -68,17 +79,6 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Mahomet Farmanowicz Mahomedow
-  gender: M
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '131633'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 birthdates:
 - birthdate: '1981-02-05'
   circa: false

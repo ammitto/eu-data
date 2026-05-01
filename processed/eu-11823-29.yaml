@@ -14,13 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LLC "Novaport Holding"
-  function: Novaport Holding is a Russian transport company which operates regional
-    airports, and holds interests in the operation of several other airports.
-  name_language: EN
+- whole_name: Societatea  cu răspundere limitată Novaport  Holding
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '167100'
+  logical_id: '167626'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -36,21 +34,23 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Societatea  cu răspundere limitată Novaport  Holding
+- whole_name: Societatea cu răspundere limitată «Novaport Holding»
   name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '167626'
+  logical_id: '167127'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: "»Novaport Holding« Kft."
-  name_language: HU
+- whole_name: LLC "Novaport Holding"
+  function: Novaport Holding is a Russian transport company which operates regional
+    airports, and holds interests in the operation of several other airports.
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '167135'
+  logical_id: '167100'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -66,11 +66,11 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- whole_name: Societatea cu răspundere limitată «Novaport Holding»
-  name_language: RO
+- whole_name: "»Novaport Holding« Kft."
+  name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '167127'
+  logical_id: '167135'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -90,21 +90,21 @@ addresses:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 identifications:
-- identification_type_code: fiscalcode
-  number: '7704857789'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '167098'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - identification_type_code: other
   number: '770401001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '167097'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- identification_type_code: fiscalcode
+  number: '7704857789'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '167098'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

@@ -14,12 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Galina Władimirowna Redko
+- whole_name: Galina Wladimirowna REDKO
   gender: F
-  name_language: PL
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '131643'
+  logical_id: '131641'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-10-11'
@@ -39,6 +39,28 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- whole_name: Redko Galina Vladimirovna
+  gender: F
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '131642'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
+- whole_name: Galina Władimirowna Redko
+  gender: F
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '131643'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 - first_name: Galina
   middle_name: Vladimirovna
   last_name: REDKO
@@ -54,38 +76,7 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
-- whole_name: Redko Galina Vladimirovna
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '131642'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
-- whole_name: Galina Wladimirowna REDKO
-  gender: F
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '131641'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 citizenships:
-- country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  regulation_language: en
-  logical_id: '131600'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-10-11'
-    number_title: 2021/1791 (OJ L359I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 - country_iso2_code: UA
   country_description: UKRAINE
   regulation_language: en
@@ -95,6 +86,15 @@ citizenships:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '131600'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-10-11'
+    number_title: 2021/1791 (OJ L359I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.359.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A359I%3ATOC
 birthdates:
 - birthdate: '1974-03-22'
   circa: false

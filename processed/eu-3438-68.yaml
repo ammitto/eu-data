@@ -16,11 +16,24 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Yusuf Abu Ubaydah
+- whole_name: Yazid Mabrak
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '107780'
+  logical_id: '107781'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- first_name: Abu- Ubaydah
+  middle_name: Yusuf
+  last_name: Al-lnabi
+  whole_name: Abu- Ubaydah Yusuf Al-lnabi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107787'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -31,16 +44,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107786'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Youcef Abu Obeida
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107785'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -82,24 +85,11 @@ name_aliases:
     publication_date: '2016-03-04'
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- first_name: Abu- Ubaydah
-  middle_name: Yusuf
-  last_name: Al-lnabi
-  whole_name: Abu- Ubaydah Yusuf Al-lnabi
+- whole_name: Yusuf Abu Ubaydah
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '107787'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: Yazid Mabrak
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107781'
+  logical_id: '107780'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'
@@ -130,6 +120,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107784'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: Youcef Abu Obeida
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107785'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

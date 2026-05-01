@@ -14,16 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ilya
-  middle_name: Eduardovich
-  last_name: TOROSOV
-  whole_name: Ilya Eduardovich TOROSOV
-  function: Deputy Minister of the Russian Ministry of Economic Development
+- first_name: Илья
+  middle_name: Эдуардович
+  last_name: ТОРОСОВ
+  whole_name: Илья Эдуардович ТОРОСОВ
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '149762'
+  logical_id: '149761'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'
@@ -40,15 +39,16 @@ name_aliases:
     publication_date: '2023-02-25'
     number_title: 2023/429 (OJ L59 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0429
-- first_name: Илья
-  middle_name: Эдуардович
-  last_name: ТОРОСОВ
-  whole_name: Илья Эдуардович ТОРОСОВ
+- first_name: Ilya
+  middle_name: Eduardovich
+  last_name: TOROSOV
+  whole_name: Ilya Eduardovich TOROSOV
+  function: Deputy Minister of the Russian Ministry of Economic Development
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '149761'
+  logical_id: '149762'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-25'

@@ -14,6 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Marina
+  middle_name: Veniaminovna
+  last_name: GARTUNG
+  whole_name: Marina Veniaminovna GARTUNG
+  function: Majority shareholder of PJSC CHKPZ; owner of the LLC Robot Plant; owner
+    of the LLC Hartung
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166512'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Марина
   middle_name: Вениаминовна
   last_name: ГАРТУНГ
@@ -36,22 +52,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166511'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Marina
-  middle_name: Veniaminovna
-  last_name: GARTUNG
-  whole_name: Marina Veniaminovna GARTUNG
-  function: Majority shareholder of PJSC CHKPZ; owner of the LLC Robot Plant; owner
-    of the LLC Hartung
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166512'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

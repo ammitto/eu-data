@@ -18,6 +18,28 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: General Gaduel
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105797'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-07-10'
+    number_title: 2015/1112 (OJ L 182)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
+- whole_name: Simon Garwich
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105798'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-07-10'
+    number_title: 2015/1112 (OJ L 182)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
 - whole_name: Simon Gatweach
   name_language: EN
   strong: true
@@ -39,12 +61,15 @@ name_aliases:
     publication_date: '2015-07-10'
     number_title: 2015/1112 (OJ L 182)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: Simon Garwich
+- first_name: Simon
+  middle_name: Getwech
+  last_name: Dual
+  whole_name: Simon Getwech Dual
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '105798'
+  logical_id: '105803'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
@@ -61,6 +86,17 @@ name_aliases:
     publication_date: '2015-07-10'
     number_title: 2015/1112 (OJ L 182)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
+- whole_name: Simon Gatwick
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105800'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-07-10'
+    number_title: 2015/1112 (OJ L 182)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
 - first_name: Simon
   middle_name: Gatwich
   last_name: Dual
@@ -70,6 +106,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '105804'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-07-10'
+    number_title: 2015/1112 (OJ L 182)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
+- whole_name: Dhual
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '105796'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'
@@ -91,68 +138,7 @@ name_aliases:
     publication_date: '2017-03-09'
     number_title: 2017/402 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0402&from=EN
-- first_name: Simon
-  middle_name: Getwech
-  last_name: Dual
-  whole_name: Simon Getwech Dual
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105803'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-07-10'
-    number_title: 2015/1112 (OJ L 182)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: Simon Gatwick
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105800'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-07-10'
-    number_title: 2015/1112 (OJ L 182)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: Dhual
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105796'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-07-10'
-    number_title: 2015/1112 (OJ L 182)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
-- whole_name: General Gaduel
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '105797'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-07-10'
-    number_title: 2015/1112 (OJ L 182)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
 birthdates:
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1953
-  city: Uror County
-  region: Jonglei State
-  country_iso2_code: SD
-  country_description: SUDAN
-  regulation_language: en
-  logical_id: '105794'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-07-10'
-    number_title: 2015/1112 (OJ L 182)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
 - circa: false
   calendar_type: GREGORIAN
   year: 1953
@@ -162,6 +148,20 @@ birthdates:
   country_description: SUDAN
   regulation_language: en
   logical_id: '105795'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-07-10'
+    number_title: 2015/1112 (OJ L 182)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_182_R_0002&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1953
+  city: Uror County
+  region: Jonglei State
+  country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '105794'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-07-10'

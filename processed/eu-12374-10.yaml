@@ -14,26 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Jeneral Meyè
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '170697'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3138 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403138
-- whole_name: Jeneral Meyer
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '170698'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3138 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403138
 - whole_name: General Meyer
   gender: M
   strong: true
@@ -52,6 +32,26 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170700'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3138 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403138
+- whole_name: Jeneral Meyè
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '170697'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3138 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403138
+- whole_name: Jeneral Meyer
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '170698'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

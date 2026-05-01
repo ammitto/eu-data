@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: سید کاظم دلخوش اباتری
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '150361'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-20'
-    number_title: 2023/379 (OJ L51 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
 - first_name: Seyyed Kazem
   last_name: DELKHOSH-ABATARI
   whole_name: Seyyed Kazem DELKHOSH-ABATARI
@@ -34,6 +23,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '149364'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-20'
+    number_title: 2023/379 (OJ L51 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0379
+- whole_name: سید کاظم دلخوش اباتری
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '150361'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-20'

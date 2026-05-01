@@ -16,19 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Chang
-  middle_name: Ha
-  last_name: Chang
-  whole_name: Chang Ha Chang
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '110311'
-  regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2017-08-31'
-    number_title: 2017/1509 (OJ L224)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 - first_name: Chang Ha
   last_name: Jang
   whole_name: Chang Ha Jang
@@ -37,6 +24,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '110310'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2017-08-31'
+    number_title: 2017/1509 (OJ L224)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
+- first_name: Chang
+  middle_name: Ha
+  last_name: Chang
+  whole_name: Chang Ha Chang
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '110311'
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2017-08-31'

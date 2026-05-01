@@ -24,6 +24,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: АО “НПЗ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175032'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Joint Stock Company “Novosibirsk Instrument Making Plant”
   function: JSC “Novosibirsk Instrument Making Plant” is a Russian manufacturer of
     small arms and observation optics. It is part of the holding structure of Shvabe
@@ -81,31 +91,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО “НПЗ”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175032'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Fábrica de Instrumentos de Novosibirsk
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '175255'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Novoszibirszki Műszergyártó Üzem« Részvénytársaság"
+- whole_name: "»Finomító« Rt."
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175254'
+  logical_id: '175252'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -121,11 +111,21 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Finomító« Rt."
+- whole_name: "»Novoszibirszki Műszergyártó Üzem« Részvénytársaság"
   name_language: HU
   strong: true
   regulation_language: en
-  logical_id: '175252'
+  logical_id: '175254'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Fábrica de Instrumentos de Novosibirsk
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '175255'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -145,21 +145,21 @@ addresses:
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
-- identification_type_code: regnumber
-  number: '1115476008889'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '175031'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: fiscalcode
   number: '5402534361'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '175030'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- identification_type_code: regnumber
+  number: '1115476008889'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '175031'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

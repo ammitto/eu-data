@@ -14,15 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Олег КРЮЧКОВ
-  strong: true
-  regulation_language: en
-  logical_id: '143270'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Oleg KRYUCHKOV
   function: the spokesperson for the Russian occupation authority in Crimea and advisor
     to the Head of Crimea
@@ -40,6 +31,15 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143269'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
+- whole_name: Олег КРЮЧКОВ
+  strong: true
+  regulation_language: en
+  logical_id: '143270'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

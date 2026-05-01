@@ -26,6 +26,16 @@ name_aliases:
     publication_date: '2018-06-21'
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
+- whole_name: Abdul Patta Escalon Abubakar
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '117444'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2018-06-21'
+    number_title: 2018/888 (OJ L158 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 - whole_name: Abdulpatta Abubakar Escalon
   gender: M
   strong: true
@@ -41,16 +51,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '117443'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2018-06-21'
-    number_title: 2018/888 (OJ L158 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
-- whole_name: Abdul Patta Escalon Abubakar
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '117444'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'
@@ -119,6 +119,16 @@ birthdates:
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 addresses:
+- city: Daina
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
+  regulation_language: en
+  logical_id: '117432'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2018-06-21'
+    number_title: 2018/888 (OJ L158 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 - city: Jeddah
   country_iso2_code: SA
   country_description: SAUDI ARABIA
@@ -138,22 +148,12 @@ addresses:
     publication_date: '2018-06-21'
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
-- city: Daina
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
-  regulation_language: en
-  logical_id: '117432'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2018-06-21'
-    number_title: 2018/888 (OJ L158 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
 identifications:
-- identification_type_code: passport
-  number: EB2778599
-  country_iso2_code: PH
+- identification_type_code: other
+  number: '2135314355'
+  country_iso2_code: SA
   regulation_language: en
-  logical_id: '117441'
+  logical_id: '117440'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'
@@ -169,11 +169,11 @@ identifications:
     publication_date: '2018-06-21'
     number_title: 2018/888 (OJ L158 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2018.158.01.0001.01.ENG&toc=OJ:L:2018:158I:TOC
-- identification_type_code: other
-  number: '2135314355'
-  country_iso2_code: SA
+- identification_type_code: passport
+  number: EB2778599
+  country_iso2_code: PH
   regulation_language: en
-  logical_id: '117440'
+  logical_id: '117441'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2018-06-21'

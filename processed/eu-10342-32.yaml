@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Rinat
-  middle_name: Nailevitj
-  last_name: SADYKOV
-  whole_name: Rinat Nailevitj SADYKOV
+- first_name: Ринат
+  middle_name: Наилевич
+  last_name: САДЫКОВ
+  whole_name: Ринат Наилевич САДЫКОВ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '155256'
+  logical_id: '154620'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -43,20 +43,6 @@ name_aliases:
     publication_date: '2023-06-23'
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
-- first_name: Ринат
-  middle_name: Наилевич
-  last_name: САДЫКОВ
-  whole_name: Ринат Наилевич САДЫКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '154620'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-23'
-    number_title: 2023/1216 (OJ L159 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - first_name: Rinat
   middle_name: Nailevič
   last_name: SADYKOV
@@ -66,6 +52,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155399'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-23'
+    number_title: 2023/1216 (OJ L159 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
+- first_name: Rinat
+  middle_name: Nailevitj
+  last_name: SADYKOV
+  whole_name: Rinat Nailevitj SADYKOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '155256'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

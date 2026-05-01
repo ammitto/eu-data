@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Nicaraguan televiestintä- ja postihallinto
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '158149'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-10'
-    number_title: 2023/2125 (OJ L10102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302125
 - whole_name: Nicaraguanisches Institut für Telekommunikation und Postdienste
   name_language: DE
   strong: true
@@ -239,6 +229,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158148'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-10'
+    number_title: 2023/2125 (OJ L10102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302125
+- whole_name: Nicaraguan televiestintä- ja postihallinto
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '158149'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-10'

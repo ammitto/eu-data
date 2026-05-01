@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: ПАО “Мотовилихинские заводы"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147220'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: PJSC "Motovilikhinskiye Zavody"
   function: Russian weapons and ammunition manufacturer
   name_language: EN
@@ -25,21 +35,22 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: ПАО “Мотовилихинские заводы"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147220'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Société par actions cotée “Usine de Motovilikhinsk”
   name_language: FR
   strong: true
   regulation_language: en
   logical_id: '147713'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Публичное  акционерного общество специального машиностроения и металлургии
+    “Мотовилихинские заводы”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '158171'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -60,17 +71,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158443'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Публичное  акционерного общество специального машиностроения и металлургии
-    “Мотовилихинские заводы”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '158171'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

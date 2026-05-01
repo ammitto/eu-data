@@ -17,24 +17,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Shams ur-Rahman Sher Alam
-  strong: true
-  regulation_language: en
-  logical_id: '16228'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 543/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
-- whole_name: Shams-u-Rahman
-  strong: true
-  regulation_language: en
-  logical_id: '102145'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - whole_name: Shamsurrahman Abdurahman
   strong: true
   regulation_language: en
@@ -44,6 +26,24 @@ name_aliases:
     publication_date: '2012-03-24'
     number_title: 263/2012 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Shams-u-Rahman
+  strong: true
+  regulation_language: en
+  logical_id: '102145'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
+- whole_name: Shams ur-Rahman Sher Alam
+  strong: true
+  regulation_language: en
+  logical_id: '16228'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-06-26'
+    number_title: 543/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 - whole_name: Shamsurrahman
   strong: true
   regulation_language: en

@@ -14,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Ivan
-  middle_name: Vladimirovich
-  last_name: OSIPOV
-  whole_name: Ivan Vladimirovich OSIPOV
-  function: agent of the Russian Federal Security Service (FSB) working as a Criminalistics
-    Institute operative
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '145380'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-11-14'
-    number_title: 2022/2228 (OJ L293-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Иван
   middle_name: Владимирович
   last_name: ОСИПОВ
@@ -44,28 +29,28 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Ivan
-  middle_name: Vasiljevitj
-  last_name: SPIRIDONOV
-  whole_name: Ivan Vasiljevitj SPIRIDONOV
+  middle_name: Vladimirovich
+  last_name: OSIPOV
+  whole_name: Ivan Vladimirovich OSIPOV
+  function: agent of the Russian Federal Security Service (FSB) working as a Criminalistics
+    Institute operative
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '145979'
+  logical_id: '145380'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Ivan
-  middle_name: Vladimirovitj
-  last_name: OSIPOV
-  whole_name: Ivan Vladimirovitj OSIPOV
+  middle_name: Vasilyevich
+  last_name: SPIRIDONOV
+  whole_name: Ivan Vasilyevich SPIRIDONOV
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '145980'
+  logical_id: '145378'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -86,13 +71,28 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Ivan
-  middle_name: Vasilyevich
-  last_name: SPIRIDONOV
-  whole_name: Ivan Vasilyevich SPIRIDONOV
+  middle_name: Vladimirovitj
+  last_name: OSIPOV
+  whole_name: Ivan Vladimirovitj OSIPOV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '145378'
+  logical_id: '145980'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-11-14'
+    number_title: 2022/2228 (OJ L293-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
+- first_name: Ivan
+  middle_name: Vasiljevitj
+  last_name: SPIRIDONOV
+  whole_name: Ivan Vasiljevitj SPIRIDONOV
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '145979'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

@@ -30,20 +30,6 @@ name_aliases:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
 - first_name: Luis
   middle_name: Ernesto
-  last_name: DUEÑEZ REYESIN
-  whole_name: Luis Ernesto DUEÑEZ REYESIN
-  gender: M
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '172420'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-01-10'
-    number_title: 2025/44 (OJ L10012025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
-- first_name: Luis
-  middle_name: Ernesto
   last_name: DUEÑEZ  REYES
   whole_name: Luis Ernesto DUEÑEZ  REYES
   function: Assistant Prosecutor, Public Prosecutor’s Office of Venezuela
@@ -52,6 +38,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172422'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-01-10'
+    number_title: 2025/44 (OJ L10012025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R0044&qid=1736526543532
+- first_name: Luis
+  middle_name: Ernesto
+  last_name: DUEÑEZ REYESIN
+  whole_name: Luis Ernesto DUEÑEZ REYESIN
+  gender: M
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '172420'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-01-10'

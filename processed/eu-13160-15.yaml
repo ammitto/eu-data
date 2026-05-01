@@ -14,21 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Soluții pentru Industrii Stark S.R.L.
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '175834'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
 - whole_name: Stark Industries Solutions Ltd.
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '175830'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: Soluții pentru Industrii Stark S.R.L.
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '175834'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

@@ -77,13 +77,12 @@ citizenships:
 birthdates:
 - circa: true
   calendar_type: GREGORIAN
-  year: 1971
-  city: Ghutah
-  region: Damascus Province
+  city: Tadamon
+  region: Rif Dimashq
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '111168'
+  logical_id: '111167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'
@@ -91,12 +90,13 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
 - circa: true
   calendar_type: GREGORIAN
-  city: Tadamon
-  region: Rif Dimashq
+  year: 1971
+  city: Ghutah
+  region: Damascus Province
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
   regulation_language: en
-  logical_id: '111167'
+  logical_id: '111168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'

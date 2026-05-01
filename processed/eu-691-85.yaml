@@ -184,75 +184,16 @@ citizenships:
     number_title: 596/2013 (OJ L172)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:172:0001:0003:EN:PDF
 birthdates:
-- birthdate: '1957-01-01'
+- birthdate: '1957-07-30'
   circa: false
   calendar_type: GREGORIAN
-  day_of_month: 1
-  month_of_year: 1
-  year: 1957
-  country_iso2_code: YE
-  country_description: YEMEN
-  regulation_language: en
-  logical_id: '899'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- birthdate: '1957-03-10'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 10
-  month_of_year: 3
-  year: 1957
-  city: Jeddah
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
-  regulation_language: en
-  logical_id: '892'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1956
-  city: Jeddah
-  country_iso2_code: SA
-  country_description: SAUDI ARABIA
-  regulation_language: en
-  logical_id: '894'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- birthdate: '1957-07-28'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 28
+  day_of_month: 30
   month_of_year: 7
   year: 1957
   country_iso2_code: YE
   country_description: YEMEN
   regulation_language: en
-  logical_id: '897'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2007-07-18'
-    number_title: 844/2007 (OJ L186)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- birthdate: '1957-03-10'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 10
-  month_of_year: 3
-  year: 1957
-  country_iso2_code: YE
-  country_description: YEMEN
-  regulation_language: en
-  logical_id: '898'
+  logical_id: '896'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-07-18'
@@ -331,16 +272,29 @@ birthdates:
     publication_date: '2007-07-18'
     number_title: 844/2007 (OJ L186)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- birthdate: '1957-07-30'
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1956
+  city: Jeddah
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
+  regulation_language: en
+  logical_id: '894'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- birthdate: '1957-03-10'
   circa: false
   calendar_type: GREGORIAN
-  day_of_month: 30
-  month_of_year: 7
+  day_of_month: 10
+  month_of_year: 3
   year: 1957
   country_iso2_code: YE
   country_description: YEMEN
   regulation_language: en
-  logical_id: '896'
+  logical_id: '898'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-07-18'
@@ -353,6 +307,52 @@ birthdates:
   country_description: YEMEN
   regulation_language: en
   logical_id: '901'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- birthdate: '1957-03-10'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 10
+  month_of_year: 3
+  year: 1957
+  city: Jeddah
+  country_iso2_code: SA
+  country_description: SAUDI ARABIA
+  regulation_language: en
+  logical_id: '892'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- birthdate: '1957-07-28'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 28
+  month_of_year: 7
+  year: 1957
+  country_iso2_code: YE
+  country_description: YEMEN
+  regulation_language: en
+  logical_id: '897'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2007-07-18'
+    number_title: 844/2007 (OJ L186)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
+- birthdate: '1957-01-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 1
+  year: 1957
+  country_iso2_code: YE
+  country_description: YEMEN
+  regulation_language: en
+  logical_id: '899'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2007-07-18'

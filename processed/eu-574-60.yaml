@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Zakariya
+  last_name: Essabar
+  whole_name: Zakariya Essabar
+  strong: true
+  regulation_language: en
+  logical_id: '2048'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-22'
+    number_title: 597/2011 (OJ L162)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:162:0003:0006:EN:PDF
 - first_name: Zakarya
   last_name: Essabar
   whole_name: Zakarya Essabar
@@ -26,17 +37,6 @@ name_aliases:
     publication_date: '2002-10-02'
     number_title: 1754/2002 (OJ L264)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:264:0023:0024:EN:PDF
-- first_name: Zakariya
-  last_name: Essabar
-  whole_name: Zakariya Essabar
-  strong: true
-  regulation_language: en
-  logical_id: '2048'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-22'
-    number_title: 597/2011 (OJ L162)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:162:0003:0006:EN:PDF
 citizenships:
 - country_iso2_code: MA
   country_description: MOROCCO
@@ -66,26 +66,6 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:370:0006:0016:EN:PDF
 identifications:
 - identification_type_code: passport
-  number: K-348486
-  country_iso2_code: MA
-  regulation_language: en
-  logical_id: '604'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-22'
-    number_title: 597/2011 (OJ L162)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:162:0003:0006:EN:PDF
-- identification_type_code: id
-  number: G-0343089
-  country_iso2_code: MA
-  regulation_language: en
-  logical_id: '602'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-22'
-    number_title: 597/2011 (OJ L162)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:162:0003:0006:EN:PDF
-- identification_type_code: passport
   number: M 271 351
   country_iso2_code: MA
   regulation_language: en
@@ -100,6 +80,26 @@ identifications:
   country_iso2_code: MA
   regulation_language: en
   logical_id: '601'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-22'
+    number_title: 597/2011 (OJ L162)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:162:0003:0006:EN:PDF
+- identification_type_code: passport
+  number: K-348486
+  country_iso2_code: MA
+  regulation_language: en
+  logical_id: '604'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-22'
+    number_title: 597/2011 (OJ L162)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:162:0003:0006:EN:PDF
+- identification_type_code: id
+  number: G-0343089
+  country_iso2_code: MA
+  regulation_language: en
+  logical_id: '602'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-06-22'

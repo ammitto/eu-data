@@ -15,19 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Poly Technologies INC
-  function: |-
-    Poly Technologies INC. is a Chinese entity, which has been providing components for military helicopters to Russian companies part of the Russia’s
-    military and industrial complex.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175583'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: 保利科技有限公司
   name_language: ZH
   strong: true
@@ -43,6 +30,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175582'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Poly Technologies INC
+  function: |-
+    Poly Technologies INC. is a Chinese entity, which has been providing components for military helicopters to Russian companies part of the Russia’s
+    military and industrial complex.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175583'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

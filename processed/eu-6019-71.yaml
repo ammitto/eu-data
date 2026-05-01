@@ -14,34 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Игорь
-  middle_name: Павлович
-  last_name: БУРМИСТРОВ
-  whole_name: Игорь Павлович БУРМИСТРОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '126694'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Igor
-  middle_name: Pavlovich
-  last_name: BURMISTROV
-  whole_name: Igor Pavlovich BURMISTROV
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '126696'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Ihar
   middle_name: Paulavich
   last_name: BURMISTRAU
@@ -58,6 +30,20 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Игорь
+  middle_name: Павлович
+  last_name: БУРМИСТРОВ
+  whole_name: Игорь Павлович БУРМИСТРОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '126694'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Iгар
   middle_name: Паўлавiч
   last_name: БУРМIСТРАЎ
@@ -67,6 +53,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '126695'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Igor
+  middle_name: Pavlovich
+  last_name: BURMISTROV
+  whole_name: Igor Pavlovich BURMISTROV
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '126696'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

@@ -54,20 +54,6 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Мікалай
-  middle_name: Мікалаевіч
-  last_name: МУШКАРОЎ
-  whole_name: Мікалай Мікалаевіч МУШКАРОЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '170914'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Mikalai
   last_name: Muškarou
   whole_name: Mikalai Muškarou
@@ -106,6 +92,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170916'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Мікалай
+  middle_name: Мікалаевіч
+  last_name: МУШКАРОЎ
+  whole_name: Мікалай Мікалаевіч МУШКАРОЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '170914'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

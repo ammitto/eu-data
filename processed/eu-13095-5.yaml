@@ -15,16 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Публичное акционерное общество “Приборный Завод ‘Сигнал’”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175368'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Public Joint Stock Company “Instrument Plant ‘Signal’”
   function: |-
     PJSC "Instalment Plant "Signal" is a Russian manufacturer of instruments and apparatus for measuring electrical
@@ -33,6 +23,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175369'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Публичное акционерное общество “Приборный Завод ‘Сигнал’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175368'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -83,20 +83,20 @@ addresses:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 identifications:
 - identification_type_code: regnumber
-  number: '1024000947464'
+  number: '4025019280'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '175364'
+  logical_id: '175363'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - identification_type_code: regnumber
-  number: '4025019280'
+  number: '1024000947464'
   country_iso2_code: RU
   regulation_language: en
-  logical_id: '175363'
+  logical_id: '175364'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

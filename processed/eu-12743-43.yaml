@@ -122,16 +122,6 @@ addresses:
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 identifications:
-- identification_type_code: regnumber
-  number: '1037800001304'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '172884'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - identification_type_code: fiscalcode
   number: '7801016421'
   country_iso2_code: RU
@@ -147,6 +137,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172882'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- identification_type_code: regnumber
+  number: '1037800001304'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '172884'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

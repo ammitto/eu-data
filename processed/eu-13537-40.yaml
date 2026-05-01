@@ -26,21 +26,21 @@ name_aliases:
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 addresses:
+- country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '178276'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1982 (OJ L202501982)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - street: Haftom Tir Square, South Mofte Avenue, Tour Line No 3/1
   city: Tehran
   country_iso2_code: IR
   country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
   logical_id: '178277'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1982 (OJ L202501982)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '178276'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

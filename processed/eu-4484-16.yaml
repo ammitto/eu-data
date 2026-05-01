@@ -14,21 +14,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: KIM Kyong Hui
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '116483'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: 김경희
   gender: F
   strong: true
   regulation_language: en
   logical_id: '142088'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
+- whole_name: KIM Kyong Hui
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '116483'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

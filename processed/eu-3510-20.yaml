@@ -273,6 +273,16 @@ birthdates:
     number_title: 2016/1430 (OJ L232)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 addresses:
+- city: Palatial bungalow in the hilly area of Noorabad in Karachi
+  country_iso2_code: PK
+  country_description: PAKISTAN
+  regulation_language: en
+  logical_id: '109379'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 - street: House No 37 – 30th Street – defence, Housing Authority
   city: Karachi
   country_iso2_code: PK
@@ -284,16 +294,6 @@ addresses:
     publication_date: '2007-07-18'
     number_title: 844/2007 (OJ L186)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
-- city: Palatial bungalow in the hilly area of Noorabad in Karachi
-  country_iso2_code: PK
-  country_description: PAKISTAN
-  regulation_language: en
-  logical_id: '109379'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 - street: White House, Near Saudi Mosque, Clifton
   city: Karachi
   country_iso2_code: PK
@@ -307,10 +307,10 @@ addresses:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:186:0024:0028:EN:PDF
 identifications:
 - identification_type_code: passport
-  number: A717288
-  country_iso2_code: AE
+  number: F823692
+  country_iso2_code: IN
   regulation_language: en
-  logical_id: '252'
+  logical_id: '247'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -367,10 +367,30 @@ identifications:
     number_title: 2016/1430 (OJ L232)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 - identification_type_code: passport
-  number: F823692
+  number: V57865
   country_iso2_code: IN
   regulation_language: en
-  logical_id: '247'
+  logical_id: '250'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- identification_type_code: passport
+  number: G866537
+  country_iso2_code: PK
+  regulation_language: en
+  logical_id: '253'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- identification_type_code: passport
+  number: A717288
+  country_iso2_code: AE
+  regulation_language: en
+  logical_id: '252'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'
@@ -397,16 +417,6 @@ identifications:
     number_title: 2016/1430 (OJ L232)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 - identification_type_code: passport
-  number: G866537
-  country_iso2_code: PK
-  regulation_language: en
-  logical_id: '253'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- identification_type_code: passport
   number: R841697
   country_iso2_code: IN
   regulation_language: en
@@ -417,30 +427,20 @@ identifications:
     number_title: 2016/1430 (OJ L232)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
 - identification_type_code: passport
-  number: G-869537
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '438'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- identification_type_code: passport
-  number: V57865
-  country_iso2_code: IN
-  regulation_language: en
-  logical_id: '250'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-08-27'
-    number_title: 2016/1430 (OJ L232)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
-- identification_type_code: passport
   number: KC-285901
   country_iso2_code: '00'
   regulation_language: en
   logical_id: '439'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-08-27'
+    number_title: 2016/1430 (OJ L232)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1430&from=EN
+- identification_type_code: passport
+  number: G-869537
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '438'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-08-27'

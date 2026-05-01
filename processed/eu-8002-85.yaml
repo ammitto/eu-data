@@ -14,33 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Iryna Leontijivna DIANOVA
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '139534'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
 - whole_name: Irina Leontievna DIANOVA
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '139535'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-04-08'
-    number_title: 2022/581 (OJ L110)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
-- whole_name: Irina Leontievna DIANOVA
-  function: Member of the so-called ‘People’s Council’ of the so-called ‘Donetsk People’s
-    Republic’
-  gender: F
-  strong: true
-  regulation_language: en
-  logical_id: '138760'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'
@@ -61,6 +39,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '138759'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: Irina Leontievna DIANOVA
+  function: Member of the so-called ‘People’s Council’ of the so-called ‘Donetsk People’s
+    Republic’
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '138760'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-04-08'
+    number_title: 2022/581 (OJ L110)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.110.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A110%3ATOC
+- whole_name: Iryna Leontijivna DIANOVA
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '139534'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-04-08'

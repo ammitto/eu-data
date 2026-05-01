@@ -14,35 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Ministerio de la Industria de los Cohetes
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '147529'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2429 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: 로케트공업부
-  name_language: KO
-  strong: true
-  regulation_language: en
-  logical_id: '147430'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2429 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Rocket Industry Department
-  strong: true
-  regulation_language: en
-  logical_id: '147429'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-12'
-    number_title: 2022/2429 (OJ L318I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
 - whole_name: Ministerstvo raketového priemyslu
   name_language: SK
   strong: true
@@ -143,11 +114,10 @@ name_aliases:
     publication_date: '2022-12-12'
     number_title: 2022/2429 (OJ L318I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Raķešu rūpniecības ministrija
-  name_language: LV
+- whole_name: Ministry of Rocket Industry
   strong: true
   regulation_language: en
-  logical_id: '147533'
+  logical_id: '147431'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -183,10 +153,11 @@ name_aliases:
     publication_date: '2022-12-12'
     number_title: 2022/2429 (OJ L318I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
-- whole_name: Ministry of Rocket Industry
+- whole_name: Ministerio de la Industria de los Cohetes
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '147431'
+  logical_id: '147529'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'
@@ -197,6 +168,35 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147528'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2429 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: Raķešu rūpniecības ministrija
+  name_language: LV
+  strong: true
+  regulation_language: en
+  logical_id: '147533'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2429 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: 로케트공업부
+  name_language: KO
+  strong: true
+  regulation_language: en
+  logical_id: '147430'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-12'
+    number_title: 2022/2429 (OJ L318I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.318.01.0013.01.ENG&toc=OJ%3AL%3A2022%3A318I%3ATOC
+- whole_name: Rocket Industry Department
+  strong: true
+  regulation_language: en
+  logical_id: '147429'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-12'

@@ -14,27 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Hossam Muhammad
+- first_name: Hossam Mohammed
   last_name: al-Katerji
-  whole_name: Hossam Muhammad al-Katerji
+  whole_name: Hossam Mohammed al-Katerji
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '119232'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Husám
-  last_name: al-Katardží
-  whole_name: Husám al-Katardží
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '166998'
+  logical_id: '119233'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -53,43 +40,19 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Hussam
-  last_name: AL QATIRJI
-  whole_name: Hussam AL QATIRJI
+- first_name: Husám
+  last_name: al-Katardží
+  whole_name: Husám al-Katardží
   gender: M
-  name_language: RO
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '140962'
+  logical_id: '166998'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- first_name: Hussam
-  last_name: AL QATIRJI
-  whole_name: Hussam AL QATIRJI
-  gender: M
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '140956'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
-- whole_name: حسام القاطرجي
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '124831'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-29'
-    number_title: 2020/716 (OJ L168)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - whole_name: Muhammad al-Katerji
   gender: M
   strong: true
@@ -137,14 +100,14 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Hossam Mohammed
+- first_name: Hossam Muhammad
   last_name: al-Katerji
-  whole_name: Hossam Mohammed al-Katerji
+  whole_name: Hossam Muhammad al-Katerji
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '119233'
+  logical_id: '119232'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -163,6 +126,43 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Hussam
+  last_name: AL QATIRJI
+  whole_name: Hussam AL QATIRJI
+  gender: M
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '140962'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- first_name: Hussam
+  last_name: AL QATIRJI
+  whole_name: Hussam AL QATIRJI
+  gender: M
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '140956'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
+- whole_name: حسام القاطرجي
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '124831'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-29'
+    number_title: 2020/716 (OJ L168)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0716&from=EN
 - first_name: Hussam Ahmed
   last_name: al-Katerji
   whole_name: Hussam Ahmed al-Katerji

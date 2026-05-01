@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Khaleej Bank
-  name_language: EN
+- whole_name: banque  Al-Khaleej
+  name_language: FR
   strong: true
   regulation_language: en
-  logical_id: '177937'
+  logical_id: '177933'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-18'
@@ -29,16 +29,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177936'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-18'
-    number_title: 2025/1480 (OJ L202501480)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
-- whole_name: banque  Al-Khaleej
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '177933'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-18'
@@ -70,6 +60,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177938'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-18'
+    number_title: 2025/1480 (OJ L202501480)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501480
+- whole_name: Khaleej Bank
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177937'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-18'

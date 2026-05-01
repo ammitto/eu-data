@@ -15,11 +15,31 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: La Administración Nacional de Tecnología Aeroespacial
-  name_language: ES
+- whole_name: Авиационно-космическо развитие
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '168740'
+  logical_id: '168741'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: NADA
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168454'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: National Aerospace Development Administration
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '168455'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
@@ -35,21 +55,101 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2070 (OJ L202402070)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Авиационно-космическо развитие
-  name_language: BG
+- whole_name: La Administración Nacional de Tecnología Aeroespacial
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '168741'
+  logical_id: '168740'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
     number_title: 2024/2070 (OJ L202402070)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: den nationella styrelsen  för rymdutveckling
-  name_language: SV
+- whole_name: Národní úřad leteckých  a kosmických technologií (NATA)
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '168728'
+  logical_id: '168739'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Εθνική Υπηρεσία για την Τεχνολογία  της Αεροδιαστημικής
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '168738'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: L’Administration nationale des technologies aérospatiales
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '168737'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Nacionalna  uprava za svemirsku tehnologiju
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '168736'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Nacionalinė aerokosminės erdvės technologijų  administracija
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '168735'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Nemzeti Űrtechnológiai Hivatal
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '168734'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: voorheen National Aerospace  Development Administration
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '168733'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Administração Nacional da  Tecnologia Espacial
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '168732'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-07-29'
+    number_title: 2024/2070 (OJ L202402070)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
+- whole_name: Administrația  Națională pentru Tehnologie  Aerospațială
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '168731'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'
@@ -75,111 +175,11 @@ name_aliases:
     publication_date: '2024-07-29'
     number_title: 2024/2070 (OJ L202402070)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Administrația  Națională pentru Tehnologie  Aerospațială
-  name_language: RO
+- whole_name: den nationella styrelsen  för rymdutveckling
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '168731'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Administração Nacional da  Tecnologia Espacial
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '168732'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: voorheen National Aerospace  Development Administration
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '168733'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Nemzeti Űrtechnológiai Hivatal
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '168734'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Nacionalinė aerokosminės erdvės technologijų  administracija
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '168735'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Nacionalna  uprava za svemirsku tehnologiju
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '168736'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: L’Administration nationale des technologies aérospatiales
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '168737'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Εθνική Υπηρεσία για την Τεχνολογία  της Αεροδιαστημικής
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '168738'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: Národní úřad leteckých  a kosmických technologií (NATA)
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '168739'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: NADA
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168454'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-07-29'
-    number_title: 2024/2070 (OJ L202402070)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402070
-- whole_name: National Aerospace Development Administration
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '168455'
+  logical_id: '168728'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-07-29'

@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Asàad
+  gender: M
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '153032'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - first_name: Muhammad
   last_name: ABDO ASSAAD
   whole_name: Muhammad ABDO ASSAAD
@@ -45,17 +56,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152858'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: Asàad
-  gender: M
-  name_language: IT
-  strong: true
-  regulation_language: en
-  logical_id: '153032'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

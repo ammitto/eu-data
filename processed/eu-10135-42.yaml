@@ -15,34 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Danila
-  middle_name: Yurievich
-  last_name: MIKHEEV
-  whole_name: Danila Yurievich MIKHEEV
-  function: Director of (Russian) non-profit organization “Independent expert”
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '153614'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Danila
-  last_name: Michejev
-  whole_name: Danila Michejev
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '153933'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-05'
-    number_title: 2023/1098 (OJ L145)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Danila
   middle_name: Jurijevič
   last_name: MICHEJEV
   whole_name: Danila Jurijevič MICHEJEV
@@ -51,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153941'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Данила
+  middle_name: Юрьевич
+  last_name: МИХЕЕВ
+  whole_name: Данила Юрьевич МИХЕЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '153613'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'
@@ -70,15 +56,29 @@ name_aliases:
     publication_date: '2023-06-05'
     number_title: 2023/1098 (OJ L145)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
-- first_name: Данила
-  middle_name: Юрьевич
-  last_name: МИХЕЕВ
-  whole_name: Данила Юрьевич МИХЕЕВ
+- first_name: Danila
+  last_name: Michejev
+  whole_name: Danila Michejev
   gender: M
-  name_language: RU
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '153613'
+  logical_id: '153933'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-05'
+    number_title: 2023/1098 (OJ L145)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1098
+- first_name: Danila
+  middle_name: Yurievich
+  last_name: MIKHEEV
+  whole_name: Danila Yurievich MIKHEEV
+  function: Director of (Russian) non-profit organization “Independent expert”
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '153614'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-05'

@@ -69,13 +69,12 @@ birthdates:
   day_of_month: 1
   month_of_year: 1
   year: 1958
-  city: Abeibara, Kidal region
-  region: Kidal region
-  place: Abeibara
+  region: Bourem Region
+  place: Bouressa
   country_iso2_code: ML
   country_description: MALI
   regulation_language: en
-  logical_id: '2229'
+  logical_id: '2231'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-24'
@@ -87,12 +86,13 @@ birthdates:
   day_of_month: 1
   month_of_year: 1
   year: 1958
-  region: Bourem Region
-  place: Bouressa
+  city: Abeibara, Kidal region
+  region: Kidal region
+  place: Abeibara
   country_iso2_code: ML
   country_description: MALI
   regulation_language: en
-  logical_id: '2231'
+  logical_id: '2229'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-24'

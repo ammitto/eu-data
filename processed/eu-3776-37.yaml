@@ -15,13 +15,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mohammad Safwan KATAN
-  function: Mohammad Safwan Katan is an engineer at the Syrian Scientific Studies
-    and Research Centre, a listed entity.
+- whole_name: محمد صفوان قطان
   gender: M
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '113208'
+  logical_id: '124812'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'
@@ -41,12 +40,13 @@ name_aliases:
     publication_date: '2017-07-18'
     number_title: 2017/1327 (OJ L185)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1327&from=EN
-- whole_name: محمد صفوان قطان
+- whole_name: Mohammad Safwan KATAN
+  function: Mohammad Safwan Katan is an engineer at the Syrian Scientific Studies
+    and Research Centre, a listed entity.
   gender: M
-  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '124812'
+  logical_id: '113208'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-29'

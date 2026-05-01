@@ -14,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Khin Maung  Yi
-  function: Minister for Natural Resources and Environmental Conservation (MONREC)
-    appointed on 2 February 2021 by the State Administrative Council (SAC) led by
-    Commander-in-Chief Min Aung Hlaing. He was Permanent Secretary in this department
-    under the democratically elected government.
-  gender: M
-  title: Colonel
-  strong: true
-  regulation_language: en
-  logical_id: '130415'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/998 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
 - whole_name: U Khin Maung Yi
   gender: M
   strong: true
@@ -44,6 +29,21 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130414'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/998 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0998&from=EN
+- whole_name: Khin Maung  Yi
+  function: Minister for Natural Resources and Environmental Conservation (MONREC)
+    appointed on 2 February 2021 by the State Administrative Council (SAC) led by
+    Commander-in-Chief Min Aung Hlaing. He was Permanent Secretary in this department
+    under the democratically elected government.
+  gender: M
+  title: Colonel
+  strong: true
+  regulation_language: en
+  logical_id: '130415'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

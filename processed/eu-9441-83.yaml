@@ -14,6 +14,56 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Paravar Pars Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '147498'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Pravarpars Engineering Research and Design Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '147491'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Paravar Pars
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '147493'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Paravar Pars Engineering and Services Aerospace Research Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '147494'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Paravar Pars  Aerospace Research Institute
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '147495'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - whole_name: Societatea Paravar Pars
   name_language: RO
   strong: true
@@ -39,56 +89,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147496'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Paravar Pars  Aerospace Research Institute
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '147495'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Paravar Pars Engineering and Services Aerospace Research Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '147494'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Paravar Pars
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '147493'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Pravarpars Engineering Research and Design Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '147491'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Paravar Pars Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '147498'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

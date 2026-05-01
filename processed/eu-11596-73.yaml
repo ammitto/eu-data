@@ -14,15 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Inna
-  middle_name: Alexandrovna
-  last_name: Fesenková
-  whole_name: Inna Alexandrovna Fesenková
+- first_name: Инна
+  middle_name: Александровна
+  last_name: ФЕСЕНКО
+  whole_name: Инна Александровна ФЕСЕНКО
   gender: F
-  name_language: SK
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '165925'
+  logical_id: '165655'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'
@@ -43,15 +43,15 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1488 (OJ L27052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401488
-- first_name: Инна
-  middle_name: Александровна
-  last_name: ФЕСЕНКО
-  whole_name: Инна Александровна ФЕСЕНКО
+- first_name: Inna
+  middle_name: Alexandrovna
+  last_name: Fesenková
+  whole_name: Inna Alexandrovna Fesenková
   gender: F
-  name_language: RU
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '165655'
+  logical_id: '165925'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2024-05-27'

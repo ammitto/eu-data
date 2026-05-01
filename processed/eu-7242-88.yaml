@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Заур
-  middle_name: Далхатович
-  last_name: ГЕККИЕВ
-  whole_name: Заур Далхатович ГЕККИЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '134706'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - first_name: Zaur
   middle_name: Dalkhatovich
   last_name: GEKKIEV
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '134707'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Заур
+  middle_name: Далхатович
+  last_name: ГЕККИЕВ
+  whole_name: Заур Далхатович ГЕККИЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '134706'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-15'

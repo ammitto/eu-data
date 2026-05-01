@@ -14,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Vildan
-  middle_name: Khanifovich
-  last_name: ZINUROV
-  whole_name: Vildan Khanifovich ZINUROV
-  function: Co-controlling shareholder of the Volga Dnepr Group
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '166531'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - whole_name: Vildan Khanifovich ZINNUROV
   name_language: EN
   strong: true
@@ -49,6 +34,21 @@ name_aliases:
     publication_date: '2025-03-15'
     number_title: 2025/527 (OJ L202500527)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AL_202500527&qid=1742218670627
+- first_name: Vildan
+  middle_name: Khanifovich
+  last_name: ZINUROV
+  whole_name: Vildan Khanifovich ZINUROV
+  function: Co-controlling shareholder of the Volga Dnepr Group
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '166531'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Вильдан
   middle_name: Ханифович
   last_name: ЗИНУРОВ

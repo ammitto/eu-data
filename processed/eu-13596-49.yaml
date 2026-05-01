@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: IOTC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178523'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1980 (OJ L202501980)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 - whole_name: Iranian Oil Terminals Company
   function: Iranian Oil Terminals Company is an Iranian company, a subsidiary (100
     %) of National Iranian Oil Company (NIOC). The National Iranian Oil Company (NIOC)
@@ -27,16 +37,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '178524'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1980 (OJ L202501980)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- whole_name: IOTC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178523'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

@@ -14,6 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Fathi Hannachi
+  strong: true
+  regulation_language: en
+  logical_id: '8437'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-01-19'
+    number_title: 36/2011 (OJ L14)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
 - first_name: Mohamed
   middle_name: Ben Belkacem
   last_name: Aouadi
@@ -26,15 +35,6 @@ name_aliases:
     publication_date: '2006-01-18'
     number_title: 76/2006 (OJ L12)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:012:0007:0016:EN:PDF
-- whole_name: Fathi Hannachi
-  strong: true
-  regulation_language: en
-  logical_id: '8437'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-01-19'
-    number_title: 36/2011 (OJ L14)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011R0036&from=EN
 - first_name: Mohamed
   middle_name: Ben Belgacem Ben Abdallah
   last_name: Al-Aouadi
@@ -88,21 +88,21 @@ addresses:
     number_title: 2015/64 (OJ L11)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2015:011:FULL&from=EN
 identifications:
-- identification_type_code: passport
-  number: L191609
-  country_iso2_code: TN
-  regulation_language: en
-  logical_id: '68'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2006-01-18'
-    number_title: 76/2006 (OJ L12)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:012:0007:0016:EN:PDF
 - identification_type_code: id
   number: '04643632'
   country_iso2_code: TN
   regulation_language: en
   logical_id: '69'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2006-01-18'
+    number_title: 76/2006 (OJ L12)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:012:0007:0016:EN:PDF
+- identification_type_code: passport
+  number: L191609
+  country_iso2_code: TN
+  regulation_language: en
+  logical_id: '68'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2006-01-18'

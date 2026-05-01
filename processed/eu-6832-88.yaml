@@ -16,17 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Shihab Mohajir
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '132930'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-06'
-    number_title: 2024/1301 (OJ L06052014)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
 - first_name: Sanaullah
   last_name: Ghafari
   whole_name: Sanaullah Ghafari
@@ -37,6 +26,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132937'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-06'
+    number_title: 2024/1301 (OJ L06052014)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
+- whole_name: ثناء اللہ غفاری
+  gender: M
+  name_language: PS
+  strong: true
+  regulation_language: en
+  logical_id: '132938'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
@@ -87,23 +87,12 @@ name_aliases:
     publication_date: '2024-05-06'
     number_title: 2024/1301 (OJ L06052014)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: Shihab Mahajar
+- whole_name: Shihab al Muhajir
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '132929'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-06'
-    number_title: 2024/1301 (OJ L06052014)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: ثناء اللہ غفاری
-  gender: M
-  name_language: PS
-  strong: true
-  regulation_language: en
-  logical_id: '132938'
+  logical_id: '132932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
@@ -120,12 +109,23 @@ name_aliases:
     publication_date: '2024-05-06'
     number_title: 2024/1301 (OJ L06052014)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
-- whole_name: Shihab al Muhajir
+- whole_name: Shihab Mohajir
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '132932'
+  logical_id: '132930'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-06'
+    number_title: 2024/1301 (OJ L06052014)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
+- whole_name: Shihab Mahajar
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '132929'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'
@@ -142,22 +142,6 @@ citizenships:
     number_title: 2021/2311 (OJ L458I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.458.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A458I%3ATOC
 birthdates:
-- birthdate: '1994-10-28'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 28
-  month_of_year: 10
-  year: 1994
-  region: Mir Bacha Kot District, Kabul Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '132927'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-06'
-    number_title: 2024/1301 (OJ L06052014)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
 - birthdate: '1990-05-24'
   circa: false
   calendar_type: GREGORIAN
@@ -169,6 +153,22 @@ birthdates:
   country_description: AFGHANISTAN
   regulation_language: en
   logical_id: '165326'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-06'
+    number_title: 2024/1301 (OJ L06052014)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401301
+- birthdate: '1994-10-28'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 28
+  month_of_year: 10
+  year: 1994
+  region: Mir Bacha Kot District, Kabul Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '132927'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-06'

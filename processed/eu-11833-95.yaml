@@ -27,19 +27,6 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1783 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401783
-- first_name: Mohamed
-  last_name: EL AWAD EL AMIN AL-TAHER
-  whole_name: Mohamed EL AWAD EL AMIN AL-TAHER
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '167334'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1783 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401783
 - first_name: Mohammed
   last_name: AL-AWAD  AL-AMIN
   whole_name: Mohammed AL-AWAD  AL-AMIN
@@ -48,6 +35,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167333'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1783 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401783
+- first_name: Mohamed
+  last_name: EL AWAD EL AMIN AL-TAHER
+  whole_name: Mohamed EL AWAD EL AMIN AL-TAHER
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '167334'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

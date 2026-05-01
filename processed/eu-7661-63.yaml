@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Michail
-  middle_name: Igorevič
-  last_name: Polubojarinov
-  whole_name: Michail Igorevič Polubojarinov
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '152178'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - first_name: Михаил
   middle_name: Игоревич
   last_name: ПОЛУБОЯРИНОВ
@@ -69,6 +55,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '137351'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Michail
+  middle_name: Igorevič
+  last_name: Polubojarinov
+  whole_name: Michail Igorevič Polubojarinov
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '152178'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

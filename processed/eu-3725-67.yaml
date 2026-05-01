@@ -100,27 +100,14 @@ birthdates:
     publication_date: '2019-02-19'
     number_title: 2019/279 (OJ L47)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0279&from=EN
-- circa: true
-  calendar_type: GREGORIAN
-  year: 1965
-  region: Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '107016'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-02-19'
-    number_title: 2019/279 (OJ L47)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0279&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1962
-  region: Kandahar Province
+  year: 1960
+  region: Kandahar Province, Afghanistan
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '111249'
+  logical_id: '107018'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-02-19'
@@ -141,12 +128,25 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0279&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1960
-  region: Kandahar Province, Afghanistan
+  year: 1962
+  region: Kandahar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '107018'
+  logical_id: '111249'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-02-19'
+    number_title: 2019/279 (OJ L47)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0279&from=EN
+- circa: true
+  calendar_type: GREGORIAN
+  year: 1965
+  region: Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '107016'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-02-19'

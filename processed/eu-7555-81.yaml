@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Олег
+  middle_name: Леонидович
+  last_name: ВОИНОВ
+  whole_name: Олег Леонидович ВОИНОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136286'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Oleg
   last_name: Voïnov
   whole_name: Oleg Voïnov
@@ -54,20 +68,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136287'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Олег
-  middle_name: Леонидович
-  last_name: ВОИНОВ
-  whole_name: Олег Леонидович ВОИНОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136286'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

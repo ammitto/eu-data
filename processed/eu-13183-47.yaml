@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Дмитрий Алексеевич МИХАЙЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175952'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/958 (OJ L202500958)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
 - whole_name: Dmitry Alekseyevich MIHAILOV
   function: As judge of the Supreme Court of Republic of Karelia in Petrozavodsk,
     Dmitry Mihailov sentenced Sergey Drugov, blogger and activist, to 2 years of forced
@@ -24,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175953'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/958 (OJ L202500958)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
-- whole_name: Дмитрий Алексеевич МИХАЙЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175952'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

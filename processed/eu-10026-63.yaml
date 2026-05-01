@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: حسن محمد دقو
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '152843'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-04-24'
+    number_title: 2023/844 (OJ L109 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
 - first_name: Hassan Muhammad
   last_name: DAQQOU
   whole_name: Hassan Muhammad DAQQOU
@@ -22,17 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '152844'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-04-24'
-    number_title: 2023/844 (OJ L109 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0844
-- whole_name: حسن محمد دقو
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '152843'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-04-24'

@@ -14,22 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: AFA Media
-  title: media company
+- whole_name: RED
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175802'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/965 (OJ L202500965)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: RED  AFA Медиа
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175799'
+  logical_id: '175801'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -45,11 +34,22 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: RED
+- whole_name: RED  AFA Медиа
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175801'
+  logical_id: '175799'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/965 (OJ L202500965)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
+- whole_name: AFA Media
+  title: media company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175802'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

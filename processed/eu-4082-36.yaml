@@ -14,6 +14,26 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Wonbang Trading Co.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '114607'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- whole_name: Glocom
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '124488'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-11-14'
+    number_title: 2023/2576 (OJ L14112023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 - whole_name: International Golden Services
   name_language: EN
   strong: true
@@ -51,26 +71,6 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3152 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403152
-- whole_name: Wonbang Trading Co.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '114607'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- whole_name: Glocom
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '124488'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-11-14'
-    number_title: 2023/2576 (OJ L14112023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
 addresses:
 - street: Room 818, Pothonggang Hotel, Ansan-Dong, Pyongchon district
   city: Pyongyang

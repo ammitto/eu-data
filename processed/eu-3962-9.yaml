@@ -179,21 +179,6 @@ citizenships:
     number_title: 2017/557 (OJ L80)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0557&from=EN
 birthdates:
-- birthdate: '1960-04-04'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 4
-  month_of_year: 4
-  year: 1960
-  country_iso2_code: MA
-  country_description: MOROCCO
-  regulation_language: en
-  logical_id: '153999'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-09'
-    number_title: 2023/1139 (OJ L149 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1139
 - birthdate: '1960-06-04'
   circa: false
   calendar_type: GREGORIAN
@@ -205,6 +190,21 @@ birthdates:
   country_description: LIBYA
   regulation_language: en
   logical_id: '827'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-09'
+    number_title: 2023/1139 (OJ L149 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1139
+- birthdate: '1960-04-04'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 4
+  month_of_year: 4
+  year: 1960
+  country_iso2_code: MA
+  country_description: MOROCCO
+  regulation_language: en
+  logical_id: '153999'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-09'
@@ -256,22 +256,6 @@ birthdates:
     publication_date: '2009-11-18'
     number_title: 1102/2009 (OJ L303)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
-- birthdate: '1960-04-04'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 4
-  month_of_year: 4
-  year: 1960
-  city: Bengasi
-  country_iso2_code: LY
-  country_description: LIBYA
-  regulation_language: en
-  logical_id: '154001'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-09'
-    number_title: 2023/1139 (OJ L149 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1139
 - birthdate: '1969-04-04'
   circa: false
   calendar_type: GREGORIAN
@@ -283,6 +267,22 @@ birthdates:
   country_description: LIBYA
   regulation_language: en
   logical_id: '153997'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-09'
+    number_title: 2023/1139 (OJ L149 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1139
+- birthdate: '1960-04-04'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 4
+  month_of_year: 4
+  year: 1960
+  city: Bengasi
+  country_iso2_code: LY
+  country_description: LIBYA
+  regulation_language: en
+  logical_id: '154001'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-09'
@@ -304,21 +304,6 @@ birthdates:
     publication_date: '2023-06-09'
     number_title: 2023/1139 (OJ L149 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1139
-- birthdate: '1969-04-04'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 4
-  month_of_year: 4
-  year: 1969
-  country_iso2_code: MA
-  country_description: MOROCCO
-  regulation_language: en
-  logical_id: '153998'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-06-09'
-    number_title: 2023/1139 (OJ L149 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1139
 - birthdate: '1968-01-14'
   circa: false
   calendar_type: GREGORIAN
@@ -329,6 +314,21 @@ birthdates:
   country_description: MOROCCO
   regulation_language: en
   logical_id: '1172'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-06-09'
+    number_title: 2023/1139 (OJ L149 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1139
+- birthdate: '1969-04-04'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 4
+  month_of_year: 4
+  year: 1969
+  country_iso2_code: MA
+  country_description: MOROCCO
+  regulation_language: en
+  logical_id: '153998'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-09'

@@ -24,11 +24,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Guardia nazionale della  Federazione russa
-  name_language: IT
+- whole_name: National Guard of the Russian Federation
+  function: internal armed force of the Russian Federation
   strong: true
   regulation_language: en
-  logical_id: '147680'
+  logical_id: '147260'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -49,45 +49,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '148036'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Росгвардия
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147257'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Rosgvardiya
-  strong: true
-  regulation_language: en
-  logical_id: '147258'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Федеральная служба войск национальной гвардии Российской Федерации
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '147259'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: National Guard of the Russian Federation
-  function: internal armed force of the Russian Federation
-  strong: true
-  regulation_language: en
-  logical_id: '147260'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -248,6 +209,45 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '147663'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Guardia nazionale della  Federazione russa
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '147680'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Росгвардия
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147257'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Rosgvardiya
+  strong: true
+  regulation_language: en
+  logical_id: '147258'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Федеральная служба войск национальной гвардии Российской Федерации
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '147259'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

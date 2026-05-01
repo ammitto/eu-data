@@ -15,6 +15,20 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Michail
+  middle_name: Michajlovitj
+  last_name: MURASJKIN
+  whole_name: Michail Michajlovitj MURASJKIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156877'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Michail
   middle_name: Michajlavitj
   last_name: MURASJKIN
   whole_name: Michail Michajlavitj MURASJKIN
@@ -29,14 +43,40 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Michail
-  middle_name: Michajlovitj
-  last_name: MURASJKIN
-  whole_name: Michail Michajlovitj MURASJKIN
+  last_name: Muraškin
+  whole_name: Michail Muraškin
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '156877'
+  logical_id: '156949'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Michail
+  middle_name: Michajlavič
+  last_name: MURAŠKIN
+  whole_name: Michail Michajlavič MURAŠKIN
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156948'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Mijaíl
+  last_name: Murashkin
+  whole_name: Mijaíl Murashkin
+  gender: M
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '156860'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -73,34 +113,6 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Michail
-  middle_name: Michajlavič
-  last_name: MURAŠKIN
-  whole_name: Michail Michajlavič MURAŠKIN
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156948'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Міхаіл
-  middle_name: Міхайлавіч
-  last_name: МУРАШКІН
-  whole_name: Міхаіл Міхайлавіч МУРАШКІН
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '156308'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Михаил
   middle_name: Михайлович
   last_name: МУРАШКИН
@@ -115,27 +127,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Michail
-  last_name: Muraškin
-  whole_name: Michail Muraškin
+- first_name: Міхаіл
+  middle_name: Міхайлавіч
+  last_name: МУРАШКІН
+  whole_name: Міхаіл Міхайлавіч МУРАШКІН
   gender: M
-  name_language: CS
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '156949'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Mijaíl
-  last_name: Murashkin
-  whole_name: Mijaíl Murashkin
-  gender: M
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '156860'
+  logical_id: '156308'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

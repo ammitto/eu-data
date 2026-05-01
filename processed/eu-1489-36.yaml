@@ -14,23 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Faical
-  last_name: Boughanmi
-  whole_name: Faical Boughanmi
-  strong: true
-  regulation_language: en
-  logical_id: '4193'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2005-08-03'
-    number_title: 1278/2005 (OJ L202)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:202:0034:0035:EN:PDF
 - first_name: Faycal
   last_name: Boughanemi
   whole_name: Faycal Boughanemi
   strong: true
   regulation_language: en
   logical_id: '4192'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2005-08-03'
+    number_title: 1278/2005 (OJ L202)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:202:0034:0035:EN:PDF
+- first_name: Faical
+  last_name: Boughanmi
+  whole_name: Faical Boughanmi
+  strong: true
+  regulation_language: en
+  logical_id: '4193'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-08-03'

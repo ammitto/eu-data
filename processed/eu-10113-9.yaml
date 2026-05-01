@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: سید محمد امین آقامیری
+  gender: M
+  name_language: FA
+  strong: true
+  regulation_language: en
+  logical_id: '153511'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-22'
+    number_title: 2023/986 (OJ L134 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0986
 - first_name: Seyyed Mohammad Amin
   last_name: AGHAMIRI
   whole_name: Seyyed Mohammad Amin AGHAMIRI
@@ -23,17 +34,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '153512'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-22'
-    number_title: 2023/986 (OJ L134 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0986
-- whole_name: سید محمد امین آقامیری
-  gender: M
-  name_language: FA
-  strong: true
-  regulation_language: en
-  logical_id: '153511'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-22'

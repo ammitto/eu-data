@@ -15,14 +15,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Rahim
+- first_name: Yahya Rahim
   last_name: SAFAVI
-  whole_name: Rahim SAFAVI
+  whole_name: Yahya Rahim SAFAVI
+  function: Member of the Islamic Revolutionary Guard Corps (IRGC) and Senior Adviser
+    to the Supreme Leader for Military Affairs
   gender: M
+  title: Major General
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158881'
+  logical_id: '5172'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -39,40 +42,14 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Yahya Rahim
-  last_name: AL-SIFAWI
-  whole_name: Yahya Rahim AL-SIFAWI
+- first_name: Rahim
+  last_name: SAFAVI
+  whole_name: Rahim SAFAVI
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '158886'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Yahya
-  last_name: RAHIM-SAFAVI
-  whole_name: Yahya RAHIM-SAFAVI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158885'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Seyyed Yahya
-  last_name: RAHIM-SAFAVI
-  whole_name: Seyyed Yahya RAHIM-SAFAVI
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158884'
+  logical_id: '158881'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -104,17 +81,40 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- first_name: Yahya Rahim
-  last_name: SAFAVI
-  whole_name: Yahya Rahim SAFAVI
-  function: Member of the Islamic Revolutionary Guard Corps (IRGC) and Senior Adviser
-    to the Supreme Leader for Military Affairs
+- first_name: Seyyed Yahya
+  last_name: RAHIM-SAFAVI
+  whole_name: Seyyed Yahya RAHIM-SAFAVI
   gender: M
-  title: Major General
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '5172'
+  logical_id: '158884'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Yahya Rahim
+  last_name: AL-SIFAWI
+  whole_name: Yahya Rahim AL-SIFAWI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158886'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- first_name: Yahya
+  last_name: RAHIM-SAFAVI
+  whole_name: Yahya RAHIM-SAFAVI
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158885'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'
@@ -133,19 +133,6 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1952
-  city: Isfahan
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '112845'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-06-24'
-    number_title: 2017/1124 (OJ L163)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1124&from=EN
-- circa: false
-  calendar_type: GREGORIAN
   year: 1953
   city: Isfahan
   country_iso2_code: IR
@@ -157,3 +144,16 @@ birthdates:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1952
+  city: Isfahan
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
+  regulation_language: en
+  logical_id: '112845'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-06-24'
+    number_title: 2017/1124 (OJ L163)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1124&from=EN

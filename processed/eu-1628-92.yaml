@@ -199,20 +199,20 @@ addresses:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:161:0025:0027:EN:PDF
 identifications:
 - identification_type_code: passport
-  number: P421967
+  number: EE947317
   country_iso2_code: PH
   regulation_language: en
-  logical_id: '288'
+  logical_id: '287'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-05-18'
     number_title: 2018/733 (OJ L123)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R0733&from=EN
 - identification_type_code: passport
-  number: EE947317
+  number: P421967
   country_iso2_code: PH
   regulation_language: en
-  logical_id: '287'
+  logical_id: '288'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-05-18'

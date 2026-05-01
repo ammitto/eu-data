@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Олеся Игоревна КАБОЧКИНА
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175944'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/958 (OJ L202500958)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
 - whole_name: Olesya Igorevna KABOCHKINA
   function: As assistant prosecutor of the Kalininsky District of Saint Petersburg,
     Olesya Kabochkina asked for a 7 year sentence of imprisonment for Ioann Kurmoyarov,
@@ -27,17 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175945'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/958 (OJ L202500958)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500958
-- whole_name: Олеся Игоревна КАБОЧКИНА
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175944'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

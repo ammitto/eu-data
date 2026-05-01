@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Антон
+  middle_name: Робертович
+  last_name: ТИЦКИЙ
+  whole_name: Антон Робертович ТИЦКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '144360'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Anton
   middle_name: Robertovich
   last_name: TITSKIY
@@ -40,20 +54,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144618'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Антон
-  middle_name: Робертович
-  last_name: ТИЦКИЙ
-  whole_name: Антон Робертович ТИЦКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '144360'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

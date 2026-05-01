@@ -15,6 +15,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Sho’a’ Aviation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '158816'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-10-17'
+    number_title: 2023/2196 (OJ L17102023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 - whole_name: Sho'a' Aviation
   name_language: EN
   strong: true
@@ -30,16 +40,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158815'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-10-17'
-    number_title: 2023/2196 (OJ L17102023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Sho’a’ Aviation
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '158816'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-10-17'

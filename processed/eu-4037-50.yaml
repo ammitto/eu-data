@@ -448,18 +448,6 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 addresses:
-- street: Nakhimov Square 5
-  city: Sevastopol
-  country_iso2_code: UA
-  country_description: UKRAINE
-  zip_code: '299011'
-  regulation_language: en
-  logical_id: '2620'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - street: пл. Нахимова, 5
   city: г. Севастополь
   country_iso2_code: UA
@@ -467,6 +455,18 @@ addresses:
   zip_code: '299011'
   regulation_language: en
   logical_id: '2621'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- street: Nakhimov Square 5
+  city: Sevastopol
+  country_iso2_code: UA
+  country_description: UKRAINE
+  zip_code: '299011'
+  regulation_language: en
+  logical_id: '2620'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

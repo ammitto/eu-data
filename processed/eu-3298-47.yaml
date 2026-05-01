@@ -207,30 +207,20 @@ birthdates:
     number_title: 290/2010 (OJ L87)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:087:0029:0030:EN:PDF
 addresses:
-- city: Amman
-  country_iso2_code: JO
-  country_description: JORDAN
+- country_iso2_code: EG
+  country_description: EGYPT
   regulation_language: en
-  logical_id: '1380'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2010-04-07'
-    number_title: 290/2010 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:087:0029:0030:EN:PDF
-- city: Khan Dari
-  country_iso2_code: IQ
-  country_description: IRAQ
-  regulation_language: en
-  logical_id: '1381'
+  logical_id: '1383'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'
     number_title: 2024/3148 (OJ L12122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
-- country_iso2_code: EG
-  country_description: EGYPT
+- city: Khan Dari
+  country_iso2_code: IQ
+  country_description: IRAQ
   regulation_language: en
-  logical_id: '1383'
+  logical_id: '1381'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-12'
@@ -246,6 +236,16 @@ addresses:
     publication_date: '2024-12-12'
     number_title: 2024/3148 (OJ L12122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403148
+- city: Amman
+  country_iso2_code: JO
+  country_description: JORDAN
+  regulation_language: en
+  logical_id: '1380'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2010-04-07'
+    number_title: 290/2010 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:087:0029:0030:EN:PDF
 identifications:
 - identification_type_code: other
   number: '1729765'

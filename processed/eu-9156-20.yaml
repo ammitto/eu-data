@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Тимур
+  middle_name: Ильгизович
+  last_name: САМАТОВ
+  whole_name: Тимур Ильгизович САМАТОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '146227'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Timur
   middle_name: Ilgizovitj
   last_name: SAMATOV
@@ -39,20 +53,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146228'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Тимур
-  middle_name: Ильгизович
-  last_name: САМАТОВ
-  whole_name: Тимур Ильгизович САМАТОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '146227'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

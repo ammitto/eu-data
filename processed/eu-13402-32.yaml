@@ -14,44 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Societatea pe  acțiuni «Ploshchad»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '177340'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: sociedade por  ações “Ploshchad”
   name_language: PT
   strong: true
   regulation_language: en
   logical_id: '177341'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: "»Ploshchad« Részvénytársaság"
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '177342'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Joint Stock Company  “Ploshchad”
-  function: JSC “Ploshchad” is a Russian company specialised in the development and
-    implementation of robotic systems which provides comprehensive solutions for unmanned
-    aerial vehicles (UAVs)
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177346'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -72,6 +39,39 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177344'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Joint Stock Company  “Ploshchad”
+  function: JSC “Ploshchad” is a Russian company specialised in the development and
+    implementation of robotic systems which provides comprehensive solutions for unmanned
+    aerial vehicles (UAVs)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177346'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: "»Ploshchad« Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '177342'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- whole_name: Societatea pe  acțiuni «Ploshchad»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '177340'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -101,21 +101,21 @@ addresses:
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 identifications:
-- identification_type_code: taxid
-  number: '9723203841'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '177338'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - identification_type_code: regnumber
   number: '1237700463032'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '177339'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
+- identification_type_code: taxid
+  number: '9723203841'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '177338'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

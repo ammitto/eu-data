@@ -15,11 +15,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Simon Salim Obol
+- whole_name: Okolu Salim
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '109432'
+  logical_id: '109434'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-01'
@@ -35,16 +35,6 @@ name_aliases:
     publication_date: '2016-09-01'
     number_title: 2016/1442 (OJ L235)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1442&from=EN
-- whole_name: Okolu Salim
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109434'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-09-01'
-    number_title: 2016/1442 (OJ L235)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1442&from=EN
 - first_name: Salim
   middle_name: Saleh
   last_name: Kony
@@ -53,6 +43,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '109437'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-09-01'
+    number_title: 2016/1442 (OJ L235)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1442&from=EN
+- whole_name: Simon Salim Obol
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109432'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-01'
@@ -106,11 +106,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1442&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1993
+  year: 1991
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '109429'
+  logical_id: '109430'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-01'
@@ -118,11 +118,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1442&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1991
+  year: 1993
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '109430'
+  logical_id: '109429'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-01'

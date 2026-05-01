@@ -14,26 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: تمام رعد
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '126567'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-10-16'
-    number_title: 2020/1505 (OJ L342I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.342.01.0001.01.ENG&toc=OJ:L:2020:342I:TOC
 - first_name: Tammam
-  last_name: RA’AD
-  whole_name: Tammam RA’AD
-  function: Former Minister of Hydraulic/Water Resources. Appointed in August 2020.
+  last_name: Raad
+  whole_name: Tammam Raad
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '126513'
+  logical_id: '126511'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'
@@ -52,19 +40,6 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- first_name: Tammam
-  last_name: Raad
-  whole_name: Tammam Raad
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '126511'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Tamam
   last_name: RA’AD
   whole_name: Tamam RA’AD
@@ -78,6 +53,31 @@ name_aliases:
     publication_date: '2024-05-27'
     number_title: 2024/1517 (OJ L28052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- first_name: Tammam
+  last_name: RA’AD
+  whole_name: Tammam RA’AD
+  function: Former Minister of Hydraulic/Water Resources. Appointed in August 2020.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '126513'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
+- whole_name: تمام رعد
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '126567'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-16'
+    number_title: 2020/1505 (OJ L342I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.LI.2020.342.01.0001.01.ENG&toc=OJ:L:2020:342I:TOC
 birthdates:
 - circa: false
   calendar_type: GREGORIAN

@@ -29,16 +29,14 @@ name_aliases:
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - first_name: Zamid
-  middle_name: Aliyevich
-  last_name: CHALAYEV
-  whole_name: Zamid Aliyevich CHALAYEV
-  function: Commander of the Second Special Purpose Police Regiment of  the Ministry
-    of Internal Affairs of the Russian Federation in the Chechen Republic
+  middle_name: Alijevič
+  last_name: ČALAJEV
+  whole_name: Zamid Alijevič ČALAJEV
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '154609'
+  logical_id: '155388'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'
@@ -59,14 +57,16 @@ name_aliases:
     number_title: 2023/1216 (OJ L159 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1216
 - first_name: Zamid
-  middle_name: Alijevič
-  last_name: ČALAJEV
-  whole_name: Zamid Alijevič ČALAJEV
+  middle_name: Aliyevich
+  last_name: CHALAYEV
+  whole_name: Zamid Aliyevich CHALAYEV
+  function: Commander of the Second Special Purpose Police Regiment of  the Ministry
+    of Internal Affairs of the Russian Federation in the Chechen Republic
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '155388'
+  logical_id: '154609'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-06-23'

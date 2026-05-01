@@ -119,16 +119,6 @@ addresses:
     number_title: 110/2010 (OJ L36)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
 identifications:
-- identification_type_code: passport
-  number: '541939'
-  country_iso2_code: YE
-  regulation_language: en
-  logical_id: '368'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2009-11-18'
-    number_title: 1102/2009 (OJ L303)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF
 - identification_type_code: id
   number: '216040'
   country_iso2_code: YE
@@ -139,3 +129,13 @@ identifications:
     publication_date: '2010-02-09'
     number_title: 110/2010 (OJ L36)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:036:0009:0016:EN:PDF
+- identification_type_code: passport
+  number: '541939'
+  country_iso2_code: YE
+  regulation_language: en
+  logical_id: '368'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2009-11-18'
+    number_title: 1102/2009 (OJ L303)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0039:0059:EN:PDF

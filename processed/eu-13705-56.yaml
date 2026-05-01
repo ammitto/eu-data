@@ -15,21 +15,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Rabbaran Omid Darya Ship  Management Company
+- whole_name: SSA
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179016'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1980 (OJ L202501980)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- whole_name: Soroush Sarzamin Asatir  Ship Management Company
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179017'
+  logical_id: '179014'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -45,11 +35,21 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- whole_name: SSA
+- whole_name: Rabbaran Omid Darya Ship  Management Company
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '179014'
+  logical_id: '179016'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1980 (OJ L202501980)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
+- whole_name: Soroush Sarzamin Asatir  Ship Management Company
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179017'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

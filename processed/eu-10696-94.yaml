@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Vadim
+  middle_name: Franzevich
+  last_name: GIGIN
+  whole_name: Vadim Franzevich GIGIN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157301'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Vadzim
   middle_name: Frantzavich
   last_name: GIGIN
@@ -31,28 +45,29 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Vadim
-  middle_name: Franzevich
-  last_name: GIGIN
-  whole_name: Vadim Franzevich GIGIN
+- first_name: Вадзiм
+  middle_name: Францавiч
+  last_name: ГIГIН
+  whole_name: Вадзiм Францавiч ГIГIН
   gender: M
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '157301'
+  logical_id: '157298'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Vadzim
+  middle_name: Frantsavitj
   last_name: HIHIN
-  whole_name: Vadzim HIHIN
+  whole_name: Vadzim Frantsavitj HIHIN
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '157300'
+  logical_id: '157297'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -73,14 +88,26 @@ name_aliases:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Vadzim
-  middle_name: Frantsavitj
-  last_name: HIHIN
-  whole_name: Vadzim Frantsavitj HIHIN
-  gender: M
-  name_language: SV
+  middle_name: Francavič
+  last_name: GIGIN
+  whole_name: Vadzim Francavič GIGIN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '157297'
+  logical_id: '157295'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Vadzim
+  last_name: HIHIN
+  whole_name: Vadzim HIHIN
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '157300'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -95,33 +122,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '157296'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Vadzim
-  middle_name: Francavič
-  last_name: GIGIN
-  whole_name: Vadzim Francavič GIGIN
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '157295'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Вадзiм
-  middle_name: Францавiч
-  last_name: ГIГIН
-  whole_name: Вадзiм Францавiч ГIГIН
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '157298'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

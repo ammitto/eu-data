@@ -15,21 +15,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Taha Mouhi-al-Din Marouf
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '413'
-  regulation_summaries:
-  - regulation_type: regulation
-    publication_date: '2003-07-08'
-    number_title: 1210/2003 (OJ L169)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - whole_name: Taha Muhyi-al-Din Ma'ruf
   function: Vice President, Revolutionary Command Council
   strong: true
   regulation_language: en
   logical_id: '122'
+  regulation_summaries:
+  - regulation_type: regulation
+    publication_date: '2003-07-08'
+    number_title: 1210/2003 (OJ L169)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
+- whole_name: Taha Mouhi-al-Din Marouf
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '413'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -48,11 +48,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  city: Souleimaniyah (J.O. FR)
+  year: 1924
+  city: Sulaymaniyah
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '203'
+  logical_id: '86'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'
@@ -60,12 +61,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:169:0006:0023:EN:PDF
 - circa: false
   calendar_type: GREGORIAN
-  year: 1924
-  city: Sulaymaniyah
+  city: Souleimaniyah (J.O. FR)
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '86'
+  logical_id: '203'
   regulation_summaries:
   - regulation_type: regulation
     publication_date: '2003-07-08'

@@ -102,21 +102,21 @@ addresses:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 identifications:
-- identification_type_code: fiscalcode
-  number: '5045002261'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '171787'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: other
   number: '504501001'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '171786'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- identification_type_code: fiscalcode
+  number: '5045002261'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '171787'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

@@ -14,29 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: عبدالرحيمالكان ي
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '128275'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-06'
-    number_title: 2022/2374 (OJ L314)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- first_name: Abd-al-Rahim
-  last_name: AL-KANI
-  whole_name: Abd-al-Rahim AL-KANI
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '128276'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-06'
-    number_title: 2022/2374 (OJ L314)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
 - first_name: Abdul-Rahim
   last_name: AL-KANI
   whole_name: Abdul-Rahim AL-KANI
@@ -49,15 +26,13 @@ name_aliases:
     publication_date: '2022-12-06'
     number_title: 2022/2374 (OJ L314)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- first_name: Abderrahim
-  last_name: AL-KANI
-  whole_name: Abderrahim AL-KANI
-  function: key member of the Kaniyat Militia and brother of the Head of the Kaniyat
-    Militia, Mohammed Khalifa Al-Khani (deceased in July 2021)
-  gender: M
+- first_name: Abdarrahím
+  last_name: AL-KÁNÍ
+  whole_name: Abdarrahím AL-KÁNÍ
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '128278'
+  logical_id: '146168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-06'
@@ -87,13 +62,38 @@ name_aliases:
     publication_date: '2022-12-06'
     number_title: 2022/2374 (OJ L314)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
-- first_name: Abdarrahím
-  last_name: AL-KÁNÍ
-  whole_name: Abdarrahím AL-KÁNÍ
-  name_language: SK
+- whole_name: عبدالرحيمالكان ي
+  gender: M
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '146168'
+  logical_id: '128275'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-06'
+    number_title: 2022/2374 (OJ L314)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
+- first_name: Abd-al-Rahim
+  last_name: AL-KANI
+  whole_name: Abd-al-Rahim AL-KANI
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '128276'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-06'
+    number_title: 2022/2374 (OJ L314)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.314.01.0081.01.ENG&toc=OJ%3AL%3A2022%3A314%3ATOC
+- first_name: Abderrahim
+  last_name: AL-KANI
+  whole_name: Abderrahim AL-KANI
+  function: key member of the Kaniyat Militia and brother of the Head of the Kaniyat
+    Militia, Mohammed Khalifa Al-Khani (deceased in July 2021)
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '128278'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-06'

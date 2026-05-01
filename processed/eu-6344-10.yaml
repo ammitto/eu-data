@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Марина Святославовна ЗАПАСНИК
-  gender: F
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '129860'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Марына  Святаславаўна ЗАПАСНІК
   gender: F
   name_language: BE
@@ -36,11 +25,23 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Marina  Sviatoslavovna ZAPASNIK
+- whole_name: Marina Svjatoslavovna ZAPASNIK
   gender: F
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '129862'
+  logical_id: '130678'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Марина Святославовна ЗАПАСНИК
+  gender: F
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '129860'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -57,23 +58,22 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Marina  Sviatoslavovna ZAPASNIK
+  gender: F
+  strong: true
+  regulation_language: en
+  logical_id: '129862'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Marina  Sviataslavauna  ZAPASNIK
   function: "Deputy Chairman of \nthe Court of the Leninsky District of Minsk"
   gender: F
   strong: true
   regulation_language: en
   logical_id: '129863'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Marina Svjatoslavovna ZAPASNIK
-  gender: F
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '130678'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

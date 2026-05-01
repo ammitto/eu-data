@@ -14,6 +14,20 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: 142nd Separate Electronic Warfare Battalion
+  function: |-
+    The 142nd Separate Electronic Warfare Battalion, based in Kaliningrad region, is part of electronic warfare and plays an important role in ensuring the security and defence of the region. The battalion is responsible for using technology to disorganise any system of shortwave communication, conducting electronic warfare exercises to disrupt enemy navigation and radio communications as well as for the collection and analysis of intelligence information obtained by observing electromagnetic radiation in the short and ultrashort wave ranges.
+
+    Recently, several European countries have experienced GPS signal failures, which have been attributed to electronic warfare activities by Russia, specifically from Kaliningrad. This includes deliberate jamming and “spoofing” of GPS signals, primarily affecting the Baltic States. Interference and manipulation of GPS signals has led to obstacles for landing civil planes.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '180264'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-12-15'
+    number_title: 2025/2568 (OJ L202502568)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
 - whole_name: 142-й отдельный батальон радиоэлектронной борьбы
   strong: true
   regulation_language: en
@@ -27,20 +41,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '180263'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-12-15'
-    number_title: 2025/2568 (OJ L202502568)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502568
-- whole_name: 142nd Separate Electronic Warfare Battalion
-  function: |-
-    The 142nd Separate Electronic Warfare Battalion, based in Kaliningrad region, is part of electronic warfare and plays an important role in ensuring the security and defence of the region. The battalion is responsible for using technology to disorganise any system of shortwave communication, conducting electronic warfare exercises to disrupt enemy navigation and radio communications as well as for the collection and analysis of intelligence information obtained by observing electromagnetic radiation in the short and ultrashort wave ranges.
-
-    Recently, several European countries have experienced GPS signal failures, which have been attributed to electronic warfare activities by Russia, specifically from Kaliningrad. This includes deliberate jamming and “spoofing” of GPS signals, primarily affecting the Baltic States. Interference and manipulation of GPS signals has led to obstacles for landing civil planes.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '180264'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-12-15'

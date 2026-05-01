@@ -16,40 +16,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Amir Muhammad Sa’id Abdal-Rahman al-Mawla
+- whole_name: أمیر محمد سعید عبد الرحمن السلبي
+  name_language: AR
   strong: true
   regulation_language: en
-  logical_id: '141009'
+  logical_id: '123821'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
     number_title: 2022/873 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
-- whole_name: Ustadh Ahmad
-  strong: true
-  regulation_language: en
-  logical_id: '123809'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-27'
-    number_title: 2020/706 (OJ L164)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0706&from=EN
 - whole_name: Amir Muhammad Sa’id Abdal-Rahman al-Salbi
   function: Leader of Islamic State in Iraq and the Levant, listed as Al-Qaida in
     Iraq.
   strong: true
   regulation_language: en
   logical_id: '123822'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/873 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
-- whole_name: أمیر محمد سعید عبد الرحمن السلبي
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '123821'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'
@@ -127,10 +109,10 @@ name_aliases:
     publication_date: '2020-05-27'
     number_title: 2020/706 (OJ L164)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0706&from=EN
-- whole_name: Al-Ustadh
+- whole_name: Muhammad Sa'id `Abd-al-Rahman al-Mawla
   strong: true
   regulation_language: en
-  logical_id: '123810'
+  logical_id: '123812'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-27'
@@ -145,10 +127,28 @@ name_aliases:
     publication_date: '2020-05-27'
     number_title: 2020/706 (OJ L164)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0706&from=EN
-- whole_name: Muhammad Sa'id `Abd-al-Rahman al-Mawla
+- whole_name: Amir Muhammad Sa’id Abdal-Rahman al-Mawla
   strong: true
   regulation_language: en
-  logical_id: '123812'
+  logical_id: '141009'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/873 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
+- whole_name: Ustadh Ahmad
+  strong: true
+  regulation_language: en
+  logical_id: '123809'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-27'
+    number_title: 2020/706 (OJ L164)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0706&from=EN
+- whole_name: Al-Ustadh
+  strong: true
+  regulation_language: en
+  logical_id: '123810'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-27'
@@ -176,38 +176,6 @@ birthdates:
   country_description: IRAQ
   regulation_language: en
   logical_id: '123804'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-27'
-    number_title: 2020/706 (OJ L164)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0706&from=EN
-- birthdate: '1976-10-01'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 1
-  month_of_year: 10
-  year: 1976
-  city: Mosul
-  country_iso2_code: IQ
-  country_description: IRAQ
-  regulation_language: en
-  logical_id: '123805'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-05-27'
-    number_title: 2020/706 (OJ L164)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0706&from=EN
-- birthdate: '1976-10-05'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 5
-  month_of_year: 10
-  year: 1976
-  city: Tall’Afar
-  country_iso2_code: IQ
-  country_description: IRAQ
-  regulation_language: en
-  logical_id: '123807'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-05-27'
@@ -261,18 +229,39 @@ birthdates:
     publication_date: '2022-06-03'
     number_title: 2022/873 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
-addresses:
-- street: near Shahid Mazen Mosque and al-Khansa Hospital
+- birthdate: '1976-10-05'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 5
+  month_of_year: 10
+  year: 1976
+  city: Tall’Afar
+  country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '123807'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-05-27'
+    number_title: 2020/706 (OJ L164)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0706&from=EN
+- birthdate: '1976-10-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 10
+  year: 1976
   city: Mosul
   country_iso2_code: IQ
   country_description: IRAQ
   regulation_language: en
-  logical_id: '141013'
+  logical_id: '123805'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2022-06-03'
-    number_title: 2022/873 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
+    publication_date: '2020-05-27'
+    number_title: 2020/706 (OJ L164)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0706&from=EN
+addresses:
 - city: Idlib
   country_iso2_code: SY
   country_description: SYRIAN ARAB REPUBLIC
@@ -289,6 +278,17 @@ addresses:
   country_description: IRAQ
   regulation_language: en
   logical_id: '141014'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-06-03'
+    number_title: 2022/873 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.152.01.0184.01.ENG&toc=OJ%3AL%3A2022%3A152%3ATOC
+- street: near Shahid Mazen Mosque and al-Khansa Hospital
+  city: Mosul
+  country_iso2_code: IQ
+  country_description: IRAQ
+  regulation_language: en
+  logical_id: '141013'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-06-03'

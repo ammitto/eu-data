@@ -15,6 +15,15 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: BMPPC
+  strong: true
+  regulation_language: en
+  logical_id: '179112'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-09-29'
+    number_title: 2025/1980 (OJ L202501980)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
 - whole_name: Bank Melli Printing and Publishing Company
   function: Bank Melli Printing and Publishing Company is an Iranian printing and
     publishing company. Bank Melli Printing and Publishing Company is owned and controlled
@@ -30,16 +39,17 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- whole_name: BMPPC
-  strong: true
+addresses:
+- city: Tehran
+  country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '179112'
+  logical_id: '179109'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
     number_title: 2025/1980 (OJ L202501980)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-addresses:
 - street: Km 16 Karaj Special Road
   city: Tehran
   country_iso2_code: IR
@@ -58,16 +68,6 @@ addresses:
   zip_code: '1398185611'
   regulation_language: en
   logical_id: '179111'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-09-29'
-    number_title: 2025/1980 (OJ L202501980)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501980
-- city: Tehran
-  country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
-  regulation_language: en
-  logical_id: '179109'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

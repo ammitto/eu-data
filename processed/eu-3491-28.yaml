@@ -108,21 +108,21 @@ addresses:
     number_title: 2016/1683 (OJ L254)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1683&from=EN
 identifications:
-- identification_type_code: id
-  number: '08705184'
-  country_iso2_code: TN
-  regulation_language: en
-  logical_id: '921'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2015-04-21'
-    number_title: 2015/617 (OJ L102)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_102_R_0006&from=EN
 - identification_type_code: passport
   number: W342058
   country_iso2_code: TN
   regulation_language: en
   logical_id: '920'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2015-04-21'
+    number_title: 2015/617 (OJ L102)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2015_102_R_0006&from=EN
+- identification_type_code: id
+  number: '08705184'
+  country_iso2_code: TN
+  regulation_language: en
+  logical_id: '921'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2015-04-21'

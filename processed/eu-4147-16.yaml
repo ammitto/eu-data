@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Yong Chol
+  last_name: Kim
+  whole_name: Yong Chol Kim
+  function: KOMID Representative. Served as the KOMID Representative in Iran.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107941'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
 - whole_name: Young-Chul
   strong: true
   regulation_language: en
@@ -51,19 +64,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144204'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- first_name: Yong Chol
-  last_name: Kim
-  whole_name: Yong Chol Kim
-  function: KOMID Representative. Served as the KOMID Representative in Iran.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107941'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'

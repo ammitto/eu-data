@@ -14,6 +14,48 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Mkrtich
+  middle_name: Okroevich
+  last_name: OKROYAN
+  whole_name: Mkrtich Okroevich OKROYAN
+  function: "Chief Designer at Soyuz, an entity of Russia’s military-industrial complex;
+    \nBoard member of OJSC Balashikha Casting and Mechanical Plant"
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '159869'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Mkrtič
+  last_name: Okrojan
+  whole_name: Mkrtič Okrojan
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '160920'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
+- first_name: Мкртич
+  middle_name: Окроевич
+  last_name: ОКРОЯН
+  whole_name: Мкртич Окроевич ОКРОЯН
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '159868'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-12-18'
+    number_title: 2023/2875 (OJ L18122023)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
 - first_name: Mkrtitj
   middle_name: Okrojevitj
   last_name: OKROJAN
@@ -36,48 +78,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '160919'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Mkrtič
-  last_name: Okrojan
-  whole_name: Mkrtič Okrojan
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '160920'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Mkrtich
-  middle_name: Okroevich
-  last_name: OKROYAN
-  whole_name: Mkrtich Okroevich OKROYAN
-  function: "Chief Designer at Soyuz, an entity of Russia’s military-industrial complex;
-    \nBoard member of OJSC Balashikha Casting and Mechanical Plant"
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '159869'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-12-18'
-    number_title: 2023/2875 (OJ L18122023)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302875
-- first_name: Мкртич
-  middle_name: Окроевич
-  last_name: ОКРОЯН
-  whole_name: Мкртич Окроевич ОКРОЯН
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '159868'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-12-18'

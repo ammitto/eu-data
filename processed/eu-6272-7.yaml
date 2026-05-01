@@ -14,6 +14,47 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Fiscalía Central
+  name_language: ES
+  strong: true
+  regulation_language: en
+  logical_id: '128892'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: Служба на главния прокурор на Корейската народнодемократична република
+    (КНДР)
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '128893'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: Централна прокуратура
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '128894'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
+- whole_name: Úřad státního zástupce Korejské lidově demokratické republiky (KLDR)
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '128895'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-03-22'
+    number_title: 2021/478 (OJ L99I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
 - whole_name: Nejvyšší státní zastupitelství
   name_language: CS
   strong: true
@@ -105,11 +146,11 @@ name_aliases:
     publication_date: '2021-03-22'
     number_title: 2021/478 (OJ L99I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Procura della Repubblica popolare democratica di Corea (RPDC)
-  name_language: IT
+- whole_name: den centrala åklagarmyndigheten
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '128905'
+  logical_id: '128926'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'
@@ -316,21 +357,20 @@ name_aliases:
     publication_date: '2021-03-22'
     number_title: 2021/478 (OJ L99I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: den centrala åklagarmyndigheten
-  name_language: SV
+- whole_name: Fiscalía de la República Popular Democrática de Corea (RPDC)
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '128926'
+  logical_id: '128891'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'
     number_title: 2021/478 (OJ L99I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: 조선민주주의인민공화국 중앙검찰소
-  name_language: KO
+- whole_name: Central Public Prosecutor’s Office
   strong: true
   regulation_language: en
-  logical_id: '128871'
+  logical_id: '128873'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'
@@ -346,61 +386,21 @@ name_aliases:
     publication_date: '2021-03-22'
     number_title: 2021/478 (OJ L99I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Central Public Prosecutor’s Office
+- whole_name: 조선민주주의인민공화국 중앙검찰소
+  name_language: KO
   strong: true
   regulation_language: en
-  logical_id: '128873'
+  logical_id: '128871'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'
     number_title: 2021/478 (OJ L99I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Úřad státního zástupce Korejské lidově demokratické republiky (KLDR)
-  name_language: CS
+- whole_name: Procura della Repubblica popolare democratica di Corea (RPDC)
+  name_language: IT
   strong: true
   regulation_language: en
-  logical_id: '128895'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Централна прокуратура
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '128894'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Служба на главния прокурор на Корейската народнодемократична република
-    (КНДР)
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '128893'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Fiscalía de la República Popular Democrática de Corea (RPDC)
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '128891'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-03-22'
-    number_title: 2021/478 (OJ L99I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.099.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A099I%3ATOC
-- whole_name: Fiscalía Central
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '128892'
+  logical_id: '128905'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-03-22'

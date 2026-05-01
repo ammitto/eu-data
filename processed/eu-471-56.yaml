@@ -62,17 +62,6 @@ birthdates:
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 addresses:
-- street: Puli Charkhi Area, District Number 9
-  city: Kabul City, Kabul Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2271'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-03-24'
-    number_title: 263/2012 (OJ L87)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 - city: Iltifat village, Shakardara District,
   region: Kabul Province
   country_iso2_code: AF
@@ -84,6 +73,17 @@ addresses:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- street: Puli Charkhi Area, District Number 9
+  city: Kabul City, Kabul Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '2271'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2012-03-24'
+    number_title: 263/2012 (OJ L87)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:087:0001:0025:EN:PDF
 identifications:
 - identification_type_code: passport
   number: D 0001203

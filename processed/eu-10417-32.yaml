@@ -15,14 +15,15 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Danila
-  middle_name: Andrejevitj
-  last_name: SINJUCHIN
-  whole_name: Danila Andrejevitj SINJUCHIN
+  middle_name: Andreevich
+  last_name: SINYUKHIN
+  whole_name: Danila Andreevich SINYUKHIN
+  function: Deputy head of IK-6 prison in Melekhovo, Vladimir Region
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156053'
+  logical_id: '155556'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -42,21 +43,6 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Danila
-  middle_name: Andreevich
-  last_name: SINYUKHIN
-  whole_name: Danila Andreevich SINYUKHIN
-  function: Deputy head of IK-6 prison in Melekhovo, Vladimir Region
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155556'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Данила
   middle_name: Андреевич
   last_name: СИНЮХИН
@@ -66,6 +52,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155555'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Danila
+  middle_name: Andrejevitj
+  last_name: SINJUCHIN
+  whole_name: Danila Andrejevitj SINJUCHIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '156053'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

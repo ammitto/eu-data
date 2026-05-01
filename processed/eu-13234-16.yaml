@@ -14,17 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: 33-ти централен институт за научни изследвания и изпитвания на Министерство
-    на отбраната на Руската федерация
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '176372'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/959 (OJ L202500959)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
 - whole_name: 33. centrale institut for videnskabelig forskning og afprøvning under
     Den Russiske Føderations forsvarsministerium
   name_language: DA
@@ -36,12 +25,12 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: 33. zentrales wissenschaftliches Forschungs- und Versuchsinstitut des
-    russischen Verteidigungsministeriums
-  name_language: DE
+- whole_name: 33-ти централен институт за научни изследвания и изпитвания на Министерство
+    на отбраната на Руската федерация
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '176370'
+  logical_id: '176372'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -86,6 +75,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176366'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/959 (OJ L202500959)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
+- whole_name: 33. središnji institut za znanstvena istraživanja i ispitivanje Ministarstva
+    obrane Ruske Federacije
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '176365'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -206,12 +206,12 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/959 (OJ L202500959)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500959
-- whole_name: 33. središnji institut za znanstvena istraživanja i ispitivanje Ministarstva
-    obrane Ruske Federacije
-  name_language: HR
+- whole_name: 33. zentrales wissenschaftliches Forschungs- und Versuchsinstitut des
+    russischen Verteidigungsministeriums
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '176365'
+  logical_id: '176370'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

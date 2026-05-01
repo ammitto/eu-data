@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Иван
-  middle_name: Иосифович
-  last_name: БОГУСЛАВСКИЙ
-  whole_name: Иван Иосифович БОГУСЛАВСКИЙ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '136309'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-15'
-    number_title: 2022/1529 (OJ L239)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
 - whole_name: Ivan Iosifavitj  Bahuslauski
   gender: M
   name_language: SV
@@ -53,17 +39,6 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
-- whole_name: Ivan  Iosifovitj Boguslavskij
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '136412'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-03-02'
-    number_title: 2022/353 (OJ L66)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
 - first_name: Ivan
   middle_name: Josephovich
   last_name: BOGUSLAVSKY
@@ -81,6 +56,31 @@ name_aliases:
     publication_date: '2024-09-13'
     number_title: 2024/2455 (OJ L13092024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
+- first_name: Иван
+  middle_name: Иосифович
+  last_name: БОГУСЛАВСКИЙ
+  whole_name: Иван Иосифович БОГУСЛАВСКИЙ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '136309'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-15'
+    number_title: 2022/1529 (OJ L239)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- whole_name: Ivan  Iosifovitj Boguslavskij
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '136412'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-03-02'
+    number_title: 2022/353 (OJ L66)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.066.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A066%3ATOC
 citizenships:
 - country_iso2_code: BY
   country_description: BELARUS

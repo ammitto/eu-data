@@ -14,12 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Reza HAMIDIRAVARI
-  gender: M
-  name_language: EN
+- whole_name: رضا حمیدی راوری
+  name_language: FA
   strong: true
   regulation_language: en
-  logical_id: '177505'
+  logical_id: '177503'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'
@@ -34,11 +33,12 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1396 (OJ L202501396)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501396
-- whole_name: رضا حمیدی راوری
-  name_language: FA
+- whole_name: Reza HAMIDIRAVARI
+  gender: M
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '177503'
+  logical_id: '177505'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

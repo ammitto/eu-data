@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Territorial Development  Fund
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177384'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-19'
+    number_title: 2025/1476 (OJ L202501476)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
 - whole_name: Публично-правовая  компания “Фонд развития  территорий”
   name_language: RU
   strong: true
@@ -47,21 +57,21 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Spółka prawa publicznego  »Fundusz Rozwoju  Terytorialnego«
-  name_language: PL
+- whole_name: El Fondo de Desarrollo Territorial
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '177378'
+  logical_id: '177383'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Societatea  de drept public «Fondul de  dezvoltare teritorială»
-  name_language: RO
+- whole_name: Spółka prawa publicznego  »Fundusz Rozwoju  Terytorialnego«
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '177379'
+  logical_id: '177378'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'
@@ -97,21 +107,11 @@ name_aliases:
     publication_date: '2025-07-19'
     number_title: 2025/1476 (OJ L202501476)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: Territorial Development  Fund
-  name_language: EN
+- whole_name: Societatea  de drept public «Fondul de  dezvoltare teritorială»
+  name_language: RO
   strong: true
   regulation_language: en
-  logical_id: '177384'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-19'
-    number_title: 2025/1476 (OJ L202501476)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501476
-- whole_name: El Fondo de Desarrollo Territorial
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '177383'
+  logical_id: '177379'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-19'

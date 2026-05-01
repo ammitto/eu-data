@@ -59,16 +59,6 @@ addresses:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 identifications:
-- identification_type_code: other
-  number: JSNMRUMM
-  country_iso2_code: '00'
-  regulation_language: en
-  logical_id: '158160'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - identification_type_code: fiscalcode
   number: '7706092528'
   country_iso2_code: '00'
@@ -84,6 +74,16 @@ identifications:
   country_iso2_code: RU
   regulation_language: en
   logical_id: '139653'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- identification_type_code: other
+  number: JSNMRUMM
+  country_iso2_code: '00'
+  regulation_language: en
+  logical_id: '158160'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

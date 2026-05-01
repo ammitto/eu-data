@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: A7 LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177632'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1434 (OJ L202501434)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
 - whole_name: A7 OOO
   function: A7 has been established by Ilan Shor, together with multiple financial
     companies in Moscow, partnering with Russian state entities. These companies are
@@ -26,16 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '177621'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1434 (OJ L202501434)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501434
-- whole_name: A7 LLC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177632'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

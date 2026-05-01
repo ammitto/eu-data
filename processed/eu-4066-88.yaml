@@ -14,13 +14,11 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Isnilon
-  last_name: Hapilun
-  whole_name: Isnilon Hapilun
+- whole_name: Tuan Isnilon
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '4408'
+  logical_id: '4412'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -37,6 +35,28 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4407'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- first_name: Isnilon
+  last_name: Hapilun
+  whole_name: Isnilon Hapilun
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '4408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: Salahudin
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '4411'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -59,26 +79,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '4410'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Salahudin
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '4411'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: Tuan Isnilon
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '4412'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -128,21 +128,21 @@ birthdates:
     number_title: 2018/2005 (OJ L324)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:324:0021:0022:EN:PDF
 addresses:
-- city: Lanao del Sur
-  country_iso2_code: PH
-  country_description: PHILIPPINES
-  regulation_language: en
-  logical_id: '114564'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-10-10'
-    number_title: 2017/1834 (OJ L260)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1834&from=EN
 - city: Basilan
   country_iso2_code: PH
   country_description: PHILIPPINES
   regulation_language: en
   logical_id: '114565'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-10-10'
+    number_title: 2017/1834 (OJ L260)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1834&from=EN
+- city: Lanao del Sur
+  country_iso2_code: PH
+  country_description: PHILIPPINES
+  regulation_language: en
+  logical_id: '114564'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-10-10'

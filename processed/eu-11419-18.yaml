@@ -42,20 +42,6 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- first_name: Александр
-  middle_name: Владимирович
-  last_name: ГОЛЯКОВ
-  whole_name: Александр Владимирович ГОЛЯКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '164275'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - first_name: Alexander
   middle_name: Vladimirovich
   last_name: GOLYAKOV
@@ -66,6 +52,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164276'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- first_name: Александр
+  middle_name: Владимирович
+  last_name: ГОЛЯКОВ
+  whole_name: Александр Владимирович ГОЛЯКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '164275'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

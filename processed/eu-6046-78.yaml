@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Aleksandr
-  middle_name: Vasilevich
-  last_name: SHAKUTIN
-  whole_name: Aleksandr Vasilevich SHAKUTIN
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '126863'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Александр
   middle_name: Васильевич
   last_name: ШАКУТИН
@@ -56,15 +42,15 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Aljaksandr
-  middle_name: Vasiljevitj
-  last_name: SJAKUTSIN
-  whole_name: Aljaksandr Vasiljevitj SJAKUTSIN
+- first_name: Aleksandr
+  middle_name: Vasilevich
+  last_name: SHAKUTIN
+  whole_name: Aleksandr Vasilevich SHAKUTIN
   gender: M
-  name_language: SV
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '128171'
+  logical_id: '126863'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -95,6 +81,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '128170'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Aljaksandr
+  middle_name: Vasiljevitj
+  last_name: SJAKUTSIN
+  whole_name: Aljaksandr Vasiljevitj SJAKUTSIN
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '128171'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

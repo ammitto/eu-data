@@ -94,16 +94,6 @@ name_aliases:
     publication_date: '2024-05-31'
     number_title: 2024/1604 (OJ L31052024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
-- whole_name: Az Iszlám Forradalmi Gárda Haditengerészete
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '166410'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-31'
-    number_title: 2024/1604 (OJ L31052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
 - whole_name: Islamilaisen vallankumouskaartin laivasto (IRGCN)
   name_language: FI
   strong: true
@@ -140,6 +130,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '166423'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-31'
+    number_title: 2024/1604 (OJ L31052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401604
+- whole_name: Az Iszlám Forradalmi Gárda Haditengerészete
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '166410'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-31'

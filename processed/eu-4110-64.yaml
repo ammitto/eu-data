@@ -29,12 +29,11 @@ name_aliases:
     publication_date: '2019-09-13'
     number_title: 2019/1403 (OJ L236)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2019:236:FULL&from=EN
-- whole_name: Sergej Anatoljewitsch TOPOR-GILKA
+- whole_name: Сергей Анатольевич ТОПОР-ГИЛКА
   gender: M
-  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '131447'
+  logical_id: '113790'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-09-13'
@@ -51,11 +50,12 @@ name_aliases:
     publication_date: '2021-09-13'
     number_title: 2021/1464 (OJ L321)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.321.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A321%3ATOC
-- whole_name: Сергей Анатольевич ТОПОР-ГИЛКА
+- whole_name: Sergej Anatoljewitsch TOPOR-GILKA
   gender: M
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '113790'
+  logical_id: '131447'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-09-13'

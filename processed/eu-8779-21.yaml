@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Николай
+  middle_name: Иванович
+  last_name: БУЛАЕВ
+  whole_name: Николай Иванович БУЛАЕВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '144386'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Nikolaj
   middle_name: Ivanovitj
   last_name: BULAJEV
@@ -48,20 +62,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144387'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Николай
-  middle_name: Иванович
-  last_name: БУЛАЕВ
-  whole_name: Николай Иванович БУЛАЕВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '144386'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

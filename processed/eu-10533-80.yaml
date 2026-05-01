@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Mawlawi Sheikh Abdul Hakim Haqqani Ishaqzai
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '155923'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1499 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
 - first_name: Abdul Hakim
   last_name: HAQQANI
   whole_name: Abdul Hakim HAQQANI
@@ -57,17 +68,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '155922'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1499 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1499
-- whole_name: Mawlawi Sheikh Abdul Hakim Haqqani Ishaqzai
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '155923'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

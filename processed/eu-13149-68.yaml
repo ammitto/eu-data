@@ -14,16 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Viktor
-  middle_name: Aleksandrovitch
-  last_name: LUKOVENKO
-  whole_name: Viktor Aleksandrovitch LUKOVENKO
-  function: Head of the news agency “African Initiative”
+- whole_name: Viktor VASILEV
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175761'
+  logical_id: '175759'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -40,12 +36,16 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/965 (OJ L202500965)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500965
-- whole_name: Viktor VASILEV
+- first_name: Viktor
+  middle_name: Aleksandrovitch
+  last_name: LUKOVENKO
+  whole_name: Viktor Aleksandrovitch LUKOVENKO
+  function: Head of the news agency “African Initiative”
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '175759'
+  logical_id: '175761'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

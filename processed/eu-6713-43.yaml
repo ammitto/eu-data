@@ -14,80 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Республиканское унитарное предприятие “ЦЕНТРКУРОРТ”
-  name_language: RU
+- whole_name: Empresa unitaria de la República "TSENTRKURORT"
+  name_language: ES
   strong: true
   regulation_language: en
-  logical_id: '132114'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Tasavallan unitaariyritys ”TSENTRKURORT”
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '132409'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Republican unitary enterprise “TSENTRKURORT”
-  strong: true
-  regulation_language: en
-  logical_id: '132116'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Рэспубліканскае унітарнае прадпрыемства “ЦЭНТРКУРОРТ”
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '132115'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Întreprinderea unitară de stat «TSENTRKURORT»
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '132408'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Fofhiontar aonadach poblachtach ‘TSENTRKURORT’
-  name_language: GA
-  strong: true
-  regulation_language: en
-  logical_id: '132395'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Entreprise unitaire républicaine "TSENTRKURORT"
-  name_language: FR
-  strong: true
-  regulation_language: en
-  logical_id: '132396'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Δημοκρατική διαχειριστική επιχείρηση “TSENTRKURORT”
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '132397'
+  logical_id: '132400'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -108,16 +39,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132399'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Empresa unitaria de la República "TSENTRKURORT"
-  name_language: ES
-  strong: true
-  regulation_language: en
-  logical_id: '132400'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -188,6 +109,85 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132407'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Întreprinderea unitară de stat «TSENTRKURORT»
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '132408'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Tasavallan unitaariyritys ”TSENTRKURORT”
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '132409'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Республиканское унитарное предприятие “ЦЕНТРКУРОРТ”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '132114'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Рэспубліканскае унітарнае прадпрыемства “ЦЭНТРКУРОРТ”
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '132115'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Republican unitary enterprise “TSENTRKURORT”
+  strong: true
+  regulation_language: en
+  logical_id: '132116'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Fofhiontar aonadach poblachtach ‘TSENTRKURORT’
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '132395'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Entreprise unitaire républicaine "TSENTRKURORT"
+  name_language: FR
+  strong: true
+  regulation_language: en
+  logical_id: '132396'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: Δημοκρατική διαχειριστική επιχείρηση “TSENTRKURORT”
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '132397'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

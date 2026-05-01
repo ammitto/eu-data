@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: فيراس حسان قدور
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '170633'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-11-25'
+    number_title: 2024/2934 (OJ L25112024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402934
 - first_name: Firas Hassan
   last_name: QADDOUR
   whole_name: Firas Hassan QADDOUR
@@ -24,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170634'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-11-25'
-    number_title: 2024/2934 (OJ L25112024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402934
-- whole_name: فيراس حسان قدور
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '170633'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-11-25'

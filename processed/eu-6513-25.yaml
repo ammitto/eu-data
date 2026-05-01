@@ -14,31 +14,30 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Bremino Gruppe LLC
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '130941'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Bremino-groep LLC
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '130942'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - whole_name: Skupina Bremino
   name_language: SL
   strong: true
   regulation_language: en
   logical_id: '135456'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Grupo Bremino LLC
+  name_language: PT
+  strong: true
+  regulation_language: en
+  logical_id: '135457'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
+- whole_name: Bremino Group LLC
+  strong: true
+  regulation_language: en
+  logical_id: '130944'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
@@ -53,20 +52,21 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Bremino Group LLC
+- whole_name: Bremino-groep LLC
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '130944'
+  logical_id: '130942'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- whole_name: Grupo Bremino LLC
-  name_language: PT
+- whole_name: Bremino Gruppe LLC
+  name_language: DE
   strong: true
   regulation_language: en
-  logical_id: '135457'
+  logical_id: '130941'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-02-25'

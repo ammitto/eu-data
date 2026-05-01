@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: ООО "КБИС"
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '176481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: ООО "Конструкторское Бюро Интегрированньтх Систем”
   name_language: RU
   strong: true
@@ -40,6 +30,37 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '176477'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: ООО "КБИС"
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '176481'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: LLC KBIS
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176479'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Limited Liability Company Construction Bureau of Integrated Systems
+  function: Part of the Lobaev group which manufactures high-precision rifles
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '176476'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -95,32 +116,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: LLC KBIS
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176479'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: LLC Design Bureau of Integrated Systems
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '176480'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Limited Liability Company Construction Bureau of Integrated Systems
-  function: Part of the Lobaev group which manufactures high-precision rifles
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '176476'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

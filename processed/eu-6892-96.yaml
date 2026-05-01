@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexey
-  middle_name: Yurievich
-  last_name: CHERNYAK
-  whole_name: Alexey Yurievich CHERNYAK
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '142919'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-09-13'
-    number_title: 2024/2455 (OJ L13092024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Алексей
   middle_name: Юрьевич
   last_name: ЧЕРНЯК
@@ -42,6 +28,20 @@ name_aliases:
     publication_date: '2022-09-15'
     number_title: 2022/1529 (OJ L239)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1529
+- first_name: Alexey
+  middle_name: Yurievich
+  last_name: CHERNYAK
+  whole_name: Alexey Yurievich CHERNYAK
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '142919'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-09-13'
+    number_title: 2024/2455 (OJ L13092024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402455
 - first_name: Aleksei
   middle_name: Yurievich
   last_name: CHERNIAK

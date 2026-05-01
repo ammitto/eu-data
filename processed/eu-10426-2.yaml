@@ -14,36 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Departament Technologii Informacyjnych Miasta Moskwa
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '156026'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Moszkva Város Információtechnológiai Osztálya
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '156028'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- whole_name: Departement Informatietechnologie van de stad Moskou
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '156030'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - whole_name: Отдел „Информационни  технологии“ на град Москва
   name_language: BG
   strong: true
@@ -259,6 +229,36 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156023'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Departament Technologii Informacyjnych Miasta Moskwa
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '156026'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Moszkva Város Információtechnológiai Osztálya
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '156028'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- whole_name: Departement Informatietechnologie van de stad Moskou
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '156030'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

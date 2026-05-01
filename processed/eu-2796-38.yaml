@@ -16,10 +16,58 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Mohammad
+  middle_name: Jibril
+  last_name: Abdurrahman
+  whole_name: Mohammad Jibril Abdurrahman
+  strong: true
+  regulation_language: en
+  logical_id: '14253'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-25'
+    number_title: 853/2011 (OJ L219)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
+- whole_name: Heris Syah
+  strong: true
+  regulation_language: en
+  logical_id: '14260'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-25'
+    number_title: 853/2011 (OJ L219)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
+- whole_name: Muhammad Yunus
+  strong: true
+  regulation_language: en
+  logical_id: '14259'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-25'
+    number_title: 853/2011 (OJ L219)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
+- whole_name: Muhammad Ricky Ardhan bin Abu Jibril
+  strong: true
+  regulation_language: en
+  logical_id: '14258'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-25'
+    number_title: 853/2011 (OJ L219)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
 - whole_name: Muhammad Ricky Ardhan bin Muhammad Iqbal
   strong: true
   regulation_language: en
   logical_id: '14257'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-08-25'
+    number_title: 853/2011 (OJ L219)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
+- whole_name: Muhamad Ricky Ardhan
+  strong: true
+  regulation_language: en
+  logical_id: '14256'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-25'
@@ -32,18 +80,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '14252'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-25'
-    number_title: 853/2011 (OJ L219)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
-- first_name: Mohammad
-  middle_name: Jibril
-  last_name: Abdurrahman
-  whole_name: Mohammad Jibril Abdurrahman
-  strong: true
-  regulation_language: en
-  logical_id: '14253'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-25'
@@ -73,42 +109,6 @@ name_aliases:
     publication_date: '2011-08-25'
     number_title: 853/2011 (OJ L219)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
-- whole_name: Muhamad Ricky Ardhan
-  strong: true
-  regulation_language: en
-  logical_id: '14256'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-25'
-    number_title: 853/2011 (OJ L219)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
-- whole_name: Muhammad Ricky Ardhan bin Abu Jibril
-  strong: true
-  regulation_language: en
-  logical_id: '14258'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-25'
-    number_title: 853/2011 (OJ L219)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
-- whole_name: Muhammad Yunus
-  strong: true
-  regulation_language: en
-  logical_id: '14259'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-25'
-    number_title: 853/2011 (OJ L219)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
-- whole_name: Heris Syah
-  strong: true
-  regulation_language: en
-  logical_id: '14260'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-08-25'
-    number_title: 853/2011 (OJ L219)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
 citizenships:
 - country_iso2_code: ID
   country_description: INDONESIA
@@ -120,17 +120,17 @@ citizenships:
     number_title: 853/2011 (OJ L219)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
 birthdates:
-- birthdate: '1980-08-08'
+- birthdate: '1979-03-03'
   circa: false
   calendar_type: GREGORIAN
-  day_of_month: 8
-  month_of_year: 8
-  year: 1980
+  day_of_month: 3
+  month_of_year: 3
+  year: 1979
   city: East Lombok, West Nusa Tenggara
   country_iso2_code: ID
   country_description: INDONESIA
   regulation_language: en
-  logical_id: '1638'
+  logical_id: '1637'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-25'
@@ -152,17 +152,17 @@ birthdates:
     publication_date: '2011-08-25'
     number_title: 853/2011 (OJ L219)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
-- birthdate: '1979-03-03'
+- birthdate: '1980-08-08'
   circa: false
   calendar_type: GREGORIAN
-  day_of_month: 3
-  month_of_year: 3
-  year: 1979
+  day_of_month: 8
+  month_of_year: 8
+  year: 1980
   city: East Lombok, West Nusa Tenggara
   country_iso2_code: ID
   country_description: INDONESIA
   regulation_language: en
-  logical_id: '1637'
+  logical_id: '1638'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-25'
@@ -208,11 +208,11 @@ addresses:
     number_title: 853/2011 (OJ L219)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
 identifications:
-- identification_type_code: passport
-  number: S335026
+- identification_type_code: id
+  number: '3219222002.2181558'
   country_iso2_code: ID
   regulation_language: en
-  logical_id: '608'
+  logical_id: '609'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-25'
@@ -228,11 +228,11 @@ identifications:
     publication_date: '2011-08-25'
     number_title: 853/2011 (OJ L219)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:219:0003:0004:EN:PDF
-- identification_type_code: id
-  number: '3219222002.2181558'
+- identification_type_code: passport
+  number: S335026
   country_iso2_code: ID
   regulation_language: en
-  logical_id: '609'
+  logical_id: '608'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-08-25'

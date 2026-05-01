@@ -124,12 +124,25 @@ citizenships:
     number_title: 1049/2011 (OJ L276)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:276:0002:0004:EN:PDF
 birthdates:
-- circa: true
+- circa: false
   calendar_type: GREGORIAN
+  year: 1962
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1668'
+  logical_id: '1666'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- circa: false
+  calendar_type: GREGORIAN
+  city: Lowy Kariz, Spin Boldak District, Kandahar Province
+  country_iso2_code: AF
+  country_description: AFGHANISTAN
+  regulation_language: en
+  logical_id: '111233'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -161,23 +174,22 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1962
+  city: Kadanay, Spin Boldak District Kandahar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1666'
+  logical_id: '111232'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- circa: false
+- circa: true
   calendar_type: GREGORIAN
-  city: Lowy Kariz, Spin Boldak District, Kandahar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '111233'
+  logical_id: '1668'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'
@@ -195,19 +207,17 @@ birthdates:
     publication_date: '2017-03-09'
     number_title: 2017/404 (OJ L63)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-- circa: false
-  calendar_type: GREGORIAN
-  city: Kadanay, Spin Boldak District Kandahar Province
+addresses:
+- city: Kalay Rangin, Spin Boldak District, Kandahar Province
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '111232'
+  logical_id: '2291'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
-addresses:
+    publication_date: '2012-06-26'
+    number_title: 543/2012 (OJ L165)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF
 - street: Boghra Road
   city: Miralzei Village, Chaman, Baluchistan Province
   country_iso2_code: PK
@@ -219,13 +229,3 @@ addresses:
     publication_date: '2011-10-21'
     number_title: 1049/2011 (OJ L276)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:276:0002:0004:EN:PDF
-- city: Kalay Rangin, Spin Boldak District, Kandahar Province
-  country_iso2_code: AF
-  country_description: AFGHANISTAN
-  regulation_language: en
-  logical_id: '2291'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2012-06-26'
-    number_title: 543/2012 (OJ L165)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:165:0015:0019:EN:PDF

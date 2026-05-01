@@ -14,6 +14,22 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Katerina
+  middle_name: Yurievna
+  last_name: ARLAMENKOVA
+  whole_name: Katerina Yurievna ARLAMENKOVA
+  function: Chair of the regional branch of the Republic of Crimea of “Movement of
+    the First”
+  gender: F
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178183'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Катерина Юрьевна АРЛАМЕНКОВА
   gender: F
   name_language: RU
@@ -31,22 +47,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '178180'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- first_name: Katerina
-  middle_name: Yurievna
-  last_name: ARLAMENKOVA
-  whole_name: Katerina Yurievna ARLAMENKOVA
-  function: Chair of the regional branch of the Republic of Crimea of “Movement of
-    the First”
-  gender: F
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '178183'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

@@ -14,12 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: 홍승무
+- first_name: Sung Mu
+  last_name: HONG
+  whole_name: Sung Mu HONG
   gender: M
-  name_language: KO
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '142056'
+  logical_id: '108629'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'
@@ -52,14 +54,12 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
-- first_name: Sung Mu
-  last_name: HONG
-  whole_name: Sung Mu HONG
+- whole_name: 홍승무
   gender: M
-  name_language: EN
+  name_language: KO
   strong: true
   regulation_language: en
-  logical_id: '108629'
+  logical_id: '142056'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-11-14'

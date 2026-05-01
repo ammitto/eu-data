@@ -14,6 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Андрей БОБРОВСКИЙ
+  strong: true
+  regulation_language: en
+  logical_id: '143287'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-07-21'
+    number_title: 2022/1270 (OJ L193)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
 - whole_name: Andrey BOBROVSKIY
   function: a member of the nationalist motorcycle club Nightwolves MC and leader
     of the “Roads for Victory” branch of Nightwolves MC
@@ -31,15 +40,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '143286'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-07-21'
-    number_title: 2022/1270 (OJ L193)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2022:193:FULL&from=EN
-- whole_name: Андрей БОБРОВСКИЙ
-  strong: true
-  regulation_language: en
-  logical_id: '143287'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-07-21'

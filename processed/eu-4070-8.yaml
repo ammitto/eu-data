@@ -49,6 +49,17 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- first_name: Il Woo
+  last_name: Cho
+  whole_name: Il Woo Cho
+  strong: true
+  regulation_language: en
+  logical_id: '112274'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-06-09'
+    number_title: 2017/970 (OJ L146)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0970&from=EN
 - first_name: Il U
   last_name: Cho
   whole_name: Il U Cho
@@ -56,17 +67,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '112275'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-06-09'
-    number_title: 2017/970 (OJ L146)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0970&from=EN
-- first_name: Il Woo
-  last_name: Cho
-  whole_name: Il Woo Cho
-  strong: true
-  regulation_language: en
-  logical_id: '112274'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-06-09'

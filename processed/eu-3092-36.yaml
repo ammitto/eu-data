@@ -14,6 +14,26 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: إبراهيم حسن طالع عسيري
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '149568'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- whole_name: إبراهيم حسن طالع العسيري
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '149569'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - whole_name: Ibrahim al-'Asiri
   name_language: EN
   strong: true
@@ -83,64 +103,15 @@ name_aliases:
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - first_name: Ibrahim
-  middle_name: Hasan Tali’A
-  last_name: "’Asiri"
-  whole_name: Ibrahim Hasan Tali’A ’Asiri
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '10486'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Ibrahim
   middle_name: Hassan Tali
-  last_name: Assiri
-  whole_name: Ibrahim Hassan Tali Assiri
+  last_name: Al-Asiri
+  whole_name: Ibrahim Hassan Tali Al-Asiri
+  function: Operative and principal bomb maker of Al-Qaida in the Arabian Peninsula
+    (AQAP)
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '10482'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Ibrahim
-  middle_name: Hasan Tali
-  last_name: Asiri
-  whole_name: Ibrahim Hasan Tali Asiri
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '10481'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Ibrahim
-  middle_name: Hassan
-  last_name: al-Asiri
-  whole_name: Ibrahim Hassan al-Asiri
-  strong: true
-  regulation_language: en
-  logical_id: '10478'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- first_name: Ibrahim
-  middle_name: Hasan Talea
-  last_name: Aseeri
-  whole_name: Ibrahim Hasan Talea Aseeri
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '10477'
+  logical_id: '10473'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -160,35 +131,64 @@ name_aliases:
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - first_name: Ibrahim
-  middle_name: Hassan Tali
-  last_name: Al-Asiri
-  whole_name: Ibrahim Hassan Tali Al-Asiri
-  function: Operative and principal bomb maker of Al-Qaida in the Arabian Peninsula
-    (AQAP)
+  middle_name: Hasan Talea
+  last_name: Aseeri
+  whole_name: Ibrahim Hasan Talea Aseeri
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '10473'
+  logical_id: '10477'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: إبراهيم حسن طالع عسيري
-  name_language: AR
+- first_name: Ibrahim
+  middle_name: Hassan
+  last_name: al-Asiri
+  whole_name: Ibrahim Hassan al-Asiri
   strong: true
   regulation_language: en
-  logical_id: '149568'
+  logical_id: '10478'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
-- whole_name: إبراهيم حسن طالع العسيري
-  name_language: AR
+- first_name: Ibrahim
+  middle_name: Hasan Tali
+  last_name: Asiri
+  whole_name: Ibrahim Hasan Tali Asiri
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '149569'
+  logical_id: '10481'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- first_name: Ibrahim
+  middle_name: Hassan Tali
+  last_name: Assiri
+  whole_name: Ibrahim Hassan Tali Assiri
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '10482'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
+- first_name: Ibrahim
+  middle_name: Hasan Tali’A
+  last_name: "’Asiri"
+  whole_name: Ibrahim Hasan Tali’A ’Asiri
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '10486'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -205,6 +205,21 @@ citizenships:
     number_title: 317/2011 (OJ L86)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:086:0063:0064:EN:PDF
 birthdates:
+- birthdate: '1982-04-19'
+  circa: false
+  calendar_type: ISLAMIC
+  day_of_month: 24
+  month_of_year: 6
+  year: 1402
+  country_iso2_code: '00'
+  country_description: UNKNOWN
+  regulation_language: en
+  logical_id: '1510'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-04-01'
+    number_title: 317/2011 (OJ L86)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:086:0063:0064:EN:PDF
 - birthdate: '1982-04-18'
   circa: false
   calendar_type: GREGORIAN
@@ -231,21 +246,6 @@ birthdates:
   country_description: SAUDI ARABIA
   regulation_language: en
   logical_id: '1508'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-04-01'
-    number_title: 317/2011 (OJ L86)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:086:0063:0064:EN:PDF
-- birthdate: '1982-04-19'
-  circa: false
-  calendar_type: ISLAMIC
-  day_of_month: 24
-  month_of_year: 6
-  year: 1402
-  country_iso2_code: '00'
-  country_description: UNKNOWN
-  regulation_language: en
-  logical_id: '1510'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-04-01'

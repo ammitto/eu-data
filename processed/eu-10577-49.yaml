@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Пётр
-  middle_name: Александровіч
-  last_name: АРЛОЎ
-  whole_name: Пётр Александровіч АРЛОЎ
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '156328'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Pjotr
   middle_name: Aleksandrovitj
   last_name: ARLOU
@@ -37,49 +23,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156881'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Piotr
-  middle_name: Alexandrovič
-  last_name: ARLOV
-  whole_name: Piotr Alexandrovič ARLOV
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156952'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Петр
-  middle_name: Александрович
-  last_name: ОРЛОВ
-  whole_name: Петр Александрович ОРЛОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '156329'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Piotr
-  middle_name: Aleksandrovich
-  last_name: ARLOU
-  whole_name: Piotr Aleksandrovich ARLOU
-  function: Judge at the Minsk City Court
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156331'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -112,6 +55,35 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Piotr
+  middle_name: Alexandrovič
+  last_name: ARLOV
+  whole_name: Piotr Alexandrovič ARLOV
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156952'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Piotr
+  middle_name: Aleksandrovich
+  last_name: ARLOU
+  whole_name: Piotr Aleksandrovich ARLOU
+  function: Judge at the Minsk City Court
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156331'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Petr
   middle_name: Aleksandrovich
   last_name: ORLOV
@@ -121,6 +93,34 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156330'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Петр
+  middle_name: Александрович
+  last_name: ОРЛОВ
+  whole_name: Петр Александрович ОРЛОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '156329'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Пётр
+  middle_name: Александровіч
+  last_name: АРЛОЎ
+  whole_name: Пётр Александровіч АРЛОЎ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '156328'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

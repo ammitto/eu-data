@@ -14,21 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Valeriy
-  middle_name: Petrovich
-  last_name: SHATILO
-  whole_name: Valeriy Petrovich SHATILO
-  function: Director of OJSC "2566 Plant for the Repair of Radio-Electronic Weapons"
-    (UNP  600012284)
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '163046'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - first_name: Valery
   middle_name: Petrovich
   last_name: SHATILO
@@ -37,17 +22,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '163045'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024) (2)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Валерий Петрович ШАТИЛО
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '163044'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -64,12 +38,38 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024) (2)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- first_name: Valeriy
+  middle_name: Petrovich
+  last_name: SHATILO
+  whole_name: Valeriy Petrovich SHATILO
+  function: Director of OJSC "2566 Plant for the Repair of Radio-Electronic Weapons"
+    (UNP  600012284)
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '163046'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
 - whole_name: Valerij Šatilo
   gender: M
   name_language: CS
   strong: true
   regulation_language: en
   logical_id: '163706'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024) (2)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Валерий Петрович ШАТИЛО
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '163044'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -28,11 +28,11 @@ name_aliases:
     publication_date: '2017-03-22'
     number_title: 2017/489 (OJ L76)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
-- whole_name: Liibüa Investeerimisamet
-  name_language: ET
+- whole_name: Libijski Urząd ds. Inwestycji
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '141469'
+  logical_id: '141472'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-22'
@@ -53,6 +53,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '141471'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-22'
+    number_title: 2017/489 (OJ L76)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
+- whole_name: Liibüa Investeerimisamet
+  name_language: ET
+  strong: true
+  regulation_language: en
+  logical_id: '141469'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-22'
@@ -151,16 +161,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '9168'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-22'
-    number_title: 2017/489 (OJ L76)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0489&from=EN
-- whole_name: Libijski Urząd ds. Inwestycji
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '141472'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-22'

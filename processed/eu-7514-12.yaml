@@ -14,6 +14,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Ališer
+  last_name: Usmanov
+  whole_name: Ališer Usmanov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '158469'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Alisher
   middle_name: Burkhanovich
   last_name: USMONOV
@@ -78,19 +91,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '158325'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Ališer
-  last_name: Usmanov
-  whole_name: Ališer Usmanov
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '158469'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

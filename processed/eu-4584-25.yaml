@@ -17,24 +17,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: al-Qasab
+- whole_name: MOHAMMED AL AMIN AL-ARABI KASHLAF
+  function: Commander of the Shuhada al-Nasr brigade, Head of the Petrol Refinery
+    Guard of Zawiya's refinery
   strong: true
   regulation_language: en
-  logical_id: '117239'
+  logical_id: '122760'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2018-09-25'
-    number_title: 2018/1285 (OJ L240
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
-- whole_name: Keslaf
-  strong: true
-  regulation_language: en
-  logical_id: '117240'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-09-25'
-    number_title: 2018/1285 (OJ L240
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
+    publication_date: '2020-03-06'
+    number_title: 2020/371 (OJ L71)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0371&from=EN
 - whole_name: Kashlaf
   strong: true
   regulation_language: en
@@ -53,17 +46,24 @@ name_aliases:
     publication_date: '2018-09-25'
     number_title: 2018/1285 (OJ L240
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
-- whole_name: MOHAMMED AL AMIN AL-ARABI KASHLAF
-  function: Commander of the Shuhada al-Nasr brigade, Head of the Petrol Refinery
-    Guard of Zawiya's refinery
+- whole_name: Keslaf
   strong: true
   regulation_language: en
-  logical_id: '122760'
+  logical_id: '117240'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2020-03-06'
-    number_title: 2020/371 (OJ L71)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0371&from=EN
+    publication_date: '2018-09-25'
+    number_title: 2018/1285 (OJ L240
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
+- whole_name: al-Qasab
+  strong: true
+  regulation_language: en
+  logical_id: '117239'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-09-25'
+    number_title: 2018/1285 (OJ L240
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1285&from=EN
 citizenships:
 - country_iso2_code: LY
   country_description: LIBYA

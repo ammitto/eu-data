@@ -113,16 +113,6 @@ addresses:
     number_title: 1244/2012 (OJ L352)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:352:0013:0014:EN:PDF
 identifications:
-- identification_type_code: other
-  number: '665'
-  country_iso2_code: AF
-  regulation_language: en
-  logical_id: '849'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - identification_type_code: id
   number: '57388'
   country_iso2_code: AF
@@ -133,3 +123,13 @@ identifications:
     publication_date: '2013-05-17'
     number_title: 451/2013 (OJ L133)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:133:0001:0004:EN:PDF
+- identification_type_code: other
+  number: '665'
+  country_iso2_code: AF
+  regulation_language: en
+  logical_id: '849'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN

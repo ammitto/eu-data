@@ -50,21 +50,6 @@ name_aliases:
     publication_date: '2023-02-28'
     number_title: 2023/419 (OJ L61)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
-- first_name: Ihar
-  middle_name: Uladzimiravich
-  last_name: LUTSKY
-  whole_name: Ihar Uladzimiravich LUTSKY
-  function: Deputy Head of the Presidential Administration, former Minister of Information
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '126680'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-28'
-    number_title: 2023/419 (OJ L61)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
 - whole_name: Igor Vladimirovitj LUTSKIJ
   gender: M
   name_language: SV
@@ -87,6 +72,21 @@ name_aliases:
     publication_date: '2021-02-26'
     number_title: 2021/339 (OJ L68)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.068.01.0029.01.ENG&toc=OJ%3AL%3A2021%3A068%3ATOC
+- first_name: Ihar
+  middle_name: Uladzimiravich
+  last_name: LUTSKY
+  whole_name: Ihar Uladzimiravich LUTSKY
+  function: Deputy Head of the Presidential Administration, former Minister of Information
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '126680'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-28'
+    number_title: 2023/419 (OJ L61)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0419
 birthdates:
 - birthdate: '1972-10-31'
   circa: false

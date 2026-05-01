@@ -16,26 +16,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Ghalib al Zaydi
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '111179'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-25'
-    number_title: 2017/326 (OJ L49)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
-- whole_name: Ghalib Abdallah Ali al-Zaydi
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '111180'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-02-25'
-    number_title: 2017/326 (OJ L49)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
 - whole_name: GHALIB ABDULLAH AL-ZAIDI
   name_language: EN
   strong: true
@@ -56,6 +36,26 @@ name_aliases:
     publication_date: '2017-02-25'
     number_title: 2017/326 (OJ L49)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
+- whole_name: Ghalib Abdallah Ali al-Zaydi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '111180'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-25'
+    number_title: 2017/326 (OJ L49)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
+- whole_name: Ghalib al Zaydi
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '111179'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-02-25'
+    number_title: 2017/326 (OJ L49)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
 citizenships:
 - country_iso2_code: YE
   country_description: YEMEN
@@ -69,12 +69,12 @@ citizenships:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1970
+  year: 1975
   region: Raqqah Region
   country_iso2_code: YE
   country_description: YEMEN
   regulation_language: en
-  logical_id: '111176'
+  logical_id: '111177'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'
@@ -82,12 +82,12 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0326&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1975
+  year: 1970
   region: Raqqah Region
   country_iso2_code: YE
   country_description: YEMEN
   regulation_language: en
-  logical_id: '111177'
+  logical_id: '111176'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-02-25'

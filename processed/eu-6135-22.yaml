@@ -14,16 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mohammad PAKPUR
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '127415'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-04-12'
-    number_title: 2021/584 (OJ L124I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
 - whole_name: Mohammad PAKPOUR
   function: Commander in Chief of the Islamic Revolutionary Guard Corps (IRGC) Ground
     Forces
@@ -32,6 +22,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '127416'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-04-12'
+    number_title: 2021/584 (OJ L124I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.124.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A124I%3ATOC
+- whole_name: Mohammad PAKPUR
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '127415'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-12'

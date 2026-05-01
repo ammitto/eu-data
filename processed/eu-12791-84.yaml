@@ -14,31 +14,20 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Limited Liability Company “Alabuga Machinery”
-  function: LLC Alabuga Machinery is a Russian producer of machine tools and gears.
+- whole_name: OOO Алабуга Машинери
   strong: true
   regulation_language: en
-  logical_id: '173223'
+  logical_id: '173220'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Общество с ограниченной ответственностью “Алабуга Машинери”
-  name_language: RU
+- whole_name: LLC Alabuga Machinery
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '173222'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Spółka z ograniczoną odpowiedzialnością „Alabuga Machinery”
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '173361'
+  logical_id: '173221'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -74,20 +63,31 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: OOO Алабуга Машинери
+- whole_name: Spółka z ograniczoną odpowiedzialnością „Alabuga Machinery”
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '173220'
+  logical_id: '173361'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: LLC Alabuga Machinery
-  name_language: EN
+- whole_name: Limited Liability Company “Alabuga Machinery”
+  function: LLC Alabuga Machinery is a Russian producer of machine tools and gears.
   strong: true
   regulation_language: en
-  logical_id: '173221'
+  logical_id: '173223'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Общество с ограниченной ответственностью “Алабуга Машинери”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173222'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

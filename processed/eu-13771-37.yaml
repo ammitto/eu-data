@@ -103,21 +103,21 @@ addresses:
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 identifications:
-- identification_type_code: regnumber
-  number: '1020202388359'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '179388'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - identification_type_code: taxid
   number: '0273008320'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '179387'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- identification_type_code: regnumber
+  number: '1020202388359'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '179388'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

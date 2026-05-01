@@ -14,16 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Sociedade por ações - Fábrica de  geradores elétricos Sarapul
-  name_language: PT
-  strong: true
-  regulation_language: en
-  logical_id: '179518'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Societatea pe acțiuni  - Fabrica de  generatoare de curent electric  Sarapul
   name_language: RO
   strong: true
@@ -51,11 +41,21 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Aкционерное общество «Сарапульский электрогенераторный завод»
-  name_language: RU
+- whole_name: Sociedade por ações - Fábrica de  geradores elétricos Sarapul
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '178191'
+  logical_id: '179518'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
+- whole_name: Sarapul Electric Generator Plant
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '178189'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
@@ -71,11 +71,11 @@ name_aliases:
     publication_date: '2025-10-23'
     number_title: 2025/2035 (OJ L202502035)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Sarapul Electric Generator Plant
-  name_language: EN
+- whole_name: Aкционерное общество «Сарапульский электрогенераторный завод»
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '178189'
+  logical_id: '178191'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'

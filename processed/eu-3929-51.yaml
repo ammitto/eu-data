@@ -55,12 +55,12 @@ name_aliases:
     publication_date: '2023-10-17'
     number_title: 2023/2196 (OJ L17102023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
-- whole_name: Ali Akbar Tahmaesebi
+- whole_name: Syed Akber Tahmaesebi
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181798'
+  logical_id: '181801'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -88,12 +88,12 @@ name_aliases:
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
-- whole_name: Syed Akber Tahmaesebi
+- whole_name: Ali Akbar Tahmaesebi
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '181801'
+  logical_id: '181798'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
@@ -124,20 +124,20 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302196
 identifications:
 - identification_type_code: passport
-  number: '9003213'
+  number: '6620505'
   country_iso2_code: IR
   regulation_language: en
-  logical_id: '181797'
+  logical_id: '181796'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'
     number_title: 2025/1982 (OJ L202501982)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202501982
 - identification_type_code: passport
-  number: '6620505'
+  number: '9003213'
   country_iso2_code: IR
   regulation_language: en
-  logical_id: '181796'
+  logical_id: '181797'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-09-29'

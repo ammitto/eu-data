@@ -14,11 +14,11 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Venäjän maavoimat
-  name_language: FI
+- whole_name: Руските сухопътни сили
+  name_language: BG
   strong: true
   regulation_language: en
-  logical_id: '148056'
+  logical_id: '148021'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -34,21 +34,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Руските сухопътни сили
-  name_language: BG
+- whole_name: Forças Terrestres  Russas
+  name_language: PT
   strong: true
   regulation_language: en
-  logical_id: '148021'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Forțele terestre ruse
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '147887'
+  logical_id: '147814'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -74,31 +64,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ruske kopnene snage
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '148039'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Forze terrestri russe
   name_language: IT
   strong: true
   regulation_language: en
   logical_id: '147683'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Rusijos sausumos pajėgos
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147984'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -114,31 +84,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Russische landmacht
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '147915'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Fuerzas Terrestres  Rusas
   name_language: ES
   strong: true
   regulation_language: en
   logical_id: '147779'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: ryska markstyrkor
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '147997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -154,31 +104,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: ruske kopenske sile
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '148139'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Rosyjskie siły lądowe
   name_language: PL
   strong: true
   regulation_language: en
   logical_id: '147739'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: De russiske landstyrke
-  name_language: DA
-  strong: true
-  regulation_language: en
-  logical_id: '148006'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'
@@ -194,16 +124,6 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Ruské pozemné sily
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '148127'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Venemaa maaväed
   name_language: ET
   strong: true
@@ -214,11 +134,91 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Forças Terrestres  Russas
-  name_language: PT
+- whole_name: Venäjän maavoimat
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '147814'
+  logical_id: '148056'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ruske kopnene snage
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '148039'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Russische landmacht
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '147915'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: ruske kopenske sile
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '148139'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Ruské pozemné sily
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '148127'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Forțele terestre ruse
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '147887'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Rusijos sausumos pajėgos
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147984'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: De russiske landstyrke
+  name_language: DA
+  strong: true
+  regulation_language: en
+  logical_id: '148006'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: ryska markstyrkor
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '147997'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

@@ -17,12 +17,11 @@ subject_type:
 name_aliases:
 - first_name: Muhammad
   middle_name: Yunis
-  last_name: Ahmad
-  whole_name: Muhammad Yunis Ahmad
-  gender: M
+  last_name: Al-Ahmed
+  whole_name: Muhammad Yunis Al-Ahmed
   strong: true
   regulation_language: en
-  logical_id: '4159'
+  logical_id: '4160'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-07-09'
@@ -42,11 +41,12 @@ name_aliases:
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:177:0032:0033:EN:PDF
 - first_name: Muhammad
   middle_name: Yunis
-  last_name: Al-Ahmed
-  whole_name: Muhammad Yunis Al-Ahmed
+  last_name: Ahmad
+  whole_name: Muhammad Yunis Ahmad
+  gender: M
   strong: true
   regulation_language: en
-  logical_id: '4160'
+  logical_id: '4159'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2005-07-09'

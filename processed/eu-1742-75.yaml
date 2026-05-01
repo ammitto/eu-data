@@ -67,12 +67,14 @@ name_aliases:
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - first_name: Hamed
-  last_name: Al-'Ali
-  whole_name: Hamed Al-'Ali
+  middle_name: Abdullah
+  last_name: Al-Ali
+  whole_name: Hamed Abdullah Al-Ali
+  title: Dr
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6128'
+  logical_id: '6127'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'
@@ -115,14 +117,12 @@ name_aliases:
     number_title: 2023/329 (OJ L43I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - first_name: Hamed
-  middle_name: Abdullah
-  last_name: Al-Ali
-  whole_name: Hamed Abdullah Al-Ali
-  title: Dr
+  last_name: Al-'Ali
+  whole_name: Hamed Al-'Ali
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '6127'
+  logical_id: '6128'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-02-13'

@@ -15,12 +15,14 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Kirill
-  last_name: VASILYEV
-  whole_name: Kirill VASILYEV
+  middle_name: Jurjevitj
+  last_name: VASILJEV
+  whole_name: Kirill Jurjevitj VASILJEV
   gender: M
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '145391'
+  logical_id: '145983'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'
@@ -40,14 +42,12 @@ name_aliases:
     number_title: 2022/2228 (OJ L293-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2228
 - first_name: Kirill
-  middle_name: Jurjevitj
-  last_name: VASILJEV
-  whole_name: Kirill Jurjevitj VASILJEV
+  last_name: VASILYEV
+  whole_name: Kirill VASILYEV
   gender: M
-  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '145983'
+  logical_id: '145391'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-11-14'

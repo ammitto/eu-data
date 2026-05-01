@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: أحمد بوسته جي
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '170638'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-11-25'
+    number_title: 2024/2934 (OJ L25112024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402934
 - first_name: Ahmed Mohammad
   last_name: BUSTAJI
   whole_name: Ahmed Mohammad BUSTAJI
@@ -24,17 +35,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '170639'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-11-25'
-    number_title: 2024/2934 (OJ L25112024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202402934
-- whole_name: أحمد بوسته جي
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '170638'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-11-25'

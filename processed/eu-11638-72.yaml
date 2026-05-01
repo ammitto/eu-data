@@ -14,14 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Alexandr
-  last_name: Luzjanin
-  whole_name: Alexandr Luzjanin
+- first_name: Aleksandr
+  last_name: Luzyanin
+  whole_name: Aleksandr Luzyanin
   gender: M
-  name_language: CS
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '167018'
+  logical_id: '167016'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -70,6 +70,19 @@ name_aliases:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - first_name: Alexandr
+  last_name: Luzjanin
+  whole_name: Alexandr Luzjanin
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '167018'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- first_name: Alexandr
   last_name: Luzianin
   whole_name: Alexandr Luzianin
   gender: M
@@ -77,19 +90,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '167017'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Aleksandr
-  last_name: Luzyanin
-  whole_name: Aleksandr Luzyanin
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '167016'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

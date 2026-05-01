@@ -18,21 +18,21 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Zahid Ahmadzai
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '109758'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - whole_name: Jan Agha Ahmadzai
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '109759'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+- whole_name: Zahid Ahmadzai
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '109758'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2017-03-09'

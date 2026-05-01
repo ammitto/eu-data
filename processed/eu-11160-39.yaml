@@ -15,27 +15,13 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Sergej
-  last_name: Ponomariov
-  whole_name: Sergej Ponomariov
+  last_name: Ponomarjov
+  whole_name: Sergej Ponomarjov
   gender: M
-  name_language: SK
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '163789'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Сергей
-  middle_name: Алексеевич
-  last_name: ПОНОМАРЁВ
-  whole_name: Сергей Алексеевич ПОНОМАРЁВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '162198'
+  logical_id: '163761'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -57,14 +43,28 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Sergej
-  last_name: Ponomarjov
-  whole_name: Sergej Ponomarjov
+- first_name: Сергей
+  middle_name: Алексеевич
+  last_name: ПОНОМАРЁВ
+  whole_name: Сергей Алексеевич ПОНОМАРЁВ
   gender: M
-  name_language: CS
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '163761'
+  logical_id: '162198'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- first_name: Sergej
+  last_name: Ponomariov
+  whole_name: Sergej Ponomariov
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '163789'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

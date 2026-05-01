@@ -14,6 +14,20 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- first_name: Сергей
+  middle_name: Борисович
+  last_name: РЫЖКОВ
+  whole_name: Сергей Борисович РЫЖКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '144458'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-10-06'
+    number_title: 2022/1906 (OJ L259 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
 - first_name: Sergey
   middle_name: Borissovich
   last_name: RYZHKOV
@@ -24,20 +38,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '144459'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-10-06'
-    number_title: 2022/1906 (OJ L259 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Sergej
-  middle_name: Borisovitj
-  last_name: RYZJKOV
-  whole_name: Sergej Borisovitj RYZJKOV
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '144660'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -57,15 +57,15 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Сергей
-  middle_name: Борисович
-  last_name: РЫЖКОВ
-  whole_name: Сергей Борисович РЫЖКОВ
+- first_name: Sergey
+  middle_name: Borisovich
+  last_name: RYZHKOV
+  whole_name: Sergey Borisovich RYZHKOV
   gender: M
-  name_language: RU
+  name_language: NL
   strong: true
   regulation_language: en
-  logical_id: '144458'
+  logical_id: '144667'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'
@@ -85,15 +85,15 @@ name_aliases:
     publication_date: '2022-10-06'
     number_title: 2022/1906 (OJ L259 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1906
-- first_name: Sergey
-  middle_name: Borisovich
-  last_name: RYZHKOV
-  whole_name: Sergey Borisovich RYZHKOV
+- first_name: Sergej
+  middle_name: Borisovitj
+  last_name: RYZJKOV
+  whole_name: Sergej Borisovitj RYZJKOV
   gender: M
-  name_language: NL
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '144667'
+  logical_id: '144660'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-10-06'

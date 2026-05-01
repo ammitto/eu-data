@@ -14,22 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Максім МІХОВІЧ
+- whole_name: Максим МИХОВИЧ
   gender: M
-  name_language: BE
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '125772'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-10-02'
-    number_title: 2020/1387 (OJ L319I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
-- whole_name: Maxim MIKHOVICH
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '125771'
+  logical_id: '125487'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-02'
@@ -47,12 +37,22 @@ name_aliases:
     publication_date: '2020-10-02'
     number_title: 2020/1387 (OJ L319I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
-- whole_name: Максим МИХОВИЧ
+- whole_name: Maxim MIKHOVICH
   gender: M
-  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '125487'
+  logical_id: '125771'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-10-02'
+    number_title: 2020/1387 (OJ L319I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2020:319I:TOC
+- whole_name: Максім МІХОВІЧ
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '125772'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-10-02'

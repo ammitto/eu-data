@@ -24,19 +24,19 @@ name_aliases:
     number_title: 2021/612 (OJ L129I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.129.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A129I%3ATOC
 citizenships:
-- country_iso2_code: TR
-  country_description: TURKEY
+- country_iso2_code: FR
+  country_description: FRANCE
   regulation_language: en
-  logical_id: '128848'
+  logical_id: '128849'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-15'
     number_title: 2021/612 (OJ L129I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.129.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A129I%3ATOC
-- country_iso2_code: FR
-  country_description: FRANCE
+- country_iso2_code: TR
+  country_description: TURKEY
   regulation_language: en
-  logical_id: '128849'
+  logical_id: '128848'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-15'

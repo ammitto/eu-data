@@ -14,12 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Viceadmirál Arkadij Romanov
+- first_name: Arkady
+  middle_name: Yurievich
+  last_name: ROMANOV
+  whole_name: Arkady Yurievich ROMANOV
+  function: Deputy Commander of the Black Sea Fleet of the Russian Navy
   gender: M
-  name_language: CS
+  title: Vice-Admiral
   strong: true
   regulation_language: en
-  logical_id: '164116'
+  logical_id: '162574'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -47,16 +51,12 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Arkady
-  middle_name: Yurievich
-  last_name: ROMANOV
-  whole_name: Arkady Yurievich ROMANOV
-  function: Deputy Commander of the Black Sea Fleet of the Russian Navy
+- whole_name: Viceadmirál Arkadij Romanov
   gender: M
-  title: Vice-Admiral
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '162574'
+  logical_id: '164116'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

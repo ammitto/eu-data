@@ -14,22 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Maksim
-  middle_name: Viktaravich
-  last_name: BUTRANETS
-  whole_name: Maksim Viktaravich BUTRANETS
-  function: "Head of the Brest Border Group, \nformer Head of the Smorgon Border Group,
-    Military Unit 2044 (appointed in March 2018), \nState Border Delegate"
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '132006'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Maxim
   middle_name: Viktorovich
   last_name: BUTRANETS
@@ -45,39 +29,16 @@ name_aliases:
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
 - first_name: Maksim
-  last_name: Butraněc
-  whole_name: Maksim Butraněc
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '164168'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Maxim
-  last_name: Butranec
-  whole_name: Maxim Butranec
+  middle_name: Viktaravich
+  last_name: BUTRANETS
+  whole_name: Maksim Viktaravich BUTRANETS
+  function: "Head of the Brest Border Group, \nformer Head of the Smorgon Border Group,
+    Military Unit 2044 (appointed in March 2018), \nState Border Delegate"
   gender: M
-  name_language: SK
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '132349'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-27'
-    number_title: 2024/768 (OJ L27022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Максим
-  middle_name: Викторович
-  last_name: БУТРАНЕЦ
-  whole_name: Максим Викторович БУТРАНЕЦ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '132003'
+  logical_id: '132006'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -97,15 +58,27 @@ name_aliases:
     publication_date: '2024-02-27'
     number_title: 2024/768 (OJ L27022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
-- first_name: Maksim
-  middle_name: Viktaravitj
-  last_name: BUTRANETS
-  whole_name: Maksim Viktaravitj BUTRANETS
+- first_name: Максим
+  middle_name: Викторович
+  last_name: БУТРАНЕЦ
+  whole_name: Максим Викторович БУТРАНЕЦ
   gender: M
-  name_language: SV
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '132348'
+  logical_id: '132003'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Maksim
+  last_name: Butraněc
+  whole_name: Maksim Butraněc
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '164168'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'
@@ -120,6 +93,33 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '132347'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Maksim
+  middle_name: Viktaravitj
+  last_name: BUTRANETS
+  whole_name: Maksim Viktaravitj BUTRANETS
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '132348'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-27'
+    number_title: 2024/768 (OJ L27022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400768
+- first_name: Maxim
+  last_name: Butranec
+  whole_name: Maxim Butranec
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '132349'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-27'

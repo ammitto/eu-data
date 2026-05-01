@@ -14,6 +14,46 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: "‘Khimvolokno Plant’ de Chuideachta Comhstoic ‘Grodno Azot’"
+  name_language: GA
+  strong: true
+  regulation_language: en
+  logical_id: '132457'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: sivuliike JSC Grodno Azotin Khimvoloknon tehdas
+  name_language: FI
+  strong: true
+  regulation_language: en
+  logical_id: '132470'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: "“fabriek Khimvolokno” JSC “Grodno Azot”"
+  name_language: NL
+  strong: true
+  regulation_language: en
+  logical_id: '132469'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
+- whole_name: OJSC »Grodno Azot«
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '132468'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-12-02'
+    number_title: 2021/2124 (OJ L430I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - whole_name: ОАО “Гродно Азот”
   strong: true
   regulation_language: en
@@ -23,11 +63,10 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: Odprta delniška družba ‚Grodno Azot‘
-  name_language: SL
+- whole_name: ААТ “Гродна Азот”
   strong: true
   regulation_language: en
-  logical_id: '132471'
+  logical_id: '132154'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -109,11 +148,11 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: "‘Khimvolokno Plant’ de Chuideachta Comhstoic ‘Grodno Azot’"
-  name_language: GA
+- whole_name: Odprta delniška družba ‚Grodno Azot‘
+  name_language: SL
   strong: true
   regulation_language: en
-  logical_id: '132457'
+  logical_id: '132471'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
@@ -218,46 +257,18 @@ name_aliases:
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: OJSC »Grodno Azot«
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '132468'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: "“fabriek Khimvolokno” JSC “Grodno Azot”"
-  name_language: NL
-  strong: true
-  regulation_language: en
-  logical_id: '132469'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: sivuliike JSC Grodno Azotin Khimvoloknon tehdas
-  name_language: FI
-  strong: true
-  regulation_language: en
-  logical_id: '132470'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
-- whole_name: ААТ “Гродна Азот”
-  strong: true
-  regulation_language: en
-  logical_id: '132154'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-12-02'
-    number_title: 2021/2124 (OJ L430I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 addresses:
+- street: 100 Kosmonavtov Ave.
+  city: Grodno/Hrodna
+  country_iso2_code: BY
+  country_description: BELARUS
+  regulation_language: en
+  logical_id: '132151'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-02-25'
+    number_title: 2022/300 (OJ L46)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 - street: 4 Slavinskogo, St.
   city: Grodno/Hrodna
   country_iso2_code: BY
@@ -270,33 +281,22 @@ addresses:
     publication_date: '2022-02-25'
     number_title: 2022/300 (OJ L46)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
-- street: 100 Kosmonavtov Ave.
-  city: Grodno/Hrodna
-  country_iso2_code: BY
-  country_description: BELARUS
-  regulation_language: en
-  logical_id: '132151'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-02-25'
-    number_title: 2022/300 (OJ L46)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.046.01.0003.01.ENG&toc=OJ%3AL%3A2022%3A046%3ATOC
 identifications:
 - identification_type_code: regnumber
-  number: '590046884'
+  number: '500036524'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '132152'
+  logical_id: '132449'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'
     number_title: 2021/2124 (OJ L430I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.430.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A430I%3ATOC
 - identification_type_code: regnumber
-  number: '500036524'
+  number: '590046884'
   country_iso2_code: '00'
   regulation_language: en
-  logical_id: '132449'
+  logical_id: '132152'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-12-02'

@@ -14,18 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Myong Gi
-  last_name: Kim
-  whole_name: Myong Gi Kim
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107887'
-  regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2017-08-31'
-    number_title: 2017/1509 (OJ L224)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 - first_name: Tae Hun
   last_name: Ko
   whole_name: Tae Hun Ko
@@ -39,6 +27,18 @@ name_aliases:
     publication_date: '2023-11-14'
     number_title: 2023/2576 (OJ L14112023)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202302576
+- first_name: Myong Gi
+  last_name: Kim
+  whole_name: Myong Gi Kim
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107887'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2017-08-31'
+    number_title: 2017/1509 (OJ L224)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 citizenships:
 - country_iso2_code: KP
   country_description: KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF

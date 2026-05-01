@@ -15,16 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Андрей Борисович ШЕИН
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '119634'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-03-15'
-    number_title: 2019/409 (OJ L73)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0409&from=EN
 - whole_name: Andrey Borisovich SHEIN
   function: Deputy Head of Border Directorate – Head of Coast Guard Unit of the Federal
     Security Service of the Russian Federation for “Republic of Crimea and City of
@@ -33,6 +23,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '119635'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-03-15'
+    number_title: 2019/409 (OJ L73)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0409&from=EN
+- whole_name: Андрей Борисович ШЕИН
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '119634'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-03-15'

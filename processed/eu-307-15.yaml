@@ -14,12 +14,23 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Memetiming Memeti
+- whole_name: Muhelisi
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '7037'
+  logical_id: '7044'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-03-21'
+    number_title: 2005/611 (OJ L202500611)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
+- whole_name: Maimaiti Iman
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '7043'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'
@@ -31,17 +42,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '7045'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-03-21'
-    number_title: 2005/611 (OJ L202500611)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Muhelisi
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '7044'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'
@@ -121,12 +121,12 @@ name_aliases:
     publication_date: '2025-03-21'
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Saifuding
+- whole_name: Memetiming Memeti
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '7046'
+  logical_id: '7037'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'
@@ -192,12 +192,12 @@ name_aliases:
     publication_date: '2025-03-21'
     number_title: 2005/611 (OJ L202500611)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500611
-- whole_name: Maimaiti Iman
+- whole_name: Saifuding
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '7043'
+  logical_id: '7046'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-03-21'

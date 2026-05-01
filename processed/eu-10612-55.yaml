@@ -17,6 +17,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: Tiger One
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156548'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-28'
+    number_title: 2023/1564 (OJ L190 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
 - first_name: Bernard Maheshe
   last_name: BYAMUNGU
   whole_name: Bernard Maheshe BYAMUNGU
@@ -33,17 +44,6 @@ name_aliases:
     publication_date: '2024-04-30'
     number_title: 2024/1271 (OJ L30042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401271
-- whole_name: Tiger One
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '156548'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-28'
-    number_title: 2023/1564 (OJ L190 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1564
 citizenships:
 - country_iso2_code: CD
   country_description: CONGO, Democratic Republic of (was Zaire)

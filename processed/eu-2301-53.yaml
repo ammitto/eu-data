@@ -125,18 +125,20 @@ birthdates:
     publication_date: '2011-08-02'
     number_title: 753/2011 (OJ L199)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
-- circa: false
+- circa: true
   calendar_type: GREGORIAN
-  city: Kandahar
+  city: Yatimchai village
+  region: Helmand Province
+  place: Musa Qala District
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '1303'
+  logical_id: '111140'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2012-12-04'
-    number_title: 1139/2012 (OJ L332)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF
+    publication_date: '2017-03-09'
+    number_title: 2017/404 (OJ L63)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
 - birthdate: '1973-02-14'
   circa: false
   calendar_type: GREGORIAN
@@ -167,17 +169,15 @@ birthdates:
     publication_date: '2011-08-02'
     number_title: 753/2011 (OJ L199)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:199:0001:0022:EN:PDF
-- circa: true
+- circa: false
   calendar_type: GREGORIAN
-  city: Yatimchai village
-  region: Helmand Province
-  place: Musa Qala District
+  city: Kandahar
   country_iso2_code: AF
   country_description: AFGHANISTAN
   regulation_language: en
-  logical_id: '111140'
+  logical_id: '1303'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2017-03-09'
-    number_title: 2017/404 (OJ L63)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0404&from=EN
+    publication_date: '2012-12-04'
+    number_title: 1139/2012 (OJ L332)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:332:0001:0007:EN:PDF

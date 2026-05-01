@@ -105,16 +105,6 @@ birthdates:
     number_title: 1002/2012 (OJ L300)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
 identifications:
-- identification_type_code: passport
-  number: BN 4196361
-  country_iso2_code: PK
-  regulation_language: en
-  logical_id: '808'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-02-13'
-    number_title: 2023/329 (OJ L43I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc
 - identification_type_code: id
   number: 33202-7126636-9
   country_iso2_code: PK
@@ -125,3 +115,13 @@ identifications:
     publication_date: '2012-10-30'
     number_title: 1002/2012 (OJ L300)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:300:0043:0044:EN:PDF
+- identification_type_code: passport
+  number: BN 4196361
+  country_iso2_code: PK
+  regulation_language: en
+  logical_id: '808'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-02-13'
+    number_title: 2023/329 (OJ L43I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2023.043.01.0001.01.ENG&toc

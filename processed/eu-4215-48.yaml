@@ -14,6 +14,16 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: 서홍찬
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '141942'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-08-01'
+    number_title: 2022/1331 (OJ L201)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
 - whole_name: SO Hong Chan
   function: Former First Vice-Minister of the People’s Armed Forces and former Director
     General of the Rear Services Bureau, former member of the Central Military Commission
@@ -23,16 +33,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '111825'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-08-01'
-    number_title: 2022/1331 (OJ L201)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R1331
-- whole_name: 서홍찬
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '141942'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-08-01'

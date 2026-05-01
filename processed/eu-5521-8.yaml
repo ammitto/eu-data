@@ -14,6 +14,16 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Grupa Katerji
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '140976'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-05-31'
+    number_title: 2022/840 (OJ L148)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 - whole_name: مجموعة قاطرجى
   strong: true
   regulation_language: en
@@ -95,16 +105,6 @@ name_aliases:
     publication_date: '2021-05-28'
     number_title: 2021/848 (OJ L188)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2021.188.01.0018.01.ENG&toc=OJ%3AL%3A2021%3A188%3ATOC
-- whole_name: Grupa Katerji
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '140976'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-05-31'
-    number_title: 2022/840 (OJ L148)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R0840
 addresses:
 - city: Mazzah, Damascus
   country_iso2_code: SY

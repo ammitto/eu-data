@@ -14,46 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC “NIID”
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '175011'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО “НИИД”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175010'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: АО “Научно-Исследовательский Институт Двигателей”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175013'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: Aкционерное общество “Научно-Исследовательский Институт Двигателей”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '175014'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-05-20'
-    number_title: 2025/933 (OJ L202500933)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: Joint Stock Company “Scientific Research Institute of Engines”
   function: JSC “Scientific Research Institute of Engines” (JSC NIID) is a developer
     of technologies and equipment for the production and repair of aircraft gas-turbine
@@ -64,6 +24,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '175015'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: Aкционерное общество “Научно-Исследовательский Институт Двигателей”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175014'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'
@@ -99,6 +69,36 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: "»Tudományos Motorkutató Intézet« Részvénytársaság"
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '175248'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: АО “НИИД”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '175010'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
+- whole_name: JSC “NIID”
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '175011'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-05-20'
+    number_title: 2025/933 (OJ L202500933)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
 - whole_name: JSC “Research Institute of Engines”
   name_language: EN
   strong: true
@@ -109,11 +109,11 @@ name_aliases:
     publication_date: '2025-05-20'
     number_title: 2025/933 (OJ L202500933)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500933
-- whole_name: "»Tudományos Motorkutató Intézet« Részvénytársaság"
-  name_language: HU
+- whole_name: АО “Научно-Исследовательский Институт Двигателей”
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '175248'
+  logical_id: '175013'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-05-20'

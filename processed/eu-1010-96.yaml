@@ -97,6 +97,18 @@ citizenships:
     number_title: 215/2003 (OJ L28)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:028:0041:0042:EN:PDF
 birthdates:
+- circa: false
+  calendar_type: GREGORIAN
+  city: Korleko-Lombok Timur
+  country_iso2_code: ID
+  country_description: INDONESIA
+  regulation_language: en
+  logical_id: '1619'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-06-22'
+    number_title: 597/2011 (OJ L162)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:162:0003:0006:EN:PDF
 - birthdate: '1958-08-17'
   circa: false
   calendar_type: GREGORIAN
@@ -113,18 +125,6 @@ birthdates:
     publication_date: '2004-12-17'
     number_title: 2145/2004 (OJ L370)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:370:0006:0016:EN:PDF
-- circa: false
-  calendar_type: GREGORIAN
-  city: Korleko-Lombok Timur
-  country_iso2_code: ID
-  country_description: INDONESIA
-  regulation_language: en
-  logical_id: '1619'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-06-22'
-    number_title: 597/2011 (OJ L162)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:162:0003:0006:EN:PDF
 - birthdate: '1957-08-17'
   circa: false
   calendar_type: GREGORIAN

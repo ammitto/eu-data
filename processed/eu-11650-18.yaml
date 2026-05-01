@@ -14,14 +14,14 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Andrej
+- first_name: Andrei
   last_name: Giba
-  whole_name: Andrej Giba
+  whole_name: Andrei Giba
   gender: M
-  name_language: CS
+  name_language: FI
   strong: true
   regulation_language: en
-  logical_id: '167160'
+  logical_id: '167159'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -57,14 +57,14 @@ name_aliases:
     publication_date: '2024-06-24'
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
-- first_name: Andrei
+- first_name: Andrej
   last_name: Giba
-  whole_name: Andrei Giba
+  whole_name: Andrej Giba
   gender: M
-  name_language: FI
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '167159'
+  logical_id: '167160'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'
@@ -107,23 +107,23 @@ birthdates:
     number_title: 2024/1746 (OJ L24062024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 addresses:
-- street: 37, Lesnaya str
-  region: Simferopol district, Crimea
-  country_iso2_code: UA
-  country_description: UKRAINE
-  regulation_language: en
-  logical_id: '166149'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-06-24'
-    number_title: 2024/1746 (OJ L24062024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
 - street: 31A Bespalova str
   region: Simferopol district, Crimea
   country_iso2_code: UA
   country_description: UKRAINE
   regulation_language: en
   logical_id: '166148'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-06-24'
+    number_title: 2024/1746 (OJ L24062024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401746
+- street: 37, Lesnaya str
+  region: Simferopol district, Crimea
+  country_iso2_code: UA
+  country_description: UKRAINE
+  regulation_language: en
+  logical_id: '166149'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-06-24'

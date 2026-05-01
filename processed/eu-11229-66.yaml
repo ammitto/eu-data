@@ -14,23 +14,15 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Євген Олександрович БРИКОВ
+- first_name: Yevhen
+  middle_name: Oleksandrovich
+  last_name: BRYKOV
+  whole_name: Yevhen Oleksandrovich BRYKOV
+  function: So-called “Minister of Information Policy” of Kherson Region
   gender: M
-  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '162540'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-02-23'
-    number_title: 2024/753 (OJ L23022024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- whole_name: Евгений Александрович БРЫКОВ
-  gender: M
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '162541'
+  logical_id: '162543'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'
@@ -49,15 +41,23 @@ name_aliases:
     publication_date: '2024-02-23'
     number_title: 2024/753 (OJ L23022024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
-- first_name: Yevhen
-  middle_name: Oleksandrovich
-  last_name: BRYKOV
-  whole_name: Yevhen Oleksandrovich BRYKOV
-  function: So-called “Minister of Information Policy” of Kherson Region
+- whole_name: Євген Олександрович БРИКОВ
   gender: M
+  name_language: UK
   strong: true
   regulation_language: en
-  logical_id: '162543'
+  logical_id: '162540'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-02-23'
+    number_title: 2024/753 (OJ L23022024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400753
+- whole_name: Евгений Александрович БРЫКОВ
+  gender: M
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '162541'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-02-23'

@@ -28,6 +28,21 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Siarhei
+  middle_name: Fiodaravich
+  last_name: KHRYPACH
+  whole_name: Siarhei Fiodaravich KHRYPACH
+  function: Judge at the Minsk Municipal Court
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156438'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Sergej
   middle_name: Fjodorovitj
   last_name: CHRIPATJ
@@ -42,30 +57,27 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Sergey
-  middle_name: Fedorovich
-  last_name: KHRIPACH
-  whole_name: Sergey Fedorovich KHRIPACH
+- first_name: Sjarhej
+  last_name: Chrypač
+  whole_name: Sjarhej Chrypač
   gender: M
-  name_language: EN
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '156437'
+  logical_id: '156977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Siarhei
-  middle_name: Fiodaravich
-  last_name: KHRYPACH
-  whole_name: Siarhei Fiodaravich KHRYPACH
-  function: Judge at the Minsk Municipal Court
+- first_name: Sjargej
+  last_name: Hripač
+  whole_name: Sjargej Hripač
   gender: M
-  name_language: EN
+  name_language: HR
   strong: true
   regulation_language: en
-  logical_id: '156438'
+  logical_id: '157026'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -99,19 +111,6 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Sjarhej
-  last_name: Chrypač
-  whole_name: Sjarhej Chrypač
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156977'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - first_name: Siarhej
   middle_name: Fiodaravič
   last_name: CHRYPAČ
@@ -126,14 +125,15 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Sjargej
-  last_name: Hripač
-  whole_name: Sjargej Hripač
+- first_name: Sergey
+  middle_name: Fedorovich
+  last_name: KHRIPACH
+  whole_name: Sergey Fedorovich KHRIPACH
   gender: M
-  name_language: HR
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '157026'
+  logical_id: '156437'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

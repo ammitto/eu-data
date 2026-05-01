@@ -15,27 +15,28 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Nikolaj
-  middle_name: Anatolevich
-  last_name: Kuznetsov
-  whole_name: Nikolaj Anatolevich Kuznetsov
+  middle_name: Anatolievič
+  last_name: KUZNECOV
+  whole_name: Nikolaj Anatolievič KUZNECOV
   gender: M
-  name_language: EN
+  name_language: SK
   strong: true
   regulation_language: en
-  logical_id: '151437'
+  logical_id: '151544'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- first_name: Nikolay
-  last_name: Kuznetsov
-  whole_name: Nikolay Kuznetsov
+- first_name: Николай
+  middle_name: Анатольевич
+  last_name: Кузнецов
+  whole_name: Николай Анатольевич Кузнецов
   gender: M
-  name_language: EN
+  name_language: RU
   strong: true
   regulation_language: en
-  logical_id: '151435'
+  logical_id: '151438'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -49,6 +50,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '151436'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-07'
+    number_title: 2023/500 (OJ L69I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
+- first_name: Nikolaj
+  middle_name: Anatolevich
+  last_name: Kuznetsov
+  whole_name: Nikolaj Anatolevich Kuznetsov
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '151437'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'
@@ -72,29 +87,14 @@ name_aliases:
     publication_date: '2023-03-07'
     number_title: 2023/500 (OJ L69I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- first_name: Николай
-  middle_name: Анатольевич
-  last_name: Кузнецов
-  whole_name: Николай Анатольевич Кузнецов
+- first_name: Nikolay
+  last_name: Kuznetsov
+  whole_name: Nikolay Kuznetsov
   gender: M
-  name_language: RU
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '151438'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-07'
-    number_title: 2023/500 (OJ L69I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0500
-- first_name: Nikolaj
-  middle_name: Anatolievič
-  last_name: KUZNECOV
-  whole_name: Nikolaj Anatolievič KUZNECOV
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '151544'
+  logical_id: '151435'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-07'

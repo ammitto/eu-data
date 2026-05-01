@@ -14,33 +14,12 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Дзмітрый  Яўгеньевіч БУРДЗЮК
-  gender: M
-  name_language: BE
-  strong: true
-  regulation_language: en
-  logical_id: '130222'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Dzmitryj Jauhenjevitj BURDZIUK
   gender: M
   name_language: SV
   strong: true
   regulation_language: en
   logical_id: '130777'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2021-06-21'
-    number_title: 2021/997 (OJ L219I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
-- whole_name: Dmitry Evgenevich  BURDIUK
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '130223'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'
@@ -57,6 +36,16 @@ name_aliases:
     publication_date: '2021-06-21'
     number_title: 2021/997 (OJ L219I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Dmitry Evgenevich  BURDIUK
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '130223'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
 - whole_name: Dzmitry Iauhenevich  BURDZIUK
   function: "Head of the Oktyabrsky \nDistrict Police \nDepartment, Former Head \nof
     the Partizanski District \nPolice Department of \nMinsk"
@@ -64,6 +53,17 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '130224'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2021-06-21'
+    number_title: 2021/997 (OJ L219I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021R0997&from=EN
+- whole_name: Дзмітрый  Яўгеньевіч БУРДЗЮК
+  gender: M
+  name_language: BE
+  strong: true
+  regulation_language: en
+  logical_id: '130222'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-06-21'

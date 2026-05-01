@@ -14,6 +14,17 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Javno dioničko društvo ‚Central Scientific and Production Association
+    ‚Leninetz’’
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '173477'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: "»’Leninetz’ Központi Tudományos és Termelő Szövetkezet« Nyilvánosan
     Működő Részvénytársaság"
   name_language: HU
@@ -35,10 +46,78 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»CSPA ’LENINETZ’«  Nyrt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173442'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»CSPA ’LENINETS’« Nyrt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173441'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: "»NPO ’LENINETZ’« Nyrt."
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '173440'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: ПАО “ЦНПО ‘ЛЕНИНЕЦ’”
+  strong: true
+  regulation_language: en
+  logical_id: '173240'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - whole_name: PJSC “NPO ‘LENINETZ’”
   strong: true
   regulation_language: en
   logical_id: '173241'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: PJSC “CSPA ‘LENINETS’”
+  strong: true
+  regulation_language: en
+  logical_id: '173242'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: PJSC “CSPA ‘LENINETZ’”
+  strong: true
+  regulation_language: en
+  logical_id: '173243'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
+- whole_name: Публичное акционерное общество “Центральное Научно-Производственное
+    Объединение ‘Ленинец’”
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '173244'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'
@@ -58,86 +137,18 @@ name_aliases:
     publication_date: '2025-02-24'
     number_title: 2025/389 (OJ L24022025)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: ПАО “ЦНПО ‘ЛЕНИНЕЦ’”
-  strong: true
-  regulation_language: en
-  logical_id: '173240'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: PJSC “CSPA ‘LENINETS’”
-  strong: true
-  regulation_language: en
-  logical_id: '173242'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Javno dioničko društvo ‚Central Scientific and Production Association
-    ‚Leninetz’’
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '173477'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»NPO ’LENINETZ’« Nyrt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173440'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»CSPA ’LENINETS’« Nyrt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173441'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: "»CSPA ’LENINETZ’«  Nyrt."
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '173442'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: Публичное акционерное общество “Центральное Научно-Производственное
-    Объединение ‘Ленинец’”
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '173244'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- whole_name: PJSC “CSPA ‘LENINETZ’”
-  strong: true
-  regulation_language: en
-  logical_id: '173243'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 addresses:
+- street: 212 Moskovský Ave.
+  city: St. Petersburg
+  country_iso2_code: RU
+  country_description: RUSSIAN FEDERATION
+  regulation_language: en
+  logical_id: '173237'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-02-24'
+    number_title: 2025/389 (OJ L24022025)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
 - street: 34 Yuri Gagarin Ave.
   city: St. Petersburg
   country_iso2_code: RU
@@ -145,17 +156,6 @@ addresses:
   zip_code: '196143'
   regulation_language: en
   logical_id: '173236'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-02-24'
-    number_title: 2025/389 (OJ L24022025)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202500389
-- street: 212 Moskovský Ave.
-  city: St. Petersburg
-  country_iso2_code: RU
-  country_description: RUSSIAN FEDERATION
-  regulation_language: en
-  logical_id: '173237'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-02-24'

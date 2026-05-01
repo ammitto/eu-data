@@ -29,20 +29,6 @@ name_aliases:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Anton
-  middle_name: Vjatjeslavovitj
-  last_name: KUZNETSOV-KRASOVSKIJ
-  whole_name: Anton Vjatjeslavovitj KUZNETSOV-KRASOVSKIJ
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '143977'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- first_name: Anton
   middle_name: Vyacheslavovich
   last_name: KRASOVSKY
   whole_name: Anton Vyacheslavovich KRASOVSKY
@@ -95,6 +81,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '136123'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- first_name: Anton
+  middle_name: Vjatjeslavovitj
+  last_name: KUZNETSOV-KRASOVSKIJ
+  whole_name: Anton Vjatjeslavovitj KUZNETSOV-KRASOVSKIJ
+  gender: M
+  name_language: SV
+  strong: true
+  regulation_language: en
+  logical_id: '143977'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'

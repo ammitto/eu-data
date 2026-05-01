@@ -14,18 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Christ-Roi CHÉRY
-  gender: M
-  title: Ti Bwa gang leader (affiliated with Viv Ansanm/G9 Coalition of gangs)
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177547'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1433 (OJ L202501433)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
 - whole_name: Chrisla
   gender: M
   name_language: EN
@@ -48,23 +36,35 @@ name_aliases:
     publication_date: '2025-07-15'
     number_title: 2025/1433 (OJ L202501433)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
-- whole_name: Chrislat
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '177543'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-07-15'
-    number_title: 2025/1433 (OJ L202501433)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
 - whole_name: Kris-La
   gender: M
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '177546'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1433 (OJ L202501433)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
+- whole_name: Christ-Roi CHÉRY
+  gender: M
+  title: Ti Bwa gang leader (affiliated with Viv Ansanm/G9 Coalition of gangs)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177547'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-07-15'
+    number_title: 2025/1433 (OJ L202501433)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202501433
+- whole_name: Chrislat
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '177543'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-07-15'

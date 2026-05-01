@@ -71,19 +71,6 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3177 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
-- first_name: Alesja
-  last_name: Osipava
-  whole_name: Alesja Osipava
-  gender: F
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '172211'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3177 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
 - first_name: Osipava
   last_name: Osipova
   whole_name: Osipava Osipova
@@ -92,6 +79,19 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '172210'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3177 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403177
+- first_name: Alesja
+  last_name: Osipava
+  whole_name: Alesja Osipava
+  gender: F
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '172211'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

@@ -15,22 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Konstantin
-  middle_name: Evgenevich
-  last_name: SKRYPNYK
-  whole_name: Konstantin Evgenevich SKRYPNYK
-  function: Member of the so-called “People’s Council” of the so-called “Luhansk People’s
-    Republic”.
-  gender: M
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '139044'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- first_name: Konstantin
   middle_name: Jevgenjevitj
   last_name: SKRYPNIK
   whole_name: Konstantin Jevgenjevitj SKRYPNIK
@@ -67,6 +51,22 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '139043'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- first_name: Konstantin
+  middle_name: Evgenevich
+  last_name: SKRYPNYK
+  whole_name: Konstantin Evgenevich SKRYPNYK
+  function: Member of the so-called “People’s Council” of the so-called “Luhansk People’s
+    Republic”.
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '139044'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

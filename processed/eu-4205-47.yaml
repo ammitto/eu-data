@@ -14,31 +14,10 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Korean Tangun Trading Corporation
-  function: Korea Tangun Trading Corporation is subordinate to DPRK's Second Academy
-    of Natural Sciences and is primarily responsible for the procurement of commodities
-    and technologies to support DPRK's defence research and development programmes.
+- whole_name: Ryungsong Trading Corporation
   strong: true
   regulation_language: en
-  logical_id: '7226'
-  regulation_summaries:
-  - regulation_type: repealing
-    publication_date: '2017-08-31'
-    number_title: 2017/1509 (OJ L224)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
-- whole_name: Kuryonggang Trading Corporation
-  strong: true
-  regulation_language: en
-  logical_id: '143170'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-09-12'
-    number_title: 2022/1503 (OJ L235)
-    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Ryungseng Trading Corporation
-  strong: true
-  regulation_language: en
-  logical_id: '143169'
+  logical_id: '143167'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
@@ -53,10 +32,19 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
-- whole_name: Ryungsong Trading Corporation
+- whole_name: Ryungseng Trading Corporation
   strong: true
   regulation_language: en
-  logical_id: '143167'
+  logical_id: '143169'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-09-12'
+    number_title: 2022/1503 (OJ L235)
+    publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: Kuryonggang Trading Corporation
+  strong: true
+  regulation_language: en
+  logical_id: '143170'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-09-12'
@@ -71,6 +59,18 @@ name_aliases:
     publication_date: '2022-09-12'
     number_title: 2022/1503 (OJ L235)
     publication_url: https://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32022R1503
+- whole_name: Korean Tangun Trading Corporation
+  function: Korea Tangun Trading Corporation is subordinate to DPRK's Second Academy
+    of Natural Sciences and is primarily responsible for the procurement of commodities
+    and technologies to support DPRK's defence research and development programmes.
+  strong: true
+  regulation_language: en
+  logical_id: '7226'
+  regulation_summaries:
+  - regulation_type: repealing
+    publication_date: '2017-08-31'
+    number_title: 2017/1509 (OJ L224)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R1509&from=EN
 addresses:
 - city: Pyongyang
   country_iso2_code: KP

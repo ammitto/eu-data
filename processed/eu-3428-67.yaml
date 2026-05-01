@@ -26,6 +26,16 @@ name_aliases:
     publication_date: '2016-03-04'
     number_title: 2016/307 (OJ L58)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
+- whole_name: AA (initials)
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '107712'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-03-04'
+    number_title: 2016/307 (OJ L58)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
 - first_name: Abdul
   middle_name: Baset
   last_name: Azouz
@@ -34,16 +44,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '107713'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-03-04'
-    number_title: 2016/307 (OJ L58)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0307&from=EN
-- whole_name: AA (initials)
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '107712'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-03-04'

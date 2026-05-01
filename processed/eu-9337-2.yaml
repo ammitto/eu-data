@@ -14,20 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Nikita
-  middle_name: Sergeyevich
-  last_name: MIKHALKOV
-  whole_name: Nikita Sergeyevich MIKHALKOV
-  function: Russian filmmaker, actor, Chairman of the Russian Foundation of Culture
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '146972'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - first_name: Никита
   middle_name: Сергеевич
   last_name: МИХАЛКОВ
@@ -37,6 +23,20 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '146971'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- first_name: Nikita
+  middle_name: Sergeyevich
+  last_name: MIKHALKOV
+  whole_name: Nikita Sergeyevich MIKHALKOV
+  function: Russian filmmaker, actor, Chairman of the Russian Foundation of Culture
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '146972'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

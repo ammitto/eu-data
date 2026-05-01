@@ -15,16 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Андрей Олегович ШИПИЦИН
-  gender: M
-  strong: true
-  regulation_language: en
-  logical_id: '122932'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2020-03-13'
-    number_title: 2020/398 (OJ L78)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
 - whole_name: Andrei Olegovich SHIPITSIN
   function: Commanding officer of the border patrol boat ‘Izumrud’ of the Border Guard
     Service of the Federal Security Service of the Russian Federation.
@@ -32,6 +22,16 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '122934'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2020-03-13'
+    number_title: 2020/398 (OJ L78)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32020R0398&from=EN
+- whole_name: Андрей Олегович ШИПИЦИН
+  gender: M
+  strong: true
+  regulation_language: en
+  logical_id: '122932'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2020-03-13'

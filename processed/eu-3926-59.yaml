@@ -194,11 +194,11 @@ name_aliases:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1993
+  year: 1992
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '109409'
+  logical_id: '109407'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-01'
@@ -206,11 +206,11 @@ birthdates:
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R1442&from=EN
 - circa: false
   calendar_type: GREGORIAN
-  year: 1992
+  year: 1993
   country_iso2_code: '00'
   country_description: UNKNOWN
   regulation_language: en
-  logical_id: '109407'
+  logical_id: '109409'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-09-01'

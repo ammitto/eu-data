@@ -14,28 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Мікалай
-  middle_name: Васільевіч
-  last_name: МАКСІМАВІЧ
-  whole_name: Мікалай Васільевіч МАКСІМАВІЧ
+- first_name: Mikalai
+  middle_name: Vasilievich
+  last_name: MAKSIMAVICH
+  whole_name: Mikalai Vasilievich MAKSIMAVICH
+  function: Deputy Chief of the Public Security Militia, Internal Affairs Directorate
+    of the Minsk Regional Executive Committee
   gender: M
-  name_language: BE
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '156319'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Mikalaj
-  last_name: Maksimavič
-  whole_name: Mikalaj Maksimavič
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '156951'
+  logical_id: '156322'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -55,15 +44,28 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Nikolaj
-  middle_name: Vasiljevitj
-  last_name: MAKSIMOVITJ
-  whole_name: Nikolaj Vasiljevitj MAKSIMOVITJ
+- first_name: Mikalaj
+  last_name: Maksimavič
+  whole_name: Mikalaj Maksimavič
   gender: M
-  name_language: SV
+  name_language: CS
   strong: true
   regulation_language: en
-  logical_id: '156879'
+  logical_id: '156951'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- first_name: Nikolai
+  middle_name: Vasilievich
+  last_name: MAKSIMOVICH
+  whole_name: Nikolai Vasilievich MAKSIMOVICH
+  gender: M
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '156321'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -97,31 +99,29 @@ name_aliases:
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Mikalai
-  middle_name: Vasilievich
-  last_name: MAKSIMAVICH
-  whole_name: Mikalai Vasilievich MAKSIMAVICH
-  function: Deputy Chief of the Public Security Militia, Internal Affairs Directorate
-    of the Minsk Regional Executive Committee
+- first_name: Nikolaj
+  middle_name: Vasiljevitj
+  last_name: MAKSIMOVITJ
+  whole_name: Nikolaj Vasiljevitj MAKSIMOVITJ
   gender: M
-  name_language: EN
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '156322'
+  logical_id: '156879'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
-- first_name: Nikolai
-  middle_name: Vasilievich
-  last_name: MAKSIMOVICH
-  whole_name: Nikolai Vasilievich MAKSIMOVICH
+- first_name: Мікалай
+  middle_name: Васільевіч
+  last_name: МАКСІМАВІЧ
+  whole_name: Мікалай Васільевіч МАКСІМАВІЧ
   gender: M
-  name_language: EN
+  name_language: BE
   strong: true
   regulation_language: en
-  logical_id: '156321'
+  logical_id: '156319'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'
@@ -154,23 +154,23 @@ birthdates:
     number_title: 2023/1591 (OJ L195 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 addresses:
-- street: st. Kolesnikova 32, apt. 3
-  city: Minsk
-  country_iso2_code: BY
-  country_description: BELARUS
-  regulation_language: en
-  logical_id: '156314'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-08-03'
-    number_title: 2023/1591 (OJ L195 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
 - street: st. Yankee Brylya 21, apt. 224
   city: Minsk
   country_iso2_code: BY
   country_description: BELARUS
   regulation_language: en
   logical_id: '156315'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-08-03'
+    number_title: 2023/1591 (OJ L195 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1591
+- street: st. Kolesnikova 32, apt. 3
+  city: Minsk
+  country_iso2_code: BY
+  country_description: BELARUS
+  regulation_language: en
+  logical_id: '156314'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-08-03'

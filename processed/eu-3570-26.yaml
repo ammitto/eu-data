@@ -54,19 +54,19 @@ name_aliases:
     number_title: 2025/206 (L 202500206)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500206
 citizenships:
-- country_iso2_code: IR
-  country_description: IRAN (ISLAMIC REPUBLIC OF)
+- country_iso2_code: US
+  country_description: UNITED STATES
   regulation_language: en
-  logical_id: '711'
+  logical_id: '712'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-10-22'
     number_title: 1063/2011 (OJ L277)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:277:0001:0002:EN:PDF
-- country_iso2_code: US
-  country_description: UNITED STATES
+- country_iso2_code: IR
+  country_description: IRAN (ISLAMIC REPUBLIC OF)
   regulation_language: en
-  logical_id: '712'
+  logical_id: '711'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-10-22'
@@ -104,11 +104,11 @@ birthdates:
     number_title: 1063/2011 (OJ L277)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:277:0001:0002:EN:PDF
 identifications:
-- identification_type_code: drivinglicence
-  number: '07442833'
+- identification_type_code: passport
+  number: '477845448'
   country_iso2_code: US
   regulation_language: en
-  logical_id: '620'
+  logical_id: '619'
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2015-08-01'
@@ -124,11 +124,11 @@ identifications:
     publication_date: '2015-08-01'
     number_title: 2015/1325 (OJ L206)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015R1325&rid=1
-- identification_type_code: passport
-  number: '477845448'
+- identification_type_code: drivinglicence
+  number: '07442833'
   country_iso2_code: US
   regulation_language: en
-  logical_id: '619'
+  logical_id: '620'
   regulation_summaries:
   - regulation_type: repealing
     publication_date: '2015-08-01'

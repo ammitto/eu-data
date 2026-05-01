@@ -61,11 +61,11 @@ birthdates:
     number_title: 924/2004 (OJ L163)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:163:0100:0101:EN:PDF
 addresses:
-- city: Ginevra
+- city: Geneva
   country_iso2_code: CH
   country_description: SWITZERLAND
   regulation_language: en
-  logical_id: '454'
+  logical_id: '436'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-04-30'
@@ -81,11 +81,11 @@ addresses:
     publication_date: '2004-04-30'
     number_title: 924/2004 (OJ L163)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:163:0100:0101:EN:PDF
-- city: Geneva
+- city: Ginevra
   country_iso2_code: CH
   country_description: SWITZERLAND
   regulation_language: en
-  logical_id: '436'
+  logical_id: '454'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2004-04-30'

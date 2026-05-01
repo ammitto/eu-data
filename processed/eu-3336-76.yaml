@@ -14,25 +14,13 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Husayn Muhammad Husayn
+- first_name: Husayn
   last_name: Juaythini
-  whole_name: Husayn Muhammad Husayn Juaythini
+  whole_name: Husayn Juaythini
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '108464'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2016-04-26'
-    number_title: 2016/647 (OJ L109)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_109_R_0002&from=EN
-- first_name: Abu Muath
-  last_name: al-Juaitni
-  whole_name: Abu Muath al-Juaitni
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '108463'
+  logical_id: '108469'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-04-26'
@@ -50,13 +38,13 @@ name_aliases:
     publication_date: '2016-04-26'
     number_title: 2016/647 (OJ L109)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_109_R_0002&from=EN
-- first_name: Husayn Muhamad Husayn
+- first_name: Husayn Muhammad
   last_name: al-Juaythini
-  whole_name: Husayn Muhamad Husayn al-Juaythini
+  whole_name: Husayn Muhammad al-Juaythini
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '108465'
+  logical_id: '108467'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-04-26'
@@ -74,25 +62,37 @@ name_aliases:
     publication_date: '2016-04-26'
     number_title: 2016/647 (OJ L109)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_109_R_0002&from=EN
-- first_name: Husayn
-  last_name: Juaythini
-  whole_name: Husayn Juaythini
+- first_name: Husayn Muhamad Husayn
+  last_name: al-Juaythini
+  whole_name: Husayn Muhamad Husayn al-Juaythini
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '108469'
+  logical_id: '108465'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-04-26'
     number_title: 2016/647 (OJ L109)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_109_R_0002&from=EN
-- first_name: Husayn Muhammad
-  last_name: al-Juaythini
-  whole_name: Husayn Muhammad al-Juaythini
+- first_name: Abu Muath
+  last_name: al-Juaitni
+  whole_name: Abu Muath al-Juaitni
   name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '108467'
+  logical_id: '108463'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2016-04-26'
+    number_title: 2016/647 (OJ L109)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2016_109_R_0002&from=EN
+- first_name: Husayn Muhammad Husayn
+  last_name: Juaythini
+  whole_name: Husayn Muhammad Husayn Juaythini
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '108464'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2016-04-26'

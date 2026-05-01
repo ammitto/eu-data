@@ -18,15 +18,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mohamed Adam Brema Abdallah
-  strong: true
-  regulation_language: en
-  logical_id: '120986'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-09-23'
-    number_title: 2019/1574 (OJ L243)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.243.01.0001.01.ENG&toc=OJ:L:2019:243:TOC
 - first_name: Mahamat
   middle_name: Nouradine
   last_name: Adam
@@ -57,6 +48,15 @@ name_aliases:
     publication_date: '2014-06-24'
     number_title: 691/2014 (OJ L183)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_183_R_0003&from=EN
+- whole_name: Mohamed Adam Brema Abdallah
+  strong: true
+  regulation_language: en
+  logical_id: '120986'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-09-23'
+    number_title: 2019/1574 (OJ L243)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.243.01.0001.01.ENG&toc=OJ:L:2019:243:TOC
 - first_name: Nourredine
   last_name: ADAM
   whole_name: Nourredine ADAM
@@ -84,15 +84,6 @@ name_aliases:
     number_title: 2019/1574 (OJ L243)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.243.01.0001.01.ENG&toc=OJ:L:2019:243:TOC
 citizenships:
-- country_iso2_code: SD
-  country_description: SUDAN
-  regulation_language: en
-  logical_id: '120993'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2019-09-23'
-    number_title: 2019/1574 (OJ L243)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.243.01.0001.01.ENG&toc=OJ:L:2019:243:TOC
 - country_iso2_code: CF
   country_description: CENTRAL AFRICAN REPUBLIC
   regulation_language: en
@@ -102,6 +93,15 @@ citizenships:
     publication_date: '2014-12-01'
     number_title: 1276/2014 (OJ L346)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:346:FULL&from=EN
+- country_iso2_code: SD
+  country_description: SUDAN
+  regulation_language: en
+  logical_id: '120993'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-09-23'
+    number_title: 2019/1574 (OJ L243)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.243.01.0001.01.ENG&toc=OJ:L:2019:243:TOC
 birthdates:
 - birthdate: '1970-01-01'
   circa: false
@@ -119,35 +119,6 @@ birthdates:
     publication_date: '2019-09-23'
     number_title: 2019/1574 (OJ L243)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.243.01.0001.01.ENG&toc=OJ:L:2019:243:TOC
-- birthdate: '1970-01-01'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 1
-  month_of_year: 1
-  year: 1970
-  place: Ndele
-  country_iso2_code: CF
-  country_description: CENTRAL AFRICAN REPUBLIC
-  regulation_language: en
-  logical_id: '112520'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-12-01'
-    number_title: 1276/2014 (OJ L346)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:346:FULL&from=EN
-- circa: false
-  calendar_type: GREGORIAN
-  year: 1971
-  city: Ndele
-  country_iso2_code: CF
-  country_description: CENTRAL AFRICAN REPUBLIC
-  regulation_language: en
-  logical_id: '2134'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2014-06-24'
-    number_title: 691/2014 (OJ L183)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_183_R_0003&from=EN
 - circa: false
   calendar_type: GREGORIAN
   year: 1971
@@ -161,6 +132,19 @@ birthdates:
     publication_date: '2019-09-23'
     number_title: 2019/1574 (OJ L243)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.243.01.0001.01.ENG&toc=OJ:L:2019:243:TOC
+- circa: false
+  calendar_type: GREGORIAN
+  year: 1971
+  city: Ndele
+  country_iso2_code: CF
+  country_description: CENTRAL AFRICAN REPUBLIC
+  regulation_language: en
+  logical_id: '2134'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2014-06-24'
+    number_title: 691/2014 (OJ L183)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_183_R_0003&from=EN
 - circa: false
   calendar_type: GREGORIAN
   year: 1969
@@ -187,22 +171,22 @@ birthdates:
     publication_date: '2014-06-24'
     number_title: 691/2014 (OJ L183)
     publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOL_2014_183_R_0003&from=EN
-- birthdate: '1971-01-01'
+- birthdate: '1970-01-01'
   circa: false
   calendar_type: GREGORIAN
   day_of_month: 1
   month_of_year: 1
-  year: 1971
-  city: Ndele
+  year: 1970
+  place: Ndele
   country_iso2_code: CF
   country_description: CENTRAL AFRICAN REPUBLIC
   regulation_language: en
-  logical_id: '120992'
+  logical_id: '112520'
   regulation_summaries:
   - regulation_type: amendment
-    publication_date: '2019-09-23'
-    number_title: 2019/1574 (OJ L243)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.243.01.0001.01.ENG&toc=OJ:L:2019:243:TOC
+    publication_date: '2014-12-01'
+    number_title: 1276/2014 (OJ L346)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:2014:346:FULL&from=EN
 - birthdate: '1971-01-01'
   circa: false
   calendar_type: GREGORIAN
@@ -214,6 +198,22 @@ birthdates:
   country_description: SUDAN
   regulation_language: en
   logical_id: '120991'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2019-09-23'
+    number_title: 2019/1574 (OJ L243)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.243.01.0001.01.ENG&toc=OJ:L:2019:243:TOC
+- birthdate: '1971-01-01'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 1
+  month_of_year: 1
+  year: 1971
+  city: Ndele
+  country_iso2_code: CF
+  country_description: CENTRAL AFRICAN REPUBLIC
+  regulation_language: en
+  logical_id: '120992'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2019-09-23'

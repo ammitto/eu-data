@@ -15,19 +15,19 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: LAP Green Holding Company
+- whole_name: LAP Green Networks
   strong: true
   regulation_language: en
-  logical_id: '12000'
+  logical_id: '11999'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-04-14'
     number_title: 360/2011 (OJ L100)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:100:0012:0021:EN:PDF
-- whole_name: LAP Green Networks
+- whole_name: LAP Green Holding Company
   strong: true
   regulation_language: en
-  logical_id: '11999'
+  logical_id: '12000'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-04-14'

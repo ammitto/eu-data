@@ -209,22 +209,6 @@ citizenships:
     number_title: 748/2011 (OJ L198)
     publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
 birthdates:
-- birthdate: '1974-11-16'
-  circa: false
-  calendar_type: GREGORIAN
-  day_of_month: 16
-  month_of_year: 11
-  year: 1974
-  city: Sukoharjo, Central Java
-  country_iso2_code: IN
-  country_description: INDIA
-  regulation_language: en
-  logical_id: '1628'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2011-07-30'
-    number_title: 748/2011 (OJ L198)
-    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
 - birthdate: '1977-11-16'
   circa: false
   calendar_type: GREGORIAN
@@ -236,6 +220,22 @@ birthdates:
   country_description: INDIA
   regulation_language: en
   logical_id: '1627'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2011-07-30'
+    number_title: 748/2011 (OJ L198)
+    publication_url: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:198:0001:0002:EN:PDF
+- birthdate: '1974-11-16'
+  circa: false
+  calendar_type: GREGORIAN
+  day_of_month: 16
+  month_of_year: 11
+  year: 1974
+  city: Sukoharjo, Central Java
+  country_iso2_code: IN
+  country_description: INDIA
+  regulation_language: en
+  logical_id: '1628'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2011-07-30'

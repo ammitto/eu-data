@@ -108,6 +108,19 @@ name_aliases:
     publication_date: '2022-08-04'
     number_title: 2022/1354 (OJ L204I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.204.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A204I%3ATOC
+- first_name: Александър
+  last_name: Янукович
+  whole_name: Александър Янукович
+  gender: M
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '158315'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 - first_name: Олександр
   middle_name: Вiкторович
   last_name: ЯНУКОВИЧ
@@ -122,19 +135,6 @@ name_aliases:
     publication_date: '2022-08-04'
     number_title: 2022/1354 (OJ L204I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2022.204.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A204I%3ATOC
-- first_name: Александър
-  last_name: Янукович
-  whole_name: Александър Янукович
-  gender: M
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '158315'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 citizenships:
 - country_iso2_code: RU
   country_description: RUSSIAN FEDERATION

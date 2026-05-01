@@ -14,6 +14,17 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
+- whole_name: خضر علي طاهر
+  gender: M
+  name_language: AR
+  strong: true
+  regulation_language: en
+  logical_id: '122109'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-05-27'
+    number_title: 2024/1517 (OJ L28052024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
 - first_name: Khodr Ali
   last_name: TAHER
   whole_name: Khodr Ali TAHER
@@ -25,17 +36,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '122110'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-05-27'
-    number_title: 2024/1517 (OJ L28052024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401517
-- whole_name: خضر علي طاهر
-  gender: M
-  name_language: AR
-  strong: true
-  regulation_language: en
-  logical_id: '122109'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-05-27'

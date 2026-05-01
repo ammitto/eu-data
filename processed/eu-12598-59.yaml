@@ -15,20 +15,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC Gruppa Kremniy El
-  function: JSC Gruppa Kremniy El is the second-largest microelectronics manufacturer
-    in Russia, and, in particular, a manufacturer of microchips. The microchips produced
-    by JSC Gruppa Kremniy El in its plant are used by the Russian military for several
-    purposes, including in the Iskander ballistic missiles.
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '171602'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - whole_name: Gruppa Kremnij El Rt.
   name_language: HU
   strong: true
@@ -49,6 +35,20 @@ name_aliases:
     publication_date: '2024-12-16'
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- whole_name: JSC Gruppa Kremniy El
+  function: JSC Gruppa Kremniy El is the second-largest microelectronics manufacturer
+    in Russia, and, in particular, a manufacturer of microchips. The microchips produced
+    by JSC Gruppa Kremniy El in its plant are used by the Russian military for several
+    purposes, including in the Iskander ballistic missiles.
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '171602'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 addresses:
 - street: Krasnoarmeyskaya Str. 103,
   city: Bryansk
@@ -64,21 +64,21 @@ addresses:
     number_title: 2024/3183 (OJ L16122024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 identifications:
-- identification_type_code: regnumber
-  number: '1023202741781'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '172201'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-12-16'
-    number_title: 2024/3183 (OJ L16122024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
 - identification_type_code: fiscalcode
   number: '3234043140'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '172200'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-12-16'
+    number_title: 2024/3183 (OJ L16122024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202403183
+- identification_type_code: regnumber
+  number: '1023202741781'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '172201'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-12-16'

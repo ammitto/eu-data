@@ -16,21 +16,19 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Mo’alim Ayman
+- whole_name: Nuh Ibrahim Abdi
   strong: true
   regulation_language: en
-  logical_id: '129182'
+  logical_id: '129181'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-06'
     number_title: 2021/559 (OJ L115I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
-- whole_name: Maalim Ayman
-  function: Founder and leader of Jaysh Ayman, an al-Shabaab unit conducting attacks
-    and operations in Kenya and Somalia
+- whole_name: Mo’alim Ayman
   strong: true
   regulation_language: en
-  logical_id: '129184'
+  logical_id: '129182'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-06'
@@ -45,10 +43,12 @@ name_aliases:
     publication_date: '2021-04-06'
     number_title: 2021/559 (OJ L115I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
-- whole_name: Nuh Ibrahim Abdi
+- whole_name: Maalim Ayman
+  function: Founder and leader of Jaysh Ayman, an al-Shabaab unit conducting attacks
+    and operations in Kenya and Somalia
   strong: true
   regulation_language: en
-  logical_id: '129181'
+  logical_id: '129184'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-06'
@@ -75,11 +75,11 @@ name_aliases:
 birthdates:
 - circa: false
   calendar_type: GREGORIAN
-  year: 1973
+  year: 1983
   country_iso2_code: KE
   country_description: KENYA
   regulation_language: en
-  logical_id: '129178'
+  logical_id: '129177'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-06'
@@ -87,11 +87,11 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.LI.2021.115.01.0001.01.ENG&toc=OJ%3AL%3A2021%3A115I%3ATOC
 - circa: false
   calendar_type: GREGORIAN
-  year: 1983
+  year: 1973
   country_iso2_code: KE
   country_description: KENYA
   regulation_language: en
-  logical_id: '129177'
+  logical_id: '129178'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2021-04-06'

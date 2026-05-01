@@ -14,66 +14,6 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: Stratégiai Kulturális  Alapítvány
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '147844'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Strategiczna Fundacja Kultury
-  name_language: PL
-  strong: true
-  regulation_language: en
-  logical_id: '158244'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-09-14'
-    number_title: 2023/1765 (OJ L226)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
-- whole_name: Στρατηγικό Ίδρυμα Πολιτισμού
-  name_language: EL
-  strong: true
-  regulation_language: en
-  logical_id: '147937'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Strateginės  kultūros fondas
-  name_language: LT
-  strong: true
-  regulation_language: en
-  logical_id: '147979'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Фондация „Стратегическа  култура“
-  name_language: BG
-  strong: true
-  regulation_language: en
-  logical_id: '148016'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Strategická nadácia pre kultúru
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '148122'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Фонд стратегической культуры
   name_language: RU
   strong: true
@@ -84,11 +24,11 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
-- whole_name: Strategic Culture Foundation
-  name_language: EN
+- whole_name: Strategiczna Fundacja Kultury
+  name_language: PL
   strong: true
   regulation_language: en
-  logical_id: '147246'
+  logical_id: '158244'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-09-14'
@@ -144,6 +84,16 @@ name_aliases:
     publication_date: '2023-09-14'
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
+- whole_name: Stratégiai Kulturális  Alapítvány
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '147844'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - whole_name: Fundația pentru cultură strategică
   name_language: RO
   strong: true
@@ -154,6 +104,56 @@ name_aliases:
     publication_date: '2022-12-16'
     number_title: 2022/2476 (OJ L322-I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Στρατηγικό Ίδρυμα Πολιτισμού
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '147937'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Strateginės  kultūros fondas
+  name_language: LT
+  strong: true
+  regulation_language: en
+  logical_id: '147979'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Фондация „Стратегическа  култура“
+  name_language: BG
+  strong: true
+  regulation_language: en
+  logical_id: '148016'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Strategická nadácia pre kultúru
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '148122'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- whole_name: Strategic Culture Foundation
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '147246'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-09-14'
+    number_title: 2023/1765 (OJ L226)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 addresses:
 - street: Bolshaya Polyanka str., 50/1 STR.1
   city: Moscow
@@ -168,21 +168,21 @@ addresses:
     number_title: 2023/1765 (OJ L226)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1765
 identifications:
-- identification_type_code: other
-  number: '7706569306'
-  country_iso2_code: RU
-  regulation_language: en
-  logical_id: '147243'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2022-12-16'
-    number_title: 2022/2476 (OJ L322-I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
 - identification_type_code: regnumber
   number: '1057746290469'
   country_iso2_code: RU
   regulation_language: en
   logical_id: '147244'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2022-12-16'
+    number_title: 2022/2476 (OJ L322-I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32022R2476
+- identification_type_code: other
+  number: '7706569306'
+  country_iso2_code: RU
+  regulation_language: en
+  logical_id: '147243'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2022-12-16'

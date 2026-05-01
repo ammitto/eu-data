@@ -14,17 +14,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- first_name: Jong Gak
-  last_name: KIM
-  whole_name: Jong Gak KIM
-  strong: true
-  regulation_language: en
-  logical_id: '112448'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2017-06-13'
-    number_title: 2017/993 (OJ L149)
-    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0993&from=EN
 - first_name: Jong-gak
   last_name: KIM
   whole_name: Jong-gak KIM
@@ -42,6 +31,17 @@ name_aliases:
     publication_date: '2020-07-31'
     number_title: 2020/1129 (OJ L247)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.247.01.0005.01.ENG&toc=OJ:L:2020:247:TOC
+- first_name: Jong Gak
+  last_name: KIM
+  whole_name: Jong Gak KIM
+  strong: true
+  regulation_language: en
+  logical_id: '112448'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2017-06-13'
+    number_title: 2017/993 (OJ L149)
+    publication_url: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0993&from=EN
 birthdates:
 - birthdate: '1941-07-20'
   circa: false

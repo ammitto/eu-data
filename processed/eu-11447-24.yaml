@@ -14,6 +14,136 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: kazenska kolonija Melekhovo
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '164717'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: kazenska kolonija št. 6, Vladimir Oblast
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '164718'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: kazenska kolonija IK-6
+  name_language: SL
+  strong: true
+  regulation_language: en
+  logical_id: '164719'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: IK-6 büntetőtábor
+  name_language: HU
+  strong: true
+  regulation_language: en
+  logical_id: '164559'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: Kažnjenička kolonija br. 6, Vladimirska oblast
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '164710'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: kažnjenička kolonija IK-6
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '164711'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: kažnjenička kolonija u Melekhovu
+  name_language: HR
+  strong: true
+  regulation_language: en
+  logical_id: '164712'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: Colonia corecțională Melekhovo
+  name_language: RO
+  strong: true
+  regulation_language: en
+  logical_id: '164568'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: ФКУ «ИК № 6 УФСИН по Владимирской области»
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '164418'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: ИК-6 Мелехово
+  name_language: RU
+  strong: true
+  regulation_language: en
+  logical_id: '164419'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: Melekhovo correctional colony
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '164420'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: IK-6 Melekhovo
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '164421'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
+- whole_name: Penal colony No. 6, Vladimir Oblast
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '164422'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2024-03-22'
+    number_title: 2024/952 (OJ L22032024)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - whole_name: IK-6 penal colony
   function: a penal colony in the Russian correctional services which is run by Dmitry
     Nozhkin
@@ -216,36 +346,6 @@ name_aliases:
     publication_date: '2024-03-22'
     number_title: 2024/952 (OJ L22032024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: kazenska kolonija Melekhovo
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '164717'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: kazenska kolonija št. 6, Vladimir Oblast
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '164718'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: kazenska kolonija IK-6
-  name_language: SL
-  strong: true
-  regulation_language: en
-  logical_id: '164719'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
 - whole_name: Melehovon rangaistussiirtola
   name_language: FI
   strong: true
@@ -381,106 +481,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '164558'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: IK-6 büntetőtábor
-  name_language: HU
-  strong: true
-  regulation_language: en
-  logical_id: '164559'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Kažnjenička kolonija br. 6, Vladimirska oblast
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '164710'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: kažnjenička kolonija IK-6
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '164711'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: kažnjenička kolonija u Melekhovu
-  name_language: HR
-  strong: true
-  regulation_language: en
-  logical_id: '164712'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Colonia corecțională Melekhovo
-  name_language: RO
-  strong: true
-  regulation_language: en
-  logical_id: '164568'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: ФКУ «ИК № 6 УФСИН по Владимирской области»
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '164418'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: ИК-6 Мелехово
-  name_language: RU
-  strong: true
-  regulation_language: en
-  logical_id: '164419'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Melekhovo correctional colony
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '164420'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: IK-6 Melekhovo
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '164421'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2024-03-22'
-    number_title: 2024/952 (OJ L22032024)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202400952
-- whole_name: Penal colony No. 6, Vladimir Oblast
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '164422'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2024-03-22'

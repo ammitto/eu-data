@@ -15,32 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Ilan
-  last_name: Šor
-  whole_name: Ilan Šor
-  gender: M
-  name_language: CS
-  strong: true
-  regulation_language: en
-  logical_id: '153846'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- first_name: Ilan
-  last_name: Schor
-  whole_name: Ilan Schor
-  gender: M
-  name_language: DE
-  strong: true
-  regulation_language: en
-  logical_id: '153844'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-05-30'
-    number_title: 2023/1045 (OJ L140 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- first_name: Ilan
   middle_name: Mironovich
   last_name: SHOR
   whole_name: Ilan Mironovich SHOR
@@ -71,6 +45,32 @@ name_aliases:
     number_title: 2025/817 (OJ L202500817)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500817
 - first_name: Ilan
+  last_name: Schor
+  whole_name: Ilan Schor
+  gender: M
+  name_language: DE
+  strong: true
+  regulation_language: en
+  logical_id: '153844'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
+- first_name: Ilan
+  last_name: Šor
+  whole_name: Ilan Šor
+  gender: M
+  name_language: CS
+  strong: true
+  regulation_language: en
+  logical_id: '153846'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-05-30'
+    number_title: 2023/1045 (OJ L140 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
+- first_name: Ilan
   last_name: Šor
   whole_name: Ilan Šor
   gender: M
@@ -84,19 +84,19 @@ name_aliases:
     number_title: 2024/1243 (OJ L29042024)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401243
 citizenships:
-- country_iso2_code: IL
-  country_description: ISRAEL
+- country_iso2_code: MD
+  country_description: MOLDOVA, REPUBLIC OF
   regulation_language: en
-  logical_id: '153811'
+  logical_id: '153812'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'
     number_title: 2023/1045 (OJ L140 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1045
-- country_iso2_code: MD
-  country_description: MOLDOVA, REPUBLIC OF
+- country_iso2_code: IL
+  country_description: ISRAEL
   regulation_language: en
-  logical_id: '153812'
+  logical_id: '153811'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-05-30'

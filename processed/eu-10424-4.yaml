@@ -15,34 +15,6 @@ subject_type:
   classification_code: P
 name_aliases:
 - first_name: Alexander
-  middle_name: Alexandrovič
-  last_name: SAMOFAL
-  whole_name: Alexander Alexandrovič SAMOFAL
-  gender: M
-  name_language: SK
-  strong: true
-  regulation_language: en
-  logical_id: '156074'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Alexander
-  middle_name: Alexandrovitch
-  last_name: SAMOFAL
-  whole_name: Alexander Alexandrovitch SAMOFAL
-  gender: M
-  name_language: ET
-  strong: true
-  regulation_language: en
-  logical_id: '156090'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Alexander
   middle_name: Alexandrovitch
   last_name: SAMOFAL
   whole_name: Alexander Alexandrovitch SAMOFAL
@@ -56,15 +28,15 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Alexander
-  middle_name: Alexandrovitch
+- first_name: Aleksandr
+  middle_name: Aleksandrovitj
   last_name: SAMOFAL
-  whole_name: Alexander Alexandrovitch SAMOFAL
+  whole_name: Aleksandr Aleksandrovitj SAMOFAL
   gender: M
-  name_language: MT
+  name_language: SV
   strong: true
   regulation_language: en
-  logical_id: '156094'
+  logical_id: '156059'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -84,6 +56,34 @@ name_aliases:
     publication_date: '2023-07-20'
     number_title: 2023/1495 (OJ L183 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Alexander
+  middle_name: Alexandrovitch
+  last_name: SAMOFAL
+  whole_name: Alexander Alexandrovitch SAMOFAL
+  gender: M
+  name_language: IT
+  strong: true
+  regulation_language: en
+  logical_id: '156012'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Alexander
+  middle_name: Alexandrovitch
+  last_name: SAMOFAL
+  whole_name: Alexander Alexandrovitch SAMOFAL
+  gender: M
+  name_language: PL
+  strong: true
+  regulation_language: en
+  logical_id: '156024'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
 - first_name: Alexandr
   last_name: Samofal
   whole_name: Alexandr Samofal
@@ -92,20 +92,6 @@ name_aliases:
   strong: true
   regulation_language: en
   logical_id: '156043'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-07-20'
-    number_title: 2023/1495 (OJ L183 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
-- first_name: Aleksandr
-  middle_name: Aleksandrovitj
-  last_name: SAMOFAL
-  whole_name: Aleksandr Aleksandrovitj SAMOFAL
-  gender: M
-  name_language: SV
-  strong: true
-  regulation_language: en
-  logical_id: '156059'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -145,10 +131,10 @@ name_aliases:
   last_name: SAMOFAL
   whole_name: Alexander Alexandrovitch SAMOFAL
   gender: M
-  name_language: IT
+  name_language: ET
   strong: true
   regulation_language: en
-  logical_id: '156012'
+  logical_id: '156090'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'
@@ -159,10 +145,24 @@ name_aliases:
   last_name: SAMOFAL
   whole_name: Alexander Alexandrovitch SAMOFAL
   gender: M
-  name_language: PL
+  name_language: MT
   strong: true
   regulation_language: en
-  logical_id: '156024'
+  logical_id: '156094'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-07-20'
+    number_title: 2023/1495 (OJ L183 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R1495
+- first_name: Alexander
+  middle_name: Alexandrovič
+  last_name: SAMOFAL
+  whole_name: Alexander Alexandrovič SAMOFAL
+  gender: M
+  name_language: SK
+  strong: true
+  regulation_language: en
+  logical_id: '156074'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-07-20'

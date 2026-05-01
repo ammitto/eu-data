@@ -15,15 +15,6 @@ subject_type:
   code: person
   classification_code: P
 name_aliases:
-- whole_name: Al-Grein
-  strong: true
-  regulation_language: en
-  logical_id: '117266'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2018-06-15'
-    number_title: 2018/870 (OJ L152)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 - whole_name: ABU-AL QASSIM OMAR Musab Boukrin
   strong: true
   regulation_language: en
@@ -64,6 +55,15 @@ name_aliases:
     publication_date: '2018-06-15'
     number_title: 2018/870 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
+- whole_name: Al-Grein
+  strong: true
+  regulation_language: en
+  logical_id: '117266'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2018-06-15'
+    number_title: 2018/870 (OJ L152)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 citizenships:
 - country_iso2_code: LY
   country_description: LIBYA
@@ -93,20 +93,20 @@ birthdates:
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 identifications:
 - identification_type_code: passport
-  number: '782633'
+  number: '540794'
   country_iso2_code: LY
   regulation_language: en
-  logical_id: '117265'
+  logical_id: '117264'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-06-15'
     number_title: 2018/870 (OJ L152)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.152.01.0001.01.ENG&toc=OJ:L:2018:152:TOC
 - identification_type_code: passport
-  number: '540794'
+  number: '782633'
   country_iso2_code: LY
   regulation_language: en
-  logical_id: '117264'
+  logical_id: '117265'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2018-06-15'

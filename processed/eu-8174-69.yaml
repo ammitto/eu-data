@@ -14,23 +14,21 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
-- whole_name: JSC Kalashnikov Concern
-  function: Russian manufacturer of army equipment, including personal rifles, missiles
-    and vehicles
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '139880'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2023-03-14'
-    number_title: 2023/571 (OJ L75 I)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
 - whole_name: Kalashnikov-konserni
   name_language: FI
   strong: true
   regulation_language: en
   logical_id: '152596'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2023-03-14'
+    number_title: 2023/571 (OJ L75 I)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
+- whole_name: Όμιλος JSC Kalashnikov
+  name_language: EL
+  strong: true
+  regulation_language: en
+  logical_id: '152429'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'
@@ -46,11 +44,13 @@ name_aliases:
     publication_date: '2023-03-14'
     number_title: 2023/571 (OJ L75 I)
     publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32023R0571
-- whole_name: Όμιλος JSC Kalashnikov
-  name_language: EL
+- whole_name: JSC Kalashnikov Concern
+  function: Russian manufacturer of army equipment, including personal rifles, missiles
+    and vehicles
+  name_language: EN
   strong: true
   regulation_language: en
-  logical_id: '152429'
+  logical_id: '139880'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2023-03-14'

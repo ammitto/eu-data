@@ -14,22 +14,22 @@ subject_type:
   code: enterprise
   classification_code: E
 name_aliases:
+- whole_name: Maxima LLC
+  name_language: EN
+  strong: true
+  regulation_language: en
+  logical_id: '179438'
+  regulation_summaries:
+  - regulation_type: amendment
+    publication_date: '2025-10-23'
+    number_title: 2025/2035 (OJ L202502035)
+    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
 - whole_name: Maxima Legal Limited Liability Company
   function: Maxima Legal LLC is a Russian law firm
   name_language: EN
   strong: true
   regulation_language: en
   logical_id: '179439'
-  regulation_summaries:
-  - regulation_type: amendment
-    publication_date: '2025-10-23'
-    number_title: 2025/2035 (OJ L202502035)
-    publication_url: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502035
-- whole_name: Maxima LLC
-  name_language: EN
-  strong: true
-  regulation_language: en
-  logical_id: '179438'
   regulation_summaries:
   - regulation_type: amendment
     publication_date: '2025-10-23'
